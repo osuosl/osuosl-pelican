@@ -1,0 +1,25 @@
+How I converted a site from Drupal to pelican
+
+1. First things first: [intsall pelican](#), make a [github repo](#), and make a theme directory.  You want your theme directory to look something like this:
+
+    mytheme
+        | 
+        ---- static
+        |       |
+        |       ----css
+        |       |
+        |       ----img
+        |
+        ---- templates
+                |
+                ---- base.html
+                |
+                ---- includes
+                        |
+                        ------- head.html
+
+2. Copy the "shell" of one of your pages into the base.html.  I did this by looking at the source of the home page and determining what elements were on every page in our site (head, navigation, footer, etc.), and copied that into base.html.  You can be even cleaner and make a "head.html", "navigation.html", and element-specific docs to include in your main base.html.
+
+3.  Copy all of the css -- even the stuff you don't need! -- to a directory in :code:`static/css`. I named my directory 'old-css'. 
+4. Note: to link to your css from your :code:`includes/head.html`, your link tag should look like :code:`<link href="/theme/css/old-css/<stylesheet name>">`.  That is, when Pelican renders your site, it puts all of your custom themeing into it's own 'theme' directory, and then strips the static directory.  So instead of :code:`static/css/old-css/` it should be :code:`theme/css/old-css/`. 
+5.  

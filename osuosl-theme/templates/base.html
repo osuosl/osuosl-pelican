@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html class="doug_fir" lang="en">
+<head>
+    {% include 'includes/head.html' %}
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node " >
+<!--  I'm not sure what this is here for
+    <div id="skip-link">
+    <a href="#content" class="element-invisible element-focusable">Skip to main content</a>
+    </div>-->
+    {% include 'includes/menu.html' %}
+    <div class='row'>
+        {% block content %}
+        {% endblock %}
+    </div>
+    {% include 'includes/sidebar.html'%}
+    {% include 'includes/footer.html'%}
+</body>
+</html>
+    
