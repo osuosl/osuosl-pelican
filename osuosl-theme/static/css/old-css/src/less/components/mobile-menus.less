@@ -1,0 +1,80 @@
+// Responsive menus that collapse to the top
+#mobile-menu {
+  
+  margin-left: 0;
+  background: #373737;
+  li {
+    list-style: none !important;
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    margin-left: 0;
+    li {
+      a {
+        color: #fff;
+        text-decoration: none;
+        display: block;
+        line-height: 40px;
+        padding-left: 10px;
+        &+ ul {
+          display: none; // hide second level items
+        }
+        &.active {
+          font-weight: bold;
+          &+ ul {
+            display: block;
+          }
+        }
+      }
+    }
+  }
+  
+  #mobile-main-menu {
+    & > ul > li + li {
+        border-top: 1px solid #474747;
+    }
+    .active + .menu {
+      #gradient .vertical(#373737, #252525);
+    }
+  }
+  
+  #mobile-audience-menu {
+    background: #525252;
+    & > ul > li + li {
+      border-top: 1px solid #454545;
+    }
+    .active + .menu {
+      #gradient .vertical(#525252, #373737);
+    }
+  }
+  
+  #mobile-osu-top-hat {
+    padding-top: 10px;
+    background: #1b1b1b;
+    li {
+      display: inline-block;
+      width: 18.2%;
+      padding: 0;
+      text-align: center;
+      vertical-align: top;
+      a {
+        font-size: 12px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin: 0 auto;
+        line-height: 12px
+      }
+      i {
+        font-size: 40px;
+        line-height: 35px;
+        color: #acacac;
+        margin-bottom: 4px;
+      }
+      &:last-child i {
+        color: #d85a1a;
+      }
+    }
+  }
+  
+}

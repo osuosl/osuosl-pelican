@@ -1,0 +1,5 @@
+/* We can add any widget styling in here */
+/* Accordion styling ***************************************/
+.ui-accordion .ui-accordion-header {
+  padding-left: 15px;
+}

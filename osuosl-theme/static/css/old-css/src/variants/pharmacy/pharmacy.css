@@ -1,0 +1,15 @@
+.pharmacy body {
+    background-color: #ddd8d2;
+    background-image: url(./bkgrnd_slice_orange.jpg);
+    background-position: left 181px;
+    background-repeat: repeat-x;
+}
+
+.pharmacy #page-wrapper {
+    background: url(../../../images/bg-pattern.jpg);
+    padding: 0 15px;
+}
+
+.pharmacy #content {
+    padding-right:0px;
+}

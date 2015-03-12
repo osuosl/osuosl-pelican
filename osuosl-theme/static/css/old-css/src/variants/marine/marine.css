@@ -1,0 +1,412 @@
+/**
+ * Stylesheet for Marine theme variant for OSU Standard
+ *
+ * Created: 8-8-2011 - Paul Lieberman - Central Web Services
+ *
+ * Modified:
+ *
+*/
+/* theme option */
+/* changed from 60 */
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 32px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/* @main: #4d6c88;  main blue color */
+/* secondary blue color */
+/* darkest blue rss feeds and others */
+.marine {
+  background-color: #9AA6B2;
+  /* Marine backgrounds */
+
+  /* Feed Icons (border radius in particular) */
+
+  /* Other h2 titles are white */
+
+  /* Nice menu on the right hand column */
+
+  /* Increase the spacing between content areas and the next titles below */
+
+  /* Hovers are white on blue */
+
+  /* Active links are blue on white */
+
+  /* Active hover gets white background */
+
+  /* List chevron bullets are blue */
+
+  /* The primary links in the header get blue bottom borders */
+
+  /* Breadcrub links are white */
+
+  /* Footer */
+
+  /* Feature Story dots */
+
+  /* Fix for active hover */
+
+  /* Fix for exposed filter block */
+
+  /* Fix for events date */
+
+  /* Fix for feeds_display */
+
+  /* Feature story */
+
+  /* Video Carousel */
+
+  /* Pagination (feature stories for example) */
+
+  /* News and Events and others */
+
+}
+.marine body {
+  background: url("images/marine_bg.png") no-repeat fixed center center #294869;
+  background-size: 100%;
+}
+.marine body.seascape {
+  background-image: url(images/marine_bg_1.png);
+  background-repeat: repeat-x;
+  background-size: auto;
+}
+.marine body.icons {
+  background-image: url(images/marine_bg_2.png);
+  background-repeat: repeat;
+  background-size: auto;
+}
+.marine body.waves {
+  background-image: url(images/marine_bg_3.png);
+  background-repeat: repeat;
+  background-size: auto;
+}
+.marine body.space {
+  background-image: url(images/space_bg.jpg);
+  background-repeat: repeat-x;
+  background-size: auto;
+  background-position: left top;
+  background-attachment: fixed;
+}
+.marine a,
+.marine h2,
+.marine h4 {
+  color: #385e86;
+}
+.marine #page-wrapper {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 0 20px;
+}
+.marine .live-feeds-block .rss-icon,
+.marine .feed-icon {
+  border-radius: 0;
+  color: #fff;
+  background-color: #c34500;
+}
+.marine #content {
+  padding: 10px;
+}
+.marine #header h1 a {
+  color: #385e86;
+}
+.marine #main h3 {
+  color: #61798f;
+}
+.marine h2.title {
+  color: #385e86;
+  background-color: transparent;
+}
+.marine .node-type-publications h2.title {
+  background: transparent !important;
+}
+.marine #block-announcement-summary h3.title a {
+  color: #fff;
+  background-color: #385e86;
+}
+.marine #main-column1 .content {
+  padding-left: 15px;
+}
+.marine #main-menu .menu,
+.marine #main-menu .nice-menu {
+  background: #385e86;
+}
+.marine #main-menu {
+  /* end nice menu */
+
+}
+.marine #main-menu .nice-menu a,
+.marine #main-menu .nice-menu a:visited {
+  color: #fff;
+}
+.marine #main-menu .nice-menu > li.over > a,
+.marine #main-menu .nice-menu > li > a:hover,
+.marine #main-menu .nice-menu > li > a:active,
+.marine #main-menu .nice-menu > li > a:focus,
+.marine #main-menu .menu li a:hover,
+.marine #main-menu .menu li a:active,
+.marine #main-menu .menu li a:focus {
+  color: #385e86;
+  background-color: #fff;
+}
+.marine #main-menu .nice-menu {
+  /* Level 3 */
+
+  /* Level 4 */
+
+}
+.marine #main-menu .nice-menu > li > ul {
+  /* Level 2 */
+
+  margin-top: 15px;
+  background-color: #385e86;
+  border: none;
+  border-top: none;
+  -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+}
+.marine #main-menu .nice-menu > li > ul > li > a:hover,
+.marine #main-menu .nice-menu > li > ul > li > a:active,
+.marine #main-menu .nice-menu > li > ul > li > a:focus {
+  color: #fff;
+  background-color: #385e86;
+}
+.marine #main-menu .nice-menu li.menuparent:hover a {
+  color: #fff;
+  background-color: #385e86;
+}
+.marine #main-menu .nice-menu li li.menuparent > a:hover,
+.marine #main-menu .nice-menu li li.menuparent > a:active,
+.marine #main-menu .nice-menu li li.menuparent > a:focus {
+  /* background-image: url("../../../images/h-menu-arrow-right.png");*/
+
+}
+.marine #main-menu .nice-menu li li a {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.marine #main-menu .nice-menu li li a:hover,
+.marine #main-menu .nice-menu li li a:active,
+.marine #main-menu .nice-menu li li a:focus {
+  background-color: #385e86;
+}
+.marine #main-menu .nice-menu li li.over a {
+  background-color: #385e86;
+  color: #fff;
+}
+.marine #main-menu .nice-menu ul ul,
+.marine #main-menu .nice-menu li li.over li a {
+  background-color: #385e86;
+}
+.marine #main-menu .nice-menu li li.over li a:hover,
+.marine #main-menu .nice-menu li li.over li a:active,
+.marine #main-menu .nice-menu li li.over li a:focus,
+.marine #main-menu .nice-menu li li li.over a {
+  background-color: #fff;
+}
+.marine #main-menu .nice-menu ul ul ul,
+.marine #main-menu .nice-menu li li li.over li a {
+  background-color: #385e86;
+}
+.marine #main-menu .nice-menu li li li.over li a:hover,
+.marine #main-menu .nice-menu li li li.over li a:active,
+.marine #main-menu .nice-menu li li li.over li a:focus,
+.marine #main-menu .nice-menu li li li li.over a {
+  background-color: #fff;
+}
+.marine ul.nice-menu-left {
+  width: 100%;
+  border: none;
+}
+.marine ul.nice-menu-left > li {
+  width: 100%;
+}
+.marine ul.nice-menu-left li {
+  border-width: 0;
+  border-color: #fff;
+  list-style-image: none;
+  background-color: #385e86;
+}
+.marine ul.nice-menu-left li a {
+  color: #fff;
+  text-decoration: none;
+}
+.marine ul.nice-menu-left li a:hover,
+.marine ul.nice-menu-left li a:active,
+.marine ul.nice-menu-left li a:focus {
+  background-color: #fff;
+  color: #385e86;
+}
+.marine ul.nice-menu-left li ul {
+  left: -14em;
+}
+.marine ul.nice-menu-left li + li {
+  border-top: 1px solid #fff;
+}
+.marine ul.nice-menu-left li.menuparent {
+  list-style-image: none;
+  background-image: none;
+}
+.marine ul.nice-menu-left li.menuparent > a:before {
+  content: " < ";
+  color: #fff;
+}
+.marine ul.nice-menu-left li.menuparent:hover a {
+  color: #fff;
+  background-color: #385e86;
+}
+.marine .live-feeds-block .calendar-item .date.calendar .month {
+  background: #385e86;
+}
+.marine #content-area,
+.marine #hp-news,
+.marine #hp-events {
+  margin-bottom: 1em;
+}
+.marine a:hover,
+.marine #content-area a:hover,
+.marine #site-name a:hover,
+.marine .news-body a:hover,
+.marine .field-content a:hover,
+.marine .view-footer a:hover,
+.marine h1#site-name a:hover,
+.marine #main h3 a:hover,
+.marine h3.title a:hover,
+.marine #calendar-cws a:hover,
+.marine #announcement_summary_block a:hover,
+.marine .view-feature-story.view-display-id-block_1 .views-field-title a:hover,
+.marine .view-feature-story.view-display-id-block_1 .more-link a:hover,
+.marine #sidebar-left ul.menu a:hover,
+.marine #sidebar-right ul.menu a:hover,
+.marine .ui-accordion a:hover,
+.marine .ui-accordion a:active,
+.marine .ui-accordion a:focus {
+  color: #fff !important;
+  background-color: #385e86 !important;
+}
+.marine a:active,
+.marine #site-name a:active,
+.marine #sidebar-left ul.menu a:active,
+.marine #sidebar-right ul.menu a:active,
+.marine #sidebar-left ul.menu a.active,
+.marine #sidebar-right ul.menu a.active,
+.marine #sidebar-first .content > ul.menu > li > a.active,
+.marine #audience-menu .content > ul.menu > li > a.active {
+  color: #385e86;
+}
+.marine #sidebar-left ul.menu li.active-trail a:hover,
+.marine #sidebar-right ul.menu li.active-trail a:hover {
+  color: #fff;
+}
+.marine #sidebar-left ul.menu ul a:before,
+.marine #sidebar-right ul.menu ul a:before {
+  color: #385e86;
+  content: "\00BB \0020";
+}
+.marine #header ul li a:hover {
+  color: #fff;
+  background-color: #385e86;
+  border-bottom: 3px solid #385e86;
+}
+.marine #header ul > li a.active {
+  border-bottom: 3px solid #385e86;
+}
+.marine .breadcrumb a {
+  padding: .1em .2em;
+}
+.marine #footer {
+  border-width: 1px;
+}
+.marine #hp-news .news-story h3.title {
+  padding: 0;
+}
+.marine #sidebar-left h3.title a {
+  color: #fff;
+  background-color: #385e86;
+}
+.marine #sidebar-left h3.title a:hover {
+  color: #fff;
+  background-color: #385e86;
+  text-decoration: underline;
+}
+.marine .view-feature-story .controls li a:hover,
+.marine .view-feature-story .controls li.active a {
+  background-color: #385e86;
+}
+.marine ul.nice-menu a.active:hover {
+  color: #385e86 !important;
+  background-color: #fff !important;
+}
+.marine div.views-exposed-form input.form-text {
+  max-width: 200px;
+}
+.marine #calendar-cws span.month {
+  color: #949494;
+}
+.marine #content-inner {
+  background-color: transparent;
+}
+.marine #feeds-display h3.title {
+  background-color: #fff;
+  display: inline;
+  padding: 0;
+}
+.marine #feeds-display p.title a,
+.marine #feeds-display .calendar-item span.month,
+.marine #feeds-display a {
+  color: #61798f;
+}
+.marine #block-views-feature-story-block .view-feature-story .views-field-field-caption .fs-title a,
+.marine #block-views-feature-story-block .view-feature-story .views-field-field-caption .fs-title {
+  color: #385e86;
+}
+.marine .jcarousel-skin-osu-video .views-field-colorbox a:hover,
+.marine .jcarousel-skin-osu-video .views-field-lightbox a:hover {
+  background: transparent !important;
+}
+.marine .pager li > a,
+.marine .pager li > span {
+  color: #385e86;
+}
+.marine #block-views-news-block h2,
+.marine .block > h2,
+.marine .block-announcement h2 {
+  color: #fff;
+  background: #385e86;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.marine .live-feeds-block .calendar-item {
+  padding: 0 10px 10px;
+}
+.marine .live-feeds-block .calendar-item .date.calendar .day-year {
+  background-color: #fff;
+}
+.marine .live-feeds-block .rss-icon {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}

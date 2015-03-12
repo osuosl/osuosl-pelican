@@ -1,0 +1,516 @@
+/**
+ * Stylesheet for Agricultural Science theme variant for Doug Fir
+ *
+*/
+/* changed from 60 */
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 32px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/* secondary gray brown color */
+/* titles and others */
+.agsci {
+  /* Marine backgrounds */
+
+  /* Feed Icons (border radius in particular) */
+
+  /* Other h2 titles are white */
+
+  /* end #main-menu */
+
+  /* Fix for active hover */
+
+  /************************************************** Vertical Menus (Audience) */
+
+  /* Increase the spacing between content areas and the next titles below */
+
+  /* Hovers are white on blue */
+
+  /* Active links are blue on white */
+
+  /* Active hover gets white background */
+
+  /* List chevron bullets are blue */
+
+  /* The primary links in the header get blue bottom borders */
+
+  /* Breadcrub links are white */
+
+  /* Footer */
+
+  /* Feature Story dots */
+
+  /* Fix for exposed filter block */
+
+  /* Fix for events date */
+
+  /* Fix for feeds_display */
+
+  /* Feature story */
+
+  /* Pagination (feature stories for example) */
+
+  /* News and Events and others */
+
+  /* Video Carousel - this applies to all sub variants of agsci so it goes below those */
+
+}
+.agsci body {
+  background: url("images/bg-top.jpg") repeat-x scroll left top, url("images/bg.jpg") repeat scroll left 200px transparent;
+}
+.agsci a,
+.agsci h2,
+.agsci h4 {
+  color: #666666;
+}
+.agsci #page-wrapper {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 0 20px;
+}
+.agsci .live-feeds-block .rss-icon,
+.agsci .feed-icon {
+  border-radius: 0;
+  color: #fff;
+  background-color: #c34500;
+}
+.agsci #content {
+  padding: 10px;
+}
+.agsci #header h1 a {
+  color: #666666;
+}
+.agsci #main h3 {
+  color: #635a58;
+}
+.agsci h2.title {
+  color: #666666;
+  background-color: transparent;
+}
+.agsci .node-type-publications h2.title {
+  background: transparent !important;
+}
+.agsci #block-announcement-summary h3.title a {
+  color: #fff;
+  background-color: #666666;
+}
+.agsci #main-column1 .content {
+  padding-left: 15px;
+}
+.agsci .front #main-menu {
+  margin-bottom: 25px;
+}
+.agsci #main-menu {
+  /* end nice menu */
+
+}
+.agsci #main-menu .content {
+  margin: .1em 0 .4em;
+  padding-left: 0;
+  padding-right: 0;
+}
+.agsci #main-menu .menu,
+.agsci #main-menu .nice-menu {
+  border-radius: 0;
+  background: #eee;
+  background-color: #f5f5f5;
+  background-image: -moz-linear-gradient(top, #eeeeee, #ffffff);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eeeeee), to(#ffffff));
+  background-image: -webkit-linear-gradient(top, #eeeeee, #ffffff);
+  background-image: -o-linear-gradient(top, #eeeeee, #ffffff);
+  background-image: linear-gradient(to bottom, #eeeeee, #ffffff);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffeeeeee', endColorstr='#ffffffff', GradientType=0);
+  border: 1px solid #ccc;
+  border-bottom: 3px solid #637e58;
+  margin-top: 0;
+}
+.agsci #main-menu .menu > li > a,
+.agsci #main-menu .nice-menu > li > a {
+  color: #000;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  padding-top: .3em;
+  padding-bottom: .5em;
+}
+.agsci #main-menu .nice-menu > li.menuparent > a {
+  padding-right: 20px;
+}
+.agsci #main-menu .nice-menu > li.menuparent > a,
+.agsci #main-menu .nice-menu > li.menuparent:hover > a,
+.agsci #main-menu .nice-menu > li.menuparent > a:hover,
+.agsci #main-menu .nice-menu > li.menuparent > a:active,
+.agsci #main-menu .nice-menu > li.menuparent > a:focus {
+  background: url('../../../images/arrow-down.png') right 8px no-repeat;
+}
+.agsci #main-menu .nice-menu a,
+.agsci #main-menu .nice-menu a:visited {
+  color: #000;
+}
+.agsci #main-menu .nice-menu > li.over > a,
+.agsci #main-menu .nice-menu > li > a:hover,
+.agsci #main-menu .nice-menu > li > a:active,
+.agsci #main-menu .nice-menu > li > a:focus,
+.agsci #main-menu .menu li a:hover,
+.agsci #main-menu .menu li a:active,
+.agsci #main-menu .menu li a:focus {
+  color: #252525 !important;
+  background-color: #D9D9CF !important;
+}
+.agsci #main-menu .nice-menu {
+  /* Level 3 */
+
+  /* Level 4 */
+
+}
+.agsci #main-menu .nice-menu > li > ul {
+  /* Level 2 */
+
+  margin-top: 3px;
+  background-color: #eee;
+  border: 5px solid #D9D9CF;
+  -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+}
+.agsci #main-menu .nice-menu > li > ul > li > a:hover,
+.agsci #main-menu .nice-menu > li > ul > li > a:active,
+.agsci #main-menu .nice-menu > li > ul > li > a:focus {
+  color: #000;
+}
+.agsci #main-menu .nice-menu li li.menuparent > a:hover,
+.agsci #main-menu .nice-menu li li.menuparent > a:active,
+.agsci #main-menu .nice-menu li li.menuparent > a:focus {
+  background-image: url("../../../images/h-menu-arrow-right.png");
+}
+.agsci #main-menu .nice-menu li li a:hover,
+.agsci #main-menu .nice-menu li li a:active,
+.agsci #main-menu .nice-menu li li a:focus {
+  background-color: #D9D9CF !important;
+  color: #252525 !important;
+}
+.agsci #main-menu .nice-menu li li.over a {
+  background-color: #D9D9CF !important;
+}
+.agsci #main-menu .nice-menu ul ul,
+.agsci #main-menu .nice-menu li li.over li a {
+  background-color: #D9D9CF !important;
+}
+.agsci #main-menu .nice-menu li li.over li a:hover,
+.agsci #main-menu .nice-menu li li.over li a:active,
+.agsci #main-menu .nice-menu li li.over li a:focus,
+.agsci #main-menu .nice-menu li li li.over a {
+  color: #252525 !important;
+  background-color: #eee !important;
+}
+.agsci #main-menu .nice-menu ul ul ul,
+.agsci #main-menu .nice-menu li li li.over li a {
+  background-color: #eee !important;
+}
+.agsci #main-menu .nice-menu li li li.over li a:hover,
+.agsci #main-menu .nice-menu li li li.over li a:active,
+.agsci #main-menu .nice-menu li li li.over li a:focus,
+.agsci #main-menu .nice-menu li li li li.over a {
+  background-color: #D9D9CF !important;
+}
+.agsci ul.nice-menu a.active:hover {
+  /* color: #fff !important; */
+
+  /* background-color: #D9D9CF !important; */
+
+}
+.agsci #block-menu-secondary-menu > .content {
+  padding: 0;
+}
+.agsci #sidebar-first ul.menu {
+  background: url('images/dept-menu-bg.png') repeat top left;
+}
+.agsci #sidebar-first ul.menu li {
+  border-top: none;
+}
+.agsci #sidebar-first ul.menu li a {
+  font-weight: bold;
+}
+.agsci #sidebar-first ul.menu li a:hover,
+.agsci #sidebar-first ul.menu li a:active,
+.agsci #sidebar-first ul.menu li a:focus {
+  background: #635a58 !important;
+}
+.agsci #sidebar-first .content > ul.menu > li > a.active {
+  background: #635a58 !important;
+  padding-left: 28px;
+  color: #fff !important;
+  position: relative;
+}
+.agsci #sidebar-first .content > ul.menu > li > a.active:before {
+  width: 7px;
+  height: 7px;
+  position: absolute;
+  background: url('images/current-page-bottom-left.png') no-repeat bottom left transparent;
+  left: 0;
+  bottom: -7px;
+  display: block;
+  content: ' ';
+}
+.agsci #sidebar-first .content > ul.menu > li > a.active:hover:before {
+  background-image: url('images/h2-sidebar-bottom-left.png');
+}
+.agsci .live-feeds-block .calendar-item .date.calendar .month {
+  background: #666666;
+}
+.agsci #content-area,
+.agsci #hp-news,
+.agsci #hp-events {
+  margin-bottom: 1em;
+}
+.agsci a:hover,
+.agsci #calendar-cws a:hover,
+.agsci #announcement_summary_block a:hover #content-area a:hover,
+.agsci #site-name a:hover,
+.agsci .news-body a:hover,
+.agsci .field-content a:hover,
+.agsci .view-footer a:hover,
+.agsci h1#site-name a:hover,
+.agsci #header h1 a:hover,
+.agsci #main h3 a:hover,
+.agsci h3.title a:hover,
+.agsci #sidebar-left ul.menu a:hover,
+.agsci #sidebar-right ul.menu a:hover,
+.agsci .view-feature-story.view-display-id-block_1 .views-field-title a:hover,
+.agsci .view-feature-story.view-display-id-block_1 .more-link a:hover,
+.agsci .ui-accordion a:hover,
+.agsci .ui-accordion a:active,
+.agsci .ui-accordion a:focus {
+  color: #fff;
+  background-color: #666666;
+}
+.agsci a:active,
+.agsci #site-name a:active,
+.agsci #sidebar-left ul.menu a:active,
+.agsci #sidebar-right ul.menu a:active,
+.agsci #sidebar-left ul.menu a.active,
+.agsci #sidebar-right ul.menu a.active,
+.agsci #sidebar-first .content > ul.menu > li > a.active,
+.agsci #audience-menu .content > ul.menu > li > a.active {
+  color: #666666;
+}
+.agsci #sidebar-left ul.menu li.active-trail a:hover,
+.agsci #sidebar-right ul.menu li.active-trail a:hover {
+  color: #fff;
+}
+.agsci #sidebar-left ul.menu ul a:before,
+.agsci #sidebar-right ul.menu ul a:before {
+  color: #666666;
+  content: "\00BB \0020";
+}
+.agsci #header ul li a:hover {
+  color: #fff;
+  background-color: #666666;
+  border-bottom: 3px solid #666666;
+}
+.agsci #header ul > li a.active {
+  border-bottom: 3px solid #666666;
+}
+.agsci .breadcrumb a {
+  padding: .1em .2em;
+}
+.agsci #footer {
+  border-width: 1px;
+}
+.agsci #hp-news .news-story h3.title {
+  padding: 0;
+}
+.agsci #sidebar-left h3.title a {
+  color: #fff;
+  background-color: #666666;
+}
+.agsci #sidebar-left h3.title a:hover {
+  color: #fff;
+  background-color: #666666;
+  text-decoration: underline;
+}
+.agsci .view-feature-story .controls li a:hover,
+.agsci .view-feature-story .controls li.active a {
+  background-color: #666666;
+}
+.agsci div.views-exposed-form input.form-text {
+  max-width: 200px;
+}
+.agsci #calendar-cws span.month {
+  color: #949494;
+}
+.agsci #content-inner {
+  background-color: transparent;
+}
+.agsci #feeds-display h3.title {
+  background-color: #fff;
+  display: inline;
+  padding: 0;
+}
+.agsci #feeds-display p.title a,
+.agsci #feeds-display .calendar-item span.month,
+.agsci #feeds-display a {
+  color: #635a58;
+}
+.agsci #block-views-feature-story-block .view-feature-story .views-field-field-caption .fs-title a,
+.agsci #block-views-feature-story-block .view-feature-story .views-field-field-caption .fs-title {
+  color: #666666;
+}
+.agsci .pager li > a,
+.agsci .pager li > span {
+  color: #666666;
+}
+.agsci #block-views-news-block h2,
+.agsci .block > h2,
+.agsci .block-announcement h2 {
+  color: #fff;
+  background: #635a58;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.agsci .live-feeds-block .calendar-item {
+  padding: 0 10px 10px;
+}
+.agsci .live-feeds-block .calendar-item .date.calendar .day-year {
+  background-color: #fff;
+}
+.agsci .live-feeds-block .rss-icon {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.agsci .rust a,
+.agsci .rust h2,
+.agsci .rust h4,
+.agsci .rust #header h1 a {
+  color: #9d601e;
+}
+.agsci .rust a:hover,
+.agsci .rust a:active,
+.agsci .rust a:focus,
+.agsci .rust #header h1 a:hover,
+.agsci .rust .block-live-feeds h2,
+.agsci .rust .block-announcement h2,
+.agsci .rust .block > h2,
+.agsci .rust #calendar-cws a:hover,
+.agsci .rust #announcement_summary_block a:hover #content-area a:hover,
+.agsci .rust #site-name a:hover,
+.agsci .rust .news-body a:hover,
+.agsci .rust .field-content a:hover,
+.agsci .rust .view-footer a:hover,
+.agsci .rust h1#site-name a:hover,
+.agsci .rust #main h3 a:hover,
+.agsci .rust h3.title a:hover,
+.agsci .rust #sidebar-left ul.menu a:hover,
+.agsci .rust #sidebar-right ul.menu a:hover,
+.agsci .rust .view-feature-story.view-display-id-block_1 .views-field-title a:hover,
+.agsci .rust .view-feature-story.view-display-id-block_1 .more-link a:hover,
+.agsci .rust .ui-accordion a:hover,
+.agsci .rust .ui-accordion a:active,
+.agsci .rust .ui-accordion a:focus {
+  background-color: #9d601e;
+  color: #fff;
+}
+.agsci .rust #main-menu .menu,
+.agsci .rust #main-menu .nice-menu {
+  border-bottom-color: #9d601e;
+}
+.agsci .green a,
+.agsci .green h2,
+.agsci .green h4,
+.agsci .green #header h1 a {
+  color: #637e58;
+}
+.agsci .green a:hover,
+.agsci .green a:active,
+.agsci .green a:focus,
+.agsci .green #header h1 a:hover,
+.agsci .green #block-views-news-block h2,
+.agsci .green .block-announcement h2,
+.agsci .green .block > h2,
+.agsci .green #calendar-cws a:hover,
+.agsci .green #announcement_summary_block a:hover #content-area a:hover,
+.agsci .green #site-name a:hover,
+.agsci .green .news-body a:hover,
+.agsci .green .field-content a:hover,
+.agsci .green .view-footer a:hover,
+.agsci .green h1#site-name a:hover,
+.agsci .green #main h3 a:hover,
+.agsci .green h3.title a:hover,
+.agsci .green #sidebar-left ul.menu a:hover,
+.agsci .green #sidebar-right ul.menu a:hover,
+.agsci .green .view-feature-story.view-display-id-block_1 .views-field-title a:hover,
+.agsci .green .view-feature-story.view-display-id-block_1 .more-link a:hover,
+.agsci .green .ui-accordion a:hover,
+.agsci .green .ui-accordion a:active,
+.agsci .green .ui-accordion a:focus {
+  background-color: #637e58;
+  color: #fff;
+}
+.agsci .green #main-menu .menu,
+.agsci .green #main-menu .nice-menu {
+  border-bottom-color: #637e58;
+}
+.agsci .purple a,
+.agsci .purple h2,
+.agsci .purple h4,
+.agsci .purple #header h1 a {
+  color: #561f4b;
+}
+.agsci .purple a:hover,
+.agsci .purple a:active,
+.agsci .purple a:focus,
+.agsci .purple #header h1 a:hover,
+.agsci .purple #block-views-news-block h2,
+.agsci .purple .block-announcement h2,
+.agsci .purple .block > h2,
+.agsci .purple #calendar-cws a:hover,
+.agsci .purple #announcement_summary_block a:hover #content-area a:hover,
+.agsci .purple #site-name a:hover,
+.agsci .purple .news-body a:hover,
+.agsci .purple .field-content a:hover,
+.agsci .purple .view-footer a:hover,
+.agsci .purple h1#site-name a:hover,
+.agsci .purple #main h3 a:hover,
+.agsci .purple h3.title a:hover,
+.agsci .purple #sidebar-left ul.menu a:hover,
+.agsci .purple #sidebar-right ul.menu a:hover,
+.agsci .purple .view-feature-story.view-display-id-block_1 .views-field-title a:hover,
+.agsci .purple .view-feature-story.view-display-id-block_1 .more-link a:hover,
+.agsci .purple .ui-accordion a:hover,
+.agsci .purple .ui-accordion a:active,
+.agsci .purple .ui-accordion a:focus {
+  background-color: #561f4b;
+  color: #fff;
+}
+.agsci .purple #main-menu .menu,
+.agsci .purple #main-menu .nice-menu {
+  border-bottom-color: #561f4b;
+}
+.agsci .jcarousel-skin-osu-video .views-field-colorbox a:hover,
+.agsci .jcarousel-skin-osu-video .views-field-lightbox a:hover {
+  background: transparent !important;
+}

@@ -1,0 +1,315 @@
+/* theme option */
+/* changed from 60 */
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 32px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/* repeated colors */
+.science {
+  /* HEADERS *****************************************************/
+
+  /* Top Hat overrides *****************************************************/
+
+  /* GENERAL CONTENT */
+
+  /* HORIZONTAL MAIN MENU  ****************************************************/
+
+  /* VERTICAL AUDIENCE MENU  ****************************************************/
+
+  /* END vertical menu */
+
+  /* NEWS AND EVENTS ****************************************************/
+
+  /* FOOTER * ****************************************************/
+
+}
+.science body {
+  background-image: none;
+  background-color: #fff;
+}
+.science #header h1 {
+  /* leaving space to edit the double headers, though this might go to Doug Fir */
+
+}
+.science #osu-top-hat {
+  border-color: #808080;
+}
+.science #page-wrapper {
+  background-color: #fff;
+  z-index: 5;
+  position: relative;
+}
+.science #main-menu .content {
+  margin: 0;
+}
+.science #main-menu .nice-menu {
+  margin: 0;
+  background: #e5e2dd;
+  /* All parent level 2 and up get this arrow style */
+
+  /* Level 2 */
+
+  /* Level 3 */
+
+  /* Level 4 */
+
+}
+.science #main-menu .nice-menu > li a {
+  color: #000;
+}
+.science #main-menu .nice-menu > li a:hover,
+.science #main-menu .nice-menu > li a:active,
+.science #main-menu .nice-menu > li a:focus {
+  color: #000;
+}
+.science #main-menu .nice-menu > li.menuparent > a {
+  font-size: 16px;
+  background-image: none;
+  padding-right: 16px;
+  /* no arrows on first level */
+
+}
+.science #main-menu .nice-menu > li.menuparent > a:hover,
+.science #main-menu .nice-menu > li.menuparent > a:active,
+.science #main-menu .nice-menu > li.menuparent > a:focus {
+  background: #e5e2dd;
+  color: #a13800;
+}
+.science #main-menu .nice-menu > li .science #main-menu .nice-menu > a:hover,
+.science #main-menu .nice-menu > li .science #main-menu .nice-menu > a:active,
+.science #main-menu .nice-menu > li .science #main-menu .nice-menu > a:focus {
+  background: #e5e2dd;
+  color: #a13800;
+}
+.science #main-menu .nice-menu > li.menuparent:hover > a,
+.science #main-menu .nice-menu > li.over > a {
+  background: #e5e2dd;
+  color: #a13800;
+}
+.science #main-menu .nice-menu li li.menuparent > a,
+.science #main-menu .nice-menu li li.menuparent > a:hover,
+.science #main-menu .nice-menu li li.menuparent > a:active,
+.science #main-menu .nice-menu li li.menuparent > a:focus {
+  background: url("images/dropdown-arrow.png") 97% center no-repeat transparent;
+}
+.science #main-menu .nice-menu ul,
+.science #main-menu .nice-menu li.over li a {
+  background-color: #e5e2dd;
+}
+.science #main-menu .nice-menu li.over li a:hover,
+.science #main-menu .nice-menu li.over li a:active,
+.science #main-menu .nice-menu li.over li a:focus,
+.science #main-menu .nice-menu li li.over a {
+  background-color: #d4d2cf;
+}
+.science #main-menu .nice-menu ul ul,
+.science #main-menu .nice-menu li li.over li a {
+  background-color: #d4d2cf;
+}
+.science #main-menu .nice-menu li li.over li a:hover,
+.science #main-menu .nice-menu li li.over li a:active,
+.science #main-menu .nice-menu li li.over li a:focus,
+.science #main-menu .nice-menu li li li.over a {
+  background-color: #e5e2dd;
+}
+.science #main-menu .nice-menu ul ul ul,
+.science #main-menu .nice-menu li li li.over li a {
+  background-color: #e5e2dd;
+}
+.science #main-menu .nice-menu li li li.over li a:hover,
+.science #main-menu .nice-menu li li li.over li a:active,
+.science #main-menu .nice-menu li li li.over li a:focus,
+.science #main-menu .nice-menu li li li li.over a {
+  background-color: #d4d2cf;
+}
+.science #main-menu .menu,
+.science #main-menu .nice-menu {
+  background-color: transparent;
+}
+.science #main-menu .nice-menu > li + li,
+.science #main-menu .menu li + li {
+  border-left: 1px solid #d1d1d1;
+}
+.science #main-menu .menu li,
+.science #main-menu .nice-menu > li {
+  margin-top: 6px;
+}
+.science #main-menu .menu li a,
+.science #main-menu .nice-menu > li > a {
+  color: #252525;
+  border: none;
+  padding-top: 4px;
+  margin: 0 2px;
+  -webkit-border-radius: 3px 3px 0 0;
+  -moz-border-radius: 3px 3px 0 0;
+  border-radius: 3px 3px 0 0;
+}
+.science #sidebar-first .content > ul.menu {
+  border-top: 3px solid #c34500;
+  background: #f2f2f2;
+}
+.science #sidebar-first .content > ul.menu > li {
+  border-top: 1px solid #c5c4c4;
+  background-color: #f4f4f4;
+  background-image: -moz-linear-gradient(top, #f2f2f2, #f6f6f6);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f2f2f2), to(#f6f6f6));
+  background-image: -webkit-linear-gradient(top, #f2f2f2, #f6f6f6);
+  background-image: -o-linear-gradient(top, #f2f2f2, #f6f6f6);
+  background-image: linear-gradient(to bottom, #f2f2f2, #f6f6f6);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff2f2f2', endColorstr='#fff6f6f6', GradientType=0);
+}
+.science #sidebar-first .content > ul.menu > li.first {
+  border-top: none;
+}
+.science #sidebar-first .content > ul.menu > li > a:before {
+  content: "\f0da\0000a0";
+  color: #555;
+  font-family: 'FontAwesome';
+  display: inline-block;
+}
+.science #sidebar-first .content > ul.menu > li > a.active-trail:before {
+  content: "\f0d7\0000a0";
+}
+.science #sidebar-first .content > ul.menu > li > a.active:active,
+.science #sidebar-first .content > ul.menu > li > a.active:hover,
+.science #sidebar-first .content > ul.menu > li > a.active:focus {
+  background: transparent;
+  color: #c34500;
+}
+.science #sidebar-first .content > ul.menu > li.leaf > a {
+  padding-left: 25px;
+}
+.science #sidebar-first .content > ul.menu > li.leaf > a:before {
+  content: ' ';
+}
+.science #sidebar-first ul.menu {
+  margin: 0;
+}
+.science #sidebar-first ul.menu li {
+  list-style: none;
+  list-style-image: none;
+  border-top: 1px dotted #252525;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+}
+.science #sidebar-first ul.menu li.first {
+  border-top: none;
+}
+.science #sidebar-first ul.menu li li {
+  border-top: none;
+  font-size: 15px;
+}
+.science #sidebar-first ul.menu li li.first a {
+  padding-top: 3px;
+}
+.science #sidebar-first ul.menu li li a {
+  padding-left: 25px;
+  /* level 2 padding */
+
+}
+.science #sidebar-first ul.menu li li li {
+  font-size: 14px;
+}
+.science #sidebar-first ul.menu li li li a {
+  padding-left: 35px;
+  /* level 3 padding */
+
+}
+.science #sidebar-first ul.menu li li li li a {
+  padding-left: 45px;
+  /* level 4 padding */
+
+}
+.science #sidebar-first ul.menu li a {
+  color: #252525;
+  text-decoration: none;
+  display: block;
+  padding: 10px 15px;
+  /* level 1 padding */
+
+}
+.science #sidebar-first ul.menu li a:hover,
+.science #sidebar-first ul.menu li a:active,
+.science #sidebar-first ul.menu li a:focus {
+  color: #fff;
+  background-color: #c34500;
+}
+.science #sidebar-first ul.menu li a.active-trail {
+  color: #c34500;
+}
+.science #sidebar-first ul.menu li a.active-trail:active,
+.science #sidebar-first ul.menu li a.active-trail:hover,
+.science #sidebar-first ul.menu li a.active-trail:focus {
+  color: #ffffff;
+}
+.science .block > h2 {
+  filter: none;
+  /* removes IE gradients from doug fir */
+
+  background: none;
+  border-top: 3px solid #c34500;
+  border-bottom: 1px dotted #ccc;
+  color: #252525;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.science .block > h2 a {
+  color: #252525;
+}
+.science.ie #footer {
+  background: #c7c7c7;
+}
+.science #footer {
+  background-color: #b0aeac;
+  background-image: -moz-linear-gradient(top, #a19e9a, #c7c7c7);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#a19e9a), to(#c7c7c7));
+  background-image: -webkit-linear-gradient(top, #a19e9a, #c7c7c7);
+  background-image: -o-linear-gradient(top, #a19e9a, #c7c7c7);
+  background-image: linear-gradient(to bottom, #a19e9a, #c7c7c7);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffa19e9a', endColorstr='#ffc7c7c7', GradientType=0);
+  color: #000;
+}
+.science #footer a,
+.science #footer h2,
+.science #footer h3 {
+  color: #000;
+}
+.science #footer a:active,
+.science #footer a:focus,
+.science #footer a:hover {
+  color: #fff;
+  background-color: #555;
+}
+.science #footer div.contextual-links-wrapper a:active,
+.science #footer div.contextual-links-wrapper a:focus,
+.science #footer div.contextual-links-wrapper a:hover {
+  color: #fff !important;
+}
+/* END SCIENCE */

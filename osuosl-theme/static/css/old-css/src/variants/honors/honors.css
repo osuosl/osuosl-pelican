@@ -1,0 +1,136 @@
+/* theme option */
+/* changed from 60 */
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 32px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.honors {
+  /* Feed icons */
+
+  /* Main menu */
+
+  /* Vertical Navigation tweaks */
+  /* Live Feeds Tweaks */
+  /* Feature Story Tweaks */
+
+  /* Highlights View */
+
+  /* Special code for use in areas */
+
+}
+.honors #sidebar-first .block,
+.honors #sidebar-second .block,
+.honors .block-live-feeds {
+  background-color: #fff;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+}
+.honors #sidebar-first .block h2,
+.honors #sidebar-second .block h2,
+.honors .block-live-feeds h2 {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  /* no RSS header rounded corners */
+
+}
+.honors h3 {
+  color: #c34500;
+}
+.honors h4 {
+  color: #252525;
+}
+.honors .rss-icon,
+.honors .feed-icon {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.honors #main-menu .nice-menu ul li + li {
+  border-top: 1px dotted #999;
+}
+.honors #sidebar-first .content > ul.menu > li + li {
+  border-top: 1px solid #ccc;
+}
+.honors #sidebar-first .content > ul.menu > li > .active {
+  color: #561f4b;
+}
+.honors #sidebar-first .content > ul.menu > li > .active:hover,
+.honors #sidebar-first .content > ul.menu > li > .active:active,
+.honors #sidebar-first .content > ul.menu > li > .active:focus {
+  color: #561f4b;
+}
+.honors #sidebar-first .expanded .active-trail,
+.honors #sidebar-first .active-trail .menu {
+  background-color: #f6f6f6;
+}
+.honors #sidebar-first ul.menu li a:focus,
+.honors #sidebar-first ul.menu li a:active,
+.honors #sidebar-first ul.menu li a:hover {
+  background-color: #561f4b;
+}
+.honors #sidebar-first ul.menu li a.active {
+  color: #561f4b;
+}
+.honors #sidebar-second .region-sidebar-second > div {
+  padding-top: 0;
+}
+.honors .block > div {
+  padding: 5px 12px;
+}
+.honors .not-front #features {
+  margin-bottom: 15px;
+}
+.honors #block-views-feature-story-block .view-feature-story.view-display-id-block .fs-row .views-field-field-caption .fs-title {
+  color: #561f4b;
+}
+.honors #block-views-feature-story-block .view-feature-story.view-display-id-block .fs-row .views-field-field-caption .fs-title a {
+  color: #561f4b;
+}
+.honors #block-views-feature-story-block .view-feature-story .side-controls:hover,
+.honors #block-views-feature-story-block .view-feature-story .side-controls:active,
+.honors #block-views-feature-story-block .view-feature-story .side-controls:focus {
+  background-color: #561f4b;
+}
+.honors .view-highlights div.views-row {
+  padding-left: 20px;
+  /* @TODO move to a highlights own feature */
+
+}
+.honors .uhc-3col h2 {
+  color: #fff;
+  background-color: #561f4b;
+  border-bottom: 1px solid #fff;
+  border-radius: 3px 3px 0 0;
+  font-family: 'Gudea', Arial, Verdana, sans-serif;
+  font-size: 16px;
+  padding-left: 8px;
+}
+.honors .uhc-3col > div {
+  border-bottom: 2px solid #c34500;
+}
+.honors .uhc-3col .uhc-3col-content {
+  background: rgba(256, 256, 256, 0.8);
+}

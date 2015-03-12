@@ -1,0 +1,187 @@
+#main-menu .menu,
+#main-menu .nice-menu {
+  margin: 1em 0;
+  float: none;
+  background-color: #373737;
+  z-index: 200; /* avoids conflicts with nice-menus in right hand side */
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+#main-menu .content{
+  padding: 0;
+}
+
+#main-menu .menu {
+  min-height: 38px;
+}
+
+.ie7 #main-menu .nice-menu,
+.ie7 #main-menu .menu {
+  min-height: 25px;
+}
+
+#main-menu .menu li,
+#main-menu .nice-menu > li  {
+	float: left;
+  margin: 0;
+	list-style: none;
+	padding: 0;
+  border: none;
+}
+
+#main-menu .menu li a,
+#main-menu .nice-menu > li > a {
+  display: inline-block;
+	color: #fff;
+	padding: 10px 16px;
+	text-decoration: none;
+}
+
+#main-menu .nice-menu a,
+#main-menu .nice-menu a:visited {
+  color: #fff;
+}
+
+/* Nice Menu Overwrites *******************************************************/
+/* Reset default nice-menu graphics, backgrounds  and spacing*/
+#main-menu .nice-menu > ul {
+  top: 2.3em; /* CRUCIAL to remove for other themes */
+}
+
+ul.nice-menu ul {
+  border: 0; /* removes top 1px border that comes with default nice-menus */
+}
+
+#main-menu ul.nice-menu-down li,
+#main-menu ul.nice-menu-down li:hover,
+#main-menu ul.nice-menu-down li.menuparent,
+#main-menu ul.nice-menu-down li.menuparent:hover {
+  background-color: transparent;
+  background-image: none;
+}
+
+/* Width of Nice Menu Elements, adjustments */
+ul.nice-menu ul li {
+  width: 14em; /* needs to match number below */
+}
+
+ul.nice-menu-down li ul li ul {
+  left: 14em; /* need to match number above */
+}
+
+/* Nice Menu Multi Level Stylings (and level 1 menu styling) **********************************************/
+
+/* Level 1 */
+#main-menu .nice-menu > li > a,
+#main-menu .menu a {
+  border-right: 1px solid #000;
+}
+
+#main-menu .nice-menu > li.last > a,
+#main-menu .menu li.last a  {
+ border-right: none;
+}
+
+#main-menu .nice-menu > li.menuparent > a {
+  background: url('../images/h-menu-arrow-down.png') right center no-repeat;
+  padding-right: 32px;
+}
+
+#main-menu .nice-menu > li.menuparent:hover > a,
+#main-menu .nice-menu > li.menuparent > a:hover,
+#main-menu .nice-menu > li.menuparent > a:active,
+#main-menu .nice-menu > li.menuparent > a:focus {
+  background-color: #4b4b4b;
+}
+
+#main-menu .nice-menu > li.over > a,
+#main-menu .nice-menu > li > a:hover,
+#main-menu .nice-menu > li > a:active,
+#main-menu .nice-menu > li > a:focus,
+#main-menu .menu li a:hover,
+#main-menu .menu li a:active,
+#main-menu .menu li a:focus {
+  color: #fff;
+  background-color: #4b4b4b;
+}
+
+/* Level 2 */
+#main-menu .nice-menu > li > ul {
+  margin-top: 13px;
+  background-color: #5c5c5c;
+}
+
+#main-menu .nice-menu > li > ul > li > a:hover,
+#main-menu .nice-menu > li > ul > li > a:active,
+#main-menu .nice-menu > li > ul > li > a:focus, {
+  color: #fff;
+}
+
+#main-menu .nice-menu li li.menuparent > a {
+  padding-right: 20px;
+  /* width: 160px; */
+  background: url('../images/h-menu-arrow-right.png') no-repeat 97% center;
+}
+
+#main-menu .nice-menu li li.menuparent > a:hover,
+#main-menu .nice-menu li li.menuparent > a:active,
+#main-menu .nice-menu li li.menuparent > a:focus {
+  background-image: url('../images/h-menu-arrow-right-hover.png');
+}
+
+#main-menu .nice-menu ul {
+  padding: 8px;
+  overflow: hidden;
+}
+
+#main-menu .nice-menu li li {
+  border: none;
+  padding: 4px 0;
+  margin-right: 6px;
+}
+
+#main-menu .nice-menu li li a {
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+#main-menu .nice-menu li li a:hover,
+#main-menu .nice-menu li li a:active,
+#main-menu .nice-menu li li a:focus,
+#main-menu .nice-menu li li.over a {
+  background-color: #4b4b4b;
+}
+
+/* Level 3 */
+#main-menu .nice-menu ul ul {
+  border: none;
+  margin-left: 14px;
+}
+
+#main-menu .nice-menu ul ul,
+#main-menu .nice-menu li li.over li a {
+  background-color: #626262;
+}
+
+#main-menu .nice-menu li li.over li a:hover,
+#main-menu .nice-menu li li.over li a:active,
+#main-menu .nice-menu li li.over li a:focus,
+#main-menu .nice-menu li li li.over a {
+  background-color: #4b4b4b;
+}
+
+/* Level 4 */
+#main-menu .nice-menu ul ul ul,
+#main-menu .nice-menu li li li.over li a {
+  background-color: #696969;
+}
+
+#main-menu .nice-menu li li li.over li a:hover,
+#main-menu .nice-menu li li li.over li a:active,
+#main-menu .nice-menu li li li.over li a:focus,
+#main-menu .nice-menu li li li li.over a {
+  background-color: #4b4b4b;
+}
+
+
