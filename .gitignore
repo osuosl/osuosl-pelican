@@ -225,3 +225,4 @@ sites/all/themes/README.txt
 v/
 output/
 cache/
+*.pid

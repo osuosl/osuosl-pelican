@@ -5544,6 +5544,12 @@ body {
     font-size: 14px;
     line-height: 18px;
 }
+
+#block-block-81{
+    margin-bottom: -10px;
+    padding-bottom: 0em !important;
+}
+
 h1, h2 {
     font-family: "EksjaExtremesRegular",Arial,Helvetica,Verdana,sans-serif;
 }
