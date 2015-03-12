@@ -991,11 +991,15 @@ input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:fo
     box-shadow: 0 0 6px #f8b9b7;
 }
 .form-actions {
-    background-color: #f5f5f5;
+    /*background-color: #f5f5f5;
     border-top: 1px solid #e5e5e5;
     margin-bottom: 22px;
     margin-top: 22px;
-    padding: 21px 20px 22px;
+    padding: 21px 20px 22px;*/
+    background: none;
+    border: none;
+    margin: 0px;
+    padding: 0px;
 }
 .form-actions::before, .form-actions::after {
     content: "";
@@ -5633,7 +5637,8 @@ a:hover, a:active, a:focus {
 }
 ul li {
     line-height: 20px;
-    list-style-image: url("/sites/wwwstaging.osuosl.org/themes/doug_fir/images/bullet.png");
+    list-style-image: none;
+    list-style-type: none;
     margin-bottom: 6px;
 }
 ul.horizontal-tabs-list li, ul.vertical-tabs-list li, ul.field-collection-view-links li {
