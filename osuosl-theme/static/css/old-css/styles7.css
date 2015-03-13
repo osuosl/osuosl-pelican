@@ -123,7 +123,7 @@
     position: absolute;
 }
 .cboxSlideshow_on #cboxSlideshow {
-    background: url("/sites/all/modules/colorbox/styles/default/images/controls.png") no-repeat scroll -75px -50px rgba(0, 0, 0, 0);
+    background: url("/theme/img/controls.png") no-repeat scroll -75px -50px rgba(0, 0, 0, 0);
     bottom: 0;
     height: 25px;
     position: absolute;
@@ -135,7 +135,7 @@
     background-position: -101px -50px;
 }
 .cboxSlideshow_off #cboxSlideshow {
-    background: url("/sites/all/modules/colorbox/styles/default/images/controls.png") no-repeat scroll -25px -50px rgba(0, 0, 0, 0);
+    background: url("/theme/img/controls.png") no-repeat scroll -25px -50px rgba(0, 0, 0, 0);
     bottom: 0;
     height: 25px;
     position: absolute;
@@ -147,7 +147,7 @@
     background-position: -49px -50px;
 }
 #cboxPrevious {
-    background: url("/sites/all/modules/colorbox/styles/default/images/controls.png") no-repeat scroll -75px 0 rgba(0, 0, 0, 0);
+    background: url("/theme/img/controls.png") no-repeat scroll -75px 0 rgba(0, 0, 0, 0);
     bottom: 0;
     height: 25px;
     left: 0;
@@ -159,7 +159,7 @@
     background-position: -75px -25px;
 }
 #cboxNext {
-    background: url("/sites/all/modules/colorbox/styles/default/images/controls.png") no-repeat scroll -50px 0 rgba(0, 0, 0, 0);
+    background: url("/theme/img/controls.png") no-repeat scroll -50px 0 rgba(0, 0, 0, 0);
     bottom: 0;
     height: 25px;
     left: 27px;
@@ -174,10 +174,10 @@
     background: none repeat scroll 0 0 #fff;
 }
 #cboxLoadingGraphic {
-    background: url("/sites/all/modules/colorbox/styles/default/images/loading_animation.gif") no-repeat scroll center center rgba(0, 0, 0, 0);
+    background: url("/theme/img/loading_animation.gif") no-repeat scroll center center rgba(0, 0, 0, 0);
 }
 #cboxClose {
-    background: url("/sites/all/modules/colorbox/styles/default/images/controls.png") no-repeat scroll -25px 0 rgba(0, 0, 0, 0);
+    background: url("/theme/img/controls.png") no-repeat scroll -25px 0 rgba(0, 0, 0, 0);
     bottom: 0;
     height: 25px;
     position: absolute;

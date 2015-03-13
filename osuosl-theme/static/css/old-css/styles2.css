@@ -301,7 +301,7 @@ div.n td, #querystats td {
     padding: 0 0.2em;
 }
 #osu-top-hat #osu-search-top-hat-form .form-submit {
-    background: url("/sites/all/modules/osu_search/search_icon_white.png") no-repeat scroll 10px 4px #c34500;
+    background: url("/theme/img/search_icon_white.png") no-repeat scroll 10px 4px #c34500;
     border: medium none;
     border-radius: 0 12px 12px 0;
     box-shadow: none;
@@ -583,7 +583,7 @@ div.password-suggestions ul {
 }
 .colorbox-alt-layout #bottomNavClose {
     background-color: transparent;
-    background-image: url("/sites/all/modules/video_carousel.git/images/close-button.png");
+    background-image: url("/theme/img/close-button.png");
     background-position: center center;
     background-repeat: no-repeat;
     border: 1px solid #222;
@@ -603,20 +603,20 @@ div.password-suggestions ul {
     width: 200px;
 }
 .colorbox-alt-layout #prevLink {
-    background-image: url("/sites/all/modules/video_carousel.git/images/video-prev.png");
+    background-image: url("/theme/img/video-prev.png");
     height: 40px;
     width: 86px;
 }
 .colorbox-alt-layout #prevLink:hover {
-    background-image: url("/sites/all/modules/video_carousel.git/images/video-prev-hover.png");
+    background-image: url("/theme/img/video-prev-hover.png");
 }
 .colorbox-alt-layout #nextLink {
-    background-image: url("/sites/all/modules/video_carousel.git/images/video-next.png");
+    background-image: url("/theme/img//video-next.png");
     height: 40px;
     width: 86px;
 }
 .colorbox-alt-layout #nextLink:hover {
-    background-image: url("/sites/all/modules/video_carousel.git/images/video-next-hover.png");
+    background-image: url("/theme/img//video-next-hover.png");
 }
 .views-exposed-form .views-exposed-widget {
     float: left;

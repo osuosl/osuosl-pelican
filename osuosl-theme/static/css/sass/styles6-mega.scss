@@ -1,4 +1,4 @@
-$bg:f4f2ec;
+$bg:#f4f2ec;
 
 .clearfix {
 }
@@ -133,7 +133,7 @@ h2, h3 {
 }
 body {
     background-color: $bg;
-    background-image:url('theme/img/bg-pattern.jpg') repeat scroll 0% 0% $bg;
+    background-image:url('/theme/img/bg-pattern.jpg') repeat scroll 0% 0% $bg;
     color: #252525;
     font-family: "Gudea",Arial,Verdana,sans-serif;
     font-size: 16px;
@@ -5732,7 +5732,7 @@ div.content {
     padding: 0;
 }
 blockquote {
-    background: url("theme/img/blockquote.png") no-repeat scroll left center rgba(0, 0, 0, 0);
+    background: url("/theme/img/blockquote.png") no-repeat scroll left center rgba(0, 0, 0, 0);
     border: medium none;
     font-size: 110%;
     margin-left: 20px;
@@ -6048,7 +6048,7 @@ ul.nice-menu-down li ul li ul {
     border-right: medium none;
 }
 #main-menu .nice-menu > li.menuparent > a {
-    background: url("theme/img/h-menu-arrow-down.png") no-repeat scroll right center rgba(0, 0, 0, 0);
+    background: url("/theme/img/h-menu-arrow-down.png") no-repeat scroll right center rgba(0, 0, 0, 0);
     padding-right: 32px;
 }
 #main-menu .nice-menu > li.menuparent:hover > a, #main-menu .nice-menu > li.menuparent > a:hover, #main-menu .nice-menu > li.menuparent > a:active, #main-menu .nice-menu > li.menuparent > a:focus {
@@ -6066,11 +6066,11 @@ ul.nice-menu-down li ul li ul {
     color: #fff;
 }
 #main-menu .nice-menu li li.menuparent > a {
-    background: url("theme/img/h-menu-arrow-right.png") no-repeat scroll 97% center rgba(0, 0, 0, 0);
+    background: url("/theme/img/h-menu-arrow-right.png") no-repeat scroll 97% center rgba(0, 0, 0, 0);
     padding-right: 20px;
 }
 #main-menu .nice-menu li li.menuparent > a:hover, #main-menu .nice-menu li li.menuparent > a:active, #main-menu .nice-menu li li.menuparent > a:focus {
-    background-image: url("theme/img/h-menu-arrow-right-hover.png");
+    background-image: url("/theme/img/h-menu-arrow-right-hover.png");
 }
 #main-menu .nice-menu ul {
     overflow: hidden;
