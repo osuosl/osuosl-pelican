@@ -226,3 +226,6 @@ v/
 output/
 cache/
 *.pid
+*.map
+
+/osuosl-theme
