@@ -16,7 +16,7 @@ FEED_ALL_ATOM = None
 
 DEFAULT_PAGINATION = 5
 
-DIRECT_TEMPLATES = ['blog', 'index']
+DIRECT_TEMPLATES = ['index', 'request-hosting/index']
 PAGINATED_DIRECT_TEMPLATES = ['blog']
 
 THEME = 'osuosl-theme'
