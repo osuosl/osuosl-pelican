@@ -1,0 +1,3 @@
+[submodule "dougfir-pelican-theme"]
+	path = dougfir-pelican-theme
+	url = git@github.com:osuosl/dougfir-pelican-theme.git
