@@ -19,7 +19,7 @@ DEFAULT_PAGINATION = 5
 DIRECT_TEMPLATES = ['index', 'request-hosting/index']
 PAGINATED_DIRECT_TEMPLATES = ['blog']
 
-THEME = 'osuosl-theme'
+THEME = 'dougfir-pelican-theme'
 
 STATIC_PATHS = ['img']
 STATIC_SAVE_AS = ['theme/img']
