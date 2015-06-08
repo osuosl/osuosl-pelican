@@ -35,6 +35,13 @@ PAGE_URL = '{slug}'
 DEFAULT_DATE = 'fs'
 USE_FOLDER_AS_CATEGORY = True
 
+# Social media
+TWITTERURL = 'http://twitter.com/osuosl'
+FACEBOOKURL = 'http://facebook.com/osuosl'
+GITHUBURL = 'https://github.com/osuosl'
+YOUTUBEURL = 'http://youtube.com/osuopensourcelab'
+GPLUSURL = 'https://plus.google.com/107361178205293595706?rel=author'
 
+SITELOGO = 'osllogo-web_0.png'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

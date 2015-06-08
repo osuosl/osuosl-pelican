@@ -3,6 +3,7 @@ Openstack's Horizon
 :date: 2014-02-20 22:32
 :author: Melissa
 :slug: openstacks-horizon
+:img: openstack-screenshot.png
 
 Recently, I learned a useful Vim trick. One of our hosted clients has a
 Dokuwiki instance that we help manage, and they were having problems

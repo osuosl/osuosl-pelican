@@ -3,6 +3,7 @@ OpenStack on OpenPOWER
 :date: 2014-04-23 12:45
 :author: ramereth
 :slug: openstack-on-openpower
+:img: openstack-power.png
 
 Recently, I learned a useful Vim trick. One of our hosted clients has a
 Dokuwiki instance that we help manage, and they were having problems

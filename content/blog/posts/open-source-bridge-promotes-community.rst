@@ -3,6 +3,7 @@ Open Source Bridge Promotes Community
 :date: 2013-06-24 21:54
 :author: Melissa
 :slug: open-source-bridge-promotes-community
+:img: openstack-power.png
 
 Recently, I learned a useful Vim trick. One of our hosted clients has a
 Dokuwiki instance that we help manage, and they were having problems
