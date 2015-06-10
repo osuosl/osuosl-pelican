@@ -1,7 +1,8 @@
 Advisors
---------
+========
 :menu: true
-:parent: About
+:parent: about
+:slug: about/advisors
 
 Featuring industry leaders from global open source projects and
 commercial vendors, the Open Source Lab's advisory board assists the
@@ -9,7 +10,7 @@ OSL with its overall strategy, service development and outreach to
 industry partners.
 
 Dries Buytaert | Creator of Drupal
-++++++++++++++++++++++++++++++++++
+-----------------------------------
 
 Buytaert is the original creator and project lead for the `Drupal <https://www.drupal.org/>`_
 open source Web publishing and collaboration platform. Buytaert serves
@@ -20,7 +21,7 @@ company that offers products and services for Drupal.
 
 
 Marie Deatherage | Communications & Learning Director at Meyer Memorial Trust
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------------------------------
 
 Deatherage is the director of communications and learning at the
 `Meyer Memorial Trust <http://www.mmt.org/>`_. Deatherage also
@@ -31,7 +32,7 @@ recycles used technology to provide computers, education, Internet
 access and job skills training to those in need.
 
 Chris DiBona | Director of Open Source at Google
-++++++++++++++++++++++++++++++++++++++++++++++++
+------------------------------------------------
 
 DiBona is the director of open source at
 `Google <http://code.google.com>`_. With his team,
@@ -83,132 +84,3 @@ board of directors for the
 `Python Software Foundation <http://www.python.org>`_ and is
 chairman of the Parrot Foundation and founder and president of Onyx
 Neon Press.
-
-` `_
-
-
-
-`Contact`_
-++++++++++
-
-
-`EECS`_
-+++++++
-
-
-`Donate`_
-+++++++++
-
-
-
-
-
-` `_
-
-` `_
-` `_ ` `_ ` `_ ` `_ ` `_
-
-
-Newsletter Sign Up
-------------------
-
-
-+ E-mail Address *
-
-
-
-
-Contact Info
-~~~~~~~~~~~~
-`Copyright`_ 2015 Oregon State University
-`Disclaimer`_
-OSU Open Source Lab
-Kerr Admin B211
-Corvallis, OR 97331
-General Inquiries:
-`info@osuosl.org`_
-Support for Project Infrastructure
-`support@osuosl.org`_
-Questions about Donations:
-`donations@osuosl.org`_
-
-
-+ `Home`_
-+ `About`_
-
-    + `Staff`_
-    + `Employment`_
-    + `Advisors`_
-    + `Logos`_
-    + `Contact`_
-
-+ `Blog`_
-+ `Services`_
-
-    + `Hosting`_
-    + `Development`_
-    + `OpenPOWER`_
-    + `Supercell`_
-
-+ `Donate`_
-
-    + `Sponsors`_
-
-
-
-.. _Feedback Form: /services/supercell/request
-.. _Logos: /about/logos
-.. _Blog: /blog
-.. _School of Electrical Engineering and Computer Science: http://eecs.oregonstate.edu
-.. _info@osuosl.org: mailto:info@osuosl.org
-.. _Staff: /about/people
-.. _Development: /services/development
-.. _Student Experience: /students
-.. _Make a Gift: https://securelb.imodules.com/s/359/campaign/index.aspx?sid=359&gid=34&pgid=1982&cid=3007
-.. _About: /about
-.. _Services: /services
-.. _Hosting: /services/hosting
-.. _Supercell: /services/supercell
-.. _Hosting Policy: /services/hosting/policy
-.. _donations@osuosl.org: mailto:donations@osuosl.org
-.. _Perl Foundation: http://www.perlfoundation.org
-.. _Hosted Projects: /communities
-.. _Free Geek: http://freegeek.org
-.. _FAQ: /donate/faq
-.. _DevOps BootCamp: /about/devops-bootcamp
-.. _support@osuosl.org: mailto:support@osuosl.org
-.. _Home: /
-.. _Online Services: http://oregonstate.edu/main/online-services
-.. _OpenPOWER: /services/powerdev
-.. _Donate: /donate
-.. _Linux kernel: http://kernel.org
-.. _GOSCON: /about/goscon
-.. _Employment: /about/employment
-.. _Maps: http://oregonstate.edu/campusmap
-.. _Python Software Foundation: http://www.python.org
-.. _Sponsors: /services/supercell/sponsors
-.. _EECS: http://eecs.oregonstate.edu/
-.. _JanRain: http://www.janrain.com/
-.. _Advisors: /about/advisors
-.. _Request Hosting: /request-hosting
-.. _Apache Software Foundation: http://www.apache.org
-.. _PowerLinux / OpenPOWER Request Form: /services/powerdev/request_hosting
-.. _Parrot: http://www.parrot.org
-.. _Google: http://code.google.com
-.. _the Linux Foundation: http://www.linuxfoundation.org
-.. _Hosting Details: /services/hosting/details
-.. _Copyright: http://oregonstate.edu/copyright
-.. _Why Do We Give to the OSL?: /donate/why-do-we-give-osuosl
-.. _Acquia: http://www.acquia.com
-.. _Library: http://osulibrary.oregonstate.edu
-.. _InsightsNow,: http://www.insightsnow.com/
-.. _Sponsors: /sponsors
-.. _Drupal: http://drupal.org
-.. _Contact: /contact
-.. _Meyer Memorial Trust: http://www.mmt.org
-.. _Calendar: http://calendar.oregonstate.edu
-.. _Linux Driver Project: http://www.linuxdriverproject.org/foswiki/bin/view
-.. _Disclaimer: http://oregonstate.edu/disclaimer
-.. _Puppet Labs: http://puppetlabs.com
-.. _GSoC: /gsoc
-.. _OREGON STATE UNIVERSITY: http://oregonstate.edu

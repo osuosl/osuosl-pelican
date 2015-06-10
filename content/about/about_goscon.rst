@@ -3,8 +3,7 @@ Government Open Source Conference
 :slug: about/goscon
 
 
-
-The `Government Open Source Conference`_ was produced and hosted by
+The `Government Open Source Conference <http://www.goscon.org>`_ was produced and hosted by
 Oregon State University’s Open Source Lab (OSL) as part of its mission
 to educate and build community from 2005-2011.
 
@@ -23,7 +22,7 @@ collaboration.
 
 In 2008, GOSCON expanded its program to include the international
 community and conducted the First Annual `Open Information and
-Communications Technology (ICT) Summit`_. The Summit focused on
+Communications Technology (ICT) Summit <http://www.goscon.org/summit>`_. The Summit focused on
 national, regional and local government initiatives, projects, and
 policies and hosted participants in Portland and via videoconferencing
 from five continents. The “Global Dialogue on the Impact of Open

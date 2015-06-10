@@ -3,7 +3,7 @@ Connecting at Beaver BarCamp 12
 :date: 2013-10-17 17:56
 :author: Melissa
 :slug: connecting-at-beaver-barcamp-12
-:img: OSL10_homepage33.png
+:img: bbc12-blog-post.jpg
 
 Recently, I learned a useful Vim trick. One of our hosted clients has a
 Dokuwiki instance that we help manage, and they were having problems
@@ -49,4 +49,3 @@ user list full of spammers and say ``wc -l users.auth.php.bak2`` to
 count the lines in it (since there's one account per line) and
 ``grep admin@ users.auth.php.bak2 | wc -l`` to count how many of the
 former users had ``admin@`` email addresses.
-

@@ -3,7 +3,7 @@ Openstack's Horizon
 :date: 2014-02-20 22:32
 :author: Melissa
 :slug: openstacks-horizon
-:img: openstack-screenshot.png
+:img: tech-blog.png
 
 Recently, I learned a useful Vim trick. One of our hosted clients has a
 Dokuwiki instance that we help manage, and they were having problems
@@ -48,4 +48,3 @@ public://jack-twilley-post.png 1586 public://ppc64-openstack.png, 1596
 public://osu-open-source-lab-13s\_mini.jpg 76 1581
 public://openstack-power.png 1441 public://openstack screenshot.png 76
 1606 public://tech-blog.png
-
