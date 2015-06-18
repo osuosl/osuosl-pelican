@@ -13,12 +13,12 @@ discipline. DevOps BootCamp is an OSL and `OSU Linux Users Group
 and outreach while shrinking the skills gap for Oregon State students
 interested in DevOps.
 
-.. figure:: /theme/img/dobc2.jpg
+.. image:: /theme/img/dobc2.jpg
     :align: right
     :scale: 80%
     :alt: DevOps BootCamp in action
 
-    DevOps BootCamp strives to supply interested students with the practical skills required to succeed as software developers and system engineers. The BootCamp functions as an extracurricular training program that meets two or three times every month during the school year. During these sessions OSL students and software professionals instruct those interested on necessary topics. DevOps BootCamp starts with the basics and does not assume familiarity with software development or Linux.
+DevOps BootCamp strives to supply interested students with the practical skills required to succeed as software developers and system engineers. The BootCamp functions as an extracurricular training program that meets two or three times every month during the school year. During these sessions OSL students and software professionals instruct those interested on necessary topics. DevOps BootCamp starts with the basics and does not assume familiarity with software development or Linux.
 
 To learn more about DevOps BootCamp,
 please visit http://devopsbootcamp.osuosl.org

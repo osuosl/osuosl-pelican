@@ -5,7 +5,14 @@ People
 
 `Lance Albertson`_
 ------------------
-Director | Cat Herder
+
+.. image:: /theme/img/Lancecropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Lance Albertson
+
+**Director | Cat Herder**
+
 `Lance <lancealbertson.com>`_ became OSL director in early 2013. He has managed all of the
 hosting activities that the OSL provides for more than 160 high-
 profile open source projects since joining the lab as lead systems
@@ -23,7 +30,14 @@ Lance can be reached at lance-at-osuosl-dot-org
 
 `Jeff Borcean`_
 ---------------
-Community Systems Administrator | Resident Mac-tivist
+
+.. image:: /theme/img/Jeffcropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Jeff Borcean
+
+**Community Systems Administrator | Resident Mac-tivist**
+
 Jeff is a computer science major who joined the OSL in June 2014. In
 his spare time, Jeff enjoys being outdoors, enjoying the sun. He also
 enjoys reading and playing a game of Jenga. Jeff started and ran the
@@ -33,27 +47,17 @@ to mix computer science and political/social justice.
 Github Account: https://github.com/borcean
 
 
-`Trevor Bramwell`_
-------------------
-Developer | Fedora Consultant
-Trevor is studying applied computer science. As a part-time student
-developer at the OSL, he spends most of his time on the Ganeti Web
-Manager project. His passion and knowledge for open source software
-and development is only exceeded by his passion for dance. He is
-actively involved in the OSU Linux Users Group, the Corvallis Swing
-Society and the Oregon State Ballroom Dance Company's performing
-ensemble New Shoes.
-
-Trevor is knowledgeable in Java, PHP, (X)HTML, Python, SQL and Intel
-Assembly. When he is not being a code monkey, Trevor can be found
-reading, playing classic point-and-click adventure games, dancing or
-playing guitar.
-
-
 
 `Justin Brown`_
 ---------------
-Developer
+
+.. image:: /theme/img/JustinBcropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Justin Brown
+
+**Developer**
+
 Justin joined the OSL as a developer in September 2014. A computer
 science major, Justin enjoys programming, games, mountain biking and
 camping. Justin prides himself in documenting his work, and in the
@@ -63,7 +67,14 @@ future he hopes to develop libraries and tools for game developers.
 
 `Justin Dugger`_
 ----------------
-Senior Systems Architect | Wears a Penguin Suit
+
+.. image:: /theme/img/JustinDcropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Justin Dugger
+
+**Senior Systems Architect | Wears a Penguin Suit**
+
 Justin joined the OSL in March 2012 after studying and working at
 Kansas State University. Justin took graduate level courses in
 computer science at KSU and later worked as an applications system
@@ -77,22 +88,16 @@ and to participate in outreach and development.
 
 
 
-`Emily Dunham`_
----------------
-Community Systems Administrator | Mr. President
-Emily is studying computer science. When she joined the OSL in April
-2011, she worked as a software developer on the Ganeti Web Manager
-project. After completing a summer internship at Intel, she has
-rejoined the lab as a systems administrator. Outside of the OSL, Emily
-is involved with the Linux Users Group and volunteers at FIRST
-robotics events. In the rare event of having free time, she also
-enjoys gardening and building robots.
-Github Account: https://github.com/edunham/
-
-
 `Jordan Evans`_
 ---------------
-Operating Systems and Networks Analyst | Professional Chef
+
+.. image:: /theme/img/jordan12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Jordan Evans
+
+**Operating Systems and Networks Analyst | Professional Chef**
+
 Jordan rejoined the OSL staff in March of 2014 as an operating systems
 and networks analyst after previously working as a student from
 2010-2012. As an operating systems and networks analyst, he primarily
@@ -100,68 +105,79 @@ focuses on mailing infrastructures, automation and cloud
 infrastructures. Specifically, Jordan is currently working on Chef
 (configuration management) infrastructure. In his spare time, Jordan
 enjoys reading, knitting and spending time with his wife and two dogs.
-Github Account: https://github.com/jordane
+
+**Github Account:** https://github.com/jordane
 
 
 `Taylor Fahlman`_
 ------------------
-Community Systems Administrator
+
+.. image:: /theme/img/taylorcropped1-14.jpg
+    :scale: 50%
+    :align: right
+    :alt: Taylor Fahlman
+
+**Community Systems Administrator**
+
 Taylor, a computer science and vocal performance major, is a student
 community systems administrator at the OSL. In his spare time, Taylor
 likes to sing, program and strives to brew the perfect cup of coffee.
 Taylor is a member of the Kendama club on campus, and in the future he
 hopes to spread open source software and education to people around
 the world.
-Github Account: https://github.com/falhmant
 
-
-`Jenn Garcia`_
---------------
-Outreach | Some Sort of Secret Computer Genius
-Jenn is studying business management and works on administration,
-event planning and outreach at the OSL. She previously worked at the
-OSU Foundation and aims to help the lab better connect with the
-community. She enjoys road trips, football and exploring new places.
+**Github Account:** https://github.com/falhmant
 
 
 
 `Megan Goossens`_
 -----------------
-Developer
+
+.. image:: /theme/img/megancropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Megan Goossens
+
+**Developer**
+
 Megan joined the OSL as a developer in May 2014. She is a computer
 science major with experience in Drupal development, and primarily
 plans to focus on the Protein Geometry Database. Megan enjoys reading
 in her spare time.
-Github Account: https://github.com/MaraJade
 
+**Github Account:** https://github.com/MaraJade
 
-`Dean Johnson`_
----------------
-Developer | Brogrammer (secret Zendo genius)
-Dean is a computer science student who joined the OSL in June 2012. In
-the lab, he creates new content and fixes bugs for projects including
-Ganeti Web Manager, the Protein Geometry Database and the Oregon
-Virtual School District. He mostly enjoys developing web applications
-in Python and Javascript and is a member of the Linux Users Group on
-campus. Outside of work and school, Dean enjoys longboarding and
-adventuring outside.
-Github Account: https://github.com/dean
 
 
 `Ian Kronquist`_
 ----------------
-Developer
+
+.. image:: /theme/img/Iancropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Ian Kronquist
+
+**Developer**
+
 Ian joined the lab in November 2013 and is majoring in computer
 science. Skilled in the Python and C++ programming languages, Ian is
 currently working on the Oregon Virtual School District project. In
 his spare time he enjoys reading, programming and attending OSU Linux
 Users Group meetings.
-Github Account: https://github.com/iankronquist
+
+**Github Account:** https://github.com/iankronquist
 
 
 `Lee Leighton`_
 ---------------
-​​Community Systems Administrator
+
+.. image:: /theme/img/lee12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Lee Leighton
+
+**Community Systems Administrator**
+
 Lee is a computer science major, and he joined the OSL as a community
 systems administrator in May 2014. Lee looks forward to learning more
 about the OSL infrastructure and hopes to contribute to Chef. In his
@@ -172,7 +188,14 @@ reading as well as a good cup of coffee.
 
 `Ken Lett`_
 -----------
-Senior Software Engineer
+
+.. image:: /theme/img/Kencropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Ken Lett
+
+**Senior Software Engineer**
+
 Ken began at the OSL in March 2012 after spending over a decade in
 various positions on the OSU campus. Since 1999, he has worked
 professionally as a systems administrator in the School of Electrical
@@ -188,9 +211,32 @@ writing fiction.
 
 
 
+`Simon McFarlane`_
+------------------
+
+.. image:: /theme/img/simoncropped1-14.jpg
+    :scale: 50%
+    :align: right
+    :alt: Megan Goossens
+
+**Community Systems Administrator | Supervisor of Secret Backups**
+
+Simon, a Computer Science major, joined the lab as a Community Systems Administrator in December 2014.  As a part of the Growth Hacker team he helps bring new projects on board, and maintains the projects we host.  In his free time Simon is the system administrator of the technology-focused imageboard `lainchan <https://lainchan.org/>`_, and enjoys contributing to open source projects.
+
+**Github Account:** https://github.com/darkengine-io
+
+
+
 `Anthony Miller`_
 -----------------
-Community Systems Administrator | The Lady Killer
+
+.. image:: /theme/img/anthonycropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Anthony Miller
+
+**Community Systems Administrator | The Lady Killer**
+
 Anthony is studying computer science and has worked on networking for
 the Apache Software Foundation and other projects. He is skilled in
 networking and LAN/WAN administration and joined the OSL to gain
@@ -201,7 +247,14 @@ enjoys video games and playing drums in his free time.
 
 `Elsie Phillips`_
 -----------------
-Marketing Coordinator | Sticker Tsarina
+
+.. image:: /theme/img/Elsiecropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Elsie Phillips
+
+**Marketing Coordinator | Sticker Tsarina**
+
 Elsie joined the OSL team in June 2014, and is an economics major. At
 the OSL, she is responsible for updating the OSL's social media
 accounts, creating print marketing materials, and representing the OSL
@@ -213,7 +266,14 @@ travel.
 
 `Daniel Reichert`_
 ------------------
-Community Systems Administrator | The Silver Mullet
+
+.. image:: /theme/img/Danielcropped1-9-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Daniel Reichert
+
+**Community Systems Administrator | The Silver Mullet**
+
 Daniel is studying computer science. At the OSL, he works primarily on
 Drupal and MySQL. He grew up in Kansas and enjoys traveling and biking
 of all kinds. Daniel is also involved in the Linux Users Group.
@@ -222,7 +282,14 @@ of all kinds. Daniel is also involved in the Linux Users Group.
 
 `Sean Rettig`_
 --------------
-Community Systems Administrator | Safety Officer
+
+.. image:: /theme/img/seancropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Sean Rettig
+
+**Community Systems Administrator | Safety Officer**
+
 Sean is studying computer systems and joined the OSL in June 2012. He
 works on many projects at the lab but particularly enjoys working with
 the Apache Web server. In his free time, he works on his own PC gaming
@@ -232,7 +299,14 @@ community website.
 
 `Garrett Seward`_
 -----------------
-Community Systems Administrator
+
+.. image:: /theme/img/garettcropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Garrett Seward
+
+**Community Systems Administrator**
+
 Garrett, a computer science major, started at the OSL in December 2014
 as a systems administrator. He specializes in Python, particularly the
 Django and Flask frameworks. Garrett enjoys hacking on open source
@@ -240,25 +314,41 @@ projects, bicycling, skateboarding and exploring the outdoors in his
 spare time. In the future, Garrett hopes to make an impact on the
 world by leveraging the internet to build a sustainable world for
 everyone.
-Github Account: https://github.com/spectralsun
+
+**Github Account:** https://github.com/spectralsun
 
 
 `Daniel Takamori`_
 ------------------
-Community Systems Administrator | Defending 4th Grade Go Champion, 16
-Years Running
+
+.. image:: /theme/img/Ponocropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Daniel Takamori
+
+**Community Systems Administrator | Defending 4th Grade Go Champion, 16
+Years Running**
+
 Daniel is a mathematics and physics student. At the OSL he works on
 logging, backend for the Protein Geometry Database, supporting ORVSD,
 and managing Power7 systems. In his free time, Daniel likes to write
 Racket, play go, work on underwater robotics, cook and eat vegetables.
 He hopes to attend graduate school and travel back to Hungary in the
 future. His PGP ID is 062FD895
-Github Account: https://github.com/dspt/
+
+**Github Account:** https://github.com/dspt/
 
 
 `Andy Tolvstad`_
 ----------------
-Community Systems Administrator
+
+.. image:: /theme/img/Andycropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Andy Tolvstad
+
+**Community Systems Administrator**
+
 Andy is a computer science student who joined the OSL in December 2014
 as a systems administrator. In his spare time, Andy arranges a
 cappella songs for small groups, plays music and watches Netflix. Andy
@@ -269,19 +359,34 @@ development.
 
 `Evan Tschuy`_
 --------------
-Developer | Professional Hacker News Reader
+
+.. image:: /theme/img/evancropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Evan Tschuy
+
+**Developer | Professional Hacker News Reader**
+
 Evan is a student developer at the OSL. He is a computer science
 major, and is currently working on Ganeti, a virtual server management
 tool. Although Evan is often busy with schoolwork, in his limited
 spare time he can be found climbing the bouldering walls at the OSU
 Rec Center. Evan hopes to someday climb some of Oregon’s famous
 climbing rocks.
-Github Account: http://github.com/tschuy
+
+**Github Account:** http://github.com/tschuy
 
 
 `Rachel Turner`_
 ----------------
-Writer | Thesaurus Rex
+
+.. image:: /theme/img/Rachelcropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Rachel Turner
+
+**Writer | Thesaurus Rex**
+
 Rachel is a speech communication major who joined the OSL team in
 March 2014; she is responsible for writing and editing articles and
 Web content for the OSL. Rachel is a member of the OSU Speech and
@@ -292,31 +397,54 @@ spare time, she enjoys reading, watching movies and traveling.
 
 `Jack Twilley`_
 ---------------
-Developer | Maker of Things
+
+.. image:: /theme/img/jackcropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Jack Twilley
+
+**Developer | Maker of Things**
+
 While Jack has spent most of his career working with computers, he is
 currently studying food science and technology at Oregon State
 University. At the OSL, Jack works on the Protein Geometry Database
 project and also mentors students. When he’s not brewing tasty, award-
 winning mead, Jack maintains a number of solo open source projects and
 watches “Doctor Who.”
-Github Account: https://github.com/mathuin
+
+**Github Account:** https://github.com/mathuin
 
 
 `Elijah Voigt`_
 ----------------
-Developer | COFFEE COFFEE COFFEE enthusiast
+
+.. image:: /theme/img/elicropped2-19.jpg
+    :scale: 50%
+    :align: right
+    :alt: Eli Voigt
+
+**Developer | COFFEE COFFEE COFFEE enthusiast**
+
 Elijah is a computer science major who joined the OSL team in June
 2014 as a student developer. At the OSL, Elijah works on Oregon
 Virtual School District Central and contributes to Fenestra. Elijah
 enjoys reading, making games and writing stories/blog posts in his
 spare time. Before graduation, Elijah is hoping to start his own
 software company.
-Github Account: https://github.com/ElijahCaine
+
+**Github Account:** https://github.com/ElijahCaine
 
 
 `Lucy Wyman`_
 -------------
-Front-end Engineer | Open Sourceress
+
+.. image:: /theme/img/Lucycropped12-15.jpg
+    :scale: 50%
+    :align: right
+    :alt: Lucy Wyman
+
+**Front-end Engineer | Open Sourceress**
+
 Lucy, a Junior studying computer science, started working for the Lab
 in November, 2013. She designs the front-end for our web-applications,
 maintains osuosl.org, and constructs websites for other OSL projects
@@ -325,4 +453,5 @@ development, and is skilled at HTML, CSS, Javascript and Python. She
 enjoys programming, running, and cooking. In addition, Lucy is Vice
 President of the OSU Linux Users Group, and leads Devops Bootcamp, and
 outreach program for budding software developers.
-Github Account: https://github.com/lucywyman
+
+**Github Account:** https://github.com/lucywyman
