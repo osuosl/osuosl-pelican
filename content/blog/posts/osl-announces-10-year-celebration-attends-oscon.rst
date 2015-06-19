@@ -3,6 +3,7 @@ OSL Announces 10 year Celebration; Attends OSCON
 :date: 2013-07-30 21:03
 :author: Melissa
 :slug: osl-announces-10-year-celebration-attends-oscon
+:img: osl-announces-10.jpg
 
 Recently, I learned a useful Vim trick. One of our hosted clients has a
 Dokuwiki instance that we help manage, and they were having problems

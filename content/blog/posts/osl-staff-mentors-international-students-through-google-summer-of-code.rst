@@ -3,6 +3,7 @@ OSL Staff Mentors International Students Through Google Summer of Code
 :date: 2013-02-11 23:57
 :author: harrk
 :slug: osl-staff-mentors-international-students-through-google-summer-of-code
+:img: GsoC2012logo.jpg
 
 Recently, I learned a useful Vim trick. One of our hosted clients has a
 Dokuwiki instance that we help manage, and they were having problems
@@ -48,4 +49,3 @@ user list full of spammers and say ``wc -l users.auth.php.bak2`` to
 count the lines in it (since there's one account per line) and
 ``grep admin@ users.auth.php.bak2 | wc -l`` to count how many of the
 former users had ``admin@`` email addresses.
-
