@@ -2,7 +2,10 @@ Hosting
 =======
 :slug: services/hosting
 
-
+.. image:: /theme/img/Hosting.jpg
+   :scale: 50%
+   :align: right
+   :alt: Hosting
 
 
 Managed and Unmanaged Hosting

@@ -25,7 +25,7 @@ Google sponsors the OSL through financial grants. This funding helps
 the OSL provide the community with physical hosting and bandwidth, and
 covers the cost of "Smart Hands" support. Google is a big supporter of
 the open source movement, producing open code of their own (see
-`code.google.com`), and sponsoring the Summer of Code program. Each
+`code.google.com <code.google.com>`_), and sponsoring the Summer of Code program. Each
 year Google puts millions of dollars toward open source research and
 development through this program.
 

@@ -9,7 +9,6 @@ Sponsors
 .. image:: /theme/img/facebook_logo.png
     :height: 100px
     :width: 300px
-    :align: left
     :alt: Facebook
 
 Facebook is a social utility that helps over 500 million people around
@@ -32,4 +31,4 @@ Sponsor Supercell
 
 The OSU Open Source Lab is currently seeking additional sponsors for
 the Supercell project. Please see the Open Source Lab's `Donations
-page <http://osuosl.org/contribute>`_ or contact us at `donations@osuosl.org` for more information.
+page <http://osuosl.org/contribute>`_ or contact us at `donations@osuosl.org <mailto:donations@osuosl.org>`_ for more information.

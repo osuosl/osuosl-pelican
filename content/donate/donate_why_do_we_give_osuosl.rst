@@ -49,4 +49,4 @@ to OSUOSL because they provide one of the most important services the
 open source community can have: hosting. It's great that our code is
 Free (as in speech), but hosting is Free (as in beer). I give to make
 sure that our future is secure and that they don't turn my boxes off
-by mistake."* [Ed. note: We would never do that!]
+by mistake."* **[Ed. note: We would never do that!]**

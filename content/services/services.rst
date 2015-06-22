@@ -5,7 +5,7 @@ Services
 
 
 `Hosting Services`_
-~~~~~~~~~~~~~~~~~~~
+--------------------
 
 The OSL provides world-class `hosting services </services/hosting/>`_ for the Linux operating
 system, the Apache Software Foundation, the Drupal content management
@@ -17,8 +17,8 @@ create an infrastructure that will grow along with the project. `Read
 more about our hosting services </services/hosting/>`_.
 
 
-`Development Services`_
-~~~~~~~~~~~~~~~~~~~~~~~
+`Development Services </services/development>`_
+-------------------------------------------------
 
 The OSL develops technology and tools to expand and manage growing
 open source software projects. Our talented development staff and
@@ -30,8 +30,8 @@ designed, does what you want and will hold up over time. `Read more
 about our development services </services/development/>`_.
 
 
-`Supercell`_
-~~~~~~~~~~~~
+`Supercell </services/supercell>`_
+------------------------------------
 
 Supercell is an on-demand virtualization and continuous integration
 resource from the OSL. We have created this cluster for use by open
@@ -46,8 +46,8 @@ using several VMs concurrently. `Read more about our Supercell testing
 hosting services </services/supercell/>`_.
 
 
-`PowerLinux Development Hosting`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`PowerLinux Development Hosting </services/powerdev>`_
+-------------------------------------------------------
 
 The OSL partners with `IBM <http://www-03.ibm.com/linux/ltc/>`_ to host `POWER7 <http://en.wikipedia.org/wiki/Power7>`_-based servers, making
 partitions available to the open source community. Community members

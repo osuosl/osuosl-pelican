@@ -4,7 +4,6 @@ Supercell
 
 .. image:: /theme/img/supercell.png
     :scale: 40%
-    :align: left
     :alt: Supercell
 
 

@@ -17,12 +17,12 @@ Make a Gift to the OSU Open Source Lab
 *Once you click the "Make a Gift" button, you will be redirected to
 the OSU Foundation's website to process your donation.*
 
-`Make a Gift <http://www.osufoundation.org/>`_
-
 .. image:: /theme/img/grey-campaign.png
     :scale: 10%
-    :align: left
+    :align: right
     :alt: Campaign for OSU
+
+`Make a Gift <http://www.osufoundation.org/>`_
 
 Thank you for making a secure donation to the Open Source Lab through
 the OSU Foundation. Your gift will support the growth of the open
@@ -31,4 +31,4 @@ and research and infrastructure.
 
 If you prefer to give by phone, please call the Oregon State
 University Foundation at (800) 354-7281. If you have any questions,
-please check our `FAQ </faq>`_ or email donations@osuosl.org
+please check our `FAQ </donate/faq>`_ or email donations@osuosl.org

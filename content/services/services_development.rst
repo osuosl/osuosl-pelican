@@ -87,8 +87,8 @@ experience possible while maintaining a level of simplicity that
 children all around the world will be able to handle.
 
 
-`Pydra <pydra-project.osuosl.org>`_
------------------------------------
+`Pydra <https://code.osuosl.org/projects/pydra>`_
+-------------------------------------------------
 
 Pydra is a distributed and parallel computing framework for Python.
 Pydra aims to provide an easy-to-use framework for writing and running
