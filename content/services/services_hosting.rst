@@ -1,9 +1,12 @@
 Hosting
 =======
 :slug: services/hosting
+:menuparent: services
+:menuname: hosting
 
 .. image:: /theme/img/Hosting.jpg
-   :scale: 50%
+   :width: 358.5px
+   :height: 221px
    :align: right
    :alt: Hosting
 

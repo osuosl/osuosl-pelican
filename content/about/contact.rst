@@ -1,6 +1,7 @@
 Contact
 =======
 :slug: contact
+:menuparent: about
 
 Email Addresses
 ~~~~~~~~~~~~~~~

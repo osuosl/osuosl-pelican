@@ -1,7 +1,7 @@
 Sponsors
 --------
 :slug: sponsors
-
+:menuparent: donate
 
 Platinum Sponsors
 ~~~~~~~~~~~~~~~~~

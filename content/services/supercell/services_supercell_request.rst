@@ -1,6 +1,7 @@
 Supercell Feedback Form
 =======================
 :slug: services/supercell/request
+:menuparent: supercell
 
 Submitted by Lance Albertson on April 5, 2013
 

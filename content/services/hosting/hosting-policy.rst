@@ -1,7 +1,7 @@
 Hosting Policy
 ==============
 :slug: services/hosting/policy
-
+:menuparent: hosting
 
 Services
 --------

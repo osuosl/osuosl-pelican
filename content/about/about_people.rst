@@ -1,6 +1,7 @@
 People
 ======
 :slug: about/people
+:menuparent: about
 
 
 `Lance Albertson`_
@@ -149,6 +150,22 @@ in her spare time.
 
 
 
+`Matthew Johnson`_
+------------------
+
+.. image:: /theme/img/mathew_johnson_2015_cropped.jpg
+    :scale: 50%
+    :align: right
+    :alt: Matthew Johnson
+
+**Developer**
+
+Matthew is a computer science major who joined the OSL in May 2015. He looks
+forward to learning more about GUIs while working at the lab. In his spare time
+he likes to spend time with his wife and play with his son and daughter.
+
+
+
 `Ian Kronquist`_
 ----------------
 
@@ -245,6 +262,23 @@ enjoys video games and playing drums in his free time.
 
 
 
+`Tristan Patch`_
+------------------
+
+.. image:: /theme/img/tristan_patch_2015_cropped.jpg
+    :scale: 50%
+    :align: right
+    :alt: Tristan Patch
+
+**Developer**
+
+Tristan, an aspiring NASA programmer or game developer started at the OSL in
+June 2015. He is a computer science major and is involved with the Linux Users
+Group as well as the Gaming Club. In his spare time he plays games, browses the
+internet, and programs personal projects.
+
+
+
 `Elsie Phillips`_
 -----------------
 
@@ -261,22 +295,6 @@ accounts, creating print marketing materials, and representing the OSL
 at events. Elsie enjoys reading, cooking, photography and playing
 trivial pursuit in her spare time. After she graduates, Elsie hopes to
 travel.
-
-
-
-`Daniel Reichert`_
-------------------
-
-.. image:: /theme/img/Danielcropped1-9-15.jpg
-    :scale: 50%
-    :align: right
-    :alt: Daniel Reichert
-
-**Community Systems Administrator | The Silver Mullet**
-
-Daniel is studying computer science. At the OSL, he works primarily on
-Drupal and MySQL. He grew up in Kansas and enjoys traveling and biking
-of all kinds. Daniel is also involved in the Linux Users Group.
 
 
 
@@ -337,6 +355,23 @@ He hopes to attend graduate school and travel back to Hungary in the
 future. His PGP ID is 062FD895
 
 **Github Account:** https://github.com/dspt/
+
+
+
+`Aileen Thai`_
+------------------
+
+.. image:: /theme/img/Aileen_Thai_2015_cropped.jpg
+    :scale: 50%
+    :align: right
+    :alt: Aileen Thai
+
+**Developer**
+
+Aileen is a computer science and digital communication arts double major who
+started at the lab in June 2015. She likes to play video games (Kingdom of
+Hearts and Skyrim are her favorites) draw, read, and sleep in her spare time.
+
 
 
 `Andy Tolvstad`_

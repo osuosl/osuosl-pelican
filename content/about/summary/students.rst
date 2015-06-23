@@ -1,6 +1,7 @@
 Students
 =========
 :slug: students
+:menuparent: about/summary
 
 .. image:: /theme/img/studex.jpg
    :scale: 80%

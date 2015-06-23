@@ -1,6 +1,8 @@
 Supercell
 =========
 :slug: services/supercell
+:menuparent: services
+:menuname: supercell
 
 .. image:: /theme/img/supercell.png
     :scale: 40%

@@ -1,6 +1,8 @@
 Donate
 ------
 :slug: donate
+:menuparent: none
+:menuname: donate
 
 
 The OSL offers support services to the world's leading open source

@@ -1,6 +1,7 @@
 DevOps BootCamp
 ===============
 :slug: devops-bootcamp
+:menuparent: about
 
 The OSL and the Oregon State University
 `School of Electrical Engineering and Computer Science

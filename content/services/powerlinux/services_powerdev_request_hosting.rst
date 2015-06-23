@@ -1,6 +1,7 @@
 PowerLinux / OpenPOWER Request Form
 ====================================
 :slug: services/powerdev/request_hosting
+:menuparent: powerlinux
 
 Submitted by Lance Albertson on February 18, 2015
 Please use the form below to request hosting on the POWER7/POWER8

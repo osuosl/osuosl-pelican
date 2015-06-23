@@ -1,7 +1,7 @@
 Services
 ========
 :slug: services
-
+:menuparent: none
 
 
 `Hosting Services`_

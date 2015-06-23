@@ -1,7 +1,7 @@
 Hosted Communities
 ==================
 :slug: communities
-
+:menuparent: hosting
 
 
 `Ångström`_

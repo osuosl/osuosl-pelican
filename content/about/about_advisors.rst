@@ -1,7 +1,6 @@
 Advisors
 ========
-:menu: true
-:parent: about
+:menuparent: about
 :slug: about/advisors
 
 Featuring industry leaders from global open source projects and commercial

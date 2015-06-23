@@ -1,6 +1,7 @@
 Frequently Asked Questions
 ==========================
 :slug: donate/faq
+:menuparent: about/summary
 
 
 #. `How are you associated with Oregon State University? </donate/faq#n281>`_
