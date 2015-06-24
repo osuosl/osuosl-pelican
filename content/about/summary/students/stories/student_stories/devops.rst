@@ -125,7 +125,7 @@ having permission to work autonomously is something that students don't usually
 get. We have a particular level of responsibility and a particular level of
 trust and that helps us grow.”*
 
-Media contact: Kayla Harr, `harrk@osuosl.org <mailto:harrk@osuosl.org>`_
+Media contact: Kayla Harr, harrk@osuosl.org
 
 To support the OSL and the student employees who help the lab provide
 top-quality hosting and development services, visit our `Donate </donate>`_

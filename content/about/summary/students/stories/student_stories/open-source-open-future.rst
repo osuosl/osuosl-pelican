@@ -199,7 +199,7 @@ might have taken all the same classes we did, but we can put on our resume ‘I�
 already been doing this job for the past three years.’ That kind of trumps most
 things you can have on your resume at this point.”*
 
-Media contact: Kayla Harr, `harrk@osuosl.org <mailto:harrk@osuosl.org>`_
+Media contact: Kayla Harr, harrk@osuosl.org
 
 To support the OSL and the student employees who help the lab provide
 top-quality hosting and development services, visit our `Donate </donate>`_
