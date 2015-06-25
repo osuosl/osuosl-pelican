@@ -25,7 +25,8 @@ have worked on, check out our `student stories`_.
 `Open Source on Campus`_
 ------------------------------------------------
 The OSU Open Source Lab is not the only location on campus where students are
-exposed to open source software and practices. The `Open Source Education Lab`_ and `Linux User Group`_ are both very active on campus and give students
+exposed to open source software and practices. The `Open Source Education Lab`_
+and `Linux User Group`_ are both very active on campus and give students
 the opportunity to interact with other like-minded individuals, learn new things
 and display the benefits of open source to the campus community and beyond.
 Students also use open source as part of the computer science curriculum, from
