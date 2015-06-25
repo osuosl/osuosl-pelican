@@ -1,51 +1,61 @@
 OSL to Mentor Four in Google Summer of Code
 ###########################################
 :date: 2013-06-05 20:11
-:author: harrk
+:author: Kayla Harr
 :slug: osl-to-mentor-four-in-google-summer-of-code
 
-Recently, I learned a useful Vim trick. One of our hosted clients has a
-Dokuwiki instance that we help manage, and they were having problems
-with a lot of spam user accounts being created. We added a CAPTCHA to
-the wiki to make it less convenient for new spammers to join, but there
-were a lot of bad accounts already existing. By "a lot," I mean there
-were 112,808 accounts listed in ``users.auth.php``, and only about a
-dozen real project personnel using the wiki on a regular basis.
+Students from India, Poland and the United Kingdom will work on projects for the
+OSL this summer. The Oregon State University Open Source Lab has accepted four
+college students from around the world as `Google Summer of Code 2013`_
+participants. The four students will work on projects for the OSL over the
+summer with Google’s sponsorship and OSL staff members’ mentoring and
+supervision.
 
-To clean it out, we decided the best course of action would be deleting
-every account except those with admin privileges, because most of the
-real humans were in the admin group and those who weren't could get the
-project leader to re-add their accounts. The benefit of clearing out a
-hundred thousand spammers would, in this case, outweigh the
-inconvenience of manually recreating a couple of real accounts.
+.. _Google Summer of Code 2013:
+   http://www.google-melange.com/gsoc/org/google/gsoc2013/osuosl
 
-It turns out that DokuWiki's interface isn't set up to bulk delete users
-based on group membership -- one really shouldn't get that many spammers
-in to begin with, so this is an unusual case. However, I'm not forced to
-use only the graphical interface. DokuWiki's configurations are stored
-in .php files in ``/var/www/wikiname/conf``. Each line in
-``users.auth.php`` represents one user account, and is of the form
-``user:MD5password:Real Name:email:groups,comma,separated``.
 
-I was familiar with the Vim command ``:d/pattern/g`` to delete all lines
-containing a pattern, but this time I needed to delete all lines that
-didn't have 'admin' in them. A little research revealed the command
-``:v/pattern/d``, which deletes all lines except those which match the
-pattern. Since many of the spammers (73 out of our 112,808, but still
-too many to hand-delete each) were using ``admin@`` email addresses,
-simply deleting all the lines without 'admin' in them wasn't good
-enough. Instead, since I know all the users in the admin group have
-their group permissions in the form "admin,user," the command that
-removed everyone except the admin users was ``:v/admin,user/d``.
+The OSL has not had four GSOC students since 2010. OSL Director Lance Albertson
+attributes this year’s increased number of students, compared to only one in
+2012, to a greater variety of available projects.
 
-If you're newer to the Bash shell, you may be wondering how I got the
-specific numbers of spammers. I made a backup of the users.auth.php file
-before deleting users, just in case the client changed their mind. Since
-DokuWiki had automatically created a ``users.auth.php.bak``, I created
-my own backup of the users.auth with
-``cp users.auth.php users.auth.php.bak2``. Now I can look back at the
-user list full of spammers and say ``wc -l users.auth.php.bak2`` to
-count the lines in it (since there's one account per line) and
-``grep admin@ users.auth.php.bak2 | wc -l`` to count how many of the
-former users had ``admin@`` email addresses.
+“We had more projects that people were interested in this year,” Albertson says.
+“I think this year’s group of students is going to be pretty good; each of them
+have been proactive about contacting us and excited about working on their
+projects.”
 
+Polish automation control and robotics student Piotr Banaszkiewicz will be
+working with the lab through Google summer programs for the third consecutive
+year, and his project will focus on improving the modularity, packaging and
+installation of the OSL’s `Ganeti Web Manager`_. Two students from India will
+also work on GWM-related projects; Ahmed Shabib Bolwar, a computer science
+engineering student, will add a GWM provider to `Vagrant`_, while Pranjal
+Mittal, who is studying electronics engineering, will add visualization to
+clusters, nodes and virtual machines in GWM. A fourth student, Mark Antony
+Holland, who is from the United Kingdom and currently studying computer science
+in Spain, will work on incorporating functionality and user-interface
+improvements to the OSL-developed `Android OpenConferenceWare app`_.
+
+.. _Ganeti Web Manager: https://code.osuosl.org/projects/ganeti-webmgr
+.. _Vagrant: http://www.vagrantup.com/
+.. _Android OpenConferenceWare app: https://github.com/osuosl/ocw-android
+
+
+The students will be mentored by OSL full-time developer Ken Lett, student
+developer Justin Noah and Albertson. Aside from having an array of time zones to
+accommodate this year, Albertson says working with GSOC students abroad is
+similar to collaborating with student employees in the lab.
+
+“It’s kind of like what we do with students here but compressed,” he says.
+“We’re interacting with students from all over the world, and understanding
+their cultural differences too.”
+
+Albertson hopes working with professionals through the Open Source Lab will help
+the students learn communication and teamwork skills, as well as offer them the
+experience of following a project through from draft to completion. And while
+they’re gaining valuable real-world experience, he says, the students will also
+be helping to advance development projects at the OSL.
+
+“Everything they do is going to be beneficial to the lab long-term,” Albertson
+says. “And I hope in their careers being able to say they had that experience
+will help them.”

@@ -9,11 +9,14 @@ Submitted by Kayla Harr on May 10, 2012
 Students reap the benefits of professional programming experience at the OSU
 Open Source Lab
 
-As a freshman at `Oregon State University <http://oregonstate.edu/>`_ in early
-2010, Jordan Evans didn't have a lot of computer science experience. Though he
-had always had an interest in computers, Evans had come to OSU as a mathematics
-major and, like many first-year students, didn't yet have a clear idea of what
-he hoped to do with his education.
+As a freshman at `Oregon State University`_ in early 2010, Jordan Evans didn't
+have a lot of computer science experience. Though he had always had an interest
+in computers, Evans had come to OSU as a mathematics major and, like many
+first-year students, didn't yet have a clear idea of what he hoped to do with
+his education.
+
+.. _Oregon State University: http://oregonstate.edu/
+
 
 .. image:: /theme/img/blockquote.png
   :scale: 80%
@@ -48,10 +51,14 @@ While the lab fulfills a valuable role at OSU by hosting various projects and
 helping the university reduce costs through open source software alternatives,
 its services make an even bigger impact on a worldwide scale, enabling more than
 600,000 downloads daily and contributing to software like the `Drupal content
-management system <http://drupal.org/>`_, `Apache Web server
-<http://apache.org/>`_ and `Linux operating system
-<http://www.linuxfoundation.org/>`_ that individuals, start-up businesses and
-organizations around the globe use every day.
+management system`_, `Apache Web server`_ and `Linux operating system`_ that
+individuals, start-up businesses and organizations around the globe use every
+day.
+
+.. _Drupal content management system: http://drupal.org/
+.. _Apache Web server: http://apache.org/
+.. _Linux operating system: http://www.linuxfoundation.org/
+
 
 **Code for success**
 
@@ -62,13 +69,17 @@ in 2003 have gone on to find immediate success in the technical world after
 graduation, founding start-up companies, receiving job offers from top software
 companies and enjoying the opportunity to define their own professional paths.
 
-With graduates at companies like `Google <http://google.com/>`_ and `Mozilla
-<http://mozilla.org/>`_, as well as at the helm of several successful start-up
-companies, the OSL has a habit of producing students who are prepared to
-skyrocket through the industry. The advantage, says `Alex Polvi
-<http://alex.polvi.net/>`_, an OSU alumnus who worked at the OSL throughout his
-college years, is the foundation of practical experience students are allowed to
-build in the lab.
+With graduates at companies like `Google`_ and `Mozilla`_, as well as at the
+helm of several successful start-up companies, the OSL has a habit of producing
+students who are prepared to skyrocket through the industry. The advantage, says
+`Alex Polvi`_, an OSU alumnus who worked at the OSL throughout his college
+years, is the foundation of practical experience students are allowed to build
+in the lab.
+
+.. _Google: http://google.com/
+.. _Mozilla: http://mozilla.org/
+.. _Alex Polvi: http://alex.polvi.net/
+
 
 .. image:: /theme/img/blockquote.png
   :scale: 80%
@@ -83,9 +94,11 @@ Polvi experienced firsthand the powerful impact a few years at the OSL can have
 on a developing career. While working at the OSL, he completed internships with
 Google and Mozilla. During his senior year he worked for Mozilla remotely from
 OSU, and the company offered him a job immediately after graduation. Polvi and
-two other OSU alums went on to form `Cloudkick <https://www.cloudkick.com/>`_, a
-startup that drew several million dollars from investors before being purchased
-by a larger company.
+two other OSU alums went on to form `Cloudkick`_, a startup that drew several
+million dollars from investors before being purchased by a larger company.
+
+.. _Cloudkick: https://www.cloudkick.com/
+
 
 .. image:: /theme/img/blockquote.png
   :scale: 80%
@@ -116,11 +129,14 @@ new and pass on that same knowledge, then we’ve definitely come to a point whe
 we understand the skills and the technical knowledge required.”*
 
 That shift in responsibilities is part of the process OSL Associate Director of
-Operations `Lance Albertson <http://lancealbertson.com/>`_ hopes to provide
-students with throughout their time in the lab. Albertson gives students
-increasing levels of independence as they progress and lets them tackle problems
-on their own, offering support when they need it but first allowing them the
-opportunity to succeed without his help.
+Operations `Lance Albertson`_ hopes to provide students with throughout their
+time in the lab. Albertson gives students increasing levels of independence as
+they progress and lets them tackle problems on their own, offering support when
+they need it but first allowing them the opportunity to succeed without his
+help.
+
+.. _Lance Albertson: http://lancealbertson.com/
+
 
 .. image:: /theme/img/blockquote.png
   :scale: 80%
@@ -141,21 +157,23 @@ professional environment.
   :align: left
   :alt: Quote
 
-*“I think it’s shaped me to do really well because it's taught me not only how to
-work in the field, but how to work with other people in the field,” Evans says.
-“In our job we have to reach out and communicate about projects, and it’s taught
-me to keep an open mind and to not be afraid to seek out a mentor in skills that
-I don’t have.”*
+*“I think it’s shaped me to do really well because it's taught me not only how
+to work in the field, but how to work with other people in the field,” Evans
+says. “In our job we have to reach out and communicate about projects, and it’s
+taught me to keep an open mind and to not be afraid to seek out a mentor in
+skills that I don’t have.”*
 
 **Graduating with an edge**
 
 The OSL has continued to expand and play a significant role in the open source
-community in recent years, and currently provides at least `160 projects
-</services/hosting/communities>`_ with various support services. Its
-contributions to the largest open source projects in the world include not only
-technical support but graduates who leave school uniquely prepared to benefit
-their future employers. According to Polvi, such students are an important
-resource in a rapidly growing industry.
+community in recent years, and currently provides at least `160 projects`_ with
+various support services. Its contributions to the largest open source projects
+in the world include not only technical support but graduates who leave school
+uniquely prepared to benefit their future employers. According to Polvi, such
+students are an important resource in a rapidly growing industry.
+
+.. _160 Projects: /services/hosting/communities
+
 
 .. image:: /theme/img/blockquote.png
   :scale: 80%
@@ -202,7 +220,10 @@ things you can have on your resume at this point.”*
 Media contact: Kayla Harr, harrk@osuosl.org
 
 To support the OSL and the student employees who help the lab provide
-top-quality hosting and development services, visit our `Donate </donate>`_
-page.
+top-quality hosting and development services, visit our `Donate`_ page.
 
-**Category:** `Student Stories </students/stories>`_
+.. _Donate: /donate
+
+**Category:** `Student Stories`_
+
+.. _Student Stories: /students/stories

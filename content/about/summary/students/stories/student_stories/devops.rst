@@ -131,4 +131,6 @@ To support the OSL and the student employees who help the lab provide
 top-quality hosting and development services, visit our `Donate </donate>`_
 page.
 
-**Category:** `Student Stories </students/stories>`_
+**Category:** `Student Stories`_
+
+.. _Student Stories: /students/stories

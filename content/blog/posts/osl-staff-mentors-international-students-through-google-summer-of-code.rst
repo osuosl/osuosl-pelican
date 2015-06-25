@@ -1,51 +1,113 @@
 OSL Staff Mentors International Students Through Google Summer of Code
 ######################################################################
 :date: 2013-02-11 23:57
-:author: harrk
+:author: Kayla Harr
 :slug: osl-staff-mentors-international-students-through-google-summer-of-code
 :img: GsoC2012logo.jpg
 
-Recently, I learned a useful Vim trick. One of our hosted clients has a
-Dokuwiki instance that we help manage, and they were having problems
-with a lot of spam user accounts being created. We added a CAPTCHA to
-the wiki to make it less convenient for new spammers to join, but there
-were a lot of bad accounts already existing. By "a lot," I mean there
-were 112,808 accounts listed in ``users.auth.php``, and only about a
-dozen real project personnel using the wiki on a regular basis.
+**Real-world work experience is one of the most valuable things an employer can
+provide to students preparing to enter the job market.**
 
-To clean it out, we decided the best course of action would be deleting
-every account except those with admin privileges, because most of the
-real humans were in the admin group and those who weren't could get the
-project leader to re-add their accounts. The benefit of clearing out a
-hundred thousand spammers would, in this case, outweigh the
-inconvenience of manually recreating a couple of real accounts.
+At the Oregon State University Open Source Lab, that experience is readily
+available to 19 part-time student employees who balance their coursework at
+Oregon State with a job that offers them professional training. But the lab’s
+influence on ambitious students reaches beyond Oregon State, and even the United
+States, through Google’s Summer of Code program.
 
-It turns out that DokuWiki's interface isn't set up to bulk delete users
-based on group membership -- one really shouldn't get that many spammers
-in to begin with, so this is an unusual case. However, I'm not forced to
-use only the graphical interface. DokuWiki's configurations are stored
-in .php files in ``/var/www/wikiname/conf``. Each line in
-``users.auth.php`` represents one user account, and is of the form
-``user:MD5password:Real Name:email:groups,comma,separated``.
+The summer program connects students 18 years and older around the world with
+mentors in the open source field and sponsors their work for the summer. As a
+GSoC mentoring organization since 2006, the OSL has had students from countries
+around the world, including China, Portugal and Venezuela, contribute to
+in-house development projects. Last summer, 19-year-old Polish student Piotr
+Banaszkiewicz collaborated with developers and students at the lab to refine
+tools for Ganeti Web Manager, a virtual server management program developed at
+the OSL.
 
-I was familiar with the Vim command ``:d/pattern/g`` to delete all lines
-containing a pattern, but this time I needed to delete all lines that
-didn't have 'admin' in them. A little research revealed the command
-``:v/pattern/d``, which deletes all lines except those which match the
-pattern. Since many of the spammers (73 out of our 112,808, but still
-too many to hand-delete each) were using ``admin@`` email addresses,
-simply deleting all the lines without 'admin' in them wasn't good
-enough. Instead, since I know all the users in the admin group have
-their group permissions in the form "admin,user," the command that
-removed everyone except the admin users was ``:v/admin,user/d``.
+.. image:: /theme/img/blockquote.png
+  :scale: 80%
+  :align: left
+  :alt: Quote
 
-If you're newer to the Bash shell, you may be wondering how I got the
-specific numbers of spammers. I made a backup of the users.auth.php file
-before deleting users, just in case the client changed their mind. Since
-DokuWiki had automatically created a ``users.auth.php.bak``, I created
-my own backup of the users.auth with
-``cp users.auth.php users.auth.php.bak2``. Now I can look back at the
-user list full of spammers and say ``wc -l users.auth.php.bak2`` to
-count the lines in it (since there's one account per line) and
-``grep admin@ users.auth.php.bak2 | wc -l`` to count how many of the
-former users had ``admin@`` email addresses.
+*“This is definitely the greatest and most valuable experience I could get,” he
+says. “Not everyone is fortunate enough to get it at this age.”*
+
+Banaszkiewicz implemented a daemon to provide metrics in Ganeti that can be
+displayed as a graph of data about the virtual machines the program is running.
+According to OSL Senior Software Engineer Ken Lett, who supervised
+Banaszkiewicz’s work, this addition to Ganeti will contribute both to the
+software’s usability and to future development.
+
+.. image:: /theme/img/blockquote.png
+  :scale: 80%
+  :align: left
+  :alt: Quote
+
+*“This allows system administrators to view the state and history of the
+machines in their cluster in a very visual and intuitive way,” Lett says. “His
+work also created an infrastructure on which further visualization and analysis
+tools can be built. Writing flexible, extensible and pluggable code not only
+makes our work easier in Ganeti Web Manager, but will hopefully inform and
+improve his future work in any type of programming.”*
+
+.. image:: /theme/img/PiotrAtTheZoo.JPG
+  :scale: 100%
+  :alt: Piotr at the Zoo
+
+Working with developers more than 5,500 miles away from his hometown near
+Cracow, Poland, Banaszkiewicz says, was only difficult because of the nine-hour
+time difference that meant staff members didn’t arrive for work at the OSL
+office until it was evening in Poland. But by connecting with OSL staff over
+Internet Relay Chat and sharing ideas through Google Docs, he says was able to
+learn from his mentors at the OSL and improve his knowledge about virtualization
+and working with Python and Vagrant.
+
+.. image:: /theme/img/blockquote.png
+  :scale: 80%
+  :align: left
+  :alt: Quote
+
+*“I can see the OSL as a very pro-student organization, which I was delighted to
+work for,” he says. “There are some very passionate programmers, who actually
+were like teachers for me during GSoC.”*
+
+Banaszkiewicz is unique among GSoC students the OSL has mentored in that he
+previously worked with the lab through Google Code-in, a program similar to GSoC
+but designed for high school students. He has been the only Google Code-in
+student to continue to be mentored by the OSL in GSoC. Performing tasks for the
+OSL as a high school student, Banaszkiewicz says, introduced him to the tools
+used in professional open source development.
+
+.. image:: /theme/img/blockquote.png
+  :scale: 80%
+  :align: left
+  :alt: Quote
+
+*“I was a little younger and did not know many technologies used by the OSL
+team,” he says. “Now these technologies are obligatory in any project, and I'm
+very happy I could learn them so early.”*
+
+Now, Banaszkiewicz is studying at the AGH University of Science in Cracow. He
+plans to apply to work as a GSoC student with the OSL again this summer and
+continue to expand his knowledge of open source development. The OSL’s continued
+participation in GSoC, Lett says, not only offers students a unique opportunity,
+but also presents a host of benefits both for the lab and the open source
+community.
+
+.. image:: /theme/img/blockquote.png
+  :scale: 80%
+  :align: left
+  :alt: Quote
+
+*“Mentoring young open source developers bolsters the community we rely on, and
+helps make sure the new generation of open source developers comes in with real
+skill and knowledge,” Lett says. “It also creates connections that bring
+benefits back to us in the form of contributions to our projects, collaborations
+with other projects and relationships with developers around the world.”*
+
+Media contact: Kayla Harr, harrk@osuosl.org To learn more about the students who
+gain real-world experience through the Open Source Lab, visit our `staff`_ page.
+More information about Google Summer of Code and how to participate can be found
+`here`_.
+
+.. _staff: /about/people
+.. _here: http://code.google.com/soc/

@@ -13,21 +13,23 @@ People
     :alt: Lance Albertson
 
 | **Director | Cat Herder**
-| `Lance <lancealbertson.com>`_ became OSL director in early 2013.
-  He has managed all of the hosting activities that the OSL
-  provides for more than 160 high-profile open source projects
-  since joining the lab as lead systems administrator and
-  architect in 2007. Lance’s involvement in the open source
-  community began in 2003, when he became a developer and package
-  maintainer with `Gentoo Linux <gentoo.org>`_. Prior to joining
-  the OSL, Lance was a UNIX Administrator for the Enterprise
-  Server Technologies group at `Kansas State University
-  <ksu.edu>`_. In his free time he helps organize `Beaver BarCamp
-  <beaverbarcamp.org>`_ and plays trumpet in local jazz group `The
-  Infallible Collective <infalliblecollective.com>`_.
+| `Lance`_ became OSL director in early 2013. He has managed all of the hosting
+  activities that the OSL provides for more than 160 high-profile open source
+  projects since joining the lab as lead systems administrator and architect in
+  2007. Lance’s involvement in the open source community began in 2003, when he
+  became a developer and package maintainer with `Gentoo Linux`_. Prior to
+  joining the OSL, Lance was a UNIX Administrator for the Enterprise Server
+  Technologies group at `Kansas State University`_. In his free time he helps
+  organize `Beaver BarCamp`_ and plays trumpet in local jazz group `The
+  Infallible Collective`_.
 |
 | Lance can be reached at lance-at-osuosl-dot-org
 
+.. _Lance: http://lancealbertson.com
+.. _Gentoo Linux: http://gentoo.org
+.. _Kansas State University: http://ksu.edu
+.. _Beaver BarCamp: http://beaverbarcamp.org
+.. _The Infallible Collective: http://infalliblecollective.com
 
 
 `Jeff Borcean`_
@@ -247,13 +249,13 @@ People
   Systems Administrator in December 2014.  As a part of the Growth
   Hacker team he helps bring new projects on board, and maintains
   the projects we host.  In his free time Simon is the system
-  administrator of the technology-focused imageboard `lainchan
-  <https://lainchan.org/>`_, and enjoys contributing to open
-  source projects.
+  administrator of the technology-focused imageboard `lainchan`_,
+  and enjoys contributing to open source projects.
 |
 | **Github Account:**
 | https://github.com/darkengine-io
 
+.. _lainchan: https://lainchan.org/
 
 
 `Anthony Miller`_

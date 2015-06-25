@@ -2,8 +2,11 @@ Student Stories
 ===============
 :slug: students/stories
 
-`Building a Bright Future With DevOps </blog/devops>`_
-------------------------------------------------------
+`Building a Bright Future With DevOps`_
+----------------------------------------
+
+.. _Building a Bright Future with DevOps: /blog/devops
+
 
 Submitted by Kayla Harr on August 2, 2012
 
@@ -20,8 +23,12 @@ staff and hosted projects to connect to the lab's private network from anywhere.
 
 `Read more </blog/devops>`__
 
-`Open Source, Open Future </blog/open-source-open-future>`_
------------------------------------------------------------
+
+`Open Source, Open Future`_
+----------------------------
+
+.. _Open Source, Open Future: /blog/open-source-open-future
+
 
 Submitted by Kayla Harr on May 10, 2012
 
@@ -33,8 +40,12 @@ his education.
 
 `Read more </blog/open-source-open-future>`__
 
-`Helping Drupal Grow </students/stories/drupal_infrastructure>`_
-----------------------------------------------------------------
+
+`Helping Drupal Grow`_
+----------------------
+
+.. _Helping Drupal Grow: /students/stories/drupal_infrastructure
+
 
 Submitted by OSUOSL Admin on February 5, 2009
 
@@ -49,8 +60,12 @@ scaling of the Web side of Drupal while Newton worked with the database.
 
 `Read more </students/stories/drupal_infrastructure>`__
 
-`A History of Development </students/stories/trisano>`_
--------------------------------------------------------
+
+`A History of Development`_
+----------------------------
+
+.. _A History of Development: /students/stories/trisano
+
 
 Submitted by OSUOSL Admin on February 5, 2009
 

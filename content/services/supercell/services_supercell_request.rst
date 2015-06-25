@@ -23,9 +23,13 @@ contributor for Bar):
 
 Which of these projects would you want to use Supercell?
 
-How are you currently handling your needs for on-demand virtualization and continuous integration services?
+How are you currently handling your needs for on-demand virtualization and
+continuous integration services?
 
-If you currently pay for services that provide you with on-demand virtualization, etc., (e.g. Amazon's EC2 cluster, Linode, etc.), would you like to share how much this costs your project?
+If you currently pay for services that provide you with on-demand
+virtualization, etc., (e.g. Amazon's EC2 cluster, Linode, etc.), would you like
+to share how much this costs your project?
 
-If you use a paid service, which features do you use the most? Which features do you love? Which ones
+If you use a paid service, which features do you use the most? Which features do
+you love? Which ones
 make you miserable? Why?

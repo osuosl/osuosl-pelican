@@ -39,4 +39,6 @@ display </sites/default/files/osllogo-web_0.png>`_
     :scale: 80%
     :alt: White logo
 
-Download our logos in `EPS </sites/default/files/documents/OSUOSL Logos_0.eps>`_ form.
+Download our logos in `EPS`_ form.
+
+.. _EPS: /sites/default/files/documents/OSUOSL Logos_0.eps

@@ -39,4 +39,6 @@ real-world experience. "The opportunities on the systems administration side of
 the Lab for university students are unique," says Newton. "I can't name any
 other school that offers the same thing."
 
-**Category:** `Student Stories </students/stories>`_
+**Category:** `Student Stories`_
+
+.. _Student Stories: /students/stories

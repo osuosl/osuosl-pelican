@@ -55,4 +55,6 @@ thinks the opportunities OSL has provided have prepared him well. "The open
 source community is really merit-based, so people who contribute more are going
 to be well-regarded in the community," he says.
 
-**Category:** `Student Stories </students/stories>`_
+**Category:** `Student Stories`_
+
+.. _Student Stories: /students/stories

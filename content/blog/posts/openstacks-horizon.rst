@@ -5,46 +5,56 @@ Openstack's Horizon
 :slug: openstacks-horizon
 :img: tech-blog.png
 
-Recently, I learned a useful Vim trick. One of our hosted clients has a
-Dokuwiki instance that we help manage, and they were having problems
-with a lot of spam user accounts being created. We added a CAPTCHA to
-the wiki to make it less convenient for new spammers to join, but there
-were a lot of bad accounts already existing. By "a lot," I mean there
-were 112,808 accounts listed in users.auth.php, and only about a dozen
-real project personnel using the wiki on a regular basis. To clean it
-out, we decided the best course of action would be deleting every
-account except those with admin privileges, because most of the real
-humans were in the admin group and those who weren't could get the
-project leader to re-add their accounts. The benefit of clearing out a
-hundred thousand spammers would, in this case, outweigh the
-inconvenience of manually recreating a couple of real accounts. It turns
-out that DokuWiki's interface isn't set up to bulk delete users based on
-group membership -- one really shouldn't get that many spammers in to
-begin with, so this is an unusual case. However, I'm not forced to use
-only the graphical interface. DokuWiki's configurations are stored in
-.php files in /var/www/wikiname/conf. Each line in users.auth.php
-represents one user account, and is of the form user:MD5password:Real
-Name:email:groups,comma,separated. I was familiar with the Vim command
-:d/pattern/g to delete all lines containing a pattern, but this time I
-needed to delete all lines that didn't have 'admin' in them. A little
-research revealed the command :v/pattern/d, which deletes all lines
-except those which match the pattern. Since many of the spammers (73 out
-of our 112,808, but still too many to hand-delete each) were using
-admin@ email addresses, simply deleting all the lines without 'admin' in
-them wasn't good enough. Instead, since I know all the users in the
-admin group have their group permissions in the form "admin,user," the
-command that removed everyone except the admin users was
-:v/admin,user/d. If you're newer to the Bash shell, you may be wondering
-how I got the specific numbers of spammers. I made a backup of the
-users.auth.php file before deleting users, just in case the client
-changed their mind. Since DokuWiki had automatically created a
-users.auth.php.bak, I created my own backup of the users.auth with cp
-users.auth.php users.auth.php.bak2. Now I can look back at the user list
-full of spammers and say wc -l users.auth.php.bak2 to count the lines in
-it (since there's one account per line) and grep admin@
-users.auth.php.bak2 \| wc -l to count how many of the former users had
-admin@ email addresses. 76 1636 public://emilyvim (1).png 76 1621
-public://jack-twilley-post.png 1586 public://ppc64-openstack.png, 1596
-public://osu-open-source-lab-13s\_mini.jpg 76 1581
-public://openstack-power.png 1441 public://openstack screenshot.png 76
-1606 public://tech-blog.png
+*The first tech post is by Chance Zibolski, a community system administrator and
+project lead of Ganeti Web Manager, a Web administration panel that allows
+administrators and clients access to administer and use Google’s open source
+cloud infrastructure.*
+
+Recently the OSU Open Source Lab has been experimenting with different
+technologies, in particular Openstack. We already use Ganeti as our production
+virtual machine and cluster management system and have written a web front end
+called Ganeti Web Manager. The whole purpose of the web manager is to allow us
+to easily create new virtual machines for internal purposes and to provide our
+customers with cheap, redundant VMs. Recently, the OSL released `Ganeti Web
+Manager 0.10.2`_ and we’re getting close to finishing version 0.11. With this
+release, we’ve begun to discuss the future of Ganeti Web Manager and where we
+should be taking it. We’ve decided to eventually rewrite it. As the project lead
+of Ganeti Web Manager, it’s been my job to explore what tools and libraries we
+may want to use for new versions of the project.
+
+.. _Ganeti Web Manager 0.10.2:
+   https://github.com/osuosl/ganeti_webmgr/tree/0.10.2
+
+This is what led me to Openstack. Recently, we deployed an Openstack test
+cluster in our infrastructure, and I found that its web UI (known as Horizon)
+provides a lot of awesome functionality to Openstack users. The dashboard
+provides a full interface to the existing Openstack CLI tools, and lets users
+create new VMs with a few clicks of a button, all using a web interface. I began
+to explore how we might be able to use Horizon in order to accomplish our
+rewrite. As I discovered on the `Horizon Github`_ page the project has already
+been mostly separated out from the Openstack dashboard and can be used as a
+general purpose dashboard library for Django. Horizon provides utilities from
+mapping Django models to interactive/editable tables to creating tabbed page
+layouts and multiple step modal windows for performing actions.
+
+.. _Horizon Github: https://github.com/openstack/horizon/
+
+.. image:: /theme/img/openstack-screenshot.png
+   :scale: 100%
+   :align: center
+   :alt: Openstack Screenshot
+
+Openstack Horizon screenshot.
+
+Utilizing the basic layout the pre-existing Openstack dashboard uses, I was able
+to create a working prototype of a Horizon dashboard that interfaces with a
+Ganeti cluster. (See the code here: https://github.com/osuosl/ganeti_horizon.)
+It doesn’t do much—other than read cluster data and display it—and so far it
+only has about three or four different pages created. Based on my testing, I
+think Horizon is an excellent way to begin with a Django-based dashboard, and we
+will likely use it in our rewrite.
+
+If you will be writing a dashboard, I recommend taking a look at Horizon and
+seeing if it might fit your needs. At first it may seem like it’s built for a
+very specific use case, but you might be able to use it in your next dashboard
+project.

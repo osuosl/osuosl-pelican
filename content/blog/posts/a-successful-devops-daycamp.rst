@@ -49,5 +49,6 @@ industry and how to access them,” Murphy says.
 
 DevOps BootCamp takes place on Mondays from 7-9pm in the Kelley
 Engineering Center. Check out the
-`website <http://devopsbootcamp.osuosl.org/>`__ for more information!
+`website`_ for more information!
 
+.. _website: http://devopsbootcamp.osuosl.org/
