@@ -60,7 +60,7 @@ and books on Linux development.
 
 .. _the Linux Foundation: http://www.linuxfoundation.org
 .. _Linux kernel: http://kernel.org
-.. _Linux Driver Project: http://www.linuxdriverproject.org/foswiki/bin/view
+.. _Linux Driver Project: http://www.linuxdriverproject.org/
 
 
 **Jason McKerr | VP of Engineering at Puppet Labs**

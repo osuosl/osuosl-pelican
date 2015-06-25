@@ -23,13 +23,8 @@ Banaszkiewicz collaborated with developers and students at the lab to refine
 tools for Ganeti Web Manager, a virtual server management program developed at
 the OSL.
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“This is definitely the greatest and most valuable experience I could get,” he
-says. “Not everyone is fortunate enough to get it at this age.”*
+  *“This is definitely the greatest and most valuable experience I could get,”
+  he says. “Not everyone is fortunate enough to get it at this age.”*
 
 Banaszkiewicz implemented a daemon to provide metrics in Ganeti that can be
 displayed as a graph of data about the virtual machines the program is running.
@@ -37,17 +32,13 @@ According to OSL Senior Software Engineer Ken Lett, who supervised
 Banaszkiewicz’s work, this addition to Ganeti will contribute both to the
 software’s usability and to future development.
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
 
-*“This allows system administrators to view the state and history of the
-machines in their cluster in a very visual and intuitive way,” Lett says. “His
-work also created an infrastructure on which further visualization and analysis
-tools can be built. Writing flexible, extensible and pluggable code not only
-makes our work easier in Ganeti Web Manager, but will hopefully inform and
-improve his future work in any type of programming.”*
+  *“This allows system administrators to view the state and history of the
+  machines in their cluster in a very visual and intuitive way,” Lett says. “His
+  work also created an infrastructure on which further visualization and
+  analysis tools can be built. Writing flexible, extensible and pluggable code
+  not only makes our work easier in Ganeti Web Manager, but will hopefully
+  inform and improve his future work in any type of programming.”*
 
 .. image:: /theme/img/PiotrAtTheZoo.JPG
   :scale: 100%
@@ -61,14 +52,9 @@ Internet Relay Chat and sharing ideas through Google Docs, he says was able to
 learn from his mentors at the OSL and improve his knowledge about virtualization
 and working with Python and Vagrant.
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“I can see the OSL as a very pro-student organization, which I was delighted to
-work for,” he says. “There are some very passionate programmers, who actually
-were like teachers for me during GSoC.”*
+  *“I can see the OSL as a very pro-student organization, which I was delighted
+  to work for,” he says. “There are some very passionate programmers, who
+  actually were like teachers for me during GSoC.”*
 
 Banaszkiewicz is unique among GSoC students the OSL has mentored in that he
 previously worked with the lab through Google Code-in, a program similar to GSoC
@@ -77,14 +63,9 @@ student to continue to be mentored by the OSL in GSoC. Performing tasks for the
 OSL as a high school student, Banaszkiewicz says, introduced him to the tools
 used in professional open source development.
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“I was a little younger and did not know many technologies used by the OSL
-team,” he says. “Now these technologies are obligatory in any project, and I'm
-very happy I could learn them so early.”*
+  *“I was a little younger and did not know many technologies used by the OSL
+  team,” he says. “Now these technologies are obligatory in any project, and I'm
+  very happy I could learn them so early.”*
 
 Now, Banaszkiewicz is studying at the AGH University of Science in Cracow. He
 plans to apply to work as a GSoC student with the OSL again this summer and
@@ -93,16 +74,12 @@ participation in GSoC, Lett says, not only offers students a unique opportunity,
 but also presents a host of benefits both for the lab and the open source
 community.
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“Mentoring young open source developers bolsters the community we rely on, and
-helps make sure the new generation of open source developers comes in with real
-skill and knowledge,” Lett says. “It also creates connections that bring
-benefits back to us in the form of contributions to our projects, collaborations
-with other projects and relationships with developers around the world.”*
+  *“Mentoring young open source developers bolsters the community we rely on,
+  and helps make sure the new generation of open source developers comes in with
+  real skill and knowledge,” Lett says. “It also creates connections that bring
+  benefits back to us in the form of contributions to our projects,
+  collaborations with other projects and relationships with developers around
+  the world.”*
 
 Media contact: Kayla Harr, harrk@osuosl.org To learn more about the students who
 gain real-world experience through the Open Source Lab, visit our `staff`_ page.

@@ -17,16 +17,10 @@ his education.
 
 .. _Oregon State University: http://oregonstate.edu/
 
-
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“I decided I liked math classes better than I liked computer science classes,
-so I kept taking math classes,” Evans says. “I really had no idea what I would
-do with it. I knew what I liked but I didn’t know how to apply that to
-anything.”*
+  *“I decided I liked math classes better than I liked computer science classes,
+  so I kept taking math classes,” Evans says. “I really had no idea what I would
+  do with it. I knew what I liked but I didn’t know how to apply that to
+  anything.”*
 
 Two years later, Evans' career goals have undergone a radical change. Since June
 2010, Evans has worked at OSU's Open Source Lab, where he’s built up an
@@ -34,13 +28,8 @@ impressive resume that includes two years of professional experience as a system
 administrator, a summer internship with Google and knowledge of exactly what he
 wants to do in the future.
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“I think the OSL kind of shaped my interests,” Evans says. “Working here gives
-us a practical application for everything that we’re doing in classes.”*
+  *“I think the OSL kind of shaped my interests,” Evans says. “Working here
+  gives us a practical application for everything that we’re doing in classes.”*
 
 Evans is one of 12 students working at the lab, which provides hosting and
 support services to some of the most well-known open source projects in the
@@ -81,14 +70,9 @@ in the lab.
 .. _Alex Polvi: http://alex.polvi.net/
 
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“The critical part is real-world experience, solving problems for actual
-customers with skills that are needed in the real world,” Polvi says. “You’re
-going to graduate with a job from here and have a real career path.”*
+  *“The critical part is real-world experience, solving problems for actual
+  customers with skills that are needed in the real world,” Polvi says. “You’re
+  going to graduate with a job from here and have a real career path.”*
 
 Polvi experienced firsthand the powerful impact a few years at the OSL can have
 on a developing career. While working at the OSL, he completed internships with
@@ -100,14 +84,9 @@ million dollars from investors before being purchased by a larger company.
 .. _Cloudkick: https://www.cloudkick.com/
 
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“I do not hesitate at all saying that my success is 100 percent because of the
-OSL,” Polvi says. “They set me up to have a successful career. Without that, I
-don’t know what I’d be doing.”*
+  *“I do not hesitate at all saying that my success is 100 percent because of
+  the OSL,” Polvi says. “They set me up to have a successful career. Without
+  that, I don’t know what I’d be doing.”*
 
 **A blend of mentorship and independence**
 
@@ -118,15 +97,10 @@ several months at the lab, Evans says students who have been at the lab longer
 become mentors themselves, helping new students familiarize themselves with the
 work.
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“We’re still learning a lot, but we’re also able to teach others,” Evans says.
-“That really solidifies what we’ve learned. If we’re able to teach it to someone
-new and pass on that same knowledge, then we’ve definitely come to a point where
-we understand the skills and the technical knowledge required.”*
+  *“We’re still learning a lot, but we’re also able to teach others,” Evans
+  says. “That really solidifies what we’ve learned. If we’re able to teach it to
+  someone new and pass on that same knowledge, then we’ve definitely come to a
+  point where we understand the skills and the technical knowledge required.”*
 
 That shift in responsibilities is part of the process OSL Associate Director of
 Operations `Lance Albertson`_ hopes to provide students with throughout their
@@ -138,30 +112,20 @@ help.
 .. _Lance Albertson: http://lancealbertson.com/
 
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“I make sure they have ownership of something,” Albertson says. “I try not to
-manage what they do as much as I can. If I give them a big project they usually
-take it on and they will immerse themselves.”*
+  *“I make sure they have ownership of something,” Albertson says. “I try not to
+  manage what they do as much as I can. If I give them a big project they
+  usually take it on and they will immerse themselves.”*
 
 According to Evans, the benefit of working independently as well as being
 responsible for collaborating with other students and the individuals who rely
 on OSL services goes beyond developing the competence to succeed in a
 professional environment.
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“I think it’s shaped me to do really well because it's taught me not only how
-to work in the field, but how to work with other people in the field,” Evans
-says. “In our job we have to reach out and communicate about projects, and it’s
-taught me to keep an open mind and to not be afraid to seek out a mentor in
-skills that I don’t have.”*
+  *“I think it’s shaped me to do really well because it's taught me not only how
+  to work in the field, but how to work with other people in the field,” Evans
+  says. “In our job we have to reach out and communicate about projects, and
+  it’s taught me to keep an open mind and to not be afraid to seek out a mentor
+  in skills that I don’t have.”*
 
 **Graduating with an edge**
 
@@ -172,33 +136,22 @@ in the world include not only technical support but graduates who leave school
 uniquely prepared to benefit their future employers. According to Polvi, such
 students are an important resource in a rapidly growing industry.
 
-.. _160 Projects: /services/hosting/communities
+.. _160 Projects: /communities
 
-
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“The Open Source Lab is churning out students who are probably the most highly
-skilled people seen coming out of these education systems,” Polvi says. “We need
-more technical people and more students who can go out and get jobs, and this is
-such a great model for that.”*
+  *“The Open Source Lab is churning out students who are probably the most
+  highly skilled people seen coming out of these education systems,” Polvi says.
+  “We need more technical people and more students who can go out and get jobs,
+  and this is such a great model for that.”*
 
 Recognizing the value of the lab, leaders in the industry have responded with
 support that has made it possible for the lab to take on more projects. Further
 industry partnerships, Albertson says, are essential to allow the lab to offer
 professional experiences to even more students.
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“We basically give them a full work experience from the beginning, covering all
-the facets,” Albertson says. “Not only do they build technical skills, they
-build personal skills, they build professional skills and they have something
-tangible when they leave OSU other than a diploma.”*
+  *“We basically give them a full work experience from the beginning, covering
+  all the facets,” Albertson says. “Not only do they build technical skills,
+  they build personal skills, they build professional skills and they have
+  something tangible when they leave OSU other than a diploma.”*
 
 Evans says he didn't understand how much of an impact working at the OSL would
 have on his future until he started applying for internships and realized how
@@ -207,15 +160,10 @@ he’s grateful for the advantage of working as a system administrator while
 earning his degree, and looks forward to that experience bringing him more
 opportunities in the future.
 
-.. image:: /theme/img/blockquote.png
-  :scale: 80%
-  :align: left
-  :alt: Quote
-
-*“This really distinguishes us from other college students," Evans says. "They
-might have taken all the same classes we did, but we can put on our resume ‘I’ve
-already been doing this job for the past three years.’ That kind of trumps most
-things you can have on your resume at this point.”*
+  *“This really distinguishes us from other college students," Evans says. "They
+  might have taken all the same classes we did, but we can put on our resume
+  ‘I’ve already been doing this job for the past three years.’ That kind of
+  trumps most things you can have on your resume at this point.”*
 
 Media contact: Kayla Harr, harrk@osuosl.org
 
