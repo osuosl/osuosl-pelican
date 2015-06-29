@@ -1,5 +1,6 @@
 People
 ======
+:title: people
 :slug: about/people
 :menuparent: about
 
@@ -49,7 +50,7 @@ People
   justice.
 |
 | **Github Account:**
-| https://github.com/borcean
+| \https://github.com/borcean
 
 
 
@@ -108,7 +109,7 @@ People
   and two dogs.
 |
 | **Github Account:**
-| https://github.com/jordane
+| \https://github.com/jordane
 
 
 `Taylor Fahlman`_
@@ -127,7 +128,7 @@ People
   software and education to people around the world.
 |
 | **Github Account:**
-| https://github.com/falhmant
+| \https://github.com/falhmant
 
 
 
@@ -145,7 +146,7 @@ People
   the Protein Geometry Database. Megan enjoys reading in her spare time.
 |
 | **Github Account:**
-| https://github.com/MaraJade
+| \https://github.com/MaraJade
 
 
 
@@ -163,7 +164,7 @@ People
   time he likes to spend time with his wife and play with his son and daughter.
 |
 | **Github Account:**
-| https://github.com/matthewrsj
+| \https://github.com/matthewrsj
 
 
 `Ian Kronquist`_
@@ -181,7 +182,7 @@ People
   reading, programming and attending OSU Linux Users Group meetings.
 |
 | **Github Account:**
-| https://github.com/iankronquist
+| \https://github.com/iankronquist
 
 
 `Lee Leighton`_
@@ -239,7 +240,7 @@ People
   `lainchan`_, and enjoys contributing to open source projects.
 |
 | **Github Account:**
-| https://github.com/darkengine-io
+| \https://github.com/darkengine-io
 
 .. _lainchan: https://lainchan.org/
 
@@ -276,7 +277,7 @@ People
   the internet, and programs personal projects.
 |
 | **Github Account:**
-| https://github.com/LyonesGamer
+| \https://github.com/LyonesGamer
 
 
 `Elsie Phillips`_
@@ -332,7 +333,7 @@ People
   build a sustainable world for everyone.
 |
 | **Github Account:**
-| https://github.com/spectralsun
+| \https://github.com/spectralsun
 
 
 `Daniel Takamori`_
@@ -352,7 +353,7 @@ People
   school and travel back to Hungary in the future. His PGP ID is 062FD895
 |
 | **Github Account:**
-| https://github.com/dspt/
+| \https://github.com/dspt/
 
 
 
@@ -370,7 +371,7 @@ People
   Hearts and Skyrim are her favorites) draw, read, and sleep in her spare time.
 |
 | **Github Account:**
-| https://github.com/athai
+| \https://github.com/athai
 
 
 
@@ -406,7 +407,7 @@ People
   climb some of Oregon’s famous climbing rocks.
 |
 | **Github Account:**
-| http://github.com/tschuy
+| \http://github.com/tschuy
 
 
 `Rachel Turner`_
@@ -442,7 +443,7 @@ People
   number of solo open source projects and watches “Doctor Who.”
 |
 | **Github Account:**
-| https://github.com/mathuin
+| \https://github.com/mathuin
 
 
 `Elijah Voigt`_
@@ -461,7 +462,7 @@ People
   hoping to start his own software company.
 |
 | **Github Account:**
-| https://github.com/ElijahCaine
+| \https://github.com/ElijahCaine
 
 
 `Lucy Wyman`_
@@ -483,4 +484,4 @@ People
   developers.
 |
 | **Github Account:**
-| https://github.com/lucywyman
+| \https://github.com/lucywyman
