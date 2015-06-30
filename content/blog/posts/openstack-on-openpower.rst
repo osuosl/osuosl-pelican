@@ -1,5 +1,5 @@
 OpenStack on OpenPOWER
-######################
+======================
 :date: 2014-04-23 12:45
 :author: ramereth
 :slug: openstack-on-openpower

@@ -1,5 +1,5 @@
 Connecting at Beaver BarCamp 12
-###############################
+===============================
 :date: 2013-10-17 17:56
 :author: Melissa
 :slug: connecting-at-beaver-barcamp-12

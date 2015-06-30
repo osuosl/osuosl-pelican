@@ -1,5 +1,5 @@
 Development
-============
+===========
 :slug: services/development
 :menuparent: services
 
@@ -16,7 +16,7 @@ state and global levels.
 
 
 Development Projects
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 Our development solutions have served many open source projects as well as
 educational and government organizations looking to implement or extend open
@@ -25,7 +25,7 @@ worked on:
 
 
 `Ganeti Web Manager`_
-----------------------
+~~~~~~~~~~~~~~~~~~~~~
 
 Ganeti Web Manager (GWM) is a Web application developed at the OSL that allows
 administrators and clients access to administer and use Google’s open source
@@ -37,7 +37,7 @@ management for administrators truly simple.
 
 
 `Oregon Virtual School District`_
----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The Oregon Virtual School District is a program led by the Oregon Department of
 Education that, in cooperation with a consortium of virtual learning providers
@@ -49,7 +49,7 @@ State University is providing hosting and development resources for the project.
 
 
 `Protein Geometry Database`_
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The Protein Geometry Database (PGD) was developed by the OSU Open Source Lab for
 use by researchers in OSU's biochemistry department. PGD provides an online
@@ -60,7 +60,7 @@ surprisingly flexible graphical interface.
 
 
 `TriSano`_
-----------
+~~~~~~~~~~
 
 TriSano™ is an open source, citizen-focused surveillance and outbreak management
 system for infectious disease, environmental hazards and bioterrorism attacks.
@@ -71,8 +71,8 @@ project while working closely with the project's development team.
 .. _TriSano: http://www.trisano.org
 
 
-`One Laptop Per Child <http://www.laptop.org>`_
------------------------------------------------
+`One Laptop Per Child`_
+~~~~~~~~~~~~~~~~~~~~~~~
 
 OSL development staff have worked on multiple aspects of the One Laptop Per
 Child (OLPC) and Sugar projects. Two of the larger projects the OSL has worked
@@ -93,7 +93,7 @@ simplicity that children all around the world will be able to handle.
 
 
 `Pydra`_
---------
+~~~~~~~~
 
 Pydra is a distributed and parallel computing framework for Python. Pydra aims
 to provide an easy-to-use framework for writing and running distributed programs

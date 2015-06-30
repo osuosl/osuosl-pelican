@@ -12,7 +12,7 @@ Hosting
 
 
 Managed and Unmanaged Hosting
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------
 
 Our hosting support staff members understand open source software and, matched
 with our carrier-grade facilities, offer the perfect hosting environment for
@@ -30,7 +30,7 @@ required to do in your own infrastructure.
 
 
 To Request Hosting
-~~~~~~~~~~~~~~~~~~
+------------------
 
 The Open Source Lab provides hosting for projects and communities involved with
 open source software development. Typically we refer to the Open Source

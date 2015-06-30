@@ -1,11 +1,11 @@
 Sponsors
-=========
+========
 :slug: services/supercell/sponsors
 :menuparent: supercell
 
 
 `Facebook`_
-------------
+-----------
 
 .. image:: /theme/img/facebook_logo.png
     :height: 100px

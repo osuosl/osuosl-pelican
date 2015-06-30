@@ -10,7 +10,7 @@ Supercell
 
 
 What is Supercell?
-~~~~~~~~~~~~~~~~~~
+------------------
 
 The OSUOSL Supercell cluster is a service that will enable projects to do
 testing for their software on various operating systems. This generally falls
@@ -41,7 +41,7 @@ cluster is opened up for additional testers by completing our `Feedback Form`_.
 
 
 Which guest operating systems does Supercell support?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------
 
 The current supported guest operating systems are:
 
@@ -53,7 +53,7 @@ The current supported guest operating systems are:
 
 
 Do you have plans to support other guest operating systems?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------
 
 We hope to eventually add support for the following operating systems:
 
@@ -72,14 +72,14 @@ by more open source projects.
 
 
 What about testing on OSX?
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 
 We currently have two Mac OS X XServe machines available for testing software
 on. We only offer shared ssh accounts currently.
 
 
 Do you have plans to support architectures beyond x86?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------
 
 We hope to eventually support other architectures, but that is a long-term goal.
 Eventually, we would like to support the following architectures:
@@ -99,7 +99,7 @@ Eventually, we would like to support the following architectures:
 
 
 What kind of hardware is used for the Supercell cluster?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------------
 +---------------+-------------------+---------+--------------------+---------------+
 | Hardware Type | CPU               | RAM     | Disk               | Services      |
 +===============+===================+=========+====================+===============+
@@ -116,7 +116,7 @@ What kind of hardware is used for the Supercell cluster?
 
 
 Where can I learn more about the Supercell architecture?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------------
 
 To learn more about how the Open Source Lab uses Ganeti, check out Lance
 Albertson's `blog post`_ and his presentation from `LinuxCon 2010`_.
@@ -126,7 +126,7 @@ Albertson's `blog post`_ and his presentation from `LinuxCon 2010`_.
 
 
 When can I use Supercell?
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 Supercell is currently in early beta. We're rolling out the service to a few
 project partners for use, and we look forward to their feedback on how we can
@@ -135,7 +135,7 @@ soon.
 
 
 How much will it cost for open source projects to use Supercell?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------
 
 We have no plans to charge open source projects for using this service. The
 creation of Supercell was made possible through a generous monetary and hardware

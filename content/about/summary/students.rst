@@ -1,5 +1,5 @@
 Students
-=========
+========
 :slug: students
 :menuparent: about/summary
 
@@ -12,7 +12,7 @@ Students are highly involved in all our development and hosting activities,
 working in developer and system administrator positions.
 
 `Student Stories`_
---------------------------------------
+------------------
 Working on open source projects not only gives our students a great opportunity
 to use, understand and contribute to new technologies, but also puts their work
 out in the open where it can be seen and appreciated by users, developers and
@@ -23,7 +23,7 @@ have worked on, check out our `student stories`_.
 .. _student stories: /students/stories
 
 `Open Source on Campus`_
-------------------------------------------------
+------------------------
 The OSU Open Source Lab is not the only location on campus where students are
 exposed to open source software and practices. The `Open Source Education Lab`_
 and `Linux User Group`_ are both very active on campus and give students

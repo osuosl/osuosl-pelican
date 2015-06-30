@@ -1,5 +1,5 @@
 OSL Staff Mentors International Students Through Google Summer of Code
-######################################################################
+======================================================================
 :date: 2013-02-11 23:57
 :author: Kayla Harr
 :slug: osl-staff-mentors-international-students-through-google-summer-of-code
@@ -84,7 +84,7 @@ community.
 Media contact: Kayla Harr, harrk@osuosl.org To learn more about the students who
 gain real-world experience through the Open Source Lab, visit our `staff`_ page.
 More information about Google Summer of Code and how to participate can be found
-`here`_.
+at `Google Summer of Code`_.
 
 .. _staff: /about/people
-.. _here: http://code.google.com/soc/
+.. _Google Summer of Code: http://code.google.com/soc/

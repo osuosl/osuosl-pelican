@@ -5,7 +5,7 @@ Services
 
 
 `Hosting Services`_
---------------------
+-------------------
 
 .. _Hosting Services: /services/hosting/
 
@@ -45,7 +45,7 @@ services`_.
 
 
 `Supercell`_
--------------
+------------
 
 .. _Supercell: /services/supercell
 
