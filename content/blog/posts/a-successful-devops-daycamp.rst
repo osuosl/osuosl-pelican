@@ -1,5 +1,5 @@
 A Successful DevOps DayCamp
-###########################
+===========================
 :date: 2015-01-16 21:35
 :author: lucyw
 :slug: a-successful-devops-daycamp
@@ -49,5 +49,6 @@ industry and how to access them,” Murphy says.
 
 DevOps BootCamp takes place on Mondays from 7-9pm in the Kelley
 Engineering Center. Check out the
-`website <http://devopsbootcamp.osuosl.org/>`__ for more information!
+`website`_ for more information!
 
+.. _website: http://devopsbootcamp.osuosl.org/

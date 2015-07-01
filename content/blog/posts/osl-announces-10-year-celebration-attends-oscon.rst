@@ -1,50 +1,97 @@
 OSL Announces 10 year Celebration; Attends OSCON
-################################################
+================================================
 :date: 2013-07-30 21:03
 :author: Melissa
 :slug: osl-announces-10-year-celebration-attends-oscon
+:img: osl-announces-10.jpg
 
-Recently, I learned a useful Vim trick. One of our hosted clients has a
-Dokuwiki instance that we help manage, and they were having problems
-with a lot of spam user accounts being created. We added a CAPTCHA to
-the wiki to make it less convenient for new spammers to join, but there
-were a lot of bad accounts already existing. By "a lot," I mean there
-were 112,808 accounts listed in ``users.auth.php``, and only about a
-dozen real project personnel using the wiki on a regular basis.
+**The Open Source Lab (OSL) recently kicked off its 10 year celebration at the
+O’Reilly Open Source Conference in Portland July 23 - 26.**
 
-To clean it out, we decided the best course of action would be deleting
-every account except those with admin privileges, because most of the
-real humans were in the admin group and those who weren't could get the
-project leader to re-add their accounts. The benefit of clearing out a
-hundred thousand spammers would, in this case, outweigh the
-inconvenience of manually recreating a couple of real accounts.
+Over the last decade, the OSL has contributed much to the recent growth of the
+open source community and is using this milestone to reflect on its past
+accomplishments and to create goals for the future. By focusing to ‘Build The
+Future’ in three key areas: education, outreach, and research and
+infrastructure, the lab will strengthen its position as an open source leader.
 
-It turns out that DokuWiki's interface isn't set up to bulk delete users
-based on group membership -- one really shouldn't get that many spammers
-in to begin with, so this is an unusual case. However, I'm not forced to
-use only the graphical interface. DokuWiki's configurations are stored
-in .php files in ``/var/www/wikiname/conf``. Each line in
-``users.auth.php`` represents one user account, and is of the form
-``user:MD5password:Real Name:email:groups,comma,separated``.
+“It’s an important milestone," says OSL Director Lance Albertson. "We’re not
+just a small group of people anymore but a maturing organization with a smart
+staff of both students and non-students."
 
-I was familiar with the Vim command ``:d/pattern/g`` to delete all lines
-containing a pattern, but this time I needed to delete all lines that
-didn't have 'admin' in them. A little research revealed the command
-``:v/pattern/d``, which deletes all lines except those which match the
-pattern. Since many of the spammers (73 out of our 112,808, but still
-too many to hand-delete each) were using ``admin@`` email addresses,
-simply deleting all the lines without 'admin' in them wasn't good
-enough. Instead, since I know all the users in the admin group have
-their group permissions in the form "admin,user," the command that
-removed everyone except the admin users was ``:v/admin,user/d``.
+.. image:: /theme/img/buildthefuture-icons_0.gif
+   :scale: 100%
+   :align: center
+   :alt: Build the Future icons
 
-If you're newer to the Bash shell, you may be wondering how I got the
-specific numbers of spammers. I made a backup of the users.auth.php file
-before deleting users, just in case the client changed their mind. Since
-DokuWiki had automatically created a ``users.auth.php.bak``, I created
-my own backup of the users.auth with
-``cp users.auth.php users.auth.php.bak2``. Now I can look back at the
-user list full of spammers and say ``wc -l users.auth.php.bak2`` to
-count the lines in it (since there's one account per line) and
-``grep admin@ users.auth.php.bak2 | wc -l`` to count how many of the
-former users had ``admin@`` email addresses.
+Icons used to represent the three key areas of the Build The Future initiative:
+education, outreach and research & infrastructure.
+
+Further enabling the lab to expand its emphasis on education and fulfill its
+mission to promote open source technology globally, the OSL recently joined
+Oregon State’s School of Electrical Engineering and Computer Science (EECS).
+This joint effort will help the OSL and the EECS to expand open source
+curriculum, mentor an increasing number of students and promote open source
+technologies in the public sector.
+
+“It's exciting to see everybody having positive feedback for us moving into
+EECS," Albertson says. "Becoming part of the EECS department will enable us to
+reach out to more students interested in FOSS (free open source software) or the
+OSL than we normally do. Sky’s the limit on what we are capable of doing with
+this migration.”
+
+One of the many ways the OSL promotes open source education is by attending
+conferences, and as one of the largest open source conferences, OSCON provides
+many avenues to do so with over 3,900 attendees and 100-plus company booths. At
+the conference, the OSL hosted a booth in the nonprofit pavillion, and students
+and staff enjoyed interacting with members of the open source community.
+
+“OSCON was awesome," OSL Student Developer Geoff Corey says. "It was fun working
+the booth and telling people from different backgrounds what exactly we do at
+the OSL”.
+
+.. image:: /theme/img/oscontable2.jpg
+   :scale: 100%
+   :align: center
+   :alt: OSCON table
+
+"Hosted by the OSL" signs for the OSL's hosted communities.
+
+The OSL handed out placards to the many open source projects hosted by the lab
+that also had booths in the OSCON expo hall, visually demonstrating the impact
+the lab has on the open source community. In addition, several community members
+stopped by to meet the students and staff that support their projects,
+facilitate their downloads, or provide technical help.
+
+Corey thought “it was pretty cool how many big companies knew about us and our
+many services we provide to people showed how big our impact really is in the
+open source community”.
+
+On Tuesday night of the conference, the lab hosted an alumni party in
+appreciation of the students and staff that have contributed to the lab’s
+success with 50 guests showing up. Celebrating the OSL’s 10 year celebration,
+the OSL provided food along with a slideshow displaying the history of the lab
+and Squishymedia generously donated the use of their office space in downtown
+Portland to help in the party efforts. The atmosphere felt like a family
+reunion, as old friends reconnected and new employees were welcomed.
+
+.. image:: /theme/img/historyspeach.jpg
+   :scale: 100%
+   :align: center
+   :alt: Lance Albertson Speech
+
+OSL Director, Lance Albertson, and past OSL Project Manager, Greg Lund-Chaix,
+speak about the history of the OSL at the alumni party hosted at
+`Squishymedia`_.
+
+.. _Squishymedia: http://squishymedia.com/
+
+
+“Once you are a part of the OSL, you are always a part of it,” says Greg
+Lund-Chaix, Squishymedia tech lead and former OSL project manager. “I still use
+‘we’ when I refer to the lab.”
+
+According to Albertson, the slideshow made him think about what it took to
+create the OSL.
+
+"The OSL became what it is because we had the right connections, opportunities,
+people, and sponsors at the right time," Albertson says.
