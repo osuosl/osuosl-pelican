@@ -128,7 +128,7 @@ People
   software and education to people around the world.
 |
 | **Github Account:**
-| \https://github.com/falhmant
+| \https://github.com/fahlmant
 
 
 
