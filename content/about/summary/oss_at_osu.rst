@@ -2,7 +2,7 @@ Open Source at OSU
 ==================
 :slug: students/oss_at_osu
 
-.. image:: /theme/img/OSatOSU-Website.jpg
+.. image:: /images/OSatOSU-Website.jpg
    :scale: 80%
    :align: center
    :alt: Open Source at OSU
@@ -19,7 +19,7 @@ help to promote open source on campus.
 .. _Linux Users Group: http://lug.oregonstate.edu/
 
 
-.. image:: /theme/img/OSatOSU-Website-small.jpg
+.. image:: /images/OSatOSU-Website-small.jpg
    :scale: 80%
    :align: left
    :alt: OSU LUG

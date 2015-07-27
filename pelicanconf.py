@@ -22,8 +22,6 @@ PAGINATED_DIRECT_TEMPLATES = ['blog']
 
 THEME = 'dougfir-pelican-theme'
 
-#STATIC_PATHS = ['img']
-#STATIC_SAVE_AS = ['theme/img']
 CATEGORY_URL = 'blog/{slug}'
 CATEGORY_SAVE_AS = 'blog/index.html'
 ARTICLE_PATHS = ['blog/posts/']

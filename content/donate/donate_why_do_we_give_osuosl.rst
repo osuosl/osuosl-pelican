@@ -19,7 +19,7 @@ provides world-class services that enable collaboration among millions of users
 globally. Google is proud to continue its support of such an innovative
 program.”*
 
-.. image:: /theme/img/angela_byron.jpg
+.. image:: /images/angela_byron.jpg
     :scale: 50%
     :align: left
     :alt: Angela Byron
@@ -38,7 +38,7 @@ they do, not just in hosting and supporting the infrastructure for Drupal, but
 for many other key open source projects and communities. Rock on!"*
 
 
-.. image:: /theme/img/warthog9.jpg
+.. image:: /images/warthog9.jpg
     :scale: 50%
     :align: left
     :alt: John Hawley ("Warthog9")

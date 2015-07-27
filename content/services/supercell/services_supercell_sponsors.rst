@@ -7,7 +7,7 @@ Sponsors
 `Facebook`_
 -----------
 
-.. image:: /theme/img/facebook_logo.png
+.. image:: /images/facebook_logo.png
     :height: 100px
     :width: 300px
     :alt: Facebook

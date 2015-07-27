@@ -40,7 +40,7 @@ software’s usability and to future development.
   not only makes our work easier in Ganeti Web Manager, but will hopefully
   inform and improve his future work in any type of programming.”*
 
-.. image:: /theme/img/PiotrAtTheZoo.JPG
+.. image:: /images/PiotrAtTheZoo.JPG
   :scale: 100%
   :alt: Piotr at the Zoo
 

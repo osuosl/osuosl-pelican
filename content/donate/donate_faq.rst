@@ -97,7 +97,7 @@ no-cost. We rely on donations to cover the expenses we incur providing these
 valuable services. Below, you can find a pie chart giving a general idea of our
 budget for the 2009-2010 fiscal year.
 
-.. image:: /theme/img/osl_budget.png
+.. image:: /images/osl_budget.png
     :align: center
     :scale: 70%
     :alt: OSL Budget
