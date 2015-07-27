@@ -46,6 +46,7 @@ permitted. Sizing should be the only thing changed.
 
 .. image:: /theme/img/osllogo-white_0.png
     :align: center
+    :class: align-center-white
     :scale: 80%
     :alt: White logo
 
