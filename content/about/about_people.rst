@@ -8,7 +8,7 @@ People
 `Lance Albertson`_
 ------------------
 
-.. image:: /theme/img/lalbertson.jpg
+.. image:: /images/lalbertson.jpg
     :scale: 50%
     :align: right
     :alt: Lance Albertson
@@ -36,7 +36,7 @@ People
 `Jeff Borcean`_
 ---------------
 
-.. image:: /theme/img/jborcean.jpg
+.. image:: /images/jborcean.jpg
     :scale: 50%
     :align: right
     :alt: Jeff Borcean
@@ -57,7 +57,7 @@ People
 `Justin Brown`_
 ---------------
 
-.. image:: /theme/img/jbrown.jpg
+.. image:: /images/jbrown.jpg
     :scale: 50%
     :align: right
     :alt: Justin Brown
@@ -73,7 +73,7 @@ People
 `Justin Dugger`_
 ----------------
 
-.. image:: /theme/img/jdugger.jpg
+.. image:: /images/jdugger.jpg
     :scale: 50%
     :align: right
     :alt: Justin Dugger
@@ -94,7 +94,7 @@ People
 `Jordan Evans`_
 ---------------
 
-.. image:: /theme/img/jevans.jpg
+.. image:: /images/jevans.jpg
     :scale: 50%
     :align: right
     :alt: Jordan Evans
@@ -115,7 +115,7 @@ People
 `Taylor Fahlman`_
 ------------------
 
-.. image:: /theme/img/tfahlman.jpg
+.. image:: /images/tfahlman.jpg
     :scale: 50%
     :align: right
     :alt: Taylor Fahlman
@@ -135,7 +135,7 @@ People
 `Megan Goossens`_
 -----------------
 
-.. image:: /theme/img/mgoossens.jpg
+.. image:: /images/mgoossens.jpg
     :scale: 50%
     :align: right
     :alt: Megan Goossens
@@ -153,7 +153,7 @@ People
 `Matthew Johnson`_
 ------------------
 
-.. image:: /theme/img/mjohnson.jpg
+.. image:: /images/mjohnson.jpg
     :scale: 50%
     :align: right
     :alt: Matthew Johnson
@@ -170,7 +170,7 @@ People
 `Ian Kronquist`_
 ----------------
 
-.. image:: /theme/img/ikronquist.jpg
+.. image:: /images/ikronquist.jpg
     :scale: 50%
     :align: right
     :alt: Ian Kronquist
@@ -188,7 +188,7 @@ People
 `Lee Leighton`_
 ---------------
 
-.. image:: /theme/img/lleighton.jpg
+.. image:: /images/lleighton.jpg
     :scale: 50%
     :align: right
     :alt: Lee Leighton
@@ -205,7 +205,7 @@ People
 `Ken Lett`_
 -----------
 
-.. image:: /theme/img/klett.jpg
+.. image:: /images/klett.jpg
     :scale: 50%
     :align: right
     :alt: Ken Lett
@@ -227,7 +227,7 @@ People
 `Simon McFarlane`_
 ------------------
 
-.. image:: /theme/img/smcfarlane.jpg
+.. image:: /images/smcfarlane.jpg
     :scale: 50%
     :align: right
     :alt: Megan Goossens
@@ -248,7 +248,7 @@ People
 `Anthony Miller`_
 -----------------
 
-.. image:: /theme/img/amiller.jpg
+.. image:: /images/amiller.jpg
     :scale: 50%
     :align: right
     :alt: Anthony Miller
@@ -265,7 +265,7 @@ People
 `Tristan Patch`_
 ------------------
 
-.. image:: /theme/img/tpatch.jpg
+.. image:: /images/tpatch.jpg
     :scale: 50%
     :align: right
     :alt: Tristan Patch
@@ -283,7 +283,7 @@ People
 `Elsie Phillips`_
 -----------------
 
-.. image:: /theme/img/ephillips.jpg
+.. image:: /images/ephillips.jpg
     :scale: 50%
     :align: right
     :alt: Elsie Phillips
@@ -300,7 +300,7 @@ People
 `Sean Rettig`_
 --------------
 
-.. image:: /theme/img/srettig.jpg
+.. image:: /images/srettig.jpg
     :scale: 50%
     :align: right
     :alt: Sean Rettig
@@ -319,7 +319,7 @@ People
 `Garrett Seward`_
 -----------------
 
-.. image:: /theme/img/gseward.jpg
+.. image:: /images/gseward.jpg
     :scale: 50%
     :align: right
     :alt: Garrett Seward
@@ -339,7 +339,7 @@ People
 `Daniel Takamori`_
 ------------------
 
-.. image:: /theme/img/dtakamori.jpg
+.. image:: /images/dtakamori.jpg
     :scale: 50%
     :align: right
     :alt: Daniel Takamori
@@ -360,7 +360,7 @@ People
 `Aileen Thai`_
 ------------------
 
-.. image:: /theme/img/athai.jpg
+.. image:: /images/athai.jpg
     :scale: 50%
     :align: right
     :alt: Aileen Thai
@@ -378,7 +378,7 @@ People
 `Andy Tolvstad`_
 ----------------
 
-.. image:: /theme/img/atolvstad.jpg
+.. image:: /images/atolvstad.jpg
     :scale: 50%
     :align: right
     :alt: Andy Tolvstad
@@ -394,7 +394,7 @@ People
 `Evan Tschuy`_
 --------------
 
-.. image:: /theme/img/etschuy.jpg
+.. image:: /images/etschuy.jpg
     :scale: 50%
     :align: right
     :alt: Evan Tschuy
@@ -413,7 +413,7 @@ People
 `Rachel Turner`_
 ----------------
 
-.. image:: /theme/img/rturner.jpg
+.. image:: /images/rturner.jpg
     :scale: 50%
     :align: right
     :alt: Rachel Turner
@@ -430,7 +430,7 @@ People
 `Jack Twilley`_
 ---------------
 
-.. image:: /theme/img/jtwilley.jpg
+.. image:: /images/jtwilley.jpg
     :scale: 50%
     :align: right
     :alt: Jack Twilley
@@ -449,7 +449,7 @@ People
 `Elijah Voigt`_
 ----------------
 
-.. image:: /theme/img/evoigt.jpg
+.. image:: /images/evoigt.jpg
     :scale: 50%
     :align: right
     :alt: Eli Voigt
@@ -468,7 +468,7 @@ People
 `Lucy Wyman`_
 -------------
 
-.. image:: /theme/img/lwyman.jpg
+.. image:: /images/lwyman.jpg
     :scale: 50%
     :align: right
     :alt: Lucy Wyman

@@ -4,7 +4,7 @@ Hosting
 :menuparent: services
 :menuname: hosting
 
-.. image:: /theme/img/Hosting.jpg
+.. image:: /images/Hosting.jpg
    :width: 358.5px
    :height: 221px
    :align: right

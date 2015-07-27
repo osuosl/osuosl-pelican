@@ -3,7 +3,7 @@ Students
 :slug: students
 :menuparent: about/summary
 
-.. image:: /theme/img/studex.jpg
+.. image:: /images/studex.jpg
    :scale: 80%
    :alt: Student Experience at OSUOSL
 

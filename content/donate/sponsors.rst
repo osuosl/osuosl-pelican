@@ -9,7 +9,7 @@ Platinum Sponsors
 Below are groups who support the Open Source Lab through annual contributions of
 *$100,000* or more.
 
-.. image:: /theme/img/Google.gif
+.. image:: /images/Google.gif
     :scale: 100%
     :alt: Google Logo
     :target: http://www.google.com/
@@ -31,7 +31,7 @@ source research and development through this program.
 .. _code.google.com: https://code.google.com/
 
 
-.. image:: /theme/img/Schooner_Logo.jpg
+.. image:: /images/Schooner_Logo.jpg
     :scale: 100%
     :alt: Schooner Logo
     :target: http://www.sandisk.com/products/enterprise-software/membrain/
@@ -52,7 +52,7 @@ MySQL, offering breakthrough performance, scalability and reliability while
 substantially decreasing overall power consumption.
 
 
-.. image:: /theme/img/tds_logo.jpg
+.. image:: /images/tds_logo.jpg
     :scale: 100%
     :alt: TDS Logo
     :target: http://tdstelecom.com/
@@ -73,7 +73,7 @@ Corvallis, Ore.
 Gold Sponsors
 ~~~~~~~~~~~~~
 
-.. image:: /theme/img/csi_logo_0.png
+.. image:: /images/csi_logo_0.png
     :scale: 100%
     :alt: CSI Logo
     :target: http://www.csinitiative.com/
@@ -86,7 +86,7 @@ CSI introduces a market-changing process that applies open source methodologies
 to building collaboratively developed software.
 
 
-.. image:: /theme/img/facebook_logo_gold_sponsor.png
+.. image:: /images/facebook_logo_gold_sponsor.png
     :scale: 100%
     :alt: Facebook Logo
     :target: http://facebook.com/
@@ -106,7 +106,7 @@ sharing of information through the social graph.
 Silver Sponsors
 ~~~~~~~~~~~~~~~
 
-.. image:: /theme/img/lf_logo_1.png
+.. image:: /images/lf_logo_1.png
     :scale: 100%
     :alt: Linux Foundation Logo
 
@@ -120,7 +120,7 @@ community and represents Linux in the press.
 Bronze Sponsors
 ~~~~~~~~~~~~~~~
 
-.. image:: /theme/img/AS_posC_tag_web_150.jpg
+.. image:: /images/AS_posC_tag_web_150.jpg
     :scale: 100%
     :alt: ActiveState Logo
 
@@ -132,7 +132,7 @@ ActiveTcl − are renowned for their quality and relied upon by companies and
 developers worldwide.
 
 
-.. image:: /theme/img/civicrm_logo_text.gif
+.. image:: /images/civicrm_logo_text.gif
     :scale: 100%
     :alt: CiviCRM Logo
 
@@ -146,7 +146,7 @@ tools to connect, communicate with and activate your supporters and
 constituents.
 
 
-.. image:: /theme/img/ibm-logo_small.jpg
+.. image:: /images/ibm-logo_small.jpg
     :scale: 100%
     :alt: IBM Logo
 

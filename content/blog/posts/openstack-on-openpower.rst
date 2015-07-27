@@ -28,7 +28,7 @@ OpenPOWER machines which support KVM and little endian.
 .. _Supercell infrastructure: http://osuosl.org/services/supercell
 
 
-.. image:: /theme/img/ppc64-openstack.png
+.. image:: /images/ppc64-openstack.png
    :scale: 100%
    :align: center
    :alt: OpenStack running Fedora Guest

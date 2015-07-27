@@ -17,7 +17,7 @@ when a health professional has a report to make, he or she gets a form that is
 separated into different concerns. The information is later accessible and
 editable to anyone with clearance to use the system.
 
-.. image:: /theme/img/josh_trisano2.jpg
+.. image:: /images/josh_trisano2.jpg
    :scale: 80%
    :alt: Josh Schonstal - TriSano
 

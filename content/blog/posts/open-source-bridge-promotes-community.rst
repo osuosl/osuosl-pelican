@@ -49,7 +49,7 @@ Experience`_.
 session topics,” Albertson says. “I noticed a wider variety of topics this year
 than in the past--from advanced technical to sociological topics.”
 
-.. image:: /theme/img/lancepresentation.jpg
+.. image:: /images/lancepresentation.jpg
    :scale: 100%
    :align: center
    :alt: Lance Albertson Presentation

@@ -4,7 +4,7 @@ Development
 :menuparent: services
 
 
-.. image:: /theme/img/developer.jpg
+.. image:: /images/developer.jpg
     :scale: 50%
     :align: right
     :alt: OSUOSL Developer

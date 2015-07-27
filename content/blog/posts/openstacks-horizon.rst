@@ -39,7 +39,7 @@ layouts and multiple step modal windows for performing actions.
 
 .. _Horizon Github: https://github.com/openstack/horizon/
 
-.. image:: /theme/img/openstack-screenshot.png
+.. image:: /images/openstack-screenshot.png
    :scale: 100%
    :align: center
    :alt: Openstack Screenshot

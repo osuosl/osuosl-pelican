@@ -10,7 +10,7 @@ Student Stories
 
 Submitted by Kayla Harr on August 2, 2012
 
-.. image:: /theme/img/MikeRacksPicweb.jpg
+.. image:: /images/MikeRacksPicweb.jpg
    :scale: 80%
    :alt: Student Experience at OSUOSL
 

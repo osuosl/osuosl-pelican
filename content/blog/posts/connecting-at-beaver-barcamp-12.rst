@@ -62,7 +62,7 @@ make it up as they go along, allowing students and professionals to practice
 impromptu speaking. Russ Earl, a software engineer with Intel, attended Beaver
 BarCamp for the first time and participated in PowerPoint karaoke.
 
-.. image:: /theme/img/bbc12-blog-post.jpg
+.. image:: /images/bbc12-blog-post.jpg
    :scale: 100%
    :align: center
    :alt: Beaver Bar Camp
