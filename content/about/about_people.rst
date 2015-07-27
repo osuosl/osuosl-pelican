@@ -1,6 +1,6 @@
 People
 ======
-:title: people
+:title: People
 :slug: about/people
 :menuparent: about
 
@@ -25,6 +25,8 @@ People
   Infallible Collective`_.
 |
 | Lance can be reached at lance-at-osuosl-dot-org
+|
+|
 
 .. _Lance: http://lancealbertson.com
 .. _Gentoo Linux: http://gentoo.org
@@ -51,7 +53,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/borcean
-
+|
+|
 
 
 `Justin Brown`_
@@ -67,7 +70,8 @@ People
   major, Justin enjoys programming, games, mountain biking and camping. Justin
   prides himself in documenting his work, and in the future he hopes to develop
   libraries and tools for game developers.
-
+|
+|
 
 
 `Justin Dugger`_
@@ -88,7 +92,8 @@ People
   Group at KSU, and he has extensive experience with Java programming. Through
   the OSL, Justin is excited to be part of the wider open source community and
   to participate in outreach and development.
-
+|
+|
 
 
 `Jordan Evans`_
@@ -110,7 +115,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/jordane
-
+|
+|
 
 `Taylor Fahlman`_
 ------------------
@@ -129,7 +135,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/falhmant
-
+|
+|
 
 
 `Megan Goossens`_
@@ -147,7 +154,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/MaraJade
-
+|
+|
 
 
 `Matthew Johnson`_
@@ -165,7 +173,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/matthewrsj
-
+|
+|
 
 `Ian Kronquist`_
 ----------------
@@ -183,7 +192,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/iankronquist
-
+|
+|
 
 `Lee Leighton`_
 ---------------
@@ -199,7 +209,8 @@ People
   infrastructure and hopes to contribute to Chef. In his spare time, Lee attends
   OSU Linux Users Group meetings, and enjoys reading as well as a good cup of
   coffee.
-
+|
+|
 
 
 `Ken Lett`_
@@ -221,7 +232,8 @@ People
   perspective as an OSU staff member and alumnus to benefit the lab. Ken's
   personal interests are as varied as the technical projects he has worked on;
   he is a blacksmith as well as a woodworker and enjoys writing fiction.
-
+|
+|
 
 
 `Simon McFarlane`_
@@ -241,6 +253,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/darkengine-io
+|
+|
 
 .. _lainchan: https://lainchan.org/
 
@@ -259,7 +273,8 @@ People
   LAN/WAN administration and joined the OSL to gain hands-on experience with
   real-world applications and issues. Anthony enjoys video games and playing
   drums in his free time.
-
+|
+|
 
 
 `Tristan Patch`_
@@ -278,7 +293,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/LyonesGamer
-
+|
+|
 
 `Elsie Phillips`_
 -----------------
@@ -294,7 +310,8 @@ People
   print marketing materials, and representing the OSL at events. Elsie enjoys
   reading, cooking, photography and playing trivial pursuit in her spare time.
   After she graduates, Elsie hopes to travel.
-
+|
+|
 
 
 `Sean Rettig`_
@@ -309,8 +326,6 @@ People
 | Sean is studying computer systems and joined the OSL in June 2012. He works on
   many projects at the lab but particularly enjoys working with the Apache Web
   server. In his free time, he works on his own PC gaming community website.
-|
-|
 |
 |
 
@@ -334,7 +349,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/spectralsun
-
+|
+|
 
 `Daniel Takamori`_
 ------------------
@@ -354,7 +370,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/dspt/
-
+|
+|
 
 
 `Aileen Thai`_
@@ -372,7 +389,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/athai
-
+|
+|
 
 
 `Andy Tolvstad`_
@@ -388,7 +406,8 @@ People
   systems administrator. In his spare time, Andy arranges a cappella songs for
   small groups, plays music and watches Netflix. Andy enjoys playing Skyrim for
   PC and is especially interested in Web development.
-
+|
+|
 
 
 `Evan Tschuy`_
@@ -408,7 +427,8 @@ People
 |
 | **Github Account:**
 | \http://github.com/tschuy
-
+|
+|
 
 `Rachel Turner`_
 ----------------
@@ -424,7 +444,8 @@ People
   OSL. Rachel is a member of the OSU Speech and Debate team and hopes to write
   speeches once she graduates. In her spare time, she enjoys reading, watching
   movies and traveling.
-
+|
+|
 
 
 `Jack Twilley`_
@@ -444,7 +465,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/mathuin
-
+|
+|
 
 `Elijah Voigt`_
 ----------------
@@ -463,7 +485,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/ElijahCaine
-
+|
+|
 
 `Lucy Wyman`_
 -------------
@@ -485,3 +508,5 @@ People
 |
 | **Github Account:**
 | \https://github.com/lucywyman
+|
+| 
