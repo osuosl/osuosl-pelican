@@ -8,6 +8,7 @@ SITEURL = ''
 PATH = 'content'
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_DATE_FORMAT = '%B %e, %Y'
+FORM_REDIRECT_URL = 'http://www.osuosl.org'
 
 DEFAULT_LANG = u'en'
 
@@ -21,8 +22,8 @@ PAGINATED_DIRECT_TEMPLATES = ['blog']
 
 THEME = 'dougfir-pelican-theme'
 
-STATIC_PATHS = ['img']
-STATIC_SAVE_AS = ['theme/img']
+STATIC_PATHS = ['images']
+STATIC_SAVE_AS = ['theme/images']
 CATEGORY_URL = 'blog/{slug}'
 CATEGORY_SAVE_AS = 'blog/index.html'
 ARTICLE_PATHS = ['blog/posts/']
