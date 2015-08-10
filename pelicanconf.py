@@ -17,7 +17,7 @@ FEED_ALL_ATOM = None
 
 DEFAULT_PAGINATION = 5
 
-DIRECT_TEMPLATES = ['index', 'request-hosting/index']
+DIRECT_TEMPLATES = ['index', 'request-hosting/index', 'search/index']
 PAGINATED_DIRECT_TEMPLATES = ['blog']
 
 THEME = 'dougfir-pelican-theme'
