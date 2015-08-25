@@ -3,6 +3,7 @@ A History of Development
 :date: 2009-02-05
 :author: OSUOSL Admin
 :slug: students/stories/trisano
+:slug: blog/trisano
 
 Submitted by OSUOSL Admin on February 5, 2009
 
