@@ -8,7 +8,6 @@ SITEURL = ''
 PATH = 'content'
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_DATE_FORMAT = '%B %e, %Y'
-FORM_REDIRECT_URL = 'http://www.osuosl.org'
 
 DEFAULT_LANG = u'en'
 

@@ -8,13 +8,15 @@ Request Hosting
       <div class="region region-content">
         <div id="block-system-main" class="block block-system">
           <div class="content">
+          <!-- Formsender error script -->
+          <script src="../theme/js/formsender-error.js"></script>
             <div class="field field-name-body field-type-text-with-summary field-label-hidden">
               <div class="field-items">
                 <div class="field-item even"><p>Please give us a few days or a week to discuss and respond to your request. This form will send an email to our support ticket system.</p>
                 </div>
               </div>
             </div>
-            <form class="webform-client-form" enctype="multipart/form-data" action="" method=post id="webform-client-form-535" accept-charset="UTF-8">
+            <form class="webform-client-form" enctype="multipart/form-data" action="http://formsender.osuosl.org:80" method=post id="webform-client-form-535" accept-charset="UTF-8">
               <div class="form-item webform-component webform-component-textfield" id="webform-component-name">
                 <label for="edit-submitted-name">Name <span class="form-required" title="This field is required.">*</span></label>
                 <input type="text" id="edit-submitted-name" name="name" value="" size="60" maxlength="128" class="form-text required" />
@@ -61,6 +63,15 @@ Request Hosting
                 <input type="text" id="edit-submitted-contributions" name="contributions" value="" size="60" maxlength="128" class="form-text required" />
                 <div class="description">We realize that most projects are not in a position to help cover the costs, but any contribution certainly helps!</div>
               </div>
+
+              <!-- Formsender Settings -->
+              <input type="hidden" name="last_name" value="" />
+              <input type="hidden" name="tokn" value="15674hsda//*q23%^13jnxccv3ds54sa4g4sa532323!OoRdsfISDIdks38*(dsfjk)aS" />
+              <!-- The following must be set to http://www.osuosl.org/request-hosting in production -->
+              <input type="hidden" name="redirect" value="http://localhost:8000/request-hosting" />
+              <input type="hidden" name="mail_subject" value="FORM: New Hosting Request" />
+              <!-- /Formsender Settings -->
+
               <div class="form-actions form-wrapper" id="edit-actions">
                 <input type="submit" id="edit-submit" name="op" value="Submit" class="form-submit" />
               </div>
