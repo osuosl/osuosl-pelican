@@ -49,7 +49,3 @@ permitted. Sizing should be the only thing changed.
     :class: align-center-white
     :scale: 80%
     :alt: White logo
-
-Download our logos in `EPS`_ form.
-
-.. _EPS: /sites/default/files/documents/OSUOSL\ Logos_0.eps
