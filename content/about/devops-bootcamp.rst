@@ -15,7 +15,7 @@ interested in DevOps.
 .. _School of Electrical Engineering and Computer Science: http://eecs.oregonstate.edu
 .. _OSU Linux Users Group: http://lug.oregonstate.edu
 
-.. image:: /theme/img/dobc2.jpg
+.. image:: /images/dobc2.jpg
     :align: right
     :scale: 80%
     :alt: DevOps BootCamp in action

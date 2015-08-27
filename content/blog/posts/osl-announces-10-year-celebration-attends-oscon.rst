@@ -18,7 +18,7 @@ infrastructure, the lab will strengthen its position as an open source leader.
 just a small group of people anymore but a maturing organization with a smart
 staff of both students and non-students."
 
-.. image:: /theme/img/buildthefuture-icons_0.gif
+.. image:: /images/buildthefuture-icons_0.gif
    :scale: 100%
    :align: center
    :alt: Build the Future icons
@@ -49,7 +49,7 @@ and staff enjoyed interacting with members of the open source community.
 the booth and telling people from different backgrounds what exactly we do at
 the OSL”.
 
-.. image:: /theme/img/oscontable2.jpg
+.. image:: /images/oscontable2.jpg
    :scale: 100%
    :align: center
    :alt: OSCON table
@@ -74,7 +74,7 @@ and Squishymedia generously donated the use of their office space in downtown
 Portland to help in the party efforts. The atmosphere felt like a family
 reunion, as old friends reconnected and new employees were welcomed.
 
-.. image:: /theme/img/historyspeach.jpg
+.. image:: /images/historyspeach.jpg
    :scale: 100%
    :align: center
    :alt: Lance Albertson Speech

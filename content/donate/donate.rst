@@ -19,7 +19,7 @@ Make a Gift to the OSU Open Source Lab
 *Once you click the "Make a Gift" button, you will be redirected to the OSU
 Foundation's website to process your donation.*
 
-.. image:: /theme/img/grey-campaign.png
+.. image:: /images/grey-campaign.png
     :scale: 10%
     :align: right
     :alt: Campaign for OSU

@@ -3,7 +3,7 @@ Government Open Source Conference
 :slug: about/goscon
 :menuparent: about
 
-.. image:: /theme/img/opendocs_panel.jpg
+.. image:: /images/opendocs_panel.jpg
    :scale: 80%
    :align: right
    :alt: OpenDocs Panel
@@ -24,7 +24,7 @@ staff they rely on to evaluate, plan and resource, and oversee implementation of
 enterprise-class technology solutions. The nonprofit GOSCON was established in
 October of 2005 as a platform for education, information and collaboration.
 
-.. image:: /theme/img/osl_goscon_table.jpg
+.. image:: /images/osl_goscon_table.jpg
    :scale: 80%
    :align: right
    :alt: OSL GOSCON Table

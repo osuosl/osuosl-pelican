@@ -1,6 +1,6 @@
 People
 ======
-:title: people
+:title: People
 :slug: about/people
 :menuparent: about
 
@@ -8,7 +8,7 @@ People
 `Lance Albertson`_
 ------------------
 
-.. image:: /theme/img/lalbertson.jpg
+.. image:: /images/lalbertson.jpg
     :scale: 50%
     :align: right
     :alt: Lance Albertson
@@ -25,6 +25,8 @@ People
   Infallible Collective`_.
 |
 | Lance can be reached at lance-at-osuosl-dot-org
+|
+|
 
 .. _Lance: http://lancealbertson.com
 .. _Gentoo Linux: http://gentoo.org
@@ -36,7 +38,7 @@ People
 `Jeff Borcean`_
 ---------------
 
-.. image:: /theme/img/jborcean.jpg
+.. image:: /images/jborcean.jpg
     :scale: 50%
     :align: right
     :alt: Jeff Borcean
@@ -51,13 +53,14 @@ People
 |
 | **Github Account:**
 | \https://github.com/borcean
-
+|
+|
 
 
 `Justin Brown`_
 ---------------
 
-.. image:: /theme/img/jbrown.jpg
+.. image:: /images/jbrown.jpg
     :scale: 50%
     :align: right
     :alt: Justin Brown
@@ -67,13 +70,14 @@ People
   major, Justin enjoys programming, games, mountain biking and camping. Justin
   prides himself in documenting his work, and in the future he hopes to develop
   libraries and tools for game developers.
-
+|
+|
 
 
 `Justin Dugger`_
 ----------------
 
-.. image:: /theme/img/jdugger.jpg
+.. image:: /images/jdugger.jpg
     :scale: 50%
     :align: right
     :alt: Justin Dugger
@@ -88,13 +92,14 @@ People
   Group at KSU, and he has extensive experience with Java programming. Through
   the OSL, Justin is excited to be part of the wider open source community and
   to participate in outreach and development.
-
+|
+|
 
 
 `Jordan Evans`_
 ---------------
 
-.. image:: /theme/img/jevans.jpg
+.. image:: /images/jevans.jpg
     :scale: 50%
     :align: right
     :alt: Jordan Evans
@@ -110,12 +115,13 @@ People
 |
 | **Github Account:**
 | \https://github.com/jordane
-
+|
+|
 
 `Taylor Fahlman`_
 ------------------
 
-.. image:: /theme/img/tfahlman.jpg
+.. image:: /images/tfahlman.jpg
     :scale: 50%
     :align: right
     :alt: Taylor Fahlman
@@ -129,13 +135,14 @@ People
 |
 | **Github Account:**
 | \https://github.com/fahlmant
-
+|
+|
 
 
 `Megan Goossens`_
 -----------------
 
-.. image:: /theme/img/mgoossens.jpg
+.. image:: /images/mgoossens.jpg
     :scale: 50%
     :align: right
     :alt: Megan Goossens
@@ -147,13 +154,14 @@ People
 |
 | **Github Account:**
 | \https://github.com/MaraJade
-
+|
+|
 
 
 `Matthew Johnson`_
 ------------------
 
-.. image:: /theme/img/mjohnson.jpg
+.. image:: /images/mjohnson.jpg
     :scale: 50%
     :align: right
     :alt: Matthew Johnson
@@ -165,12 +173,13 @@ People
 |
 | **Github Account:**
 | \https://github.com/matthewrsj
-
+|
+|
 
 `Ian Kronquist`_
 ----------------
 
-.. image:: /theme/img/ikronquist.jpg
+.. image:: /images/ikronquist.jpg
     :scale: 50%
     :align: right
     :alt: Ian Kronquist
@@ -183,12 +192,13 @@ People
 |
 | **Github Account:**
 | \https://github.com/iankronquist
-
+|
+|
 
 `Lee Leighton`_
 ---------------
 
-.. image:: /theme/img/lleighton.jpg
+.. image:: /images/lleighton.jpg
     :scale: 50%
     :align: right
     :alt: Lee Leighton
@@ -199,13 +209,14 @@ People
   infrastructure and hopes to contribute to Chef. In his spare time, Lee attends
   OSU Linux Users Group meetings, and enjoys reading as well as a good cup of
   coffee.
-
+|
+|
 
 
 `Ken Lett`_
 -----------
 
-.. image:: /theme/img/klett.jpg
+.. image:: /images/klett.jpg
     :scale: 50%
     :align: right
     :alt: Ken Lett
@@ -221,13 +232,14 @@ People
   perspective as an OSU staff member and alumnus to benefit the lab. Ken's
   personal interests are as varied as the technical projects he has worked on;
   he is a blacksmith as well as a woodworker and enjoys writing fiction.
-
+|
+|
 
 
 `Simon McFarlane`_
 ------------------
 
-.. image:: /theme/img/smcfarlane.jpg
+.. image:: /images/smcfarlane.jpg
     :scale: 50%
     :align: right
     :alt: Megan Goossens
@@ -241,6 +253,8 @@ People
 |
 | **Github Account:**
 | \https://github.com/darkengine-io
+|
+|
 
 .. _lainchan: https://lainchan.org/
 
@@ -248,7 +262,7 @@ People
 `Anthony Miller`_
 -----------------
 
-.. image:: /theme/img/amiller.jpg
+.. image:: /images/amiller.jpg
     :scale: 50%
     :align: right
     :alt: Anthony Miller
@@ -259,13 +273,14 @@ People
   LAN/WAN administration and joined the OSL to gain hands-on experience with
   real-world applications and issues. Anthony enjoys video games and playing
   drums in his free time.
-
+|
+|
 
 
 `Tristan Patch`_
 ------------------
 
-.. image:: /theme/img/tpatch.jpg
+.. image:: /images/tpatch.jpg
     :scale: 50%
     :align: right
     :alt: Tristan Patch
@@ -278,12 +293,13 @@ People
 |
 | **Github Account:**
 | \https://github.com/LyonesGamer
-
+|
+|
 
 `Elsie Phillips`_
 -----------------
 
-.. image:: /theme/img/ephillips.jpg
+.. image:: /images/ephillips.jpg
     :scale: 50%
     :align: right
     :alt: Elsie Phillips
@@ -294,13 +310,14 @@ People
   print marketing materials, and representing the OSL at events. Elsie enjoys
   reading, cooking, photography and playing trivial pursuit in her spare time.
   After she graduates, Elsie hopes to travel.
-
+|
+|
 
 
 `Sean Rettig`_
 --------------
 
-.. image:: /theme/img/srettig.jpg
+.. image:: /images/srettig.jpg
     :scale: 50%
     :align: right
     :alt: Sean Rettig
@@ -311,15 +328,13 @@ People
   server. In his free time, he works on his own PC gaming community website.
 |
 |
-|
-|
 
 
 
 `Garrett Seward`_
 -----------------
 
-.. image:: /theme/img/gseward.jpg
+.. image:: /images/gseward.jpg
     :scale: 50%
     :align: right
     :alt: Garrett Seward
@@ -334,12 +349,13 @@ People
 |
 | **Github Account:**
 | \https://github.com/spectralsun
-
+|
+|
 
 `Daniel Takamori`_
 ------------------
 
-.. image:: /theme/img/dtakamori.jpg
+.. image:: /images/dtakamori.jpg
     :scale: 50%
     :align: right
     :alt: Daniel Takamori
@@ -354,13 +370,14 @@ People
 |
 | **Github Account:**
 | \https://github.com/dspt/
-
+|
+|
 
 
 `Aileen Thai`_
 ------------------
 
-.. image:: /theme/img/athai.jpg
+.. image:: /images/athai.jpg
     :scale: 50%
     :align: right
     :alt: Aileen Thai
@@ -372,13 +389,14 @@ People
 |
 | **Github Account:**
 | \https://github.com/athai
-
+|
+|
 
 
 `Andy Tolvstad`_
 ----------------
 
-.. image:: /theme/img/atolvstad.jpg
+.. image:: /images/atolvstad.jpg
     :scale: 50%
     :align: right
     :alt: Andy Tolvstad
@@ -388,13 +406,14 @@ People
   systems administrator. In his spare time, Andy arranges a cappella songs for
   small groups, plays music and watches Netflix. Andy enjoys playing Skyrim for
   PC and is especially interested in Web development.
-
+|
+|
 
 
 `Evan Tschuy`_
 --------------
 
-.. image:: /theme/img/etschuy.jpg
+.. image:: /images/etschuy.jpg
     :scale: 50%
     :align: right
     :alt: Evan Tschuy
@@ -408,12 +427,13 @@ People
 |
 | **Github Account:**
 | \http://github.com/tschuy
-
+|
+|
 
 `Rachel Turner`_
 ----------------
 
-.. image:: /theme/img/rturner.jpg
+.. image:: /images/rturner.jpg
     :scale: 50%
     :align: right
     :alt: Rachel Turner
@@ -424,13 +444,14 @@ People
   OSL. Rachel is a member of the OSU Speech and Debate team and hopes to write
   speeches once she graduates. In her spare time, she enjoys reading, watching
   movies and traveling.
-
+|
+|
 
 
 `Jack Twilley`_
 ---------------
 
-.. image:: /theme/img/jtwilley.jpg
+.. image:: /images/jtwilley.jpg
     :scale: 50%
     :align: right
     :alt: Jack Twilley
@@ -444,12 +465,13 @@ People
 |
 | **Github Account:**
 | \https://github.com/mathuin
-
+|
+|
 
 `Elijah Voigt`_
 ----------------
 
-.. image:: /theme/img/evoigt.jpg
+.. image:: /images/evoigt.jpg
     :scale: 50%
     :align: right
     :alt: Eli Voigt
@@ -463,12 +485,13 @@ People
 |
 | **Github Account:**
 | \https://github.com/ElijahCaine
-
+|
+|
 
 `Lucy Wyman`_
 -------------
 
-.. image:: /theme/img/lwyman.jpg
+.. image:: /images/lwyman.jpg
     :scale: 50%
     :align: right
     :alt: Lucy Wyman
@@ -485,3 +508,5 @@ People
 |
 | **Github Account:**
 | \https://github.com/lucywyman
+|
+|

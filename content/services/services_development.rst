@@ -4,7 +4,7 @@ Development
 :menuparent: services
 
 
-.. image:: /theme/img/developer.jpg
+.. image:: /images/developer.jpg
     :scale: 50%
     :align: right
     :alt: OSUOSL Developer
@@ -106,10 +106,9 @@ Project Funding
 ---------------
 
 The majority of our development projects are funded through donations we receive
-from both the `OSL Alliance`_ and the `Friends of the OSL`_ programs. In certain
+from both the OSL Alliance and the `Friends of the OSL`_ programs. In certain
 cases, we have an agreement in place and charge for our development services.
 This is especially true for educational institutions and state and local
 government agencies looking for help developing open source software.
 
-.. _OSL Alliance: /alliance/
 .. _Friends of the OSL: /sponsors/friends/

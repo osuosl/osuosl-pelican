@@ -17,7 +17,7 @@ organization of its kind, the OSL offers world-class hosting services,
 professional software development and on-the-ground training for promising
 students interested in open source management and programming.
 
-.. image:: /theme/img/edray.jpg
+.. image:: /images/edray.jpg
     :scale: 100%
     :align: center
     :alt: OSU President Ed Ray

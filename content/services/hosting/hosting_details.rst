@@ -11,7 +11,7 @@ provide.
 Virtualization
 --------------
 
-.. image:: /theme/img/sysadmin.jpg
+.. image:: /images/sysadmin.jpg
     :scale: 100%
     :align: right
     :alt: Hosting Detail - Sysadmin

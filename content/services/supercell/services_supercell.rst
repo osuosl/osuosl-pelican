@@ -4,7 +4,7 @@ Supercell
 :menuparent: services
 :menuname: supercell
 
-.. image:: /theme/img/supercell.png
+.. image:: /images/supercell.png
     :scale: 40%
     :alt: Supercell
 
