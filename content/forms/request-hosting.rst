@@ -68,7 +68,7 @@ Request Hosting
               <input type="hidden" name="last_name" value="" />
               <input type="hidden" name="tokn" value="15674hsda//*q23%^13jnxccv3ds54sa4g4sa532323!OoRdsfISDIdks38*(dsfjk)aS" />
               <!-- The following must be set to http://www.osuosl.org/request-hosting in production -->
-              <input type="hidden" name="redirect" value="http://localhost:8000/request-hosting" />
+              <input type="hidden" name="redirect" value="http://www.osuosl.org/request-hosting" />
               <input type="hidden" name="mail_subject" value="FORM: New Hosting Request" />
               <!-- /Formsender Settings -->
 
