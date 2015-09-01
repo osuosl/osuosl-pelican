@@ -3,7 +3,7 @@
 # Update repo
 git checkout master
 git pull -q --ff-only
-git submodule update --init
+git submodule update --init --recursive
 
 # Enable venv
 if [ ! -d venv ]; then
