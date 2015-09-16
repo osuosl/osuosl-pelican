@@ -35,16 +35,19 @@ date on working with the Oregon State University Open Source Lab for the Google
 Code-in contest, people may visit http://osuosl.org/gci or follow
 `@osuosl on Twitter`_.
 
-| About the OSU Open Source Lab:
-| The Oregon State University Open Source Lab is the home of growing,
-  high-impact open source communities. Its world-class hosting services enable
-  the Linux operating system, Apache web server, the Drupal content management
-  system and more than 50 other leading open source software projects to
-  collaborate with contributors and distribute software to millions of users
-  globally. Through custom software development, vendor partnerships and
-  industry events like the Government Open Source Conference (GOSCON), the Lab's
-  staff and students encourage open source adoption in education, government,
-  health care and other sectors. For more information, visit http://osuosl.org.
+.. class:: no-breaks
+
+  About the OSU Open Source Lab:
+
+The Oregon State University Open Source Lab is the home of growing,
+high-impact open source communities. Its world-class hosting services enable
+the Linux operating system, Apache web server, the Drupal content management
+system and more than 50 other leading open source software projects to
+collaborate with contributors and distribute software to millions of users
+globally. Through custom software development, vendor partnerships and
+industry events like the Government Open Source Conference (GOSCON), the Lab's
+staff and students encourage open source adoption in education, government,
+health care and other sectors. For more information, visit http://osuosl.org.
 
 .. _Google Code-in Contest: http://code.google.com/gci
 .. _Open Source Lab: /

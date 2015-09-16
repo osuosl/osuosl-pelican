@@ -6,9 +6,11 @@ OSU Open Source Lab announces OSL Alliance Corporate Sponsorship Program
 
 IBM, Google and Real Networks among lab's industry donors
 
-| Source: Jeff Sheltren, 541-713-3206
-| Media contact: Todd Simmons, 541-737-4611
-|
+.. class:: no-breaks
+
+  Source: Jeff Sheltren, 541-713-3206
+
+Media contact: Todd Simmons, 541-737-4611
 
 CORVALLIS, Ore. - The Oregon State University Open Source Lab, home to growing
 open source communities, today announced the OSL Alliance™ corporate sponsorship

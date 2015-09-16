@@ -35,18 +35,37 @@ Mailing Addresses
 
 **Shipping Address (for servers, parts, etc)**
 
-| OSU Open Source Lab
-| ATTN: Lance Albertson
-| B211 Kerr Administration Building
-| Corvallis, OR 97331
-|
+.. class:: no-breaks
+
+  OSU Open Source Lab
+
+.. class:: no-breaks
+
+  ATTN: Lance Albertson
+
+.. class:: no-breaks
+
+  B211 Kerr Administration Building
+
+Corvallis, OR 97331
+
 
 **All other correspondence please mail to**
 
-| OSU Open Source Lab
-| ATTN: Lance Albertson
-| B211 Kerr Administration Building
-| Corvallis, OR 97331
+
+.. class:: no-breaks
+
+  OSU Open Source Lab
+
+.. class:: no-breaks
+
+  ATTN: Lance Albertson
+
+.. class:: no-breaks
+
+  B211 Kerr Administration Building
+
+Corvallis, OR 97331
 
 
 Phone

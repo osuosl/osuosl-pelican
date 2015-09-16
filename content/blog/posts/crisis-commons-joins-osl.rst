@@ -69,11 +69,23 @@ joining OSL and becoming a successful `HFOSS project`_ under their stewardship.
 One more forward step together toward lessoning human suffering in the world,
 and achieving opportunity for good through adversity.
 
-| Looking forward to the future,
-| Deborah Shaddon
-| CrisisCommons Infrastructure Working Group Lead
-| deborah at crisiscommons dot org
-| @deborahshaddon
+.. class:: no-breaks
+
+  Looking forward to the future,
+
+.. class:: no-breaks
+
+  Deborah Shaddon
+
+.. class:: no-breaks
+
+  CrisisCommons Infrastructure Working Group Lead
+
+.. class:: no-breaks
+
+  deborah at crisiscommons dot org
+
+@deborahshaddon
 
 .. _CrisisCommons: http://crisiscommons.org/
 .. _Oregon State University's Open Source Lab: /
