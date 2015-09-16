@@ -7,7 +7,7 @@ git submodule update --init --recursive
 
 # Enable venv
 if [ ! -d venv ]; then
-    virtualenv venv
+    virtualenv-2.7 venv
 fi
 source venv/bin/activate
 
