@@ -4,6 +4,7 @@ OSL Staff Participate at DrupalCon 2013
 :author: Melissa Morse
 :slug: osl-staff-participate-drupalcon-2013
 :img: DrupalCon-FeaturedImage.jpg
+:order: 200
 
 Open Source Lab staff members attended `DrupalCon`_ May 20-24 at the Oregon
 Convention Center in Portland. OSL attendees welcomed the opportunity to

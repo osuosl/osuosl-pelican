@@ -3,6 +3,7 @@ OSL's April 2013 Newsletter
 :date: 2013-05-01
 :author: Mitchell Garcia
 :slug: osls-april-2013-newsletter
+:order: 200
 
 .. image:: /images/lalbertson.jpg
    :scale: 100%

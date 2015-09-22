@@ -4,6 +4,7 @@ Coming Soon: Beaver BarCamp 15
 :author: Rachel Turner
 :slug: coming-soon-beaver-barcamp-15
 :img: beaver-barcamp-15.jpg
+:order: 200
 
 Spring is almost here, and that means Beaver BarCamp 15 is quickly approaching.
 The OSL's annual unconference is scheduled for Saturday, April 18th.

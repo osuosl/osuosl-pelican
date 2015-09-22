@@ -4,6 +4,7 @@ OSL Talks OSWALD and Ganeti at Open Source Bridge
 :author: OSUOSL Admin
 :slug: osl-talks-oswald-and-ganeti-open-source-bridge
 :img: osbridge_2011_lobby.jpg
+:order: 200
 
 Three representatives of the Open Source Lab gave presentations at last week's
 `Open Source Bridge conference`_ in Portland.

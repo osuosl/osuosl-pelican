@@ -3,6 +3,7 @@ Leslie Hawthorn Joins OSU Open Source Lab
 :date: 2010-10-07
 :author: Lance Albertson
 :slug: leslie-hawthorn-joins-osu-open-source-lab
+:order: 200
 
 CORVALLIS, Ore. - The Oregon State University Open Source Lab is pleased to
 announce that Leslie Hawthorn has just joined the team as an Open Source

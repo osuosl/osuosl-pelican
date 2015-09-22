@@ -4,6 +4,7 @@ Protein Geometry - What the Heck is That?
 :author: Jack Twilley
 :slug: protein-geometry-what-heck
 :img: jack-twilley-post.png
+:order: 200
 
 When I bumped into my biochemistry professor, Dr. Kevin Ahern, on campus a few
 months ago, I had the pleasure of explaining how I actually get to use what I

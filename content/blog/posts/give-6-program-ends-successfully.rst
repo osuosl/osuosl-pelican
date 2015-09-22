@@ -3,6 +3,7 @@ Give 6 Program Ends Successfully
 :date: 2010-08-02
 :author: OSUOSL Admin
 :slug: give-6-program-ends-successfully
+:order: 200
 
 The Give 6 fund raising program which was launched last year has completed with
 great success. Friends of the Oregon State University Open Source Lab were

@@ -3,6 +3,7 @@ Connect With the OSL at OSCON 2012
 :date: 2012-07-11
 :author: Kayla Harr
 :slug: connect-osl-oscon-2012
+:order: 200
 
 Staff members and students from the Oregon State University Open Source Lab will
 represent the lab at Portland’s O’Reilly Open Source Convention (OSCON) July

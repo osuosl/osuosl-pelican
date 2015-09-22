@@ -1,7 +1,10 @@
 Services
 ========
 :slug: services
-:menuparent: none
+:title: Services
+:order: 3
+:top_menu: parent
+:menu_child: t4
 
 
 `Hosting Services`_

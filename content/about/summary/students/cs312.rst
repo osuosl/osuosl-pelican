@@ -1,8 +1,7 @@
 CS312 System Administration Course
 ==================================
 :slug: students/cs312
-:menuparent: none
-:menuname: about
+:order: 100
 
 This course was created by Lance Albertson and Jeff Sheltren in 2009 who both
 worked at the `Oregon State University Open Source Lab`_. Lance is currently the

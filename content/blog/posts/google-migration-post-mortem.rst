@@ -4,6 +4,7 @@ Google Migration Post-mortem
 :author: Justin Dugger
 :slug: google-migration-post-mortem
 :img: Justinblog1_0.gif
+:order: 200
 
 OSU administration recently approached the OSL asking us to help migrate their
 email archives to Google. Through contacts with other local universities that

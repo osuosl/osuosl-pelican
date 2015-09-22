@@ -4,6 +4,7 @@ All Aboard for Vancouver!
 :author: OSUOSL Admin
 :slug: all-aboard-vancouver
 :img: header_linuxcon_na_0.png
+:order: 200
 
 The OSUOSL Heads to LinuxCon North America 2011 Next Week
 

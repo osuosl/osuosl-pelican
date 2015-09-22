@@ -3,6 +3,7 @@ Linux.com finds new home at OSUOSL
 :date: 2009-03-03
 :author: OSUOSL Admin
 :slug: linux-new-home-osl
+:order: 200
 
 `Linux.com`_ is now being run by the `Linux Foundation`_ and, along with most of
 the other Linux Foundation infrastructure, is hosted at the OSU Open Source Lab.

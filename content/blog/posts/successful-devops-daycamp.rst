@@ -4,6 +4,7 @@ A Successful DevOps DayCamp
 :author: Rachel Turner
 :slug: successful-devops-daycamp
 :img: successfuldevopsdaycamp.jpg
+:order: 200
 
 Over 100 students and community members attended the Open Source Lab’s DevOps
 DayCamp in the Kelley Engineering Center at Oregon State University on Saturday,

@@ -3,6 +3,7 @@ OSL 'Unconference' Approaches
 :date: 2012-04-03
 :author: Kayla Harr
 :slug: osl-unconference-approaches
+:order: 200
 
 The Oregon State University Open Source Lab will host Beaver BarCamp 9 Saturday,
 April 21, in the Kelley Engineering Center. The event is free and open to

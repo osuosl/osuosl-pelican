@@ -3,6 +3,7 @@ Lots of Love from LinuxCon
 :date: 2011-08-29
 :author: OSUOSL Admin
 :slug: lots-love-linuxcon
+:order: 200
 
 You may recall our `earlier article`_ on the OSU Open Source Lab's plans for
 `LinuxCon North America 2011`_. If you're following us on `Facebook`_ or

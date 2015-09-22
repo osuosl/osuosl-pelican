@@ -3,6 +3,7 @@ GOSCON DC
 :date: 2009-11-02
 :author: OSUOSL Admin
 :slug: goscon-dc
+:order: 200
 
 This year, join us for a special one-day Government Open Source Conference
 (GOSCON) DC on Thursday, November 5 at the Ronald Reagan Building and

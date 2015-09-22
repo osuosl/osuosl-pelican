@@ -4,6 +4,7 @@ Write the Docs '15
 :author: Elijah Voigt
 :slug: write-the-docs-15
 :img: document-all-the-things.jpg
+:order: 200
 
 The day is May 18. The location is the Portland's Crystal Ballroom. The
 conference is Write the Docs (WtD). Excitement and anticipation fill the air as

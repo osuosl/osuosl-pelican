@@ -3,6 +3,7 @@ Hackathon at Open Source Bridge
 :date: 2009-06-15
 :author: OSUOSL Admin
 :slug: hackathon-open-source-bridge
+:order: 200
 
 The Open Source Lab is organizing a Hackathon (code sprint) at the
 `Open Source Bridge conference`_, June 17-19th at the Oregon Convention Center

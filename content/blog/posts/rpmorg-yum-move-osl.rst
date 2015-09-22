@@ -3,6 +3,7 @@ rpm.org and yum move to OSUOSL
 :date: 2008-09-29
 :author: OSUOSL Admin
 :slug: rpmorg-yum-move-osl
+:order: 200
 
 The Oregon State University Open Source Lab is proud to be the new home for two
 very important OSS projects. We are now hosting the main web sites, ticket

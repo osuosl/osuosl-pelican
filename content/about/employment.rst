@@ -1,7 +1,9 @@
 Open Source Lab Employment
 ===========================
 :slug: about/employment
-:menuparent: about
+:title: Employment
+:order: 22
+:menu_parent: t5
 
 Employment
 ----------

@@ -4,6 +4,7 @@ A Look Back at Beaver BarCamp 1
 :author: Melissa Morse
 :slug: look-back-beaver-barcamp-1
 :img: FirstBeaverBarCamp.png
+:order: 200
 
 After attending `BarCamp Portland`_, Alex Polvi was inspired to create a similar
 opportunity for Corvallis. At the time, Polvi was a computer science student at

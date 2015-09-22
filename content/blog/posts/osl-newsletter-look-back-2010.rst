@@ -3,6 +3,7 @@ OSL Newsletter: A Look Back at 2010
 :date: 2011-01-03
 :author: Lance Albertson
 :slug: osl-newsletter-look-back-2010
+:order: 200
 
 We’ve had plenty of good things happening at the OSL since we brought your our
 last newsletter, and as we’re busy gearing up for 2011 we wanted to take a few

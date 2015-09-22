@@ -3,6 +3,7 @@ Visiting Prineville: OSL Tours Facebook's Open Compute Data Center
 :date: 2011-04-19
 :author: Lance Albertson
 :slug: open-compute-tour
+:order: 200
 
 If you've been following the news, you've likely heard of the
 `Open Compute Project`_, Facebook's project to build the most efficient data

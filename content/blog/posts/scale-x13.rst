@@ -4,6 +4,7 @@ SCALE x13
 :author: Elijah Voigt
 :slug: scale-x13
 :img: scale-x13.jpg
+:order: 200
 
 A few months ago, Emily Dunham and I were chatting about the talks we had
 recently presented at the Seattle GNU/Linux conference, and the topic of other

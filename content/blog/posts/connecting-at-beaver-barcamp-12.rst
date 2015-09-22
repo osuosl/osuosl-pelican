@@ -4,6 +4,7 @@ Connecting at Beaver BarCamp 12
 :author: Melissa
 :slug: connecting-at-beaver-barcamp-12
 :img: bbc12-blog-post.jpg
+:order: 200
 
 More than 160 students, community members and educators gathered in the Kelley
 Engineering Center at Oregon State to share ideas, make connections and learn

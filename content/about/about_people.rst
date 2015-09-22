@@ -1,8 +1,10 @@
 People
 ======
-:title: People
+:title: Staff
 :slug: about/people
-:menuparent: about
+:order: 2
+:top_menu: parent
+:menu_child: t3
 
 
 `Lance Albertson`_

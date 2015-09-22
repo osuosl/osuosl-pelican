@@ -3,6 +3,7 @@ A Little Love for the LUG
 :date: 2011-08-03
 :author: OSUOSL Admin
 :slug: lug-love
+:order: 200
 
 he Oregon State University Linux Users Group (`LUG`_) exists to promote free and
 open source software on campus. Its members and moderators turn to events like

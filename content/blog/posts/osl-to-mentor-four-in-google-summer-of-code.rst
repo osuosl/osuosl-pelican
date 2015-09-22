@@ -3,6 +3,7 @@ OSL to Mentor Four in Google Summer of Code
 :date: 2013-06-05 20:11
 :author: Kayla Harr
 :slug: osl-to-mentor-four-in-google-summer-of-code
+:order: 200
 
 Students from India, Poland and the United Kingdom will work on projects for the
 OSL this summer. The Oregon State University Open Source Lab has accepted four

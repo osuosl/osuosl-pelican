@@ -4,6 +4,7 @@ A Recap of OSCON 2014
 :author: Rachel Turner
 :slug: recap-oscon-2014
 :img: OSCON blog post_0.jpg
+:order: 200
 
 The OSL made a strong showing at the `O’Reilly Open Source Conference`_ (OSCON)
 this year with the majority of the student employees attending along with all of

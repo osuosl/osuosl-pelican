@@ -3,6 +3,7 @@ Emily on Essentials: Robotics, Open Source and Life as New Student at the OSL
 :date: 2011-06-03
 :author: OSUOSL Admin
 :slug: emily-essentials-robotics-open-source-and-life-new-student-osl
+:order: 200
 
 *Ed. Note: As part of our ongoing series of interviews with the OSL's student
 employees, this week we're bringing you the story of Emily Dunham, one the

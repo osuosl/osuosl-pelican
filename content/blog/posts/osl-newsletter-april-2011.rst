@@ -3,6 +3,7 @@ OSL Newsletter - April 2011
 :date: 2011-04-29
 :author: Lance Albertson
 :slug: osl-newsletter-april-2011
+:order: 200
 
 .. figure:: /images/OSL_Prineville.jpg
    :scale: 100%

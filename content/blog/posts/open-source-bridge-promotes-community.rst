@@ -4,6 +4,7 @@ Open Source Bridge Promotes Community
 :author: Melissa Morse
 :slug: open-source-bridge-promotes-community
 :img: osbridgecommunity.jpg
+:order: 200
 
 **With the open source conference season well underway, OSL students and staff
 were excited to attend `Open Source Bridge`_ at the Eliot Center in downtown

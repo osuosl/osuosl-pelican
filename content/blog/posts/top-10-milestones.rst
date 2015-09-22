@@ -4,6 +4,7 @@ Top 10 Milestones
 :author: Melissa Morse
 :slug: top-10-milestones
 :img: top-10-milestones.jpg
+:order: 200
 
 The Open Source Lab is celebrating 10 years of open source hosting, development
 and education. Here is a look back at some of our most important

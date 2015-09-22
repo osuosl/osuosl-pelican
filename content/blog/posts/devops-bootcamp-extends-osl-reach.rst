@@ -4,6 +4,7 @@ DevOps Bootcamp Extends OSL Reach
 :author: Melissa Morse
 :slug: devops-bootcamp-extends-osl-reach
 :img: dobc-extends-osl-reach.jpg
+:order: 200
 
 Sometimes, it’s hard to be popular. The increasing popularity of open source
 means that there are always more students interested in the Open Source Lab than

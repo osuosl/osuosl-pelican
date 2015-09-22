@@ -3,6 +3,7 @@ TeachEngineering
 :date: 2009-12-10
 :author: Lance Albertson
 :slug: teachengineering
+:order: 200
 
 `TeachEngineering`_ is a digital library of over 800 K-12 engineering lessons
 and hands-on activities. The lesson materials in TeachEngineering are developed

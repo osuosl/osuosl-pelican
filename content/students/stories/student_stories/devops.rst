@@ -3,7 +3,7 @@
 :date: 2012-08-02
 :author: Kayla Harr
 :slug: blog/devops
-
+:order: 100
 
 Submitted by Kayla Harr on August 2, 2012
 

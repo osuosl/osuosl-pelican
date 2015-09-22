@@ -4,6 +4,7 @@ My Experiences with Openstack
 :author: Geoff Corey
 :slug: my-experiences-openstack
 :img: Geoffbloggraphic2_0.jpg
+:order: 200
 
 In the simplest of terms, `OpenStack`_ is a massive undertaking. The goal of
 OpenStack is to fit just about every use case imaginable. This goal brings with

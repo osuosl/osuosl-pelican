@@ -4,6 +4,7 @@ OSL in the Spotlight at Summer Conferences
 :author: Kayla Harr
 :slug: osl-spotlight-summer-conferences
 :img: CorbinTalkWebsite_0.jpg
+:order: 200
 
 The open source community is driven by the people who use, change and support
 open source software. This summer, members of the Open Source Lab staff enjoyed

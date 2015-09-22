@@ -1,6 +1,9 @@
 PowerLinux / OpenPOWER Request Form
 ===================================
 :slug: services/powerdev/request_hosting
+:title: PowerLinux / OpenPOWER Request Form
+:order: 19
+:menu_parent: t4s2
 
 .. raw:: html
 

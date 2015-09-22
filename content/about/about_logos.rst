@@ -1,7 +1,9 @@
 Open Source Lab Logos
 ======================
 :slug: about/logos
-:menuparent: about
+:title: Open Source Lab Logos
+:order: 7
+:menu_parent: t2
 
 Below are the four versions of our logo.
 

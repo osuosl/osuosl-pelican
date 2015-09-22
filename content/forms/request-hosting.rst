@@ -1,6 +1,9 @@
 Request Hosting
 ===============
 :slug: request-hosting
+:title: Request Hosting
+:order: 16
+:menu_parent: t4s1
 
 .. raw:: html
 

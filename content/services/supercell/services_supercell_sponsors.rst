@@ -2,6 +2,9 @@ Sponsors
 ========
 :slug: services/supercell/sponsors
 :menuparent: supercell
+:title: Sponsors
+:order: 21
+:menu_parent: t4s3
 
 
 `Facebook`_

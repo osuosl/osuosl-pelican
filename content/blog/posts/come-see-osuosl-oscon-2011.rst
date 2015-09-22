@@ -4,6 +4,7 @@ Come See the OSUOSL at OSCON 2011
 :author: OSUOSL Admin
 :slug: come-see-osuosl-oscon-2011
 :img: oscon2011_attending.gif
+:order: 200
 
 It's that time of year again in Portland, Oregon. It's sunny and warm - well, it
 is today - and the annual `OSCON`_ conference is just around the corner. The

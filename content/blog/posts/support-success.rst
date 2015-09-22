@@ -3,6 +3,7 @@ From Support to Success
 :date: 2012-08-18
 :author: Kayla Harr
 :slug: support-success
+:order: 200
 
 When staff members at the Oregon State University Open Source Lab were working
 with creators of the Drupal content management system to provide free hosting

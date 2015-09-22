@@ -3,6 +3,7 @@ TeachEngineering Project Receives Award from NSF's National Science Digital Libr
 :date: 2010-11-10
 :author: OSUOSL Admin
 :slug: teachengineering-award
+:order: 200
 
 At the annual meeting of the `National Science Digital Library`_ in Washington,
 D.C. earlier this week, the `TeachEngineering digital library`_ received a

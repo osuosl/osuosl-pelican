@@ -1,8 +1,10 @@
 Hosting
 =======
 :slug: services/hosting
-:menuparent: services
-:menuname: hosting
+:title: Hosting
+:order: 12
+:menu_parent: t4
+:menu_gchild: t4s1
 
 .. image:: /images/Hosting.jpg
    :width: 358.5px

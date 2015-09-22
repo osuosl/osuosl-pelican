@@ -4,6 +4,7 @@ Vim Trick FTW!
 :author: Emily Dunham
 :slug: vim-trick-ftw
 :img: emilyvim.png
+:order: 200
 
 Recently, I learned a useful Vim trick. One of our hosted clients has a Dokuwiki
 instance that we help manage, and they were having problems with a lot of spam

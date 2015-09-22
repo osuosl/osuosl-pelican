@@ -1,7 +1,9 @@
 DevOps BootCamp
 ===============
 :slug: devops-bootcamp
-:menuparent: about
+:title: DevOps BootCamp
+:order: 23
+:menu_parent: t5
 
 The OSL and the Oregon State University
 `School of Electrical Engineering and Computer Science`_ have a joint commitment

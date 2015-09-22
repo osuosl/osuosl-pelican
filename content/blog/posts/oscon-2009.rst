@@ -3,6 +3,7 @@ OSCON 2009
 :date: 2009-07-17
 :author: OSUOSL Admin
 :slug: oscon-2009
+:order: 200
 
 Being located so close to Portland, of course we at the OSU Open Source Lab were
 sad to see OSCON move down to the Bay Area this year. However, it remains a

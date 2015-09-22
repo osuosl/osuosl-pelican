@@ -3,6 +3,7 @@ Flourish! Open Source Conference
 :date: 2009-05-06
 :author: OSUOSL Admin
 :slug: flourish-os-conference
+:order: 200
 
 Last month, Oregon State University Open Source Lab Operations Manager, Jeff
 Sheltren, headed to Chicago for `Flourish! Open Source Conference`_, put on by

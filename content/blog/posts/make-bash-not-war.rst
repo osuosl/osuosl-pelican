@@ -4,6 +4,7 @@ Make Bash, Not War
 :author: Daniel Takamori
 :slug: make-bash-not-war
 :img: makebash.jpg
+:order: 200
 
 At the OSL we have shared workstations, most of which are named after colors. In
 the NOC, I usually work at emerald.workstation.osuosl.bak (Figure 1). I use tmux

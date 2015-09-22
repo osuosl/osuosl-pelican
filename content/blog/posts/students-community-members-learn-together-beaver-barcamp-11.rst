@@ -4,6 +4,7 @@ Students & Community Members Learn Together at Beaver BarCamp 11
 :author: Melissa Morse
 :slug: students-community-members-learn-together-beaver-barcamp-11
 :img: BeaverBarcamp11-2(1).JPG
+:order: 200
 
 **More than 150 Oregon State students, community members and students from other
 Oregon universities gathered in the Kelley Engineering building April 20 to
@@ -35,7 +36,7 @@ Pi session was added to the schedule.
   “I like the informal quality of it because it’s open, it’s casual, it’s
   inviting,” says Nate Robison, a senior studying computer science at Western
   Oregon University.
-  
+
 Several sessions at Beaver BarCamp 11 were designed for beginners or to help
 experienced coders expand their skills. Oregon State Ecampus student Bryon
 Burleigh drove to Beaver BarCamp 11 from his home in Bend, Ore., hoping to

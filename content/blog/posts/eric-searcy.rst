@@ -3,6 +3,7 @@ OSUOSL Alum Eric Searcy Joins the Linux Foundation as IT Infrastructure Manager
 :date: 2011-07-06
 :author: OSUOSL Admin
 :slug: eric-searcy
+:order: 200
 
 Eric Searcy, a former three-year student employee at the `Open Source Lab`_, has
 picked up a new role at the `Linux Foundation`_ as the organization’s IT

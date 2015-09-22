@@ -3,6 +3,7 @@ Out and About with the OSL in June
 :date: 2011-06-06
 :author: OSUOSL Admin
 :slug: june-talks
+:order: 200
 
 Summer conference season is upon us, and employees of the OSL will be giving
 several talks. Kicking off June's festivities, `Leslie Hawthorn`_ will be

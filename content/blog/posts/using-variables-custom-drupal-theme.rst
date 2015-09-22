@@ -4,6 +4,7 @@ Using Variables in a Custom Drupal Theme
 :author: lucyw
 :slug: using-variables-custom-drupal-theme
 :img: variables-drupal-theme.jpg
+:order: 200
 
 At the Open Source Lab we host many of our sites as a Drupal multisite. This
 means that we have several instances of Drupal using the same theme, and then we

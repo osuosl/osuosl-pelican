@@ -3,6 +3,7 @@ CrisisCommons is pleased to announce partnership with OSU's Open Source Lab
 :date: 2010-12-15
 :author: OSUOSL Admin
 :slug: crisis-commons-joins-osl
+:order: 200
 
 `CrisisCommons`_ is a global network of volunteers who use creative problem
 solving and open technologies to help people and communities in times and places

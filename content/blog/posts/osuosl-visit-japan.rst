@@ -4,6 +4,7 @@ OSUOSL Visit to Japan
 :author: OSUOSL Admin
 :slug: osuosl-visit-japan
 :img: deb_matz_0.jpg
+:order: 200
 
 Deb Bryant, the OSU Open Source Lab's Public Sector Communities Manager, was
 recently invited to participate in a number of events in and around Matsue City,

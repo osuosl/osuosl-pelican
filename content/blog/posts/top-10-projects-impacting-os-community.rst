@@ -4,6 +4,7 @@ Top 10 Projects Impacting the Open Source Community
 :author: Melissa Morse
 :slug: top-10-projects-impacting-open-source-community
 :img: osl10-projects-impacting-the-os-community.png
+:order: 200
 
 *The Open Source Lab serves as a trusted third-party home to some of the largest
 open source projects. By promoting collaboration, accessibility and

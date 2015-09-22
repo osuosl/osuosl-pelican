@@ -4,6 +4,7 @@ OpenStack on OpenPOWER
 :author: ramereth
 :slug: openstack-on-openpower
 :img: openstack-power.png
+:order: 200
 
 `Openstack`_ has been growing in popularity over the past few years and recently
 we’ve started to look into it further here at the OSL. We plan to continue to

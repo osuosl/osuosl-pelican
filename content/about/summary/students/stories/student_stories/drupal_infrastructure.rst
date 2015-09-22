@@ -4,6 +4,7 @@ Helping Drupal Grow
 :author: OSUOSL Admin
 :slug: students/stories/drupal_infrastructure
 :slug: blog/drupal_infrastructure
+:order: 100
 
 Submitted by OSUOSL Admin on February 5, 2009
 

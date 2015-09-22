@@ -4,6 +4,7 @@ Openstack's Horizon
 :author: Melissa
 :slug: openstacks-horizon
 :img: tech-blog.png
+:order: 200
 
 *The first tech post is by Chance Zibolski, a community system administrator and
 project lead of Ganeti Web Manager, a Web administration panel that allows

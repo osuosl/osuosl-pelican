@@ -4,6 +4,7 @@ OSL to Participate in Google Summer of Code 2013
 :author: Kayla Harr
 :slug: osl-participate-google-summer-code-2013
 :img: gsoc-feature.png
+:order: 200
 
 This year will be the lab's seventh straight as a GSOC mentor.
 

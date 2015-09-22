@@ -3,6 +3,7 @@ Highlights From Beaver Barcamp 8
 :date: 2011-10-31
 :author: OSUOSL Admin
 :slug: highlights-beaver-barcamp-8
+:order: 200
 
 **Beaver BarCamp 8 Quick Facts:**
 

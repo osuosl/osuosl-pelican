@@ -1,7 +1,9 @@
 Hosting Policy
 ==============
 :slug: services/hosting/policy
-:menuparent: hosting
+:title: Hosting Policy
+:order: 15
+:menu_parent: t4s1
 
 Services
 --------

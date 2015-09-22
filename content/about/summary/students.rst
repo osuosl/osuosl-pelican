@@ -1,7 +1,10 @@
 Students
 ========
 :slug: students
-:menuparent: about/summary
+:title: Student Experience
+:order: 22
+:top_menu: parent
+:menu_child: t5
 
 .. image:: /images/studex.jpg
    :scale: 80%

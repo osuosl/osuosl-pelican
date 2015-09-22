@@ -1,7 +1,9 @@
 Advisors
 ========
-:menuparent: about
 :slug: about/advisors
+:title: Advisory Board
+:order: 10
+:menu_parent: t3
 
 Featuring industry leaders from global open source projects and commercial
 vendors, the Open Source Lab's advisory board assists the OSL with its overall

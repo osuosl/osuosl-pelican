@@ -1,7 +1,11 @@
 Contact
 =======
 :slug: contact
-:menuparent: about
+:title: Contact Us
+:order: 5
+:top_menu: parent
+:menu_child: t7
+:duplicate_name: Contact
 
 Email Addresses
 ~~~~~~~~~~~~~~~

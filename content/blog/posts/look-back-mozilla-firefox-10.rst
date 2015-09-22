@@ -3,6 +3,7 @@ A Look Back at Mozila Firefox 1.0
 :date: 2004-11-16
 :author: Anonymous
 :slug: look-back-mozilla-firefox-10
+:order: 200
 
 *As the Open Source Lab celebrates a decade of open source hosting, development
 and education, the lab is reflecting on its past accomplishments. Below is a

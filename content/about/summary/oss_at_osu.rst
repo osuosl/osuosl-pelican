@@ -1,6 +1,7 @@
 Open Source at OSU
 ==================
 :slug: students/oss_at_osu
+:order: 100
 
 .. image:: /images/OSatOSU-Website.jpg
    :scale: 80%

@@ -1,7 +1,9 @@
 Hosted Communities
 ==================
 :slug: communities
-:menuparent: hosting
+:title: Hosted Projects
+:order: 13
+:menu_parent: t4s1
 
 
 `Ångström`_

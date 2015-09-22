@@ -4,6 +4,7 @@ A History of Development
 :author: OSUOSL Admin
 :slug: students/stories/trisano
 :slug: blog/trisano
+:order: 100
 
 Submitted by OSUOSL Admin on February 5, 2009
 

@@ -3,6 +3,7 @@ Highlights from OSCON 2011
 :date: 2011-08-01
 :author: OSUOSL Admin
 :slug: oscon-2011-wrap
+:order: 200
 
 Summer Camp for Geeks
 ---------------------

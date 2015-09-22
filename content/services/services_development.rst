@@ -1,7 +1,9 @@
 Development
 ===========
 :slug: services/development
-:menuparent: services
+:title: Development
+:order: 17
+:menu_parent: t4
 
 
 .. image:: /images/developer.jpg

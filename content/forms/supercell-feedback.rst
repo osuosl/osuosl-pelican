@@ -2,6 +2,9 @@ Supercell Feedback Form
 =======================
 :slug: services/supercell/request
 :img: supercell.png
+:title: Feedback Form
+:order: 21
+:menu_parent: t4s3
 
 .. raw:: html
 

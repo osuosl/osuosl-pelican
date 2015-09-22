@@ -1,7 +1,9 @@
 Frequently Asked Questions
 ==========================
 :slug: donate/faq
-:menuparent: about/summary
+:title: FAQ
+:order: 8
+:menu_parent: t2
 
 
 #. `How are you associated with Oregon State University?`_

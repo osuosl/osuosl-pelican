@@ -1,6 +1,7 @@
 Friends of the Open Source Lab
 ==============================
 :slug: sponsors/friends
+:order: 100
 
 *As of 08/07/2013 this page is in the process of being updated*
 

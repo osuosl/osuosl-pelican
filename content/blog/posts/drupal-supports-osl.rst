@@ -3,6 +3,7 @@ Drupal Association supports OSUOSL with $15,000
 :date: 2009-12-28
 :author: OSUOSL Admin
 :slug: drupal-association-supports-osuosl-15000
+:order: 200
 
 The Drupal Association is supporting the Oregon State University Open Source Lab
 to the tune of $15,000. Specifically, $10,000 is being directed specifically
