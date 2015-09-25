@@ -16,7 +16,7 @@ pip install -r requirements.txt
 pip install pelican
 
 # Build the site
-make publish
+make staging
 
 # Disable venv
 deactivate
