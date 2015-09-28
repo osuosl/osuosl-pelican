@@ -36,32 +36,61 @@ Leslie Hawthorn; and former student employee Brandon Phillips.
 
 For those attending OSCON, connect with OSL staff and students:
 
-| Comparing Open Source Private Cloud Platforms, Lance Albertson
-| Time: 10:40 a.m. Wednesday, July 18
-| Location: D139-140
-|
-| Open Source Lab Birds of a Feather session
-| Time: 7 p.m. Wednesday, July 18
-| Location: E141
-|
+.. class:: no-breaks
+
+  Comparing Open Source Private Cloud Platforms, Lance Albertson
+
+.. class:: no-breaks
+
+  Time: 10:40 a.m. Wednesday, July 18
+
+Location: D139-140
+
+.. class:: no-breaks
+
+  Open Source Lab Birds of a Feather session
+
+.. class:: no-breaks
+
+  Time: 7 p.m. Wednesday, July 18
+
+Location: E141
+
 
 Visit the Open Source Lab in the Expo Hall at Booth 816.
 
 **Alumni Presentations:**
 
-| Free the Code: The Case for the U.S. Federal Government to Open Source
+.. class:: no-breaks
+
+  Free the Code: The Case for the U.S. Federal Government to Open Source
   Software as a Default Position, Deborah Bryant, John Scott
-| Time: 2:30 p.m. Thursday, July 19
-| Location: E146
-|
-| Assholes are Killing Your Project, Donnie Berkholz, Leslie Hawthorn
-| Time: 11 a.m. Friday, July 20
-| Location: F151
-|
-| One Tiny Daemon to Harvest Your Server Statistics (And More), Brandon Phillips
-| Time: 11:50 a.m. Friday, July 20
-| Location: D139-40
-|
+
+.. class:: no-breaks
+
+  Time: 2:30 p.m. Thursday, July 19
+
+Location: E146
+
+.. class:: no-breaks
+
+  Assholes are Killing Your Project, Donnie Berkholz, Leslie Hawthorn
+
+.. class:: no-breaks
+
+  Time: 11 a.m. Friday, July 20
+
+Location: F151
+
+.. class:: no-breaks
+
+  One Tiny Daemon to Harvest Your Server Statistics (And More), Brandon Phillips
+
+.. class:: no-breaks
+
+  Time: 11:50 a.m. Friday, July 20
+
+Location: D139-40
 
 See the full OSCON schedule at `oscon.com`_.
 

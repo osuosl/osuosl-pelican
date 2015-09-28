@@ -8,9 +8,11 @@ A Look Back at the OSL's Partnerships with Google and TDS
 and education, the lab is reflecting on its past accomplishments. Below is a
 favorite from our archives.*
 
-| **OSL Teams with TDS for Bandwidth Increase**
-| Originally published on March 06, 2006
-|
+.. class:: no-breaks
+
+  **OSL Teams with TDS for Bandwidth Increase**
+
+Originally published on March 06, 2006
 
 The Open Source Lab at Oregon State University has received a large donation of
 Internet bandwidth from TDS Telecom that will allow it to more than double the
