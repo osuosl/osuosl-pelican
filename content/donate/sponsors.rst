@@ -4,6 +4,7 @@ Sponsors
 :title: Sponsors
 :order: 29
 :menu_parent: t7s1
+:menu: Donate, Sponsors, 1
 
 Platinum Sponsors
 ~~~~~~~~~~~~~~~~~

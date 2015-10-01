@@ -4,6 +4,7 @@ Open Source Lab Employment
 :title: Employment
 :order: 22
 :menu_parent: t5
+:menu: Student Experience, Employment, 1
 
 Employment
 ----------

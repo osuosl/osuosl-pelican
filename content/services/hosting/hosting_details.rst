@@ -4,7 +4,7 @@ Hosting Detail
 :title: Hosting Detail
 :order: 14
 :menu_parent: t4s1
-
+:menu: Hosting, Hosting Details, 2
 
 We offer a wide variety of services to our hosted clients so the OSL can help
 offload work from your machine and/or infrastructure team. This list is not

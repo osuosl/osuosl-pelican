@@ -6,6 +6,7 @@ Contact
 :top_menu: parent
 :menu_child: t7
 :duplicate_name: Contact
+:menu: top, Contact Us, 6; Contact Us, Contact, 1
 
 Email Addresses
 ~~~~~~~~~~~~~~~

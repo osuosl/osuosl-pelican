@@ -7,6 +7,7 @@ About
 :top_menu: parent
 :menu_child: t2
 :duplicate_name: Summary
+:menu: top, About, 1; About, Summary, 1
 
 
 The Open Source Lab is a nonprofit organization working for the advancement of

@@ -5,6 +5,7 @@ Donate
 :order: 28
 :menu_parent: t7
 :menu_gchild: t7s1
+:menu: Contact Us, Donate, 2
 
 
 The OSL offers support services to the world's leading open source projects as

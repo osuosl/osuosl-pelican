@@ -4,6 +4,7 @@ Frequently Asked Questions
 :title: FAQ
 :order: 8
 :menu_parent: t2
+:menu: About, FAQ, 3
 
 
 #. `How are you associated with Oregon State University?`_

@@ -5,6 +5,7 @@ Supercell
 :order: 20
 :menu_parent: t4
 :menu_gchild: t4s3
+:menu: Services, Supercell, 4
 
 .. image:: /images/supercell.png
     :scale: 40%

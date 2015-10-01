@@ -2,6 +2,13 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import sys
+sys.path.append('.')
+
+import menufilter
+
+JINJA_FILTERS = {'menu_filter':menufilter.menu_filter}
+
 AUTHOR = u'OSUOSL'
 SITENAME = u'OSU Open Source Lab'
 SITEURL = ''

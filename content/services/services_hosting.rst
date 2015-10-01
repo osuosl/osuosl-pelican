@@ -5,6 +5,7 @@ Hosting
 :order: 12
 :menu_parent: t4
 :menu_gchild: t4s1
+:menu: Services, Hosting, 1
 
 .. image:: /images/Hosting.jpg
    :width: 358.5px

@@ -4,6 +4,7 @@ Hosting Policy
 :title: Hosting Policy
 :order: 15
 :menu_parent: t4s1
+:menu: Hosting, Hosting Policy, 3
 
 Services
 --------

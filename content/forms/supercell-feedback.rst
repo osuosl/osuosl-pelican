@@ -5,6 +5,7 @@ Supercell Feedback Form
 :title: Feedback Form
 :order: 21
 :menu_parent: t4s3
+:menu: Supercell, Feedback Form, 1
 
 .. raw:: html
 

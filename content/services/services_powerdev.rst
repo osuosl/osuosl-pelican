@@ -5,6 +5,7 @@ PowerLinux / OpenPOWER Development Hosting
 :order: 18
 :menu_parent: t4
 :menu_gchild: t4s2
+:menu: Services, Development Hosting, 3
 
 
 The Open Source Lab partners with `IBM`_ to host `POWER`_ based servers in order

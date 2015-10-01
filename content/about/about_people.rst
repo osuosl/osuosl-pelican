@@ -5,6 +5,7 @@ People
 :order: 2
 :top_menu: parent
 :menu_child: t3
+:menu: top, Organization, 2; Organization, Staff, 1
 
 
 `Lance Albertson`_
