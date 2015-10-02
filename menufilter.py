@@ -1,51 +1,57 @@
 #!/usr/bin/env python
-from jinja2 import Environment
 
-def menu_filter(page_dict):
-    unsorted_result = []
-    top_menu = []
+def menu_filter(pelican_pages):
+    """
+    Jinja filter for Pelican page object list
 
-    for page in page_dict:
+    Structures pages into a three-level menu that can be parsed by Jinja2
+    templating. Reads page metadata of the form:
+    :menu: <parent>, <name>, <weight>; <parent2>, <name2>, <weight2>; ...
+    where the top-level menu items have a parent name 'top'.
+    """
+    page_list = []
+    menu = []
+
+    # Pull menu metadata from Pelican page object list
+    for page in pelican_pages:
         if hasattr(page, 'menu'):
-            menu_dict = {
-                'menu': page.menu
-            }
-            menu_data = menu_dict['menu'].split(';')
 
+            # Split into list of menu locations for each page
+            menu_data = page.menu.split(';')
+
+            # Record each menu location per page
             for item in menu_data:
-                menu_loc_data = item.split(',')
+                temp_data = item.split(',')
                 temp_dict = {
-                    'parent': menu_loc_data[0].strip(),
-                    'name': menu_loc_data[1].strip(),
-                    'weight': int(menu_loc_data[2]),
+                    'parent': temp_data[0].strip(),
+                    'name': temp_data[1].strip(),
+                    'weight': int(temp_data[2]),
+                    'link': "/{0}".format(page.slug),
                     'children': [],
-                    'link': '/' + page.slug
                 }
-                unsorted_result.append(temp_dict)
 
-    for item in unsorted_result:
+                #Add each menu location to a page list
+                page_list.append(temp_dict)
+
+    # Sort the page list by weight
+    page_list = sorted(page_list, key=lambda k: k['weight'])
+
+    # Find top-level menu items and place in menu
+    for item in page_list:
         if item['parent'] == 'top':
-            top_menu.append(item.copy())
+            menu.append(item.copy())
 
+    # For each top-menu item, find its children
+    for parent in menu:
+        for page in page_list:
+            if page['parent'] == parent['name']:
+                parent['children'].append(page.copy())
 
-    sorted_top = sorted(top_menu, key=lambda k: k['weight'])
-    result = sorted(unsorted_result, key=lambda k: k['weight'])
-
-    for item in sorted_top:
-        for page in result:
-            if page['parent'] == item['name']:
-                item['children'].append(page.copy())
-
-    for item in sorted_top:
-        for child in item['children']:
-            for page in result:
+    # For each second-level menu item, find its children
+    for parent in menu:
+        for child in parent['children']:
+            for page in page_list:
                 if page['parent'] == child['name']:
                     child['children'].append(page.copy())
 
-
-    return sorted_top
-
-
-if __name__ == '__main__':
-    """TEST"""
-    print 'hello'
+    return menu
