@@ -2,9 +2,6 @@ PowerLinux / OpenPOWER Development Hosting
 ==========================================
 :slug: services/powerdev
 :title: Development Hosting
-:order: 18
-:menu_parent: t4
-:menu_gchild: t4s2
 :menu: Services, Development Hosting, 3
 
 

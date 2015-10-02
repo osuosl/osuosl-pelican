@@ -2,9 +2,6 @@ Donate
 ------
 :slug: donate
 :title: Donate
-:order: 28
-:menu_parent: t7
-:menu_gchild: t7s1
 :menu: Contact Us, Donate, 2
 
 

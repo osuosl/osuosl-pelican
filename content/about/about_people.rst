@@ -2,9 +2,6 @@ People
 ======
 :title: Staff
 :slug: about/people
-:order: 2
-:top_menu: parent
-:menu_child: t3
 :menu: top, Organization, 2; Organization, Staff, 1
 
 

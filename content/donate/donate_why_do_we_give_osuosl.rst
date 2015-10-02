@@ -2,8 +2,6 @@ Why Do We Give To The OSUOSL?
 -----------------------------
 :slug: donate/why-do-we-give-osuosl
 :title: Why Do We Give to the OSL?
-:order: 30
-:menu_parent: t7s1
 :menu: Donate, Why Do We Give to the OSL?, 2
 
 The OSL collaborates with people and companies around the world. As a result,

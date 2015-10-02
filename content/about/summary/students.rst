@@ -2,9 +2,6 @@ Students
 ========
 :slug: students
 :title: Student Experience
-:order: 22
-:top_menu: parent
-:menu_child: t5
 :menu: top, Student Experience, 4
 
 .. image:: /images/studex.jpg

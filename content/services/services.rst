@@ -2,9 +2,6 @@ Services
 ========
 :slug: services
 :title: Services
-:order: 3
-:top_menu: parent
-:menu_child: t4
 :menu: top, Services, 3
 
 

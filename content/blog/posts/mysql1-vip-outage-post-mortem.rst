@@ -4,7 +4,6 @@ Mysql1-vip Outage Post-Mortem
 :author: jordane
 :slug: mysql1-vip-outage-post-mortem
 :img: outagepic2_0.jpg
-:order: 200
 
 **Background**
 

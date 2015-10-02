@@ -2,11 +2,7 @@ About
 =====
 :slug: about
 :author: Lucy Wyman
-:order: 1
 :title: About
-:top_menu: parent
-:menu_child: t2
-:duplicate_name: Summary
 :menu: top, About, 1; About, Summary, 1
 
 

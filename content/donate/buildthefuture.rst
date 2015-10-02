@@ -1,7 +1,6 @@
 Build the Future
 ================
 :slug: donate/buildthefuture
-:order: 100
 
 10 Years In The Making
 ----------------------

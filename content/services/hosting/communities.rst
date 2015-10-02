@@ -2,8 +2,6 @@ Hosted Communities
 ==================
 :slug: communities
 :title: Hosted Projects
-:order: 13
-:menu_parent: t4s1
 :menu: Hosting, Hosted Projects, 1
 
 

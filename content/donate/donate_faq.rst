@@ -2,8 +2,6 @@ Frequently Asked Questions
 ==========================
 :slug: donate/faq
 :title: FAQ
-:order: 8
-:menu_parent: t2
 :menu: About, FAQ, 3
 
 

@@ -3,7 +3,6 @@ MeeGo Comes to OSUOSL
 :date: 2010-04-13
 :author: OSUOSL Admin
 :slug: meego-comes-osuosl
-:order: 200
 
 As part a major effort and plan by the worldwide Nokia (Mameo project) and Intel
 (Moblin project) to share the MeeGo operating system code with the open source

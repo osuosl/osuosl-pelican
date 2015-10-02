@@ -3,7 +3,6 @@ New Study to Investigate Use of Open Source Software for Securing the Energy Ind
 :date: 2011-08-07
 :author: OSUOSL Admin
 :slug: energysec
-:order: 200
 
 .. class:: no-breaks
 

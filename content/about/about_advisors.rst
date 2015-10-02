@@ -2,8 +2,6 @@ Advisors
 ========
 :slug: about/advisors
 :title: Advisory Board
-:order: 10
-:menu_parent: t3
 :menu: Organization, Advisory Board, 3
 
 Featuring industry leaders from global open source projects and commercial

@@ -1,7 +1,6 @@
 Student Stories
 ===============
 :slug: students/stories
-:order: 100
 
 `Building a Bright Future With DevOps`_
 ----------------------------------------

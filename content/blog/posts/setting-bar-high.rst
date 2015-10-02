@@ -4,7 +4,6 @@ Setting the Bar High
 :author: Kayla Harr
 :slug: setting-bar-high
 :img: bbc9-clover.jpg
-:order: 200
 
 The Oregon State University Open Source Lab’s `Beaver BarCamp 9`_ brought around
 70 people to the Kelley Engineering Center on April 21 to discuss projects,

@@ -2,8 +2,6 @@ Development
 ===========
 :slug: services/development
 :title: Development
-:order: 17
-:menu_parent: t4
 :menu: Services, Development, 2
 
 

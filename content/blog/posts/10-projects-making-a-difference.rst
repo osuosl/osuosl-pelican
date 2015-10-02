@@ -4,7 +4,6 @@
 :author: Melissa
 :slug: 10-projects-making-a-difference
 :img: making-a-difference.png
-:order: 200
 
 Submitted by Melissa Morse on November 25, 2013
 
