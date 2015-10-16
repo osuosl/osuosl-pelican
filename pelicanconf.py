@@ -26,7 +26,10 @@ DEFAULT_PAGINATION = 5
 DIRECT_TEMPLATES = ['index', 'search/index']
 PAGINATED_DIRECT_TEMPLATES = ['blog']
 
-THEME = 'dougfir-pelican-theme'
+DIRECT_TEMPLATE_INFO = [
+        {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 1, 'children': []}]
+
+THEME = '../dougfir-pelican-theme'
 
 CATEGORY_URL = 'blog/{slug}'
 CATEGORY_SAVE_AS = 'blog/index.html'
