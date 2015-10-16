@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-def menu_filter(pelican_pages):
+def menu_filter(pelican_pages, direct_templates):
     """
     Jinja filter for Pelican page object list
 
@@ -32,6 +32,10 @@ def menu_filter(pelican_pages):
 
                 #Add each menu location to a page list
                 page_list.append(temp_dict)
+
+    # Add the direct templates before sorting
+    for item in direct_templates:
+        page_list.append(item.copy())
 
     # Sort the page list by weight
     page_list = sorted(page_list, key=lambda k: k['weight'])

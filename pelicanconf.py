@@ -27,7 +27,7 @@ DIRECT_TEMPLATES = ['index', 'search/index']
 PAGINATED_DIRECT_TEMPLATES = ['blog']
 
 DIRECT_TEMPLATE_INFO = [
-        {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 0, 'children': []}]
+        {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 5, 'children': []}]
 
 THEME = 'dougfir-pelican-theme'
 
