@@ -27,9 +27,9 @@ DIRECT_TEMPLATES = ['index', 'search/index']
 PAGINATED_DIRECT_TEMPLATES = ['blog']
 
 DIRECT_TEMPLATE_INFO = [
-        {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 1, 'children': []}]
+        {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 0, 'children': []}]
 
-THEME = '../dougfir-pelican-theme'
+THEME = 'dougfir-pelican-theme'
 
 CATEGORY_URL = 'blog/{slug}'
 CATEGORY_SAVE_AS = 'blog/index.html'
