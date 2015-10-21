@@ -1,8 +1,8 @@
 Hosting
 =======
 :slug: services/hosting
-:menuparent: services
-:menuname: hosting
+:title: Hosting
+:menu: Services, Hosting, 1
 
 .. image:: /images/Hosting.jpg
    :width: 358.5px

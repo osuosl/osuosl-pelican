@@ -1,7 +1,8 @@
 Sponsors
 ========
 :slug: services/supercell/sponsors
-:menuparent: supercell
+:title: Sponsors
+:menu: Supercell, Sponsors, 2
 
 
 `Facebook`_

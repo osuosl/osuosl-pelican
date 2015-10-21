@@ -2,3 +2,4 @@ Title
 =====
 :slug: The url
 :author: Your name
+:menu: parent_name, page_name, menu_weight

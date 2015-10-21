@@ -1,7 +1,8 @@
 Contact
 =======
 :slug: contact
-:menuparent: about
+:title: Contact Us
+:menu: top, Contact Us, 6; Contact Us, Contact, 1
 
 Email Addresses
 ~~~~~~~~~~~~~~~

@@ -1,7 +1,8 @@
 Hosted Communities
 ==================
 :slug: communities
-:menuparent: hosting
+:title: Hosted Projects
+:menu: Hosting, Hosted Projects, 1
 
 
 `Ångström`_

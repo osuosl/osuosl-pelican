@@ -1,8 +1,8 @@
 People
 ======
-:title: People
+:title: Staff
 :slug: about/people
-:menuparent: about
+:menu: top, Organization, 2; Organization, Staff, 1
 
 
 `Lance Albertson`_

@@ -1,7 +1,8 @@
 Development
 ===========
 :slug: services/development
-:menuparent: services
+:title: Development
+:menu: Services, Development, 2
 
 
 .. image:: /images/developer.jpg

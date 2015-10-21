@@ -1,8 +1,8 @@
 Donate
 ------
 :slug: donate
-:menuparent: none
-:menuname: donate
+:title: Donate
+:menu: Contact Us, Donate, 2
 
 
 The OSL offers support services to the world's leading open source projects as

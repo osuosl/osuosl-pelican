@@ -1,7 +1,6 @@
 Government Open Source Conference
 =================================
 :slug: about/goscon
-:menuparent: about
 
 .. image:: /images/opendocs_panel.jpg
    :scale: 80%
