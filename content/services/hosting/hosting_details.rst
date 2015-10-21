@@ -1,7 +1,8 @@
 Hosting Detail
 ==============
 :slug: services/hosting/details
-:menuparent: hosting
+:title: Hosting Detail
+:menu: Hosting, Hosting Details, 2
 
 We offer a wide variety of services to our hosted clients so the OSL can help
 offload work from your machine and/or infrastructure team. This list is not

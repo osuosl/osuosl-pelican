@@ -1,8 +1,8 @@
 Supercell
 =========
 :slug: services/supercell
-:menuparent: services
-:menuname: supercell
+:title: Supercell
+:menu: Services, Supercell, 4
 
 .. image:: /images/supercell.png
     :scale: 40%

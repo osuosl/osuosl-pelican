@@ -35,7 +35,7 @@ Pi session was added to the schedule.
   “I like the informal quality of it because it’s open, it’s casual, it’s
   inviting,” says Nate Robison, a senior studying computer science at Western
   Oregon University.
-  
+
 Several sessions at Beaver BarCamp 11 were designed for beginners or to help
 experienced coders expand their skills. Oregon State Ecampus student Bryon
 Burleigh drove to Beaver BarCamp 11 from his home in Bend, Ore., hoping to

@@ -1,7 +1,8 @@
 Sponsors
 --------
 :slug: sponsors
-:menuparent: donate
+:title: Sponsors
+:menu: Donate, Sponsors, 1
 
 Platinum Sponsors
 ~~~~~~~~~~~~~~~~~

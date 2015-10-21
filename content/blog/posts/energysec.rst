@@ -4,11 +4,13 @@ New Study to Investigate Use of Open Source Software for Securing the Energy Ind
 :author: OSUOSL Admin
 :slug: energysec
 
-| Energy Sector Security Consortium and the Oregon State University Open Source
+.. class:: no-breaks
+
+  Energy Sector Security Consortium and the Oregon State University Open Source
   Lab Partner to Establish Effective and Inclusive Collaboration and Governance
   Models
-| 8-8-2011
-|
+
+8-8-2011
 
 CORVALLIS, Oregon - The Energy Sector Security Consortium (EnergySec) and Oregon
 State University’s Open Source Lab (OSUOSL) announced today that they will

@@ -8,9 +8,11 @@ A Look Back at Mozila Firefox 1.0
 and education, the lab is reflecting on its past accomplishments. Below is a
 favorite from our archives.*
 
-| **OSL Hosting Popular New Firefox Web Browser**
-| *Originally posted on November 16, 2004*
-|
+.. class:: no-breaks
+
+  **OSL Hosting Popular New Firefox Web Browser**
+
+*Originally posted on November 16, 2004*
 
 Mozilla’s Firefox 1.0, the newly released Web browser available at
 `www.mozilla.org`_, is living quietly in the Oregon State University Open Source

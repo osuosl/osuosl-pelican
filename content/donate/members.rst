@@ -37,8 +37,7 @@ the open source community.
 .. _Host Virtual, Inc: http://www.vr.org/
 
 
-| K. Lars Lohn
-| 
+\K. Lars Lohn
 
 Parrot Foundation:  The `Parrot Foundation`_ is a membership-based, nonprofit
 organization that provides technical, legal and organizational infrastructure

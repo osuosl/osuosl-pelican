@@ -42,8 +42,11 @@ BarCamp **October 12, 2013**.
 In closing, I would like to thank all of the lab staff and students who work
 hard on a daily basis to improve the FOSS ecosystem. They do amazing work!
 
-| Best wishes,
-| *Lance Albertson*
+.. class:: no-breaks
+
+  Best wishes,
+
+*Lance Albertson*
 
 New Projects at the OSL
 -----------------------

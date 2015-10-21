@@ -4,7 +4,6 @@
 :author: Kayla Harr
 :slug: blog/devops
 
-
 Submitted by Kayla Harr on August 2, 2012
 
 .. image:: /images/MikeRacksPicweb.jpg

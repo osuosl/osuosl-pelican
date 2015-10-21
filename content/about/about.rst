@@ -2,8 +2,9 @@ About
 =====
 :slug: about
 :author: Lucy Wyman
-:menuparent: none
-:menuname: about
+:title: About
+:menu: top, About, 1; About, Summary, 1
+
 
 The Open Source Lab is a nonprofit organization working for the advancement of
 open source technologies.

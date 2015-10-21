@@ -1,7 +1,8 @@
 Students
 ========
 :slug: students
-:menuparent: about/summary
+:title: Student Experience
+:menu: top, Student Experience, 4
 
 .. image:: /images/studex.jpg
    :scale: 80%

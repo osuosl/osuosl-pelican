@@ -1,9 +1,8 @@
 PowerLinux / OpenPOWER Development Hosting
 ==========================================
 :slug: services/powerdev
-:title: PowerLinux / OpenPOWER Development Hosting
-:menuparent: services
-:menuname: powerlinux
+:title: Development Hosting
+:menu: Services, Development Hosting, 3
 
 
 The Open Source Lab partners with `IBM`_ to host `POWER`_ based servers in order

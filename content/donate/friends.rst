@@ -14,8 +14,12 @@ levels in the program; see below for more details. To become a member and
 support our ongoing efforts to accelerate the growth of open source, email
 donations@osuosl.org for more information.
 
-| Benefactor
-| $5,000 Annual Donation
+.. |br| raw:: html
+
+  <br/>
+
+Benefactor |br|
+$5,000 Annual Donation
 
 - Name, organization, URL (link), short text description listed on `Friends Web
   page`_
@@ -28,8 +32,8 @@ donations@osuosl.org for more information.
 .. _Friends Web page: /friends/members/
 
 
-| Patron
-| $1,000 Annual Donation
+Patron |br|
+$1,000 Annual Donation
 
 - Name, organization, URL (link), short text description listed on `Friends Web
   page`_
@@ -41,8 +45,8 @@ donations@osuosl.org for more information.
 .. _Friends Web page: /friends/members/
 
 
-| Champion
-| $250 Annual Donation
+Champion |br|
+$250 Annual Donation
 
 - Name, organization, URL (link) listed on `Friends Web page`_
 - OSL T-shirt **OR** hat and an OSL beer mug
@@ -52,8 +56,8 @@ donations@osuosl.org for more information.
 .. _Friends Web page: /friends/members/
 
 
-| Associate
-| $100 Annual Donation
+Associate |br|
+$100 Annual Donation
 
 - Name, organization, URL (link) listed on `Friends Web page`_
 - OSL T-shirt **OR** hat
@@ -62,8 +66,8 @@ donations@osuosl.org for more information.
 .. _Friends Web page: /friends/members/
 
 
-| Friend
-| $25 Annual Donation
+Friend |br|
+$25 Annual Donation
 
 - Name listed on `Friends Web page`_
 - Display "Friend of OSL" logo on own website
