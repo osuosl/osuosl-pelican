@@ -5,8 +5,9 @@ Beaver BarCamp
 :menu: Student Experience, Beaver BarCamp, 10
 
 .. image:: /images/barcamp.png
-    :scale: 100%
-    :align: center
+    :height: 470px
+    :scale: 50%
+    :align: right
     :alt: Google Summer of Code
 
 Beaver BarCamp is an annual unconference hosted by the Open Source Lab as an all
