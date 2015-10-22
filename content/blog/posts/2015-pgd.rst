@@ -1,0 +1,112 @@
+OSL GSOC 2015 - Protein Geometry Database
+=========================================
+:slug: gsoc15-pgd
+:title: OSL GSOC 2015 - Protein Geometry Database
+:author: Elijah Voigt
+:date: 2015-09-12
+:img: pgd-gsoc.jpg
+
+**What is the Protein Geometry Database?**
+
+The Protein Geometry Database project (PGD) is many things to many people.
+
+The synopses on `code.osuosl.org`_ says:
+
+  "Protein Geometry Database is a specialized search engine for protein geometry.
+  It allows you to explore either protein conformation or protein covalent
+  geometry or the correlations between protein conformation and bond angles and
+  lengths."
+
+There's a lot of science in that paragraph; I speak code much better than I
+speak science, so let's look at the `Github Repository`_. That page says things
+like...
+
+* PGD has `6 open Pull Requests`_,
+* `1 unresolved Issue`_,
+* `1156 commits in the master branch`_,
+* `5 branches`_, and
+* `11 contributors`_.
+
+
+It also describes the code as being:
+
+* 59.2% Python,
+* 27.2% HTML,
+* 12.4% JavaScript, and
+* 1.2% Other
+
+Depending on what you use PGD for (if you use it at all) you have a different
+relationship with the project. What matters here is that **PGD is a project that
+the OSL develops and maintains. This year a lot of great work was done on it for
+the 2015 Google Summer of Code.**
+
+.. _code.osuosl.org: http://code.osuosl.org/
+.. _Github Repository: http://github.com/osuosl/pgd
+.. _6 open Pull Requests: https://github.com/osuosl/pgd/pulls
+.. _1 unresolved Issue: https://github.com/osuosl/pgd/issues
+.. _1156 commits in the master branch: https://github.com/osuosl/pgd/commits/master
+.. _5 branches: https://github.com/osuosl/pgd/branches
+.. _11 contributors: https://github.com/osuosl/pgd/graphs/contributors
+
+**What PGD Accomplished During GSOC 2015**
+
+This year's PGD GSOC project had five core goals, all of which got accomplished.
+
+#. Revamping the current account system.
+#. Building occupancy awareness into PGD.
+#. Testing the current development branch of PGD.
+#. Implementing a search by deposition date filter.
+#. Upgrading PGD to Django 1.8 (from Django 1.6!)
+
+The student for this project was S. Ramana Subramanyam. He is in his second year
+at the Birla Institute of Technology and Science in Goa, India, and was
+wonderful to work with. Despite a 12 hour time difference he was able to be
+productive the majority of the time.
+
+Although none of the code developed for this year's GSOC has been merged into
+PGD, it has all been reviewed and will be merged over the next few months as the
+project lead (Jack Twilley) and I are able to work together on migrating the
+changes.
+
+**Overcoming Challenges**
+
+The largest challenges we were faced with in this project were scheduling.
+
+The PGD Project Lead (Jack) got an amazing internship for his Food Science
+degree in California at a vineyard; as a result he was unable to work on PGD and
+his GSOC mentorship as much as was initially expected. While I was able to
+answer (or at least help with) many of the questions S. Ramana had, sometimes we
+were forced to throw up our hands, send an email to Jack, and wait.
+
+This didn't stop S. Ramana from completing all of his goals for the GSOC
+project; there was always plenty to do so he could put one thing on the
+back-burner and focus on a new task. At the most it was a mild inconvenience but
+didn't get in the way too often.
+
+**Where PGD Stands**
+
+Once the code is merged and the inevitable version control conflicts are
+resolved, PGD will have some pretty neat new features:
+
+#. Search results can be saved.
+#. Search results can be saved as a PNG image.
+#. Occupancy Awareness.
+#. Deposition Date is now a search Filter.
+#. PGD is pgraded to Django 1.8.
+
+It took a lot of energy not to add ! to the end of each of those items.
+
+Despite scheduling conflicts and the usual technical snafus that come with major
+engineering changes, I would say that this GSOC was a success for PGD and the
+OSL.
+
+**Personal Takeaways**
+
+This was my first time mentoring a student for GSOC and although I have had
+limited experience mentoring students with Devops Bootcamp, mentoring a student
+remotely with a 12 hour time difference is an entirely different can of worms.
+
+My mentorship abilities were challenged but I learned a lot of great skills and
+added many tools to my belt when it comes to dealing with problems and knowing
+when/who to ask for help. If I am given the opportunity to be a GSOC mentor next
+year I will definitely jump on the opportunity to do so.
