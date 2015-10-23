@@ -12,10 +12,10 @@ The Protein Geometry Database project (PGD) is many things to many people.
 
 The synopses on `code.osuosl.org`_ says:
 
-  "Protein Geometry Database is a specialized search engine for protein geometry.
-  It allows you to explore either protein conformation or protein covalent
-  geometry or the correlations between protein conformation and bond angles and
-  lengths."
+*"Protein Geometry Database is a specialized search engine for protein geometry.
+It allows you to explore either protein conformation or protein covalent
+geometry or the correlations between protein conformation and bond angles and
+lengths."*
 
 There's a lot of science in that paragraph; I speak code much better than I
 speak science, so let's look at the `Github Repository`_. That page says things

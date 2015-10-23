@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+import bs4
 
 def menu_filter(pelican_pages, direct_templates):
     """
@@ -59,3 +60,10 @@ def menu_filter(pelican_pages, direct_templates):
                     child['children'].append(page.copy())
 
     return menu
+
+def close_html_tags(html_string):
+    """Closes any html tags in html_string that have been opened but have not
+    been closed.
+    """
+    soup = bs4.BeautifulSoup(html_string, "html.parser")
+    return soup
