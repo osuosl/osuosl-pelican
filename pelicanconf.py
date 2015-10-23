@@ -5,9 +5,10 @@ from __future__ import unicode_literals
 import sys
 sys.path.append('.')
 
-import menufilter
+import customfilters
 
-JINJA_FILTERS = {'menu_filter':menufilter.menu_filter}
+JINJA_FILTERS = {'menu_filter':customfilters.menu_filter,
+                 'close_html_tags':customfilters.close_html_tags }
 
 AUTHOR = u'OSUOSL'
 SITENAME = u'OSU Open Source Lab'
