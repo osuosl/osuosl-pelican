@@ -51,6 +51,7 @@ GITHUBURL = 'https://github.com/osuosl'
 YOUTUBEURL = 'http://youtube.com/osuopensourcelab'
 GPLUSURL = 'https://plus.google.com/107361178205293595706?rel=author'
 
+DEP_NAME = 'OSU Open Source Lab'
 SITELOGO = 'osllogo-web_0.png'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
