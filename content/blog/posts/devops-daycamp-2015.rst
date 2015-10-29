@@ -33,6 +33,6 @@ In the coming weeks, our DevOps BootCamp will hold weekly sessions covering
 basic software development and system administration skills. The goal is to give
 students the skills to contribute to open-source projects. It's free and open to
 the community so spread the word. For more information, see our website at
-'website_'. See you there!
+`website`_. See you there!
 
-.._website: http://devopsbootcamp.osuosl.org
+.. _website: http://devopsbootcamp.osuosl.org
