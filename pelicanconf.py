@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 import sys
-sys.path.append('.')
+sys.path.append('./dougfir-pelican-theme/filters')
 
 import customfilters
 
