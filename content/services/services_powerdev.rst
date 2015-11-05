@@ -4,10 +4,6 @@ PowerLinux / OpenPOWER Development Hosting
 :title: Development Hosting
 :menu: Services, Development Hosting, 3
 
-.. |br| raw:: html
-
-    <br />
-
 The Open Source Lab partners with `IBM`_ to host `POWER`_ based servers in order
 to provide an open platform for innovation to the open source community. Current
 projects embrace open software projects ranging from KVM to OpenStack and open
