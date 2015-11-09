@@ -47,12 +47,12 @@ Open Source Projects
 ~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table::
-   :file: os_projects.csv
+   :file: ../csv/os_projects.csv
    :widths: 1, 2
 
 Academic Partners
 ~~~~~~~~~~~~~~~~~
 
 .. csv-table::
-   :file: academic_partners.csv
+   :file: ../csv/academic_partners.csv
    :widths: 1, 2
