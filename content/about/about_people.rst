@@ -363,11 +363,11 @@ the internet, and programs personal projects.
 
   **Marketing Coordinator | Sticker Tsarina**
 
-Elsie joined the OSL in June 2014, and is an economics major and computer
-science minor. At the OSL, she tracks the progress of projects, creates
-workflows, completes various graphic design projects and manages the lab's
-social media presence. Elsie enjoys reading, cooking, photography and playing
-trivial pursuit in her spare time. After she graduates, Elsie hopes to travel.
+Elsie joined the OSL team in June 2014, and is an economics major. At the OSL,
+she is responsible for updating the OSL's social media accounts, creating
+print marketing materials, and representing the OSL at events. Elsie enjoys
+reading, cooking, photography and playing trivial pursuit in her spare time.
+After she graduates, Elsie hopes to travel.
 
 .. raw:: html
 
@@ -458,7 +458,7 @@ Hearts and Skyrim are her favorites) draw, read, and sleep in her spare time.
 
 .. class:: no-breaks
 
-  **Community Systems Administrator | Official Analog Thermometer**
+  **Community Systems Administrator**
 
 Andy is a computer science student who joined the OSL in December 2014 as a
 systems administrator. In his spare time, Andy arranges a cappella songs for
