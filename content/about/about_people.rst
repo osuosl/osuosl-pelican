@@ -213,8 +213,8 @@ the Protein Geometry Database. Megan enjoys reading in her spare time.
   **Developer**
 
 Matthew is a computer science major who joined the OSL in May 2015. He looks
-forward to learning more about GUIs while working at the lab. In his spare
-time he likes to spend time with his wife and play with his son and daughter.
+forward to learning more about back end technology while working at the lab. In
+his spare time he likes to spend time with his wife and kids.
 
 .. class:: no-breaks
 
