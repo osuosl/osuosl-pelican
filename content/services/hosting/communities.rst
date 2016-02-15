@@ -35,7 +35,7 @@ with the Renderman® interface standard defined by Pixar. The OSL provides
 hosting for a server and a Xen virtual machine for handling the Web, mail and
 development needs of Aqsis.
 
-.. _Aqsis: http://aqsis.org/
+.. _Aqsis: http://www.aqsis.org/
 
 
 `BusyBox`_
