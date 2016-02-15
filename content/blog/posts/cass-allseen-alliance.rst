@@ -1,5 +1,5 @@
- CASS and the AllSeen Alliance 
- =============================
+CASS and the AllSeen Alliance 
+=============================
 :date: 2016-02-11
 :author: Amanda Kelner
 :slug: cass-allseen-alliance
@@ -8,7 +8,7 @@ Oregon State University has joined the world’s technology leaders — includin
 LG, Microsoft, and Qualcomm — to advance the collaborative development of the
 Internet of Things (IoT).
 
-IoT is a network of devices that exchange information — anything from from
+IoT is a network of devices that exchange information — anything from
 smaller devices like watches to full-scale “smart cities.” IoT devices are
 almost too numerous to count, including light bulbs, air vents, watches,
 speakers, parking monitors and mirrors. The number of connected devices is
@@ -39,4 +39,4 @@ practices to adjust to new tools and requirements. This project provides the
 student employees the opportunity to work with cutting edge software which will
 be deployed to millions of devices.
 
-.. _according to Garner: http://www.gartner.com/newsroom/id/3165317
+.. _according to Gartner: http://www.gartner.com/newsroom/id/3165317
