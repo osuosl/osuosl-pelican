@@ -25,7 +25,7 @@ and hate, moving out isn’t an easy process, especially when you don’t have a
 place to go. RTEMS’ parents (or the engineers) are embedded real-time software
 engineers, which is perfect for a Real-Time Executive for Multiprocessor
 System, but RTEMS needed exposure to other things, in this case IT guys.
-Because of this, RTEMS’ growth (or it’s IT setup) was stunted. Think of it as
+Because of this, RTEMS’ growth (or its IT setup) was stunted. Think of it as
 the difference between having your parents dress you for picture day and having
 your cool aunt dress you for picture day. Both are going to think you look
 great, but only one is going to be right. But then, at a “parents” weekend (the
@@ -33,7 +33,7 @@ GSoC Mentor Summit), RTEMS’ parents met Lance Albertson, our own director.
 Finally, RTEMS had a place to go. Since the move, RTEMS’ old friend buildbot
 has moved in and shares a space with RTEMS, and a new friend, NTPsec (Network
 Time Protocol secure), has also joined the lab. Sharing the OSL technical
-expertise mean these projects receive world class network performance. Though
+expertise means these projects receive world class network performance. Though
 the road was long and harrowing, RTEMS finally has a home here at the OSL.
 
 Now that RTEMS is settled into its new home, the RTEMS community is looking to
