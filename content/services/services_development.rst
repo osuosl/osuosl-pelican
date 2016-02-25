@@ -34,7 +34,7 @@ cloud infrastructure. With a caching system designed to scale to many thousands
 of virtual machines without decreasing performance, GWM makes private cluster
 management for administrators truly simple.
 
-.. _Ganeti Web Manager: https://code.osuosl.org.projects/51
+.. _Ganeti Web Manager: https://github.com/osuosl/ganeti_webmgr
 
 
 `Oregon Virtual School District`_
@@ -57,7 +57,7 @@ use by researchers in OSU's biochemistry department. PGD provides an online
 search tool used to mine protein conformational space with a user-friendly but
 surprisingly flexible graphical interface.
 
-.. _Protein Geometry Database: http://pgd.osuosl.org
+.. _Protein Geometry Database: https://github.com/osuosl/pgd
 
 
 `TriSano`_
