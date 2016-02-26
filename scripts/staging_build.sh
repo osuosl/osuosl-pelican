@@ -3,7 +3,6 @@
 # Update repo
 git checkout thai/pelican_staging
 git pull -q --ff-only
-git submodule deinit --force
 git submodule update --init --recursive
 
 # Enable venv
