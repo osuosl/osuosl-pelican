@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Update repo
-git checkout staging
+git checkout thai/pelican_staging
 git pull -q --ff-only
 git submodule update --init --recursive
 
