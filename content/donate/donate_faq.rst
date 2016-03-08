@@ -68,15 +68,14 @@ http://osufoundation.org
 to match my donation to the OSUOSL?**
 
 Many corporations have programs which will match donations to educational
-institutions. The OSU Foundation has instructions for many companies listed
-here:
+institutions. The OSU Foundation can help you find out if your company has a
+matching gift policy `here`_.
 
-https://osufoundation.org/giving/company_match.htm
-
-If you don't find your employer in that list, or have further questions, please
+If you don't find your employer or have further questions, please
 contact your employer or the OSU Foundation directly to find out if your
 donation is eligible for a matching program.
 
+.. _here: http://www.osufoundation.org/s/359/foundation/index.aspx?sid=359&gid=34&pgid=4358
 
 .. _How much money are you trying to raise?:
 

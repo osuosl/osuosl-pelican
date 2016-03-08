@@ -63,7 +63,7 @@ justice.
 
   **Github Account:**
 
-\https://github.com/borcean
+https://github.com/borcean
 
 .. raw:: html
 
@@ -140,7 +140,7 @@ and two dogs.
 
   **Github Account:**
 
-\https://github.com/jordane
+https://github.com/jordane
 
 .. raw:: html
 
@@ -168,7 +168,7 @@ software and education to people around the world.
 
   **Github Account:**
 
-\https://github.com/fahlmant
+https://github.com/fahlmant
 
 .. raw:: html
 
@@ -194,7 +194,7 @@ the Protein Geometry Database. Megan enjoys reading in her spare time.
 
   **Github Account:**
 
-\https://github.com/MaraJade
+https://github.com/MaraJade
 
 .. raw:: html
 
@@ -213,14 +213,14 @@ the Protein Geometry Database. Megan enjoys reading in her spare time.
   **Developer**
 
 Matthew is a computer science major who joined the OSL in May 2015. He looks
-forward to learning more about GUIs while working at the lab. In his spare
-time he likes to spend time with his wife and play with his son and daughter.
+forward to learning more about back end technology while working at the lab. In
+his spare time he likes to spend time with his wife and kids.
 
 .. class:: no-breaks
 
   **Github Account:**
 
-\https://github.com/matthewrsj
+https://github.com/matthewrsj
 
 .. raw:: html
 
@@ -247,7 +247,7 @@ reading, programming and attending OSU Linux Users Group meetings.
 
   **Github Account:**
 
-\https://github.com/iankronquist
+https://github.com/iankronquist
 
 .. raw:: html
 
@@ -345,7 +345,7 @@ the internet, and programs personal projects.
 
   **Github Account:**
 
-\https://github.com/LyonesGamer
+https://github.com/LyonesGamer
 
 .. raw:: html
 
@@ -416,7 +416,7 @@ school and travel back to Hungary in the future. His PGP ID is 062FD895
 
   **Github Account:**
 
-\https://github.com/dspt/
+https://github.com/pono/
 
 .. raw:: html
 
@@ -442,7 +442,7 @@ Hearts and Skyrim are her favorites) draw, read, and sleep in her spare time.
 
   **Github Account:**
 
-\https://github.com/athai
+https://github.com/athai
 
 .. raw:: html
 
@@ -491,29 +491,7 @@ climb some of Oregon’s famous climbing rocks.
 
   **Github Account:**
 
-\http://github.com/tschuy
-
-.. raw:: html
-
-  <br/>
-
-`Rachel Turner`_
-----------------
-
-.. image:: /images/rturner.jpg
-    :scale: 50%
-    :align: right
-    :alt: Rachel Turner
-
-.. class:: no-breaks
-
-  **Writer | Thesaurus Rex**
-
-Rachel is a speech communication major who joined the OSL team in March 2014;
-she is responsible for writing and editing articles and Web content for the
-OSL. Rachel is a member of the OSU Speech and Debate team and hopes to write
-speeches once she graduates. In her spare time, she enjoys reading, watching
-movies and traveling.
+http://github.com/tschuy
 
 .. raw:: html
 
@@ -541,7 +519,7 @@ number of solo open source projects and watches “Doctor Who.”
 
   **Github Account:**
 
-\https://github.com/mathuin
+https://github.com/mathuin
 
 .. raw:: html
 
@@ -569,7 +547,7 @@ hoping to start his own software company.
 
   **Github Account:**
 
-\https://github.com/ElijahCaine
+https://github.com/ElijahCaine
 
 .. raw:: html
 
@@ -600,7 +578,7 @@ developers.
 
   **Github Account:**
 
-\https://github.com/lucywyman
+https://github.com/lucywyman
 
 .. raw:: html
 

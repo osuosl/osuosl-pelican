@@ -9,10 +9,10 @@ Hosted Communities
 -----------
 
 `Ångström`_ was started by a small group of people who worked on the
-OpenEmbedded, OpenZaurus and OpenSimpad projects to unify their effort to make a
-stable and user-friendly distribution for embedded devices like handhelds,
-set-top boxes and network-attached storage devices and more. The OSL hosts their
-Narcissus Image Builder via the Nas-Admin.org project.
+OpenEmbedded, OpenZaurus and OpenSimpad projects to unify their effort to make
+a stable and user-friendly distribution for embedded devices like handhelds,
+set-top boxes and network-attached storage devices and more. The OSL hosts
+their Narcissus Image Builder via the Nas-Admin.org project.
 
 .. _Ångström: http://www.angstrom-distribution.org/
 
@@ -35,7 +35,7 @@ with the Renderman® interface standard defined by Pixar. The OSL provides
 hosting for a server and a Xen virtual machine for handling the Web, mail and
 development needs of Aqsis.
 
-.. _Aqsis: http://aqsis.org/
+.. _Aqsis: http://www.aqsis.org/
 
 
 `BusyBox`_
@@ -572,21 +572,21 @@ network that aims to provide stable and effective collaboration services to
 members of the community in any part of the world, while closely listening to
 their needs and desires. The OSL hosts a node of the OFTC IRC network.
 
-.. _Open and Free Technology Communicty: http://oftc.net/
+.. _Open and Free Technology Community: http://oftc.net/
 .. _Open and Free Technology Community (OFTC): http://oftc.net/
 
 
-`Open Source Digital Voting Foundation`_
------------------------------------------
+`Open Source Elections Technology Foundation`_
+-----------------------------------------------
 
-The `OSDV Foundation`_ is building an open source election technology framework
+The `OSET Foundation`_ is building an open source election technology framework
 for adoption and deployment by U.S. jurisdictions. The OSL hosts websites for
 the foundation, the development servers for the TrustTheVote project and
 application servers for their partner `RockTheVote`_’s voter registration
 project.
 
-.. _Open Source Digital Voting Foundation: http://osdv.org/
-.. _OSDV Foundation: http://osdv.org/
+.. _Open Source Elections Technology Foundation: http://osetfoundation.org/
+.. _OSET Foundation: http://osetfoundation.org/
 .. _RockTheVote: http://www.rockthevote.org/
 
 
