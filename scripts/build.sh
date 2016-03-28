@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Update repo
-git checkout master
+git checkout thai/pelican_production
 git pull -q --ff-only
 git submodule update --init --recursive
 
