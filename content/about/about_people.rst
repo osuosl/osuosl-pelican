@@ -253,6 +253,22 @@ https://github.com/iankronquist
 
   <br/>
 
+'Annie Lei'-
+------------
+
+.. class:: no-breaks
+
+  **Student Developer**
+
+Lei joined the OSL in March of 2016 after participating in Devops Bootcamp. The
+possibilities that come from the collaborative nature of the OSL is what
+excited her the most about working here. Outside of the OSL, she enjoys hanging
+out with friends and eating cheesecake.
+
+.. raw:: html
+
+  <br/>
+  
 `Lee Leighton`_
 ---------------
 
