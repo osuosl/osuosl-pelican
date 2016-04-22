@@ -324,6 +324,23 @@ drums in his free time.
 
   <br/>
 
+'Alex Nguyen'-
+--------------
+
+.. class:: no-breaks
+
+  **Student Developer**
+
+Nguyen joined the OSL staff in March 2016 and is earning a degree in Computer
+Science. Working at the OSL has given him a chance to turn his hobby into a
+paying job. Nguyen is trained in American and English cuisine and in his spare
+time, he likes to exercise, cook, and program for fun.
+
+.. raw:: html
+
+  <br/>
+
+
 `Tristan Patch`_
 ----------------
 
