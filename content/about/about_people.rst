@@ -375,6 +375,22 @@ server. In his free time, he works on his own PC gaming community website.
 
   <br/>
 
+'Alex Taylor'
+-------------
+
+.. class:: no-breaks
+
+  **Student Developer**
+
+Taylor joined the OSL in February of 2016 and is studying Computer Science. He
+became interested in the OSL after seeing some of our projects and wanted to
+put his skills to good use and apply them here. Taylor is interested in
+learning more about back-en web development while working at the OSL.
+
+.. raw:: html
+
+  <br/>
+
 `Aileen Thai`_
 ------------------
 
