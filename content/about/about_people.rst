@@ -69,27 +69,6 @@ https://github.com/borcean
 
   <br/>
 
-`Justin Brown`_
----------------
-
-.. image:: /images/jbrown.jpg
-    :scale: 50%
-    :align: right
-    :alt: Justin Brown
-
-.. class:: no-breaks
-
-  **Developer**
-
-Justin joined the OSL as a developer in September 2014. A computer science
-major, Justin enjoys programming, games, mountain biking and camping. Justin
-prides himself in documenting his work, and in the future he hopes to develop
-libraries and tools for game developers.
-
-.. raw:: html
-
-  <br/>
-
 `Justin Dugger`_
 ----------------
 
@@ -111,36 +90,6 @@ lab's projects and infrastructure. Justin was involved in the Linux Users
 Group at KSU, and he has extensive experience with Java programming. Through
 the OSL, Justin is excited to be part of the wider open source community and
 to participate in outreach and development.
-
-.. raw:: html
-
-  <br/>
-
-`Jordan Evans`_
----------------
-
-.. image:: /images/jevans.jpg
-    :scale: 50%
-    :align: right
-    :alt: Jordan Evans
-
-.. class:: no-breaks
-
-  **Operating Systems and Networks Analyst | Professional Chef**
-
-Jordan rejoined the OSL staff in March of 2014 as an operating systems and
-networks analyst after previously working as a student from 2010-2012. As an
-operating systems and networks analyst, he primarily focuses on mailing
-infrastructures, automation and cloud infrastructures. Specifically, Jordan is
-currently working on Chef (configuration management) infrastructure. In his
-spare time, Jordan enjoys reading, knitting and spending time with his wife
-and two dogs.
-
-.. class:: no-breaks
-
-  **Github Account:**
-
-https://github.com/jordane
 
 .. raw:: html
 
@@ -268,7 +217,7 @@ out with friends and eating cheesecake.
 .. raw:: html
 
   <br/>
-  
+
 `Lee Leighton`_
 ---------------
 
@@ -421,35 +370,6 @@ After she graduates, Elsie hopes to travel.
 Sean is studying computer systems and joined the OSL in June 2012. He works on
 many projects at the lab but particularly enjoys working with the Apache Web
 server. In his free time, he works on his own PC gaming community website.
-
-.. raw:: html
-
-  <br/>
-
-`Daniel Takamori`_
-------------------
-
-.. image:: /images/dtakamori.jpg
-    :scale: 50%
-    :align: right
-    :alt: Daniel Takamori
-
-.. class:: no-breaks
-
-  **Community Systems Administrator | Defending 4th Grade Go Champion, 16 Years
-  Running**
-
-Daniel is a mathematics and physics student. At the OSL he works on logging,
-backend for the Protein Geometry Database, supporting ORVSD, and managing
-Power7 systems. In his free time, Daniel likes to write Racket, play go, work
-on underwater robotics, cook and eat vegetables. He hopes to attend graduate
-school and travel back to Hungary in the future. His PGP ID is 062FD895
-
-.. class:: no-breaks
-
-  **Github Account:**
-
-https://github.com/pono/
 
 .. raw:: html
 
