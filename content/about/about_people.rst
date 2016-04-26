@@ -69,6 +69,20 @@ https://github.com/borcean
 
   <br/>
 
+'Aaron Cohen'
+
+.. class:: no-breaks
+
+  **Student Developer**
+
+Cohen was hired in March of 2016 after hearing about the OSL from a former
+teacher. With a love for programming and open source, it was a perfect fit for
+him. He is currently studying Electrical Engineering and Computer Science and
+wants to pursue a career in the robotics field. Cohen can also solve a Rubik's
+cube in under fifteen seconds and aspires to compete at the national level.
+
+  <br/>
+
 `Justin Dugger`_
 ----------------
 
