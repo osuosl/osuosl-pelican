@@ -71,6 +71,11 @@ https://github.com/borcean
 
 'Aaron Cohen'
 
+.. image:: /images/acohen.jpg
+    :scale: 50%
+    :align: right
+    :alt: Aaron Cohen
+
 .. class:: no-breaks
 
   **Student Developer**
@@ -219,6 +224,11 @@ https://github.com/iankronquist
 'Annie Lei'-
 ------------
 
+.. image:: /images/alei.jpg
+    :scale: 50%
+    :align: right
+    :alt: Annie Lei
+
 .. class:: no-breaks
 
   **Student Developer**
@@ -306,6 +316,11 @@ drums in his free time.
 'Alex Nguyen'-
 --------------
 
+.. image:: /images/anguyen.jpg
+    :scale: 50%
+    :align: right
+    :alt: Alex Nguyen
+
 .. class:: no-breaks
 
   **Student Developer**
@@ -391,6 +406,11 @@ server. In his free time, he works on his own PC gaming community website.
 
 'Alex Taylor'
 -------------
+
+.. image:: /images/ataylor.jpg
+    :scale: 50%
+    :align: right
+    :alt: Alex Taylor
 
 .. class:: no-breaks
 
