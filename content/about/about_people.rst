@@ -80,10 +80,10 @@ https://github.com/borcean
 
   **Student Developer**
 
-Cohen was hired in March of 2016 after hearing about the OSL from a former
+Aaron was hired in March of 2016 after hearing about the OSL from a former
 teacher. With a love for programming and open source, it was a perfect fit for
 him. He is currently studying Electrical Engineering and Computer Science and
-wants to pursue a career in the robotics field. Cohen can also solve a Rubik's
+wants to pursue a career in the robotics field. Aaron can also solve a Rubik's
 cube in under fifteen seconds and aspires to compete at the national level.
 
   <br/>
@@ -233,7 +233,7 @@ https://github.com/iankronquist
 
   **Student Developer**
 
-Lei joined the OSL in March of 2016 after participating in Devops Bootcamp. The
+Annie joined the OSL in March of 2016 after participating in Devops Bootcamp. The
 possibilities that come from the collaborative nature of the OSL is what
 excited her the most about working here. Outside of the OSL, she enjoys hanging
 out with friends and eating cheesecake.
@@ -325,9 +325,9 @@ drums in his free time.
 
   **Student Developer**
 
-Nguyen joined the OSL staff in March 2016 and is earning a degree in Computer
+Alex joined the OSL staff in March 2016 and is earning a degree in Computer
 Science. Working at the OSL has given him a chance to turn his hobby into a
-paying job. Nguyen is trained in American and English cuisine and in his spare
+paying job. Alex is trained in American and English cuisine and in his spare
 time, he likes to exercise, cook, and program for fun.
 
 .. raw:: html
@@ -416,9 +416,9 @@ server. In his free time, he works on his own PC gaming community website.
 
   **Student Developer**
 
-Taylor joined the OSL in February of 2016 and is studying Computer Science. He
+Alex joined the OSL in February of 2016 and is studying Computer Science. He
 became interested in the OSL after seeing some of our projects and wanted to
-put his skills to good use and apply them here. Taylor is interested in
+put his skills to good use and apply them here. Alex is interested in
 learning more about back-en web development while working at the OSL.
 
 .. raw:: html
