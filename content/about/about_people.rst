@@ -87,6 +87,8 @@ him. He is currently studying Electrical Engineering and Computer Science and
 wants to pursue a career in the robotics field. Aaron can also solve a Rubik's
 cube in under fifteen seconds and aspires to compete at the national level.
 
+.. raw:: html
+
   <br/>
 
 `Justin Dugger`_
