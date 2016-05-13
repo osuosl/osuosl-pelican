@@ -69,10 +69,11 @@ https://github.com/borcean
 
   <br/>
 
-'Aaron Cohen'
+'Aaron Cohen'-
+--------------
 
 .. image:: /images/acohen.jpg
-    :scale: 50%
+    :scale: 25%
     :align: right
     :alt: Aaron Cohen
 
