@@ -69,7 +69,7 @@ https://github.com/borcean
 
   <br/>
 
-'Aaron Cohen'-
+`Aaron Cohen`-
 --------------
 
 .. image:: /images/acohen.jpg
