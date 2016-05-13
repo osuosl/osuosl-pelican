@@ -224,7 +224,7 @@ https://github.com/iankronquist
 
   <br/>
 
-'Annie Lei'-
+`Annie Lei`_
 ------------
 
 .. image:: /images/alei.jpg
@@ -316,7 +316,7 @@ drums in his free time.
 
   <br/>
 
-'Alex Nguyen'-
+`Alex Nguyen`_
 --------------
 
 .. image:: /images/anguyen.jpg
@@ -407,8 +407,8 @@ server. In his free time, he works on his own PC gaming community website.
 
   <br/>
 
-'Alex Taylor'
--------------
+`Alex Taylor`_
+--------------
 
 .. image:: /images/ataylor.jpg
     :scale: 50%
