@@ -73,7 +73,7 @@ https://github.com/borcean
 --------------
 
 .. image:: /images/acohen.jpg
-    :scale: 25%
+    :scale: 50%
     :align: right
     :alt: Aaron Cohen
 
