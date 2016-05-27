@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Update repo
-git checkout master
+git checkout staging
 git pull -q --ff-only
 git submodule update --init --recursive
 
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 pip install pelican
 
 # Build the site
-make publish
+make staging
 
 # Disable venv
 deactivate
