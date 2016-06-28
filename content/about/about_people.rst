@@ -590,6 +590,33 @@ https://github.com/ElijahCaine
 
   <br/>
 
+`Levi Willmeth`_
+----------------
+
+.. image:: /images/lwillmeth.jpg
+    :scale: 50%
+    :align: right
+    :alt: Levi Willmeth
+
+.. class:: no-breaks
+
+  **OSL Academy Intern**
+
+Levi joined the OSL as a student intern in the summer of 2016. He is married
+and has two energetic toddlers who help ensure he doesn't sleep too much.
+Levi enjoys playing bike polo, flying RC aircraft, looking thoughtful during 
+photographs, and contributing to science as a member of the OSU/LBCC Space Club.
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/lo9key
+
+.. raw:: html
+
+  <br/>
+
 `Lucy Wyman`_
 -------------
 
