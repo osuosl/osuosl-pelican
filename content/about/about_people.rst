@@ -91,6 +91,20 @@ cube in under fifteen seconds and aspires to compete at the national level.
 
   <br/>
 
+'Aaron Cohen'
+
+.. class:: no-breaks
+
+  **Student Developer**
+
+Cohen was hired in March of 2016 after hearing about the OSL from a former
+teacher. With a love for programming and open source, it was a perfect fit for
+him. He is currently studying Electrical Engineering and Computer Science and
+wants to pursue a career in the robotics field. Cohen can also solve a Rubik's
+cube in under fifteen seconds and aspires to compete at the national level.
+
+  <br/>
+
 `Justin Dugger`_
 ----------------
 
@@ -245,6 +259,22 @@ out with friends and eating cheesecake.
 
   <br/>
 
+'Annie Lei'-
+------------
+
+.. class:: no-breaks
+
+  **Student Developer**
+
+Lei joined the OSL in March of 2016 after participating in Devops Bootcamp. The
+possibilities that come from the collaborative nature of the OSL is what
+excited her the most about working here. Outside of the OSL, she enjoys hanging
+out with friends and eating cheesecake.
+
+.. raw:: html
+
+  <br/>
+  
 `Lee Leighton`_
 ---------------
 
@@ -418,6 +448,7 @@ server. In his free time, he works on his own PC gaming community website.
 .. class:: no-breaks
 
   **Student Developer**
+
 
 Alex joined the OSL in February of 2016 and is studying Computer Science. He
 became interested in the OSL after seeing some of our projects and wanted to
