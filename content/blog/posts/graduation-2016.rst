@@ -9,7 +9,7 @@ As exciting as the end of the school year is for everyone, and with it the
 promise of sun, no classes, shorts, extended vacations, and no classes, it also
 brings an inevitable goodbye to those leaving to enter the real world.
 
-``*``sniffle``*``
+``*sniffle*``
 
 .. image:: /images/AnthonyMiller.jpg
   :scale: 100%
@@ -22,25 +22,25 @@ brave few willing to begin paying off their student loans. Many of our graduates
 have spent multiple years working for the OSL, some starting not long after high
 school. And we're losing too many good ones this year, including:
 
-.. image:: /images/MeganGossens.jpg
+.. image:: /images/MeganGoossens.jpg
   :scale: 100%
   :align: left
-  :alt: Megan Gossens, Developer
+  :alt: Megan Goossens, Developer
 
-  **Megan Goosens-Developer**
+**Megan Goossens-Developer**
 
-  **Anthony Miller-Student Systems Engineer**
+**Anthony Miller-Student Systems Engineer**
 
-  **Elsie Phillips-Project Manager**
+**Elsie Phillips-Project Manager**
 
 .. image:: /images/ephillips.jpg
   :scale: 50%
   :align: right
   :alt: Elsie Phillips, Project Manager
 
-  **Sean Rettig-Student Systems Engineer**
+**Sean Rettig-Student Systems Engineer**
 
-  **Lucy Wyman-Front End Engineer**
+**Lucy Wyman-Front End Engineer**
 
 As sad as we are to see them go, we're so proud of everything our students have
 accomplished and hope they only excel in their futures.
