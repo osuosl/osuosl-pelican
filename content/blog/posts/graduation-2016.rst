@@ -27,20 +27,20 @@ school. And we're losing too many good ones this year, including:
   :align: left
   :alt: Megan Gossens, Developer
 
-  **Megan Goosens-Developer**
+**Megan Goosens-Developer**
 
-  **Anthony Miller-Student Systems Engineer**
+**Anthony Miller-Student Systems Engineer**
 
-  **Elsie Phillips-Project Manager**
+**Elsie Phillips-Project Manager**
 
 .. image:: /images/ephillips.jpg
   :scale: 50%
   :align: right
   :alt: Elsie Phillips, Project Manager
 
-  **Sean Rettig-Student Systems Engineer**
+**Sean Rettig-Student Systems Engineer**
 
-  **Lucy Wyman-Front End Engineer**
+**Lucy Wyman-Front End Engineer**
 
 As sad as we are to see them go, we're so proud of everything our students have
 accomplished and hope they only excel in their futures.
