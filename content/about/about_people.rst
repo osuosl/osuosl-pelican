@@ -437,6 +437,27 @@ server. In his free time, he works on his own PC gaming community website.
 
   <br/>
 
+`Hannah Solorzano`_
+-------------------
+
+.. image:: /images/hsolorzano.jpg
+    :scale: 50%
+    :align: right
+    :alt: Hannah Solorzano
+
+.. class:: no-breaks
+
+  **Student Intern**
+
+Hannah is a Computer Science major who is planning to transfer to OSU in the
+fall of 2016. She looks forward to collaborating with others on projects in
+both Python and Ruby. In her free time she likes to read, play video games,
+and go hiking with her friends.
+
+.. raw:: html
+
+  <br/>
+
 `Alex Taylor`_
 --------------
 
