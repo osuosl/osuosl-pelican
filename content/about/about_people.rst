@@ -485,6 +485,28 @@ https://github.com/athai
 
   <br/>
 
+`Cayleigh Thalmann`_
+--------------------
+
+.. image:: /images/cthalmann.jpg
+    :scale: 50%
+    :align: right
+    :alt: Cayleigh Thalmann
+
+.. class:: no-breaks
+
+  **OSL Academy Intern**
+
+Cayleigh is going into her third year as a computer science student.
+She originally decided upon the major in order to make video games,
+and has enjoyed learning many other aspects of computer science.
+When not poring over a computer science textbook, she enjoys
+playing video games and cuddling with cats.
+
+.. raw:: html
+
+  <br/>
+
 `Andy Tolvstad`_
 ----------------
 
