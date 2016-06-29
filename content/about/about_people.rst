@@ -91,20 +91,6 @@ cube in under fifteen seconds and aspires to compete at the national level.
 
   <br/>
 
-'Aaron Cohen'
-
-.. class:: no-breaks
-
-  **Student Developer**
-
-Cohen was hired in March of 2016 after hearing about the OSL from a former
-teacher. With a love for programming and open source, it was a perfect fit for
-him. He is currently studying Electrical Engineering and Computer Science and
-wants to pursue a career in the robotics field. Cohen can also solve a Rubik's
-cube in under fifteen seconds and aspires to compete at the national level.
-
-  <br/>
-
 `Justin Dugger`_
 ----------------
 
@@ -185,6 +171,27 @@ https://github.com/MaraJade
 
   <br/>
 
+`Cody Holliday`
+---------------
+
+.. image:: /images/cholliday.jpg
+    :scale: 50%
+    :align: right
+    :alt: Cody Holliday
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Cody joined the OSL in June of 2016 and studies Computer Science. He is excited
+to learn through his experience with the OSL and expand his knowledge on a
+variety of topics including servers, SysAdmin skills, and Linux. During the
+school year, Cody is a DJ at KBVR, OSU's student run radio station.
+
+.. raw:: html
+
+  <br/>
+
 `Matthew Johnson`_
 ------------------
 
@@ -259,22 +266,6 @@ out with friends and eating cheesecake.
 
   <br/>
 
-'Annie Lei'-
-------------
-
-.. class:: no-breaks
-
-  **Student Developer**
-
-Lei joined the OSL in March of 2016 after participating in Devops Bootcamp. The
-possibilities that come from the collaborative nature of the OSL is what
-excited her the most about working here. Outside of the OSL, she enjoys hanging
-out with friends and eating cheesecake.
-
-.. raw:: html
-
-  <br/>
-  
 `Lee Leighton`_
 ---------------
 
