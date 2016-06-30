@@ -604,8 +604,8 @@ https://github.com/ElijahCaine
 
 Levi joined the OSL as a student intern in the summer of 2016. He is married
 and has two energetic toddlers who help ensure he doesn't sleep too much.
-Levi enjoys playing bike polo, flying RC aircraft, looking thoughtful during 
-photographs, and contributing to science as a member of the OSU/LBCC Space Club.
+Levi enjoys playing bike polo, flying RC aircraft, looking thoughtful in 
+photographs, and contributing to science with the OSU/LBCC Space Club.
 
 .. class:: no-breaks
 
