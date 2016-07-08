@@ -171,7 +171,7 @@ https://github.com/MaraJade
 
   <br/>
 
-`Cody Holliday`-
+`Cody Holliday`_
 ----------------
 
 .. image:: /images/cholliday.jpg
