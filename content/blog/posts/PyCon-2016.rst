@@ -5,13 +5,14 @@ The OSL at PyCon
 :slug: pycon-2016
 :img: PyCon Poster.jpg
 
-The month of June opened with the annual `Pycon`_ event in Portland, the
+The month of June opened with the annual `PyCon`_ event in Portland, the
 largest annual gathering for the `Python`_ community. This year, the OSL had
-the opportunity to send one of its own. Matthew Johnson (link) presented a
+the opportunity to send one of its own. `Matthew Johnson`_ presented a
 poster on Pymesync, a tool of Python.
 
-.. _Pycon: https://us.pycon.org/2016/
+.. _PyCon: https://us.pycon.org/2016/
 .. _Python: https://www.python.org
+.. _Matthew Johnson: http://blogs.oregonstate.edu/eecsnews/2015/11/10/
 
 But first, what exactly do all these Py- words mean?
 
