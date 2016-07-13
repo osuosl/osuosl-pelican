@@ -497,6 +497,33 @@ PC and is especially interested in Web development.
 
   <br/>
 
+`Elena Torrey`_
+---------------
+
+.. image:: /images/etorrey.jpg
+    :scale: 50%
+    :align: right
+    :alt: Elena Torrey
+
+.. class:: no-breaks
+
+  **OSL Academy Intern | The one with an accent**
+
+Elena is a web development major at Clackamas Community College. She joined the OSL to get
+experience in back-end development, learn programming in Python, and
+collaborate with other developers. Elena lives in Portland and enjoys running,
+hiking, and traveling.
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/etorrey
+
+.. raw:: html
+
+  <br/>
+
 `Evan Tschuy`_
 --------------
 
