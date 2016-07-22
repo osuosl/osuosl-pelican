@@ -428,6 +428,27 @@ server. In his free time, he works on his own PC gaming community website.
 
   <br/>
 
+`Hannah Solorzano`_
+-------------------
+
+.. image:: /images/hsolorzano.jpg
+    :scale: 50%
+    :align: right
+    :alt: Hannah Solorzano
+
+.. class:: no-breaks
+
+  **OSL Academy Intern**
+
+Hannah is a Computer Science major who plans to transfer to OSU in the
+fall of 2016. She looks forward to collaborating with others on projects in
+both Python and Ruby. In her free time she likes to read, play video games,
+and hike with her friends.
+
+.. raw:: html
+
+  <br/>
+
 `Alex Taylor`_
 --------------
 
@@ -476,6 +497,28 @@ https://github.com/athai
 
   <br/>
 
+`Cayleigh Thalmann`_
+--------------------
+
+.. image:: /images/cthalmann.jpg
+    :scale: 50%
+    :align: right
+    :alt: Cayleigh Thalmann
+
+.. class:: no-breaks
+
+  **OSL Academy Intern**
+
+Cayleigh is going into her third year as a computer science student. She
+originally decided on this major to make video games, and has enjoyed
+learning many other aspects of computer science. When not poring over a
+computer science textbook, she enjoys playing video games and cuddling
+with cats.
+
+.. raw:: html
+
+  <br/>
+
 `Andy Tolvstad`_
 ----------------
 
@@ -492,6 +535,33 @@ Andy is a computer science student who joined the OSL in December 2014 as a
 systems administrator. In his spare time, Andy arranges a cappella songs for
 small groups, plays music and watches Netflix. Andy enjoys playing Skyrim for
 PC and is especially interested in Web development.
+
+.. raw:: html
+
+  <br/>
+
+`Elena Torrey`_
+---------------
+
+.. image:: /images/etorrey.jpg
+    :scale: 50%
+    :align: right
+    :alt: Elena Torrey
+
+.. class:: no-breaks
+
+  **OSL Academy Intern | The one with an accent**
+
+Elena is a web development major at Clackamas Community College. She joined the OSL to get
+experience in back-end development, learn programming in Python, and
+collaborate with other developers. Elena lives in Portland and enjoys running,
+hiking, and traveling.
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/etorrey
 
 .. raw:: html
 
@@ -576,6 +646,33 @@ hoping to start his own software company.
   **Github Account:**
 
 https://github.com/ElijahCaine
+
+.. raw:: html
+
+  <br/>
+
+`Levi Willmeth`_
+----------------
+
+.. image:: /images/lwillmeth.jpg
+    :scale: 50%
+    :align: right
+    :alt: Levi Willmeth
+
+.. class:: no-breaks
+
+  **OSL Academy Intern**
+
+Levi joined the OSL as a student intern in the summer of 2016. He is married
+and has two energetic toddlers who help ensure he doesn't sleep too much.
+Levi enjoys playing bike polo, flying RC aircraft, looking thoughtful in 
+photographs, and contributing to science with the OSU/LBCC Space Club.
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/lo9key
 
 .. raw:: html
 
