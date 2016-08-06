@@ -19,6 +19,19 @@ DEFAULT_DATE_FORMAT = '%B %e, %Y'
 
 DEFAULT_LANG = u'en'
 
+# Address and contact info
+NAME_ABBREV = u'OSL'
+ROOM = u'B211'
+BUILDING = u'Kerr Admin'
+STREET_ADDRESS = u'1500 SW Jefferson Avenue'
+EMAIL = [{'description': u'General inquiries',
+          'address': u'info@osuosl.org'},
+         {'description': u'Support for project infrastructure',
+          'address': u'support@osuosl.org'},
+         {'description': u'Questions about donations',
+          'address': u'donations@osuosl.org'}]
+PHONE_NUM = u'541-737-9900'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 
