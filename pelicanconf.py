@@ -55,3 +55,5 @@ DEP_NAME = 'OSU Open Source Lab'
 SITELOGO = 'osllogo-web_0.png'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+DISABLE_SIDEBAR = True
