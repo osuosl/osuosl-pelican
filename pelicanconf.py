@@ -52,6 +52,8 @@ YOUTUBEURL = 'http://youtube.com/osuopensourcelab'
 GPLUSURL = 'https://plus.google.com/107361178205293595706?rel=author'
 
 DEP_NAME = 'OSU Open Source Lab'
+PARENT_ORG = 'Center for Applied Systems & Software'
+PARENT_ORG_URL = 'http://cass.oregonstate.edu/'
 SITELOGO = 'osllogo-web_0.png'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
