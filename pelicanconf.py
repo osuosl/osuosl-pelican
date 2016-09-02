@@ -66,7 +66,7 @@ GPLUSURL = 'https://plus.google.com/107361178205293595706?rel=author'
 DEP_NAME = 'OSU Open Source Lab'
 PARENT_ORG = 'Center for Applied Systems & Software'
 PARENT_ORG_URL = 'http://cass.oregonstate.edu/'
-SITELOGO = 'osllogo-web_0.png'
+OSLLOGO = 'osllogo-web_0.png'
 SITELOGO = 'milne_street.png'
 SITELOG_URL = 'https://www.google.com/maps/place/Milne+Computer+Center,+1800+SW+Campus+Way,+Corvallis,+OR+97331'
 # Uncomment following line if you want document-relative URLs when developing
