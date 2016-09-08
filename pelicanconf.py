@@ -71,3 +71,5 @@ SITELOGO = 'milne_street.png'
 SITELOG_URL = 'https://www.google.com/maps/place/Milne+Computer+Center,+1800+SW+Campus+Way,+Corvallis,+OR+97331'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+DISABLE_SIDEBAR = True
