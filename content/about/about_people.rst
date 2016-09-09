@@ -321,7 +321,6 @@ time, he likes to exercise, cook, and program for fun.
 
   <br/>
 
-
 `Tristan Patch`_
 ----------------
 
@@ -344,6 +343,27 @@ the internet, and programs personal projects.
   **Github Account:**
 
 https://github.com/LyonesGamer
+
+.. raw:: html
+
+  <br/>
+
+`Hannah Solorzano`_
+-------------------
+
+.. image:: /images/hsolorzano.jpg
+    :scale: 50%
+    :align: right
+    :alt: Hannah Solorzano
+
+.. class:: no-breaks
+
+  **Student Software/Systems Engineer**
+
+Hannah is a Computer Science major who plans to transfer to OSU in the
+fall of 2016. She looks forward to collaborating with others on projects in
+both Python and Ruby. In her free time she likes to read, play video games,
+and hike with her friends.
 
 .. raw:: html
 
@@ -391,6 +411,28 @@ Hearts and Skyrim are her favorites) draw, read, and sleep in her spare time.
   **Github Account:**
 
 https://github.com/athai
+
+.. raw:: html
+
+  <br/>
+
+`Cayleigh Thalmann`_
+--------------------
+
+.. image:: /images/cthalmann.jpg
+    :scale: 50%
+    :align: right
+    :alt: Cayleigh Thalmann
+
+.. class:: no-breaks
+
+  **Student Software/Systems Engineer**
+
+Cayleigh is going into her third year as a computer science student. She
+originally decided on this major to make video games, and has enjoyed
+learning many other aspects of computer science. When not poring over a
+computer science textbook, she enjoys playing video games and cuddling
+with cats.
 
 .. raw:: html
 
@@ -500,3 +542,28 @@ https://github.com/ElijahCaine
 .. raw:: html
 
   <br/>
+
+`Levi Willmeth`_
+----------------
+
+.. image:: /images/lwillmeth.jpg
+    :scale: 50%
+    :align: right
+    :alt: Levi Willmeth
+
+.. class:: no-breaks
+
+  **Student Software/Systems Engineer**
+
+Levi joined the OSL as a student intern in the summer of 2016. He is married
+and has two energetic toddlers who help ensure he doesn't sleep too much.
+Levi enjoys playing bike polo, flying RC aircraft, looking thoughtful in
+photographs, and contributing to science with the OSU/LBCC Space Club.
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/lo9key
+
+.. raw:: html
