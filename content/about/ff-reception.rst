@@ -2,7 +2,6 @@ CASS Friends and Family Reception
 =================================
 :slug: about/cass-reception
 :title: CASS Friends and Family Reception
-:menu: About, CASS Reception, 2
 
 CALLING ALL CASS STUDENTS!!!
 
@@ -15,7 +14,7 @@ future employers, so we will be handing out thumb drives to these
 representatives containing a compilation of your résumés. If you’d like your
 résumé included (STRONGLY RECOMMENDED to all you looking to enter the workforce
 sooner rather than later), please send it in pdf form to Amanda Kelner at
-kelnera@osuosl.org by Friday, February 19th. 
+kelnera@osuosl.org by Friday, February 19th.
 
 This is exclusively for our hardworking students here at CASS so this
 opportunity is doubly special as you won’t be competing against a horde of
