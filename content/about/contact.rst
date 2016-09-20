@@ -4,23 +4,10 @@ Contact
 :title: Contact Us
 :menu: top, Contact Us, 6; Contact Us, Contact, 1
 
-Email Addresses
-~~~~~~~~~~~~~~~
+Email
+~~~~~
 
 info@osuosl.org can be used for general inquiries about the lab.
-
-support@osuosl.org can be used for support issues with a hosted system or
-service. Note: this is for support for project infrastructure which we host; we
-cannot provide end-user support for applications that are developed or hosted
-here.
-
-abuse@osuosl.org can be used for reporting abuse to our hosted services.
-
-donations@osuosl.org can be used to discuss potential donations to the lab.
-
-press@osuosl.org can be used for press inquiries about the lab.
-
-
 
 IRC
 ~~~
@@ -46,7 +33,9 @@ Mailing Addresses
 
 .. class:: no-breaks
 
-  B211 Kerr Administration Building
+  100 Cascade Hall
+
+601 SW 17th Street
 
 Corvallis, OR 97331
 
@@ -64,7 +53,9 @@ Corvallis, OR 97331
 
 .. class:: no-breaks
 
-  B211 Kerr Administration Building
+  224 Milne Computer Center
+
+1800 SW Campus Way
 
 Corvallis, OR 97331
 
