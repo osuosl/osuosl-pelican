@@ -42,7 +42,7 @@ Supercell Feedback Form
                       <label for="edit-submitted-mailing-list">Join the announcement mailing list? <span class="form-required" title="This field is required.">*</span></label>
                       <div id="edit-submitted-mailing-list" class="form-checkboxes">
                         <div class="form-item form-type-checkbox form-item-submitted-mailing-list-yes">
-                          <input type="checkbox" id="edit-submitted-mailing-list-1" name="join_mailing_list" value="yes" checked="checked" class="form-checkbox" />  <label class="option" for="edit-submitted-mailing-list-1">yes </label>
+                          <input type="checkbox" id="edit-submitted-mailing-list-1" name="join_the_announcement_mailing_list" value="yes" checked="checked" class="form-checkbox" />  <label class="option" for="edit-submitted-mailing-list-1">yes </label>
 
                         </div>
                       </div>
@@ -74,7 +74,7 @@ Supercell Feedback Form
                     </div>
                     <div class="form-item webform-component webform-component-textarea" id="webform-component-hardware-architecture">
                       <label for="edit-submitted-hardware-architecture">What hardware architecture(s) would you like to see Supercell support? </label>
-                      <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-hardware-architecture" name="what_hardware_architecture_would_you_like_to_see_supercell_support]" cols="60" rows="5" class="form-textarea"></textarea></div>
+                      <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-hardware-architecture" name="what_hardware_architecture_would_you_like_to_see_supercell_support" cols="60" rows="5" class="form-textarea"></textarea></div>
                     </div>
                     <div class="form-item webform-component webform-component-textarea" id="webform-component-vm-specs">
                       <label for="edit-submitted-vm-specs">If you had access to Supercell, how many VMs would your project like to use regularly? What specifications (i.e. RAM, disk)? </label>
@@ -82,7 +82,7 @@ Supercell Feedback Form
                     </div>
                     <div class="form-item webform-component webform-component-textarea" id="webform-component-managed-vms">
                       <label for="edit-submitted-managed-vms">Would you like help managing the virtual machines or setting up testing software? </label>
-                      <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-managed-vms" name="would_you_like_help_managing_vms_or_setting_up_testing_software]" cols="60" rows="5" class="form-textarea"></textarea></div>
+                      <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-managed-vms" name="would_you_like_help_managing_vms_or_setting_up_testing_software" cols="60" rows="5" class="form-textarea"></textarea></div>
                     </div>
                     <div class="form-item webform-component webform-component-textarea" id="webform-component-nat">
                       <label for="edit-submitted-nat">The Supercell network will be behind a NAT and access will be given using SSH tunnels and/or OpenVPN. Will this be a problem for you or your project? </label>
