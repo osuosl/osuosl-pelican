@@ -34,22 +34,22 @@ PowerLinux / OpenPOWER Request Form
           </div>
           <div class="form-item webform-component webform-component-textfield" id="webform-component-community-size">
             <label for="edit-submitted-community-size">Estimated Size of  User Community <span class="form-required" title="This field is required.">*</span></label>
-            <input type="text" id="edit-submitted-community-size" name="community_size" value="" size="60" maxlength="128" class="form-text required" />
+            <input type="text" id="edit-submitted-community-size" name="est_size_of_user_community" value="" size="60" maxlength="128" class="form-text required" />
             <div class="description">How many estimated users do you have in your community?</div>
           </div>
           <div class="form-item webform-component webform-component-textarea" id="webform-component-mission">
             <label for="edit-submitted-mission">Description of Project Mission <span class="form-required" title="This field is required.">*</span></label>
-            <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-mission" name="project_mission" cols="60" rows="5" class="form-textarea required"></textarea></div>
+            <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-mission" name="description_of_project_mission" cols="60" rows="5" class="form-textarea required"></textarea></div>
             <div class="description">Please describe in detail the mission and purpose of this request in regards to how the POWER architecture will support your project. Also describe the general mission of your project.</div>
           </div>
           <div class="form-item webform-component webform-component-textarea" id="webform-component-usage">
-            <label for="edit-submitted-usage">Expected usage model <span class="form-required" title="This field is required.">*</span></label>
+            <label for="edit-submitted-usage">Expected Usage Model <span class="form-required" title="This field is required.">*</span></label>
             <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-usage" name="expected_usage_model" cols="60" rows="5" class="form-textarea required"></textarea></div>
             <div class="description">What types of activity will the machine be used for? (i.e. compile builds, performance testing, architecture troubleshooting, etc).</div>
           </div>
           <div class="form-item webform-component webform-component-textfield" id="webform-component-duration">
             <label for="edit-submitted-duration">Anticipated duration of need <span class="form-required" title="This field is required.">*</span></label>
-            <input type="text" id="edit-submitted-duration" name="duration_of_need" value="" size="60" maxlength="128" class="form-text required" />
+            <input type="text" id="edit-submitted-duration" name="anticipated_duration_of_need" value="" size="60" maxlength="128" class="form-text required" />
             <div class="description">How long do you expect you will need these resources? Ongoing or indefinitely are also acceptable answers.</div>
           </div>
           <div class="form-item webform-component webform-component-select" id="webform-component-power-architecture">
@@ -73,7 +73,7 @@ PowerLinux / OpenPOWER Request Form
           </div>
           <div class="form-item webform-component webform-component-number" id="webform-component-num-nodes">
             <label for="edit-submitted-num-nodes">Number of nodes <span class="form-required" title="This field is required.">*</span></label>
-            <input type="number" id="edit-submitted-num-nodes" name="num_nodes" value="1" min="1" step="any" class="form-text form-number required" />
+            <input type="number" id="edit-submitted-num-nodes" name="number_of_nodes" value="1" min="1" step="any" class="form-text form-number required" />
             <div class="description">Estimated number of nodes (machines) you'd like to have.</div>
           </div>
           <div class="form-item webform-component webform-component-select" id="webform-component-distribution">
@@ -99,12 +99,12 @@ PowerLinux / OpenPOWER Request Form
           </div>
           <div class="form-item webform-component webform-component-textarea" id="webform-component-ssh-key">
             <label for="edit-submitted-ssh-key">SSH Public Key <span class="form-required" title="This field is required.">*</span></label>
-            <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-ssh-key" name="ssh_key" cols="60" rows="5" class="form-textarea required"></textarea></div>
+            <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-ssh-key" name="ssh_public_key" cols="60" rows="5" class="form-textarea required"></textarea></div>
             <div class="description">Public SSH key to be used for initial access to the system.</div>
           </div>
           <div class="form-item webform-component webform-component-textfield" id="webform-component-ibm-ltc-advocate">
             <label for="edit-submitted-ibm-ltc-advocate">IBM Linux Technology Center Advocate <span class="form-required" title="This field is required.">*</span></label>
-            <input type="text" id="edit-submitted-ibm-ltc-advocate" name="ibm_LTC_advocate" value="" size="60" maxlength="128" class="form-text required" />
+            <input type="text" id="edit-submitted-ibm-ltc-advocate" name="ibm_linux_technology_center_advocate" value="" size="60" maxlength="128" class="form-text required" />
             <div class="description">If you do not have an IBM Advocate, one will need to be assigned prior to activating access. OSUOSL and IBM will work with the requesting project to find an appropriate advocate.</div>
           </div>
           <div class="form-item webform-component webform-component-select" id="webform-component-deployment-timeframe">
