@@ -15,7 +15,7 @@ People
 
 .. class:: no-breaks
 
-  **Director | Cat Herder**
+  **Director**
 
 `Lance`_ became OSL director in early 2013. He has managed all of the hosting
 activities that the OSL provides for more than 160 high-profile open source
@@ -50,7 +50,7 @@ Lance can be reached at lance-at-osuosl-dot-org
 
 .. class:: no-breaks
 
-  **Community Systems Administrator | Resident Mac-tivist**
+  **Community Systems Administrator**
 
 Jeff is a computer science major who joined the OSL in June 2014. In his spare
 time, Jeff enjoys being outdoors, enjoying the sun. He also enjoys reading and
@@ -101,7 +101,7 @@ cube in under fifteen seconds and aspires to compete at the national level.
 
 .. class:: no-breaks
 
-  **Senior Systems Architect | Wears a Penguin Suit**
+  **Senior Systems Architect**
 
 Justin joined the OSL in March 2012 after studying and working at Kansas State
 University. Justin took graduate level courses in computer science at KSU and
@@ -145,34 +145,8 @@ https://github.com/fahlmant
 
   <br/>
 
-`Megan Goossens`_
------------------
-
-.. image:: /images/mgoossens.jpg
-    :scale: 50%
-    :align: right
-    :alt: Megan Goossens
-
-.. class:: no-breaks
-
-  **Developer**
-
-Megan joined the OSL as a developer in May 2014. She is a computer science
-major with experience in Drupal development, and primarily plans to focus on
-the Protein Geometry Database. Megan enjoys reading in her spare time.
-
-.. class:: no-breaks
-
-  **Github Account:**
-
-https://github.com/MaraJade
-
-.. raw:: html
-
-  <br/>
-
-`Cody Holliday`
----------------
+`Cody Holliday`-
+----------------
 
 .. image:: /images/cholliday.jpg
     :scale: 50%
@@ -192,54 +166,33 @@ school year, Cody is a DJ at KBVR, OSU's student run radio station.
 
   <br/>
 
-`Matthew Johnson`_
-------------------
-
-.. image:: /images/mjohnson.jpg
-    :scale: 50%
-    :align: right
-    :alt: Matthew Johnson
-
-.. class:: no-breaks
-
-  **Developer**
-
-Matthew is a computer science major who joined the OSL in May 2015. He looks
-forward to learning more about back end technology while working at the lab. In
-his spare time he likes to spend time with his wife and kids.
-
-.. class:: no-breaks
-
-  **Github Account:**
-
-https://github.com/matthewrsj
-
-.. raw:: html
-
-  <br/>
-
-`Ian Kronquist`_
+`Amanda Kelner`-
 ----------------
 
-.. image:: /images/ikronquist.jpg
+.. image:: /images/akelner.jpg
     :scale: 50%
     :align: right
-    :alt: Ian Kronquist
+    :alt: Amanda Kelner
 
 .. class:: no-breaks
 
-  **Developer**
+  **Writer**
 
-Ian joined the lab in November 2013 and is majoring in computer science.
-Skilled in the Python and C++ programming languages, Ian is currently working
-on the Oregon Virtual School District project. In his spare time he enjoys
-reading, programming and attending OSU Linux Users Group meetings.
+Amanda joined the OSL in October of 2015 and is studying English and Music
+Performance. As our in-house writer, she creates content for our website
+including blog posts and updates to outdated pages. She also edits any talks or
+newsletters we produce, and runs our social media accounts.  In her free time,
+Amanda enjoys a good book or movie.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
-https://github.com/iankronquist
+https://github.com/kelnera
+
+  **Nick on irc.freenode.net**
+
+kelnera
 
 .. raw:: html
 
@@ -315,23 +268,33 @@ he is a blacksmith as well as a woodworker and enjoys writing fiction.
 
   <br/>
 
-`Anthony Miller`_
------------------
+`Cody Malick`-
+--------------
 
-.. image:: /images/amiller.jpg
+.. image:: /images/cmalick.jpg
     :scale: 50%
     :align: right
-    :alt: Anthony Miller
+    :alt: Cody Malick
 
 .. class:: no-breaks
 
-  **Community Systems Administrator | The Lady Killer**
+  **Systems Engineer**
 
-Anthony is studying computer science and has worked on networking for the
-Apache Software Foundation and other projects. He is skilled in networking and
-LAN/WAN administration and joined the OSL to gain hands-on experience with
-real-world applications and issues. Anthony enjoys video games and playing
-drums in his free time.
+Cody has been working for the OSL since May 2014 and is majoring in Computer
+Science. He applied to get experience in the industry and enjoys applying new
+technologies to contemporary issues. He eventually would like to work on
+applying machine learning and artificial intelligence to security software
+solutions.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/codymalick
+
+  **Nick on irc.freenode.net**
+
+malickc
 
 .. raw:: html
 
@@ -357,7 +320,6 @@ time, he likes to exercise, cook, and program for fun.
 .. raw:: html
 
   <br/>
-
 
 `Tristan Patch`_
 ----------------
@@ -386,48 +348,6 @@ https://github.com/LyonesGamer
 
   <br/>
 
-`Elsie Phillips`_
------------------
-
-.. image:: /images/ephillips.jpg
-    :scale: 50%
-    :align: right
-    :alt: Elsie Phillips
-
-.. class:: no-breaks
-
-  **Marketing Coordinator | Sticker Tsarina**
-
-Elsie joined the OSL team in June 2014, and is an economics major. At the OSL,
-she is responsible for updating the OSL's social media accounts, creating
-print marketing materials, and representing the OSL at events. Elsie enjoys
-reading, cooking, photography and playing trivial pursuit in her spare time.
-After she graduates, Elsie hopes to travel.
-
-.. raw:: html
-
-  <br/>
-
-`Sean Rettig`_
---------------
-
-.. image:: /images/srettig.jpg
-    :scale: 50%
-    :align: right
-    :alt: Sean Rettig
-
-.. class:: no-breaks
-
-  **Community Systems Administrator | Safety Officer**
-
-Sean is studying computer systems and joined the OSL in June 2012. He works on
-many projects at the lab but particularly enjoys working with the Apache Web
-server. In his free time, he works on his own PC gaming community website.
-
-.. raw:: html
-
-  <br/>
-
 `Hannah Solorzano`_
 -------------------
 
@@ -438,7 +358,7 @@ server. In his free time, he works on his own PC gaming community website.
 
 .. class:: no-breaks
 
-  **OSL Academy Intern**
+  **Student Software/Systems Engineer**
 
 Hannah is a Computer Science major who plans to transfer to OSU in the
 fall of 2016. She looks forward to collaborating with others on projects in
@@ -460,7 +380,6 @@ and hike with her friends.
 .. class:: no-breaks
 
   **Student Developer**
-
 
 Alex joined the OSL in February of 2016 and is studying Computer Science. He
 became interested in the OSL after seeing some of our projects and wanted to
@@ -507,7 +426,7 @@ https://github.com/athai
 
 .. class:: no-breaks
 
-  **OSL Academy Intern**
+  **Student Software/Systems Engineer**
 
 Cayleigh is going into her third year as a computer science student. She
 originally decided on this major to make video games, and has enjoyed
@@ -540,33 +459,6 @@ PC and is especially interested in Web development.
 
   <br/>
 
-`Elena Torrey`_
----------------
-
-.. image:: /images/etorrey.jpg
-    :scale: 50%
-    :align: right
-    :alt: Elena Torrey
-
-.. class:: no-breaks
-
-  **OSL Academy Intern | The one with an accent**
-
-Elena is a web development major at Clackamas Community College. She joined the OSL to get
-experience in back-end development, learn programming in Python, and
-collaborate with other developers. Elena lives in Portland and enjoys running,
-hiking, and traveling.
-
-.. class:: no-breaks
-
-  **Github Account:**
-
-https://github.com/etorrey
-
-.. raw:: html
-
-  <br/>
-
 `Evan Tschuy`_
 --------------
 
@@ -577,7 +469,7 @@ https://github.com/etorrey
 
 .. class:: no-breaks
 
-  **Developer | Professional Hacker News Reader**
+  **Developer**
 
 Evan is a student developer at the OSL. He is a computer science major, and is
 currently working on Ganeti, a virtual server management tool. Although Evan
@@ -605,7 +497,7 @@ http://github.com/tschuy
 
 .. class:: no-breaks
 
-  **Developer | Maker of Things**
+  **Developer**
 
 While Jack has spent most of his career working with computers, he is
 currently studying food science and technology at Oregon State University. At
@@ -633,7 +525,7 @@ https://github.com/mathuin
 
 .. class:: no-breaks
 
-  **Developer | COFFEE COFFEE COFFEE enthusiast**
+  **Developer**
 
 Elijah is a computer science major who joined the OSL team in June 2014 as a
 student developer. At the OSL, Elijah works on Oregon Virtual School District
@@ -661,11 +553,11 @@ https://github.com/ElijahCaine
 
 .. class:: no-breaks
 
-  **OSL Academy Intern**
+  **Student Software/Systems Engineer**
 
 Levi joined the OSL as a student intern in the summer of 2016. He is married
 and has two energetic toddlers who help ensure he doesn't sleep too much.
-Levi enjoys playing bike polo, flying RC aircraft, looking thoughtful in 
+Levi enjoys playing bike polo, flying RC aircraft, looking thoughtful in
 photographs, and contributing to science with the OSU/LBCC Space Club.
 
 .. class:: no-breaks
@@ -675,36 +567,3 @@ photographs, and contributing to science with the OSU/LBCC Space Club.
 https://github.com/lo9key
 
 .. raw:: html
-
-  <br/>
-
-`Lucy Wyman`_
--------------
-
-.. image:: /images/lwyman.jpg
-    :scale: 50%
-    :align: right
-    :alt: Lucy Wyman
-
-.. class:: no-breaks
-
-  **Front-end Engineer | Open Sourceress**
-
-Lucy, a Junior studying computer science, started working for the Lab in
-November, 2013. She designs the front-end for our web-applications, maintains
-osuosl.org, and constructs websites for other OSL projects (such as Devops
-Daycamp and Beaver Barcamp). Lucy specializes in web development, and is
-skilled at HTML, CSS, Javascript and Python. She enjoys programming, running,
-and cooking. In addition, Lucy is Vice President of the OSU Linux Users Group,
-and leads Devops Bootcamp, and outreach program for budding software
-developers.
-
-.. class:: no-breaks
-
-  **Github Account:**
-
-https://github.com/lucywyman
-
-.. raw:: html
-
-  <br/>
