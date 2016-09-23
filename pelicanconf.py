@@ -46,6 +46,7 @@ THEME = 'dougfir-pelican-theme'
 
 # Additional variables
 FEATURED = u'featured-stories'
+SLIDESHOW_LIMIT = 5
 OSL_HOME_EXTRAS = True
 
 CATEGORY_URL = 'blog/{slug}'
