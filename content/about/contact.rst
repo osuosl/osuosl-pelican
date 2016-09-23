@@ -33,9 +33,9 @@ Mailing Addresses
 
 .. class:: no-breaks
 
-  Cascade Hall
+  100 Cascade Hall
 
-601 SW 17th ST RM 100
+601 SW 17th ST
 
 Corvallis OR 97331
 
@@ -51,9 +51,9 @@ Corvallis OR 97331
 
 .. class:: no-breaks
 
-  Milne Computer Center
+  224 Milne Computer Center
 
-1800 SW Campus Way RM 224
+1800 SW Campus Way
 
 Corvallis OR 97331
 
