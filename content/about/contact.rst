@@ -25,23 +25,25 @@ Mailing Addresses
 
 .. class:: no-breaks
 
+  ATTN Lance Albertson
+
+.. class:: no-breaks
+
   OSU Open Source Lab
 
 .. class:: no-breaks
 
-  ATTN: Lance Albertson
+  Cascade Hall
 
-.. class:: no-breaks
+601 SW 17th ST RM 100
 
-  100 Cascade Hall
-
-601 SW 17th Street
-
-Corvallis, OR 97331
-
+Corvallis OR 97331
 
 **All other correspondence please mail to**
 
+.. class:: no-breaks
+
+  ATTN Lance Albertson
 
 .. class:: no-breaks
 
@@ -49,15 +51,11 @@ Corvallis, OR 97331
 
 .. class:: no-breaks
 
-  ATTN: Lance Albertson
+  Milne Computer Center
 
-.. class:: no-breaks
+1800 SW Campus Way RM 224
 
-  224 Milne Computer Center
-
-1800 SW Campus Way
-
-Corvallis, OR 97331
+Corvallis OR 97331
 
 
 Phone
