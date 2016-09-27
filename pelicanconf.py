@@ -48,6 +48,7 @@ THEME = 'dougfir-pelican-theme'
 FEATURED = u'featured-stories'
 SLIDESHOW_LIMIT = 5
 OSL_HOME_EXTRAS = True
+FRONTPAGE = u'frontpage'
 
 CATEGORY_URL = 'blog/{slug}'
 CATEGORY_SAVE_AS = 'blog/index.html'
