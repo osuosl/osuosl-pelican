@@ -1,6 +1,7 @@
 About
 =====
 :slug: about
+:tag: frontpage 
 :author: Lucy Wyman
 :title: About
 :menu: top, About, 1; About, Summary, 1
@@ -18,7 +19,7 @@ organization of its kind, the OSL offers world-class hosting services,
 professional software development and on-the-ground training for promising
 students interested in open source management and programming.
 
-.. image:: /images/edray.jpg
+.. .. image:: /images/edray.jpg
     :scale: 100%
     :align: center
     :alt: OSU President Ed Ray

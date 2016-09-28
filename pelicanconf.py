@@ -44,6 +44,12 @@ DIRECT_TEMPLATE_INFO = [
 
 THEME = 'dougfir-pelican-theme'
 
+# Additional variables
+FEATURED = u'featured-stories'
+SLIDESHOW_LIMIT = 5
+OSL_HOME_EXTRAS = True
+FRONTPAGE = u'frontpage'
+
 CATEGORY_URL = 'blog/{slug}'
 CATEGORY_SAVE_AS = 'blog/index.html'
 ARTICLE_PATHS = ['blog/posts/']
