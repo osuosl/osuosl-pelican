@@ -5,10 +5,10 @@ The OSL at PyCon
 :slug: pycon-2016
 :img: PyCon Poster.jpg
 
-The month of June opened with the annual `PyCon`_ event in Portland, the
-largest annual gathering for the `Python`_ community. This year, the OSL had
-the opportunity to send one of its own. `Matthew Johnson`_ presented a
-poster on Pymesync, a tool of Python.
+The month of June opened with the annual `PyCon`_ event at the Oregon Convention
+Center in Portland, the largest annual gathering for the `Python`_ community.
+This year, the OSL had the opportunity to send one of its own. `Matthew
+Johnson`_ presented a poster on Pymesync, a tool of Python.
 
 .. _PyCon: https://us.pycon.org/2016/
 .. _Python: https://www.python.org
@@ -30,8 +30,10 @@ applications. It's comprised of preset functions that are commonly used by
 programmers so they don't have to continuously enter in certain codes. Most
 commonly, it comes in the form of an API library, such as Pymesync. This is
 where explicit code is simplified to make large tasks easier. A time-tracking
-API essentially tracks when a certain task is done. In other words, Pymesync
-tells Timesync what needs to be written and when.
+API essentially tracks how long it takes to do a certain task. In other words,
+Pymesync is designed to simplify the process of talking to Timesync. PymeSync
+allows a developer to communicate with TimeSync using simple Python method calls
+and Python native data structures.
 
 This was the basis of Matthew's poster presentation. With the most experience in
 Python and Pymesync here at the lab, he was the most qualified to accompany the
