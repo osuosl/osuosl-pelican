@@ -4,6 +4,7 @@ Congratulations 2016 Graduates!
 :author: Amanda Kelner
 :slug: graduation-2016
 :img: OSCON7AlbertsonRettig.jpg
+:tag: featured-stories
 
 As exciting as the end of the school year is for everyone, and with it the
 promise of sun, no classes, shorts, extended vacations, and no classes, it also
