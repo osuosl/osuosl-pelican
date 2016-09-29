@@ -3,6 +3,8 @@ RTEMS
 :slug: rtems
 :date: 2016-02-24
 :author: Amanda Kelner
+:img: windows-on-building.jpg
+:tag: featured-stories
 
 
 Within the last several years, the OSL has provided a home for the Real-Time
