@@ -2,7 +2,7 @@ DevOps DayCamp 2015
 ===================
 :date: 2015-10-29
 :author: Amanda Kelner
-:slug: devops-daycamp
+:slug: devops-daycamp-15
 :img: daycamp2015.jpg
 
 In early October, we hosted our second annual DevOps DayCamp to over eighty
