@@ -4,8 +4,8 @@ Contact
 :title: Contact Us
 :menu: top, Contact Us, 6; Contact Us, Contact, 1
 
-Email Addresses
-~~~~~~~~~~~~~~~
+Email
+~~~~~
 
 info@osuosl.org can be used for general inquiries about the lab.
 
@@ -19,8 +19,6 @@ abuse@osuosl.org can be used for reporting abuse to our hosted services.
 donations@osuosl.org can be used to discuss potential donations to the lab.
 
 press@osuosl.org can be used for press inquiries about the lab.
-
-
 
 IRC
 ~~~
@@ -38,21 +36,25 @@ Mailing Addresses
 
 .. class:: no-breaks
 
+  ATTN Lance Albertson
+
+.. class:: no-breaks
+
   OSU Open Source Lab
 
 .. class:: no-breaks
 
-  ATTN: Lance Albertson
+  100 Cascade Hall
 
-.. class:: no-breaks
+601 SW 17th ST
 
-  B211 Kerr Administration Building
-
-Corvallis, OR 97331
-
+Corvallis OR 97331
 
 **All other correspondence please mail to**
 
+.. class:: no-breaks
+
+  ATTN Lance Albertson
 
 .. class:: no-breaks
 
@@ -60,13 +62,11 @@ Corvallis, OR 97331
 
 .. class:: no-breaks
 
-  ATTN: Lance Albertson
+  224 Milne Computer Center
 
-.. class:: no-breaks
+1800 SW Campus Way
 
-  B211 Kerr Administration Building
-
-Corvallis, OR 97331
+Corvallis OR 97331
 
 
 Phone

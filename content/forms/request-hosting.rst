@@ -29,7 +29,7 @@ Request Hosting
               </div>
               <div class="form-item webform-component webform-component-textfield" id="webform-component-project">
                 <label for="edit-submitted-project">Project Name <span class="form-required" title="This field is required.">*</span></label>
-                <input type="text" id="edit-submitted-project" name="project" value="" size="60" maxlength="128" class="form-text required" />
+                <input type="text" id="edit-submitted-project" name="project_name" value="" size="60" maxlength="128" class="form-text required" />
               </div>
               <div class="form-item webform-component webform-component-textfield" id="webform-component-project-url">
                 <label for="edit-submitted-project-url">Project URL <span class="form-required" title="This field is required.">*</span></label>
@@ -42,11 +42,11 @@ Request Hosting
               </div>
               <div class="form-item webform-component webform-component-textfield" id="webform-component-community-size">
                 <label for="edit-submitted-community-size">Estimated size of user community <span class="form-required" title="This field is required.">*</span></label>
-                <input type="text" id="edit-submitted-community-size" name="community_size" value="" size="60" maxlength="128" class="form-text required" />
+                <input type="text" id="edit-submitted-community-size" name="est_size_of_user_community" value="" size="60" maxlength="128" class="form-text required" />
               </div>
               <div class="form-item webform-component webform-component-textarea" id="webform-component-other-information">
                 <label for="edit-submitted-other-information">Other pertinent information about your project? </label>
-                <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-other-information" name="other_information" cols="60" rows="5" class="form-textarea"></textarea></div>
+                <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-other-information" name="other_pertinent_information_about_project" cols="60" rows="5" class="form-textarea"></textarea></div>
               </div>
               <div class="form-item webform-component webform-component-textarea" id="webform-component-requested-services-hosting">
                 <label for="edit-submitted-requested-services-hosting">The type(s) of server(s) or service(s) you are requesting hosting for, if applicable. <span class="form-required" title="This field is required.">*</span></label>
@@ -58,17 +58,17 @@ Request Hosting
               </div>
               <div class="form-item webform-component webform-component-textfield" id="webform-component-bandwidth-usage">
                 <label for="edit-submitted-bandwidth-usage">Your estimated bandwidth usage. <span class="form-required" title="This field is required.">*</span></label>
-                <input type="text" id="edit-submitted-bandwidth-usage" name="bandwidth_usage" value="" size="60" maxlength="128" class="form-text required" />
+                <input type="text" id="edit-submitted-bandwidth-usage" name="estimated_bandwidth_usage" value="" size="60" maxlength="128" class="form-text required" />
               </div>
               <div class="form-item webform-component webform-component-textfield" id="webform-component-contributions">
                 <label for="edit-submitted-contributions">Contributions that you may be able to make to cover costs.  <span class="form-required" title="This field is required.">*</span></label>
-                <input type="text" id="edit-submitted-contributions" name="contributions" value="" size="60" maxlength="128" class="form-text required" />
+                <input type="text" id="edit-submitted-contributions" name="possible_contributions_to_cover_costs" value="" size="60" maxlength="128" class="form-text required" />
                 <div class="description">We realize that most projects are not in a position to help cover the costs, but any contribution certainly helps!</div>
               </div>
 
               <!-- Formsender Settings -->
               <input type="hidden" name="last_name" value="" />
-              <input type="hidden" name="tokn" value="15674hsda//*q23%^13jnxccv3ds54sa4g4sa532323!OoRdsfISDIdks38*(dsfjk)aS" />
+              <input type="hidden" name="token" value="15674hsda//*q23%^13jnxccv3ds54sa4g4sa532323!OoRdsfISDIdks38*(dsfjk)aS" />
               <!-- The following must be set to http://www.osuosl.org/request-hosting in production -->
               <input type="hidden" name="redirect" value="http://www.osuosl.org/request-hosting" />
               <input type="hidden" name="mail_subject" value="FORM: New Hosting Request" />
