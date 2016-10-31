@@ -4,7 +4,6 @@ OSL GSOC 2015 - Oregon's Catch
 :date: 2015-09-14
 :author: Evan Tschuy
 :img: oregonscatch-gsoc.jpg
-:tag: featured-stories
 
 This summer the Open Source Lab had three students from around the world working
 on open source software through `Google Summer of Code`_. The OSL has
