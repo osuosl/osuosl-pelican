@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import bs4
 
+
 def menu_filter(pelican_pages, direct_templates):
     """
     Jinja filter for Pelican page object list
@@ -31,7 +32,7 @@ def menu_filter(pelican_pages, direct_templates):
                     'children': [],
                 }
 
-                #Add each menu location to a page list
+                # Add each menu location to a page list
                 page_list.append(temp_dict)
 
     # Add the direct templates before sorting
@@ -60,6 +61,7 @@ def menu_filter(pelican_pages, direct_templates):
                     child['children'].append(page.copy())
 
     return menu
+
 
 def close_html_tags(html_string):
     """Closes any html tags in html_string that have been opened but have not
