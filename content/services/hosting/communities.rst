@@ -5,18 +5,6 @@ Hosted Communities
 :menu: Hosting, Hosted Projects, 1
 
 
-`Ångström`_
------------
-
-`Ångström`_ was started by a small group of people who worked on the
-OpenEmbedded, OpenZaurus and OpenSimpad projects to unify their effort to make
-a stable and user-friendly distribution for embedded devices like handhelds,
-set-top boxes and network-attached storage devices and more. The OSL hosts
-their Narcissus Image Builder via the Nas-Admin.org project.
-
-.. _Ångström: http://www.angstrom-distribution.org/
-
-
 `Apache Software Foundation`_
 ------------------------------
 
@@ -914,3 +902,16 @@ package repositories (supported by Yum, APT-RTM, Red Carpet, Smart, up2date
 and Yast).
 
 .. _Yum: http://yum.baseurl.org/
+
+
+`Ångström`_
+-----------
+
+`Ångström`_ was started by a small group of people who worked on the
+OpenEmbedded, OpenZaurus and OpenSimpad projects to unify their effort to make
+a stable and user-friendly distribution for embedded devices like handhelds,
+set-top boxes and network-attached storage devices and more. The OSL hosts
+their Narcissus Image Builder via the Nas-Admin.org project.
+
+.. _Ångström: http://www.angstrom-distribution.org/
+
