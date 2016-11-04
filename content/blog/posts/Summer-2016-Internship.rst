@@ -48,12 +48,12 @@ never pick up on a school assignment,” he said.
 
 The interns spent half their time working on the systems engineering team and
 the other half on developer team. The systems projects included internal coding
-projects for which the interns learned a variety of tools including Git, and new
-coding languages like Ruby, and Chef. The developers project focused on redoing
-a website for a local high school. Both projects were works in progress and the
-interns were able to jump in with support from coworkers, mentors, and online
-documentation, all three of which they used in abundance to assist in their
-work.
+projects for which the interns learned a variety of tools including Git and
+Chef and new coding languages like Ruby and Python. The developers project 
+focused on redoing a website for a local high school. Both projects were works
+in progress and then interns were able to jump in with support from coworkers,
+mentors, and online documentation, all three of which they used in abundance to
+assist in their work.
 
 “It was very difficult in the beginning, especially the first few days because
 of all the new tools,” said Elena Torrey, from Clackamas Community College. “I
