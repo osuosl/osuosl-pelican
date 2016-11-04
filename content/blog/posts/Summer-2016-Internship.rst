@@ -74,7 +74,7 @@ built servers, and data-storage back-ups,” Elena said. For Levi, the experienc
 introduced him to the possibility of working at a data center as a future
 career.
 
-The internship also encouraged the interns to continue their studies a at four-
+The internship also encouraged the interns to continue their studies at a four-
 year university.
 
 “I wasn’t going to go to Oregon State because of the cost, but after this
