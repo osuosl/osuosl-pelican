@@ -3,17 +3,12 @@ Congratulations 2016 Graduates!
 :date: 2016-06-01
 :author: Amanda Kelner
 :slug: graduation-2016
-:img: OSCON7AlbertsonRettig.jpg
+:img: Graduation2016PostPicture.png
 :tag: featured-stories
 
 As exciting as the end of the school year is for everyone, and with it the
 promise of sun, no classes, shorts, extended vacations, and no classes, it also
 brings an inevitable goodbye to those leaving to enter the real world.
-
-.. image:: /images/AnthonyMiller.jpg
-  :scale: 100%
-  :align: center
-  :alt: Anthony Miller, Student Systems Engineer
 
 I'm talking about our graduating seniors. Those who have earned their stripes
 and are ready to move on. The superstars stepping up to take the stage. The
@@ -21,17 +16,7 @@ brave few willing to begin paying off their student loans. Many of our graduates
 have spent multiple years working for the OSL, some starting not long after high
 school. And we're losing too many good ones this year, including:
 
-.. image:: /images/MeganGoossens.jpg
-  :scale: 100%
-  :align: left
-  :alt: Megan Goossens, Developer
-
 **Megan Goossens-Developer**
-
-.. image:: /images/ephillips.jpg
-  :scale: 50%
-  :align: right
-  :alt: Elsie Phillips, Project Manager
 
 **Anthony Miller-Student Systems Engineer**
 
@@ -43,11 +28,6 @@ school. And we're losing too many good ones this year, including:
 
 As sad as we are to see them go, we're so proud of everything our students have
 accomplished and hope they only excel in their futures.
-
-.. image:: /images/LucyWyman.jpg
-  :scale: 100%
-  :align: right
-  :alt: Lucy Wyman, Front End Engineer
 
 Word on the street is the feeling is mutual. Lucy Wyman says, "Graduating is
 incredibly bittersweet, and the OSL is far and away the most valuable experience
