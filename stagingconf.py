@@ -7,8 +7,8 @@ from __future__ import unicode_literals
 
 import os
 import sys
-from pelicanconf import *  # noqa
 sys.path.append(os.curdir)
+from pelicanconf import *  # noqa
 
 
 SITEURL = 'http://osuosl.staging.osuosl.org'
