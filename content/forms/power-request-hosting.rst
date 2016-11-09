@@ -128,6 +128,7 @@ PowerLinux / OpenPOWER Request Form
           <!-- The following must be set to http://www.osuosl.org/services/powerdev/request_hosting in production -->
           <input type="hidden" name="redirect" value="http://www.osuosl.org/services/powerdev/request_hosting" />
           <input type="hidden" name="mail_subject" value="FORM: New PowerLinux/OpenPOWER Hosting Request" />
+          <input type="hidden" name="send_to" value="powerdev" />
           <!-- /Formsender Settings -->
 
           <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Submit" class="form-submit" /></div>
