@@ -459,34 +459,6 @@ PC and is especially interested in Web development.
 
   <br/>
 
-`Evan Tschuy`_
---------------
-
-.. image:: /images/etschuy.jpg
-    :scale: 50%
-    :align: right
-    :alt: Evan Tschuy
-
-.. class:: no-breaks
-
-  **Developer**
-
-Evan is a student developer at the OSL. He is a computer science major, and is
-currently working on Ganeti, a virtual server management tool. Although Evan
-is often busy with schoolwork, in his limited spare time he can be found
-climbing the bouldering walls at the OSU Rec Center. Evan hopes to someday
-climb some of Oregon’s famous climbing rocks.
-
-.. class:: no-breaks
-
-  **Github Account:**
-
-http://github.com/tschuy
-
-.. raw:: html
-
-  <br/>
-
 `Jack Twilley`_
 ---------------
 
@@ -510,34 +482,6 @@ number of solo open source projects and watches “Doctor Who.”
   **Github Account:**
 
 https://github.com/mathuin
-
-.. raw:: html
-
-  <br/>
-
-`Elijah Voigt`_
-----------------
-
-.. image:: /images/evoigt.jpg
-    :scale: 50%
-    :align: right
-    :alt: Eli Voigt
-
-.. class:: no-breaks
-
-  **Developer**
-
-Elijah is a computer science major who joined the OSL team in June 2014 as a
-student developer. At the OSL, Elijah works on Oregon Virtual School District
-Central and contributes to Fenestra. Elijah enjoys reading, making games and
-writing stories/blog posts in his spare time. Before graduation, Elijah is
-hoping to start his own software company.
-
-.. class:: no-breaks
-
-  **Github Account:**
-
-https://github.com/ElijahCaine
 
 .. raw:: html
 
