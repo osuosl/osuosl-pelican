@@ -35,6 +35,11 @@ encouraged her to apply.
 languages, different platforms, and learned a lot of important tools,” Hannah
 said.
 
+.. image:: /images/InternsatFB.jpg
+    :scale: 100%
+    :align: right
+    :alt: The Interns at the Facebook Data Center
+
 The interns also appreciated the experience with a collaborative workflow.
 Working in groups is not encouraged in their school courses, so the internship
 gave them a sneak peak at the practical execution of real-world projects and
@@ -49,7 +54,7 @@ never pick up on a school assignment,” he said.
 The interns spent half their time working on the systems engineering team and
 the other half on developer team. The systems projects included internal coding
 projects for which the interns learned a variety of tools including Git and
-Chef and new coding languages like Ruby and Python. The developers project 
+Chef and new coding languages like Ruby and Python. The developers project
 focused on redoing a website for a local high school. Both projects were works
 in progress and then interns were able to jump in with support from coworkers,
 mentors, and online documentation, all three of which they used in abundance to
@@ -92,3 +97,8 @@ Albertson was pleased with the success of the internship program. “Long-term w
 could expand even more, even host the internship every term. We could also
 extend the opportunity to the Bend campus. I think it has the potential for
 growing and this is just the first step,” he said.
+
+.. image:: /images/Interncertificates.jpg
+    :scale: 100%
+    :align: center
+    :alt: Intern's Receive Certificates on Their Last Day
