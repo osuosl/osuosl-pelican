@@ -102,7 +102,8 @@ Supercell Feedback Form
                     <input type="hidden" name="token" value="15674hsda//*q23%^13jnxccv3ds54sa4g4sa532323!OoRdsfISDIdks38*(dsfjk)aS" />
                     <!-- The following must be set to http://www.osuosl.org/services/supercell/request in production -->
                     <input type="hidden" name="redirect" value="http://www.osuosl.org/services/supercell/request" />
-                    <input type="hidden" name="mail_subject" value="FORM: New Supercell Feedback" />
+                    <input type="hidden" name="mail_subject_prefix" value="New Supercell Feedback" />
+                    <input type="hidden" name="mail_subject_key" value="project" />
                     <!-- /Formsender Settings -->
 
                     <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Submit" class="form-submit" /></div>
