@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-import customfilters
 import sys
 
 sys.path.append('.')
+
+import customfilters  # noqa
 
 JINJA_FILTERS = {'menu_filter': customfilters.menu_filter,
                  'close_html_tags': customfilters.close_html_tags}
@@ -39,7 +40,7 @@ DIRECT_TEMPLATES = ['index', 'search/index']
 PAGINATED_DIRECT_TEMPLATES = ['blog']
 
 DIRECT_TEMPLATE_INFO = [
-        {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 5, 'children': []}]
+        {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 5, 'children': []}]  # noqa
 
 THEME = 'dougfir-pelican-theme'
 
@@ -72,7 +73,7 @@ PARENT_ORG = 'Center for Applied Systems & Software'
 PARENT_ORG_URL = 'http://cass.oregonstate.edu/'
 OSLLOGO = 'osllogo-web_0.png'
 SITELOGO = 'milne_street.png'
-SITELOG_URL = 'https://www.google.com/maps/place/Milne+Computer+Center,+1800+SW+Campus+Way,+Corvallis,+OR+97331'
+SITELOG_URL = 'https://www.google.com/maps/place/Milne+Computer+Center,+1800+SW+Campus+Way,+Corvallis,+OR+97331'  # noqa
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
