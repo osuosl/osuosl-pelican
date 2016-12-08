@@ -2,7 +2,7 @@ Contact
 =======
 :slug: contact
 :title: Contact Us
-:menu: top, Contact Us, 6; Contact Us, Contact, 1
+:menu: About, Contact Us, 3
 
 Email
 ~~~~~

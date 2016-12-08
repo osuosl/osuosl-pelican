@@ -2,7 +2,7 @@ People
 ======
 :title: Staff
 :slug: about/people
-:menu: top, Organization, 2; Organization, Staff, 1
+:menu: About, Staff, 4
 
 
 `Lance Albertson`_
@@ -28,6 +28,12 @@ organize `Beaver BarCamp`_ and plays trumpet in local jazz group `The
 Infallible Collective`_.
 
 Lance can be reached at lance-at-osuosl-dot-org
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+Ramereth
 
 .. raw:: html
 
@@ -65,6 +71,12 @@ justice.
 
 https://github.com/borcean
 
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+borcean
+
 .. raw:: html
 
   <br/>
@@ -86,6 +98,18 @@ teacher. With a love for programming and open source, it was a perfect fit for
 him. He is currently studying Electrical Engineering and Computer Science and
 wants to pursue a career in the robotics field. Aaron can also solve a Rubik's
 cube in under fifteen seconds and aspires to compete at the national level.
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/aaroncohen73
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+resistortwister
 
 .. raw:: html
 
@@ -112,6 +136,18 @@ lab's projects and infrastructure. Justin was involved in the Linux Users
 Group at KSU, and he has extensive experience with Java programming. Through
 the OSL, Justin is excited to be part of the wider open source community and
 to participate in outreach and development.
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/jldugger
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+pwnguin
 
 .. raw:: html
 
@@ -141,11 +177,51 @@ software and education to people around the world.
 
 https://github.com/fahlmant
 
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+recyclops
+
 .. raw:: html
 
   <br/>
 
-`Cody Holliday`-
+`Samarendra M. Hedaoo`_
+-----------------------
+
+.. class:: no-breaks
+
+  **Senior Systems Architect**
+
+Samarendra joined the OSL in November 2016 all the way from India. He studied at
+the Symbiosis Institute of Computer Studies & Research in Pune, India where he
+also worked as a System Administrator. He has also worked in DevOps and ran his
+own startup developing SMS-based apps. Most recently, he worked as a System
+Administrator at the IIT Bombay’s OpenPOWER and GPU HPC center. He chose to
+apply to the OSL to work with students while contributing to open source in an
+academic environment. He enjoys exploring new places, meeting new people, and
+experiencing new cultures. He cooks and writes in his spare time and spends a
+fair amount of time learning new ways to speak to American audiences and
+explaining different ways of pronouncing his name - Sam (ar) (endra).
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/knightsamar
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+samarendra
+
+.. raw:: html
+
+  <br/>
+
+`Cody Holliday`_
 ----------------
 
 .. image:: /images/cholliday.jpg
@@ -162,11 +238,23 @@ to learn through his experience with the OSL and expand his knowledge on a
 variety of topics including servers, SysAdmin skills, and Linux. During the
 school year, Cody is a DJ at KBVR, OSU's student run radio station.
 
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/DesertBeagle
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+codysseus
+
 .. raw:: html
 
   <br/>
 
-`Amanda Kelner`-
+`Amanda Kelner`_
 ----------------
 
 .. image:: /images/akelner.jpg
@@ -189,6 +277,8 @@ Amanda enjoys a good book or movie.
   **Github Account**
 
 https://github.com/kelnera
+
+.. class:: no-breaks
 
   **Nick on irc.freenode.net**
 
@@ -215,6 +305,18 @@ possibilities that come from the collaborative nature of the OSL is what
 excited her the most about working here. Outside of the OSL, she enjoys hanging
 out with friends and eating cheesecake.
 
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/leian
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+leian
+
 .. raw:: html
 
   <br/>
@@ -236,6 +338,18 @@ administrator in May 2014. Lee looks forward to learning more about the OSL
 infrastructure and hopes to contribute to Chef. In his spare time, Lee attends
 OSU Linux Users Group meetings, and enjoys reading as well as a good cup of
 coffee.
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/leel8on
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+leel8on
 
 .. raw:: html
 
@@ -264,11 +378,23 @@ perspective as an OSU staff member and alumnus to benefit the lab. Ken's
 personal interests are as varied as the technical projects he has worked on;
 he is a blacksmith as well as a woodworker and enjoys writing fiction.
 
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/Kennric
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+kennric
+
 .. raw:: html
 
   <br/>
 
-`Cody Malick`-
+`Cody Malick`_
 --------------
 
 .. image:: /images/cmalick.jpg
@@ -292,9 +418,45 @@ solutions.
 
 https://github.com/codymalick
 
+.. class:: no-breaks
+
   **Nick on irc.freenode.net**
 
 malickc
+
+.. raw:: html
+
+  <br/>
+
+`Spencer Moss`_
+---------------
+
+.. image:: /images/smoss.jpg
+    :scale: 50%
+    :align: right
+    :alt: Spencer Moss
+
+.. class:: no-breaks
+
+  **Community System Administrator**
+
+Spencer Moss has been working with the OSL since November 2015 and is majoring
+in Electrical and Computer Engineering. He became interested in working with the
+OSL in high school, where he studied in and maintained the computer science
+program. Spencer can also type 100 words per minute using less than four
+fingers.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/irandms
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+irandms
 
 .. raw:: html
 
@@ -316,6 +478,18 @@ Alex joined the OSL staff in March 2016 and is earning a degree in Computer
 Science. Working at the OSL has given him a chance to turn his hobby into a
 paying job. Alex is trained in American and English cuisine and in his spare
 time, he likes to exercise, cook, and program for fun.
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/alxngyn
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+alxngyn
 
 .. raw:: html
 
@@ -344,6 +518,12 @@ the internet, and programs personal projects.
 
 https://github.com/LyonesGamer
 
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+patcht
+
 .. raw:: html
 
   <br/>
@@ -365,6 +545,43 @@ fall of 2016. She looks forward to collaborating with others on projects in
 both Python and Ruby. In her free time she likes to read, play video games,
 and hike with her friends.
 
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/hsolorzano
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+hsolorzano
+
+.. raw:: html
+
+  <br/>
+
+`Kenneth Steinfeld`_
+--------------------
+
+.. class:: no-breaks
+
+  **Community Systems Administrator**
+
+Kenneth is studying computer science.
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/captntuttle
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+capt_tuttle
+
 .. raw:: html
 
   <br/>
@@ -385,6 +602,18 @@ Alex joined the OSL in February of 2016 and is studying Computer Science. He
 became interested in the OSL after seeing some of our projects and wanted to
 put his skills to good use and apply them here. Alex is interested in
 learning more about back-en web development while working at the OSL.
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/subnomo
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+subnomo
 
 .. raw:: html
 
@@ -412,6 +641,12 @@ Hearts and Skyrim are her favorites) draw, read, and sleep in her spare time.
 
 https://github.com/athai
 
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+thai
+
 .. raw:: html
 
   <br/>
@@ -434,6 +669,18 @@ learning many other aspects of computer science. When not poring over a
 computer science textbook, she enjoys playing video games and cuddling
 with cats.
 
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/cthalmann
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+thal
+
 .. raw:: html
 
   <br/>
@@ -454,6 +701,18 @@ Andy is a computer science student who joined the OSL in December 2014 as a
 systems administrator. In his spare time, Andy arranges a cappella songs for
 small groups, plays music and watches Netflix. Andy enjoys playing Skyrim for
 PC and is especially interested in Web development.
+
+.. class:: no-breaks
+
+  **Github Account:**
+
+https://github.com/tolvstaa
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+tolvstaa
 
 .. raw:: html
 
@@ -483,6 +742,12 @@ number of solo open source projects and watches “Doctor Who.”
 
 https://github.com/mathuin
 
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+Mathuin
+
 .. raw:: html
 
   <br/>
@@ -509,6 +774,12 @@ photographs, and contributing to science with the OSU/LBCC Space Club.
   **Github Account:**
 
 https://github.com/lo9key
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+lo9key
 
 .. raw:: html
 
