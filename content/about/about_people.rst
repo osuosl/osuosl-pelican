@@ -31,6 +31,12 @@ Lance can be reached at lance-at-osuosl-dot-org
 
 .. class:: no-breaks
 
+  **Github Account**
+
+https://github.com/ramereth
+
+.. class:: no-breaks
+
   **Nick on irc.freenode.net**
 
 Ramereth
@@ -67,7 +73,7 @@ justice.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/borcean
 
@@ -101,7 +107,7 @@ cube in under fifteen seconds and aspires to compete at the national level.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/aaroncohen73
 
@@ -139,7 +145,7 @@ to participate in outreach and development.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/jldugger
 
@@ -173,7 +179,7 @@ software and education to people around the world.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/fahlmant
 
@@ -207,7 +213,7 @@ explaining different ways of pronouncing his name - Sam (ar) (endra).
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/knightsamar
 
@@ -240,7 +246,7 @@ school year, Cody is a DJ at KBVR, OSU's student run radio station.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/DesertBeagle
 
@@ -307,7 +313,7 @@ out with friends and eating cheesecake.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/leian
 
@@ -341,7 +347,7 @@ coffee.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/leel8on
 
@@ -380,7 +386,7 @@ he is a blacksmith as well as a woodworker and enjoys writing fiction.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/Kennric
 
@@ -481,7 +487,7 @@ time, he likes to exercise, cook, and program for fun.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/alxngyn
 
@@ -514,7 +520,7 @@ the internet, and programs personal projects.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/LyonesGamer
 
@@ -547,7 +553,7 @@ and hike with her friends.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/hsolorzano
 
@@ -572,7 +578,7 @@ Kenneth is studying computer science.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/captntuttle
 
@@ -605,7 +611,7 @@ learning more about back-en web development while working at the OSL.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/subnomo
 
@@ -637,7 +643,7 @@ Hearts and Skyrim are her favorites) draw, read, and sleep in her spare time.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/athai
 
@@ -671,7 +677,7 @@ with cats.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/cthalmann
 
@@ -704,7 +710,7 @@ PC and is especially interested in Web development.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/tolvstaa
 
@@ -738,7 +744,7 @@ number of solo open source projects and watches “Doctor Who.”
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/mathuin
 
@@ -771,7 +777,7 @@ photographs, and contributing to science with the OSU/LBCC Space Club.
 
 .. class:: no-breaks
 
-  **Github Account:**
+  **Github Account**
 
 https://github.com/lo9key
 
