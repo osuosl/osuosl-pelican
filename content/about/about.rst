@@ -1,11 +1,10 @@
 About
 =====
 :slug: about
-:tag: frontpage 
+:tag: frontpage
 :author: Lucy Wyman
 :title: About
-:menu: top, About, 1; About, Summary, 1
-:tag: frontpage
+:menu: top, About, 1; About, About OSL, 1
 
 
 The Open Source Lab is a nonprofit organization working for the advancement of
