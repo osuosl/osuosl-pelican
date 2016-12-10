@@ -68,6 +68,8 @@ GITHUBURL = 'https://github.com/osuosl'
 YOUTUBEURL = 'http://youtube.com/osuopensourcelab'
 GPLUSURL = 'https://plus.google.com/107361178205293595706?rel=author'
 
+GOOGLE_ANALYTICS = 'UA-537692-1'
+
 DEP_NAME = 'OSU Open Source Lab'
 PARENT_ORG = 'Center for Applied Systems & Software'
 PARENT_ORG_URL = 'http://cass.oregonstate.edu/'
