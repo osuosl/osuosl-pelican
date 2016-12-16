@@ -103,7 +103,7 @@ target/
 [Bb]in
 [Ii]nclude
 [Ll]ib
-
+venv/
 
 
 ##Node gitignore

@@ -2,7 +2,7 @@ Donate
 ------
 :slug: donate
 :title: Donate
-:menu: Contact Us, Donate, 2
+:menu: About, Donate, 5
 
 
 The OSL offers support services to the world's leading open source projects as
@@ -26,7 +26,7 @@ Foundation's website to process your donation.*
 
 `Make a Gift`_
 
-.. _Make a Gift: http://www.osufoundation.org/
+.. _Make a Gift: https://securelb.imodules.com/s/359/foundation/index.aspx?sid=359&gid=34&pgid=1982&bledit=1&cid=3007&dids=79
 
 Thank you for making a secure donation to the Open Source Lab through the OSU
 Foundation. Your gift will support the growth of the open source community, as

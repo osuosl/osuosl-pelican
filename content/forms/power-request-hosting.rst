@@ -103,8 +103,8 @@ PowerLinux / OpenPOWER Request Form
             <div class="description">Public SSH key to be used for initial access to the system.</div>
           </div>
           <div class="form-item webform-component webform-component-textfield" id="webform-component-ibm-ltc-advocate">
-            <label for="edit-submitted-ibm-ltc-advocate">IBM Linux Technology Center Advocate <span class="form-required" title="This field is required.">*</span></label>
-            <input type="text" id="edit-submitted-ibm-ltc-advocate" name="ibm_linux_technology_center_advocate" value="" size="60" maxlength="128" class="form-text required" />
+            <label for="edit-submitted-ibm-ltc-advocate">IBM Advocate <span class="form-required" title="This field is required.">*</span></label>
+            <input type="text" id="edit-submitted-ibm-ltc-advocate" name="ibm_advocate" value="" size="60" maxlength="128" class="form-text required" />
             <div class="description">If you do not have an IBM Advocate, one will need to be assigned prior to activating access. OSUOSL and IBM will work with the requesting project to find an appropriate advocate.</div>
           </div>
           <div class="form-item webform-component webform-component-select" id="webform-component-deployment-timeframe">
@@ -127,7 +127,8 @@ PowerLinux / OpenPOWER Request Form
           <input type="hidden" name="token" value="15674hsda//*q23%^13jnxccv3ds54sa4g4sa532323!OoRdsfISDIdks38*(dsfjk)aS" />
           <!-- The following must be set to http://www.osuosl.org/services/powerdev/request_hosting in production -->
           <input type="hidden" name="redirect" value="http://www.osuosl.org/services/powerdev/request_hosting" />
-          <input type="hidden" name="mail_subject" value="FORM: New PowerLinux/OpenPOWER Hosting Request" />
+          <input type="hidden" name="mail_subject_prefix" value="New PowerLinux/OpenPOWER Hosting Request" />
+          <input type="hidden" name="mail_subject_key" value="project_name" />
           <input type="hidden" name="send_to" value="powerdev" />
           <!-- /Formsender Settings -->
 

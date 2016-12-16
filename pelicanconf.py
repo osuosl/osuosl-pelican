@@ -47,7 +47,7 @@ THEME = 'dougfir-pelican-theme'
 FEATURED = u'featured-stories'
 SLIDESHOW_LIMIT = 5
 OSL_HOME_EXTRAS = True
-HOME_CONTENT = u'frontpage'
+FRONTPAGE = u'frontpage'
 
 CATEGORY_URL = 'blog/{slug}'
 CATEGORY_SAVE_AS = 'blog/index.html'
@@ -67,6 +67,8 @@ FACEBOOKURL = 'http://facebook.com/osuosl'
 GITHUBURL = 'https://github.com/osuosl'
 YOUTUBEURL = 'http://youtube.com/osuopensourcelab'
 GPLUSURL = 'https://plus.google.com/107361178205293595706?rel=author'
+
+GOOGLE_ANALYTICS = 'UA-537692-1'
 
 DEP_NAME = 'OSU Open Source Lab'
 PARENT_ORG = 'Center for Applied Systems & Software'
