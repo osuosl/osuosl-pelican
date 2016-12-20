@@ -35,8 +35,8 @@ Timeline
 Root Cause
 ----------
 
-A scheduled power outage caused a power failure in the core switch room. The failure was due to the generator power
-being out of phase going into the UPS. The out of phase condition was rejected by the UPS and caused the UPS to run on
+A scheduled power outage led to a power failure in the core switch room. The failure was caused by the generator power
+being out of phase going into the UPS.  The out of phase condition was rejected by the UPS and caused the UPS to run on
 batteries until they expired. The generator started and ran fine and the transfer switch moved to emergency position
 fine. The generator power being out of phase was the problem. When power was lost in the core switch room, the NERO
 routers went off-line taking our connectivity to the Internet down as well.
