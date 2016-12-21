@@ -68,7 +68,8 @@ ARTICLE_ORDER_BY = 'reversed-date'
 TAGS_URL = 'tags.html'
 
 # tagged articles are organized under SITE_URL/tag/
-TAG_URL = 'tag/{slug}/'
+TAG_PREFIX = 'tag'
+TAG_URL = TAG_PREFIX + '/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
 
 # exclude articles with this tag from the blog
