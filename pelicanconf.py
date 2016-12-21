@@ -36,8 +36,11 @@ FEED_ALL_ATOM = None
 
 DEFAULT_PAGINATION = 5
 
-DIRECT_TEMPLATES = ['index', 'search/index']
-PAGINATED_DIRECT_TEMPLATES = ['blog']
+# use these specific templates from the theme to render these content types
+DIRECT_TEMPLATES = ['index', 'search/index', 'tags', 'tag']
+
+# use pagination for these content types
+PAGINATED_DIRECT_TEMPLATES = ['blog', 'tags']
 
 DIRECT_TEMPLATE_INFO = [
         {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 5, 'children': []}]  # noqa
@@ -49,12 +52,28 @@ SLIDESHOW_LIMIT = 5
 OSL_HOME_EXTRAS = True
 FRONTPAGE = u'frontpage'
 
+# categories live at /blog
 CATEGORY_URL = 'blog/{slug}'
 CATEGORY_SAVE_AS = 'blog/index.html'
+
+# gather the articles from the blog/posts directory
 ARTICLE_PATHS = ['blog/posts/']
+
+# find the articles at SITE_URL/blog/{ slug }
 ARTICLE_URL = 'blog/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{slug}/index.html'
 ARTICLE_ORDER_BY = 'reversed-date'
+
+# the index of all tags
+TAGS_URL = 'tags.html'
+
+# tagged articles are organized under SITE_URL/tag/
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
+
+# exclude articles with this tag from the blog
+EXCLUDE_TAG = 'no-blog'
+
 PAGE_PATHS = ['about', 'services', 'donate', 'blog', 'forms']
 PAGE_SAVE_AS = '{slug}/index.html'
 PAGE_URL = '{slug}'
