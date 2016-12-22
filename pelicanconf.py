@@ -65,7 +65,8 @@ ARTICLE_SAVE_AS = 'blog/{slug}/index.html'
 ARTICLE_ORDER_BY = 'reversed-date'
 
 # the index of all tags
-TAGS_URL = 'tags.html'
+TAGS_URL = 'tag/'
+TAGS_SAVE_AS = 'tag/index.html'
 
 # tagged articles are organized under SITE_URL/tag/
 TAG_PREFIX = 'tag'
