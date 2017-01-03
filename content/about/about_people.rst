@@ -9,7 +9,7 @@ People
 ------------------
 
 .. image:: /images/lalbertson.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Lance Albertson
 
@@ -56,7 +56,7 @@ Ramereth
 ---------------
 
 .. image:: /images/jborcean.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Jeff Borcean
 
@@ -91,7 +91,7 @@ borcean
 --------------
 
 .. image:: /images/acohen.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Aaron Cohen
 
@@ -125,7 +125,7 @@ resistortwister
 ----------------
 
 .. image:: /images/jdugger.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Justin Dugger
 
@@ -163,7 +163,7 @@ pwnguin
 ------------------
 
 .. image:: /images/tfahlman.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Taylor Fahlman
 
@@ -195,6 +195,11 @@ recyclops
 
 `Samarendra M. Hedaoo`_
 -----------------------
+
+.. image:: /images/shedaoo.jpg
+    :width: 110px
+    :align: right
+    :alt: Samarendra M. Hedaoo
 
 .. class:: no-breaks
 
@@ -231,7 +236,7 @@ samarendra
 ----------------
 
 .. image:: /images/cholliday.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Cody Holliday
 
@@ -264,7 +269,7 @@ codysseus
 ----------------
 
 .. image:: /images/akelner.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Amanda Kelner
 
@@ -298,7 +303,7 @@ kelnera
 ------------
 
 .. image:: /images/alei.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Annie Lei
 
@@ -331,7 +336,7 @@ leian
 ---------------
 
 .. image:: /images/lleighton.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Lee Leighton
 
@@ -365,7 +370,7 @@ leel8on
 -----------
 
 .. image:: /images/klett.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Ken Lett
 
@@ -404,7 +409,7 @@ kennric
 --------------
 
 .. image:: /images/cmalick.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Cody Malick
 
@@ -438,7 +443,7 @@ malickc
 ---------------
 
 .. image:: /images/smoss.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Spencer Moss
 
@@ -472,7 +477,7 @@ irandms
 --------------
 
 .. image:: /images/anguyen.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Alex Nguyen
 
@@ -505,7 +510,7 @@ alxngyn
 ----------------
 
 .. image:: /images/tpatch.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Tristan Patch
 
@@ -538,7 +543,7 @@ patcht
 -------------------
 
 .. image:: /images/hsolorzano.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Hannah Solorzano
 
@@ -570,6 +575,11 @@ hsolorzano
 `Kenneth Steinfeld`_
 --------------------
 
+.. image:: /images/generalstaffpic.jpg
+    :width: 110px
+    :align: right
+    :alt: Kenneth Steinfeld
+
 .. class:: no-breaks
 
   **Community Systems Administrator**
@@ -596,7 +606,7 @@ capt_tuttle
 --------------
 
 .. image:: /images/ataylor.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Alex Taylor
 
@@ -629,7 +639,7 @@ subnomo
 ------------------
 
 .. image:: /images/athai.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Aileen Thai
 
@@ -661,7 +671,7 @@ thai
 --------------------
 
 .. image:: /images/cthalmann.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Cayleigh Thalmann
 
@@ -695,7 +705,7 @@ thal
 ----------------
 
 .. image:: /images/atolvstad.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Andy Tolvstad
 
@@ -728,7 +738,7 @@ tolvstaa
 ---------------
 
 .. image:: /images/jtwilley.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Jack Twilley
 
@@ -762,7 +772,7 @@ Mathuin
 ----------------
 
 .. image:: /images/lwillmeth.jpg
-    :scale: 50%
+    :width: 110px
     :align: right
     :alt: Levi Willmeth
 
