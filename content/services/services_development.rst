@@ -60,18 +60,6 @@ surprisingly flexible graphical interface.
 .. _Protein Geometry Database: https://github.com/osuosl/pgd
 
 
-`TriSano`_
-~~~~~~~~~~
-
-TriSano™ is an open source, citizen-focused surveillance and outbreak management
-system for infectious disease, environmental hazards and bioterrorism attacks.
-It allows local, state and federal entities to track, control and ultimately
-prevent illness and death. OSL students have done development on the Trisano
-project while working closely with the project's development team.
-
-.. _TriSano: http://www.trisano.org
-
-
 `One Laptop Per Child`_
 ~~~~~~~~~~~~~~~~~~~~~~~
 
