@@ -34,18 +34,6 @@ can quickly deploy Debian, Ubuntu, CentOS and Gentoo. Other operating systems
 will need to be installed manually.
 
 
-DNS Management
---------------
-
-We offer Web-based DNS management and IP allocation through Maintain, a
-homegrown project of the OSL. Hosted clients can be given access to administer
-their own domain name using our Web interface. For more information about the
-Maintain application itself and how you can use it for managing DNS, IP and DHCP
-in your own organization, see `maintainproject.osuosl.org`_.
-
-.. _maintainproject.osuosl.org: http://maintainproject.osuosl.org/
-
-
 Nagios Monitoring
 -----------------
 
