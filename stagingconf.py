@@ -11,7 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *  # noqa
 
 
-SITEURL = 'http://osuosl.staging.osuosl.org'
+SITEURL = 'https://osuosl.staging.osuosl.org'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
