@@ -45,7 +45,7 @@ PAGINATED_DIRECT_TEMPLATES = ['blog', 'tags']
 DIRECT_TEMPLATE_INFO = [
         {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 5, 'children': []}]  # noqa
 
-DONATE_LINK = 'https://osuosl.org/donate'
+DONATE_LINK = 'http://osuosl.org/donate'
 
 THEME = 'dougfir-pelican-theme'
 
