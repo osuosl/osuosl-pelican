@@ -48,7 +48,7 @@ DIRECT_TEMPLATE_INFO = [
 DONATE_LINK = 'http://osuosl.org/donate'
 
 THEME = 'dougfir-pelican-theme'
-
+FONT = 'http://fonts.googleapis.com/css?family=Gudea'
 FEATURED = u'featured-stories'
 SLIDESHOW_LIMIT = 5
 OSL_HOME_EXTRAS = True
