@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Update repo
-git checkout thai/https_protocol
+git checkout staging
 git pull -q --ff-only
 git submodule update --init --recursive
 
