@@ -45,6 +45,8 @@ PAGINATED_DIRECT_TEMPLATES = ['blog', 'tags']
 DIRECT_TEMPLATE_INFO = [
         {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 5, 'children': []}]  # noqa
 
+DONATE_LINK = 'http://osuosl.org/donate'
+
 THEME = 'dougfir-pelican-theme'
 
 FEATURED = u'featured-stories'
@@ -68,7 +70,8 @@ ARTICLE_SAVE_AS = 'blog/{slug}/index.html'
 ARTICLE_ORDER_BY = 'reversed-date'
 
 # the index of all tags
-TAGS_URL = 'tags.html'
+TAGS_URL = 'tag/'
+TAGS_SAVE_AS = 'tag/index.html'
 
 # tagged articles are organized under SITE_URL/tag/
 TAG_PREFIX = 'tag'
