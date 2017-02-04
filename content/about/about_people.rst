@@ -51,42 +51,6 @@ Ramereth
 .. _Beaver BarCamp: http://beaverbarcamp.org
 .. _The Infallible Collective: http://infalliblecollective.com
 
-
-`Jeff Borcean`_
----------------
-
-.. image:: /images/jborcean.jpg
-    :width: 110px
-    :align: right
-    :alt: Jeff Borcean
-
-.. class:: no-breaks
-
-  **Community Systems Administrator**
-
-Jeff is a computer science major who joined the OSL in June 2014. In his spare
-time, Jeff enjoys being outdoors, enjoying the sun. He also enjoys reading and
-playing a game of Jenga. Jeff started and ran the OSU chapter of Students
-United for Marriage, an initiative to get same-sex marriage in Oregon. In the
-future, Jeff hopes to find a way to mix computer science and political/social
-justice.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/borcean
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-borcean
-
-.. raw:: html
-
-  <br/>
-
 `Aaron Cohen`_
 --------------
 
