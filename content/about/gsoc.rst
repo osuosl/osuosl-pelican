@@ -2,7 +2,7 @@ Google Summer of Code
 =====================
 :slug: about/gsoc
 :title: Google Summer of Code
-:menu: Student Experience, Google Summer of Code, 5
+:menu: Education, GSOC, 3
 
 .. image:: /images/gsoc.jpg
     :scale: 100%
