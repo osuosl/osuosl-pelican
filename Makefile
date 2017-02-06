@@ -4,7 +4,7 @@ PELICANOPTS=
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
-OUTPUTDIR=$(BASEDIR)/../htdocs
+OUTPUTDIR=$(BASEDIR)/build
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 STAGINGCONF=$(BASEDIR)/stagingconf.py
