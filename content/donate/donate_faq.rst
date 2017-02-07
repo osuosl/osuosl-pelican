@@ -44,16 +44,18 @@ external donations for our operations.
 **Are donations tax deductible?**
 
 The OSU Foundation is an IRS 501(c)(3) nonprofit corporation, which provides
-many donors a tax advantage. Please contact your account or the OSU Foundation
-directly if you have questions about your eligibility.
+many donors a tax advantage. Please contact the OSU Foundation if you have
+questions about your eligibility.
 
 
 .. _What is the OSU Foundation?:
 
 **What is the OSU Foundation?**
 
-The OSU Foundation handles all donations for Oregon State University. For more
-information on the OSU Foundation, visit their `website`_.
+The OSU Foundation handles all donations for Oregon State University. The
+Foundation works with university partners like the OSL to raise funds that
+support the university’s priorities. For more information, visit their
+`website`_.
 
 .. _website: http://osufoundation.org
 
@@ -87,8 +89,8 @@ expenses beyond the current fiscal year.
 
 We get approximately 70% of our income from corporate and individual donation
 giving. The other 30% is covered through various hosting contracts we have with
-larger FOSS projects. The larger FOSS projects pay at cost to help subsidize the
-costs for the smaller projects and thus keep the vast majority of our hosting
+larger FOSS projects. The larger FOSS projects pay at-cost to help subsidize the
+expenses for the smaller projects and thus keep the vast majority of our hosting
 free. Below you can find a pie chart showing the breakdown of our income for the
 2016 fiscal year.
 
@@ -114,10 +116,10 @@ Below are a few examples of where we have spent money in the past year:
 
 * **Staff/Student Salaries:** We spend nearly 65% of our budget on staff and
   student salaries. This also includes any benefits we pay to full-time staff.
-  All of the students we employ are paid and receive decent student wage
-  compared to other OSU students.
+  All of the students we employ receive higher hourly wages compared to the
+  average OSU student worker.
 
-* **Travel:** We do our best to send our staff and students to open source
+* **Travel:** When funding allows, we send our staff and students to open source
   conferences. This enables the OSL to stay on top of new technologies along
   with sharing experiences and ideas we have learned hosting FOSS projects.
 
@@ -126,7 +128,8 @@ Below are a few examples of where we have spent money in the past year:
 
 * **Community Events:** Another part of our budget is dedicated towards
   supporting community events such as `Beaver Barcamp`_ and `DevOps Bootcamp`_.
-  These events allow us to broaden our exposure to students at OSU and beyond.
+  These events allow us to broaden our exposure to students at OSU and the
+  community.
 
 * **Infrastructure Equipment:** A part of our budget is dedicated towards
   infrastructure upgrades and repair. This includes supporting services such as
@@ -214,15 +217,6 @@ please contact the OSUOSL at donations@osuosl.org or at 541-737-9900
 The OSU Foundation privacy policy can be found `here`_.
 
 .. _here: http://campaignforosu.org/staffresources/policiesandprocedures/
-
-.. _I live outside of the US and would like to request a t-shirt/hat/mug/etc. in
-   return for my donation. Will you ship it to me out of the country?:
-
-**I live outside of the US and would like to request a t-shirt/hat/mug/etc. in
-return for my donation. Will you ship it to me out of the country?**
-
-Due to shipping costs, please contact donations@osuosl.org with any specific
-questions you have about international shipping.
 
 
 .. _I would like to donate hardware/software, or something else. Would that help

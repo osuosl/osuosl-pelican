@@ -17,8 +17,8 @@ continue taking classes while gaining real-world experience.
   software engineering and application hosting.
 
 All positions are pool positions and are filled as they become available. To
-check if we are hiring, go to the `student jobs page`_ and search for "open source
-lab" or one of the positions listed below.
+check if we are hiring, go to the `student jobs page`_ and search for "open
+source lab" or one of the positions listed below.
 
 **Positions**
 
