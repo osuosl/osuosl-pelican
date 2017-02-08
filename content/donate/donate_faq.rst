@@ -18,8 +18,6 @@ Frequently Asked Questions
 #. `Who else is supporting the OSUOSL financially?`_
 #. `How do I donate to OSUOSL?`_
 #. `What is your privacy policy?`_
-#. `I live outside of the US and would like to request a t-shirt/hat/mug/etc. in
-   return for my donation. Will you ship it to me out of the country?`_
 #. `I would like to donate hardware/software, or something else. Would that help
    the OSUOSL?`_
 #. `How can I contact OSUOSL to discuss a potential gift?`_
