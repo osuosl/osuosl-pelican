@@ -42,8 +42,8 @@ external donations for our operations.
 **Are donations tax deductible?**
 
 The OSU Foundation is an IRS 501(c)(3) nonprofit corporation, which provides
-many donors a tax advantage. Please contact the OSU Foundation if you have
-questions about your eligibility.
+many donors a tax advantage. Please contact the OSU Foundation directly if you
+have questions about your eligibility.
 
 
 .. _What is the OSU Foundation?:
