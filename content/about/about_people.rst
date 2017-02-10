@@ -536,36 +536,6 @@ hsolorzano
 
   <br/>
 
-`Kenneth Steinfeld`_
---------------------
-
-.. image:: /images/generalstaffpic.jpg
-    :width: 110px
-    :align: right
-    :alt: Kenneth Steinfeld
-
-.. class:: no-breaks
-
-  **Community Systems Administrator**
-
-Kenneth is studying computer science.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/captntuttle
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-capt_tuttle
-
-.. raw:: html
-
-  <br/>
-
 `Alex Taylor`_
 --------------
 
