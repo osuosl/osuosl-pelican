@@ -1,8 +1,10 @@
 #! /bin/bash
 
 # Update repo
-git checkout master
-git pull -q --ff-only
+#git checkout master
+#git pull -q --ff-only
+
+# make sure theme submodule is initialized
 git submodule update --init --recursive
 
 # Enable venv
@@ -13,7 +15,6 @@ source venv/bin/activate
 
 # Update packages
 pip install -r requirements.txt
-pip install pelican
 
 # Build the site
 make publish
