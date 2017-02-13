@@ -4,10 +4,9 @@ PELICANOPTS=
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
-OUTPUTDIR=$(BASEDIR)/../htdocs
+OUTPUTDIR=$(BASEDIR)/build
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
-STAGINGCONF=$(BASEDIR)/stagingconf.py
 
 FTP_HOST=localhost
 FTP_USER=anonymous
@@ -85,9 +84,6 @@ stopserver:
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-
-staging:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(STAGINGCONF) $(PELICANOPTS)
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
