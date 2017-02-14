@@ -92,11 +92,7 @@ rsync_upload: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
 rsync_copy: publish
-ifdef RSYNC_TARGET_DIR
 	rsync -racq --delete-after --force --cvs-exclude $(OUTPUTDIR)/ $(RSYNC_TARGET_DIR)
-else
-	@echo 'Please set the destination path in environment variable RSYNC_TARGET_DIR'
-endif
 
 dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
