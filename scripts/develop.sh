@@ -13,10 +13,8 @@ source venv/bin/activate
 
 # Update packages
 pip install -r requirements.txt
-pip install pelican
 
 # Build the site
-make html
 make devserver
 
 # Disable venv
