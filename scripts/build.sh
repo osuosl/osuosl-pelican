@@ -1,8 +1,5 @@
 #! /bin/bash
 
-# get out of here if the target directory is not set
-"${RSYNC_TARGET_DIR:?RSYNC_TARGET_DIR must be set}"
-
 # make sure theme submodule is initialized
 git submodule update --init --recursive
 

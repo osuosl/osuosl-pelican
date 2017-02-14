@@ -2,11 +2,13 @@ PY?=python
 PELICAN?=pelican
 PELICANOPTS=
 
+
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/build
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
+RSYNC_TARGET_DIR?=$(BASEDIR)/htdocs
 
 FTP_HOST=localhost
 FTP_USER=anonymous
