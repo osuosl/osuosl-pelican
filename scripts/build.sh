@@ -1,9 +1,5 @@
 #! /bin/bash
 
-# Update repo
-#git checkout master
-#git pull -q --ff-only
-
 # make sure theme submodule is initialized
 git submodule update --init --recursive
 
@@ -17,6 +13,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Build the site
+# make rsync_copy first calls make publish, which builds using publishconf.py
 make rsync_copy
 
 # Disable venv
