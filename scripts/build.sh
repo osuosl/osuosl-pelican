@@ -10,6 +10,7 @@ git submodule update --init --recursive
 if [ ! -d venv ]; then
     virtualenv venv
 fi
+
 source venv/bin/activate
 
 # Update packages
