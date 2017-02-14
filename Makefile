@@ -95,7 +95,7 @@ rsync_upload: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
 rsync_copy: publish
-	rsync -racq --delete-after --force --cvs-exclude $(OUTPUTDIR)/ $(RSYNC_TARGET_DIR)
+	rsync -acq --delete-after --force --cvs-exclude $(OUTPUTDIR)/ $(RSYNC_TARGET_DIR)
 
 dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
