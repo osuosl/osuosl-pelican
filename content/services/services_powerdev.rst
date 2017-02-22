@@ -40,3 +40,14 @@ To request access to a POWER server, use our `request form`_ and we will get
 back to you shortly.
 
 .. _request form: /services/powerdev/request_hosting
+
+**Current Projects Hosted on POWER**
+
+.. csv-table:: Open Source Projects
+   :file: ./csv/powerdev_open_source_projects.csv
+   :widths: 20,80
+
+.. csv-table:: Academic Partners
+   :file: ./csv/powerdev_academic_partners.csv
+   :widths: 20,80
+
