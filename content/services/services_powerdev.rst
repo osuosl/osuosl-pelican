@@ -44,10 +44,12 @@ back to you shortly.
 **Current Projects Hosted on POWER**
 
 .. csv-table:: Open Source Projects
+   :class: powerdev-tbl
    :file: ./csv/powerdev_open_source_projects.csv
    :widths: 20,80
 
 .. csv-table:: Academic Partners
+   :class: powerdev-tbl
    :file: ./csv/powerdev_academic_partners.csv
    :widths: 20,80
 
