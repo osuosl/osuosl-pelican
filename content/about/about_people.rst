@@ -51,7 +51,6 @@ Ramereth
 .. _Beaver BarCamp: http://beaverbarcamp.org
 .. _The Infallible Collective: http://infalliblecollective.com
 
-
 `Aaron Cohen`_
 --------------
 
@@ -552,7 +551,7 @@ hsolorzano
 Alex joined the OSL in February of 2016 and is studying Computer Science. He
 became interested in the OSL after seeing some of our projects and wanted to
 put his skills to good use and apply them here. Alex is interested in
-learning more about back-en web development while working at the OSL.
+learning more about back-end web development while working at the OSL.
 
 .. class:: no-breaks
 

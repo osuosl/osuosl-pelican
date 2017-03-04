@@ -2,7 +2,7 @@ Beaver BarCamp
 ==============
 :slug: about/beaverbarcamp.rst
 :title: Beaver BarCamp
-:menu: Student Experience, Beaver BarCamp, 10
+:menu: Education, Beaver Barcamp, 1
 
 .. image:: /images/barcamp.png
     :height: 470px

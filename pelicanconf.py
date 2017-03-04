@@ -45,12 +45,17 @@ PAGINATED_DIRECT_TEMPLATES = ['blog', 'tags']
 DIRECT_TEMPLATE_INFO = [
         {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 5, 'children': []}]  # noqa
 
+DONATE_LINK = 'http://osuosl.org/donate'
+
 THEME = 'dougfir-pelican-theme'
 
 FEATURED = u'featured-stories'
 SLIDESHOW_LIMIT = 5
 OSL_HOME_EXTRAS = True
 FRONTPAGE = u'frontpage'
+
+# Gudea Font
+FONT = 'https://fonts.googleapis.com/css?family=Gudea'
 
 # categories live at /blog
 CATEGORY_URL = 'blog/{slug}'

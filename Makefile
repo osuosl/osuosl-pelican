@@ -2,12 +2,13 @@ PY?=python
 PELICAN?=pelican
 PELICANOPTS=
 
+
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
-OUTPUTDIR=$(BASEDIR)/../htdocs
+OUTPUTDIR=$(BASEDIR)/build
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
-STAGINGCONF=$(BASEDIR)/stagingconf.py
+RSYNC_TARGET_DIR?=$(BASEDIR)/htdocs
 
 FTP_HOST=localhost
 FTP_USER=anonymous
@@ -44,6 +45,7 @@ help:
 	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000'
 	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
 	@echo '   make stopserver                  stop local server                  '
+	@echo '   make rsync_copy                  copy the web site locally via rsync'
 	@echo '   make ssh_upload                  upload the web site via SSH        '
 	@echo '   make rsync_upload                upload the web site via rsync+ssh  '
 	@echo '   make dropbox_upload              upload the web site via Dropbox    '
@@ -86,14 +88,14 @@ stopserver:
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
-staging:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(STAGINGCONF) $(PELICANOPTS)
-
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 rsync_upload: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
+
+rsync_copy: publish
+	rsync -acq --delete-after --force --cvs-exclude $(OUTPUTDIR)/ $(RSYNC_TARGET_DIR)
 
 dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)

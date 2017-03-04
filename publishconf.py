@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *  # noqa
 
-SITEURL = 'http://osuosl.org'
+SITEURL = os.getenv('PELICAN_SITE_URL', 'https://osuosl.org')
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
