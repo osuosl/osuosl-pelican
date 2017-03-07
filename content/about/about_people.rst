@@ -470,21 +470,21 @@ alxngyn
 
   <br/>
 
-`Tristan Patch`_
-----------------
+`Morgan Patch`_
+---------------
 
 .. image:: /images/tpatch.jpg
     :width: 110px
     :align: right
-    :alt: Tristan Patch
+    :alt: Morgan Patch
 
 .. class:: no-breaks
 
   **Developer**
 
-Tristan, an aspiring NASA programmer or game developer started at the OSL in
-June 2015. He is a computer science major and is involved with the Linux Users
-Group as well as the Gaming Club. In his spare time he plays games, browses
+Morgan, an aspiring NASA programmer or game developer started at the OSL in
+June 2015. She is a computer science major and is involved with the Linux Users
+Group as well as the Gaming Club. In her spare time she plays games, browses
 the internet, and programs personal projects.
 
 .. class:: no-breaks
@@ -570,7 +570,7 @@ subnomo
   <br/>
 
 `Aileen Thai`_
-------------------
+--------------
 
 .. image:: /images/athai.jpg
     :width: 110px
