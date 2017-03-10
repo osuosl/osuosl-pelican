@@ -13,7 +13,8 @@ PowerLinux / OpenPOWER Request Form
         <div class="field-items">
           <div class="field-item even" property="content:encoded">
             <p>Please use the form below to request hosting on the POWER7/POWER8 environment hosted at the OSUOSL.</p>
-            <p>This access is intended only for projects who qualify and are approved by both the OSUOSL and IBM.</p>
+            <p>This access is intended only for <b><i>free and open source</i></b> projects who qualify and are
+            approved by both the OSUOSL and IBM.</p>
           </div>
         </div>
       </div>
@@ -121,6 +122,10 @@ PowerLinux / OpenPOWER Request Form
             <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-other-information" name="other_information" cols="60" rows="5" class="form-textarea"></textarea></div>
             <div class="description">Is there anything additional you would like to provide for your request?</div>
           </div>
+
+          <p>You should receive an automated email from our request ticketing system within 5-10 minutes to the email
+          address you have provided.  If you don't receive this email please reach out to us at support@osuosl.org or
+          via IRC in #osuosl on Freenode.</p>
 
           <!-- Formsender Settings -->
           <input type="hidden" name="last_name" value="" />
