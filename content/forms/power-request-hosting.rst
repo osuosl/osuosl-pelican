@@ -33,6 +33,11 @@ PowerLinux / OpenPOWER Request Form
             <input type="text" id="edit-submitted-project-name" name="project_name" value="" size="60" maxlength="128" class="form-text required" />
             <div class="description">Name of the open source project or education institution this request will be supporting.</div>
           </div>
+          <div class="form-item webform-component webform-component-textfield" id="webform-component-project-url">
+            <label for="edit-submitted-project-url">Project URL <span class="form-required" title="This field is required.">*</span></label>
+            <input type="text" id="edit-submitted-project-url" name="project_url" value="" size="60" maxlength="128" class="form-text required" />
+            <div class="description">Primary website URL for the open source project or education institution.</div>
+          </div>
           <div class="form-item webform-component webform-component-textfield" id="webform-component-community-size">
             <label for="edit-submitted-community-size">Estimated Size of  User Community <span class="form-required" title="This field is required.">*</span></label>
             <input type="text" id="edit-submitted-community-size" name="est_size_of_user_community" value="" size="60" maxlength="128" class="form-text required" />
