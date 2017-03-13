@@ -601,22 +601,22 @@ thai
 
   <br/>
 
-`Cayleigh Thalmann`_
+`Cayden Thalmann`_
 --------------------
 
 .. image:: /images/cthalmann.jpg
     :width: 110px
     :align: right
-    :alt: Cayleigh Thalmann
+    :alt: Cayden Thalmann
 
 .. class:: no-breaks
 
   **Student Software/Systems Engineer**
 
-Cayleigh is going into her third year as a computer science student. She
+Cayden is going into his third year as a computer science student. He
 originally decided on this major to make video games, and has enjoyed
 learning many other aspects of computer science. When not poring over a
-computer science textbook, she enjoys playing video games and cuddling
+computer science textbook, he enjoys playing video games and cuddling
 with cats.
 
 .. class:: no-breaks
