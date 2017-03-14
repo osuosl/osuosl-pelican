@@ -12,8 +12,9 @@ PowerLinux / OpenPOWER Request Form
       <div class="field field-name-body field-type-text-with-summary field-label-hidden">
         <div class="field-items">
           <div class="field-item even" property="content:encoded">
-            <p>Please use the form below to request hosting on the POWER7/POWER8 environment hosted at the OSUOSL.</p>
-            <p>This access is intended only for projects who qualify and are approved by both the OSUOSL and IBM.</p>
+            <p>Please use the form below to request hosting on the POWER environment hosted at the OSUOSL.</p> <p>This
+            access is intended only for <b><i>free and open source</i></b> projects who qualify and are
+            approved by both the OSUOSL and IBM.</p>
           </div>
         </div>
       </div>
@@ -31,6 +32,11 @@ PowerLinux / OpenPOWER Request Form
             <label for="edit-submitted-project-name">Project Name <span class="form-required" title="This field is required.">*</span></label>
             <input type="text" id="edit-submitted-project-name" name="project_name" value="" size="60" maxlength="128" class="form-text required" />
             <div class="description">Name of the open source project or education institution this request will be supporting.</div>
+          </div>
+          <div class="form-item webform-component webform-component-textfield" id="webform-component-project-url">
+            <label for="edit-submitted-project-url">Project URL <span class="form-required" title="This field is required.">*</span></label>
+            <input type="text" id="edit-submitted-project-url" name="project_url" value="" size="60" maxlength="128" class="form-text required" />
+            <div class="description">Primary website URL for the open source project or education institution.</div>
           </div>
           <div class="form-item webform-component webform-component-textfield" id="webform-component-community-size">
             <label for="edit-submitted-community-size">Estimated Size of  User Community <span class="form-required" title="This field is required.">*</span></label>
@@ -55,10 +61,8 @@ PowerLinux / OpenPOWER Request Form
           <div class="form-item webform-component webform-component-select" id="webform-component-power-architecture">
             <label for="edit-submitted-power-architecture">POWER Architecture <span class="form-required" title="This field is required.">*</span></label>
             <select id="edit-submitted-power-architecture" name="power_architecture" class="form-select required">
-              <option value="None selected" selected="selected">- Select -</option>
-              <option value="ppc64 POWER7">ppc64 POWER7</option>
-              <option value="ppc64 POWER8 (Big Endian)">ppc64 POWER8 (Big Endian)</option>
-              <option value="ppc64le POWER8 (Little Endian)">ppc64le POWER8 (Little Endian)</option>
+              <option value="ppc64le POWER (Little Endian)" selected="selected">ppc64le POWER (Little Endian)</option>
+              <option value="ppc64 POWER (Big Endian)">ppc64 POWER (Big Endian)</option>
             </select>
           </div>
           <div class="form-item webform-component webform-component-select" id="webform-component-flavor">
@@ -95,7 +99,7 @@ PowerLinux / OpenPOWER Request Form
               <option value="Have the OSL create the node(s) for me">Have the OSL create the node(s) for me</option>
               <option value="I'd like to have access to the Openstack GUI/API">I&#039;d like to have access to the Openstack GUI/API</option>
             </select>
-            <div class="description">We use OpenStack to manage the POWER8 ppc64/ppc64le nodes. We can either create the node for you or we can grant you access to the OpenStack GUI and API and let you manage it yourself. What do you prefer?</div>
+            <div class="description">We use OpenStack to manage the POWER ppc64/ppc64le nodes. We can either create the node for you or we can grant you access to the OpenStack GUI and API and let you manage it yourself. What do you prefer?</div>
           </div>
           <div class="form-item webform-component webform-component-textarea" id="webform-component-ssh-key">
             <label for="edit-submitted-ssh-key">SSH Public Key <span class="form-required" title="This field is required.">*</span></label>
@@ -121,6 +125,10 @@ PowerLinux / OpenPOWER Request Form
             <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-other-information" name="other_information" cols="60" rows="5" class="form-textarea"></textarea></div>
             <div class="description">Is there anything additional you would like to provide for your request?</div>
           </div>
+
+          <p>You should receive an automated email from our request ticketing system within 5-10 minutes to the email
+          address you have provided.  If you don't receive this email please reach out to us at support@osuosl.org or
+          via IRC in #osuosl on Freenode.</p>
 
           <!-- Formsender Settings -->
           <input type="hidden" name="last_name" value="" />
