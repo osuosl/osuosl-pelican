@@ -85,6 +85,7 @@ PowerLinux / OpenPOWER Request Form
             <select id="edit-submitted-distribution" name="distribution" class="form-select required">
               <option value="None selected" selected="selected">- Select -</option>
               <option value="Fedora">Fedora</option>
+              <option value="CentOS">CentOS</option>
               <option value="Debian">Debian</option>
               <option value="Ubuntu">Ubuntu</option>
               <option value="OpenSUSE">OpenSUSE</option>
