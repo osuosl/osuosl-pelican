@@ -29,7 +29,7 @@
 "LTTng","Supporting porting efforts of POWER8 ppc64/ppc64le for the LTTng project."
 "Mesos","API’s for resource management and scheduling across entire datacenter and cloud environments"
 "Multiple LLVM/HHVM/*","Contribution towards FOSS software, optimizations for POWER arch. Specifically contribution towards HHVM JIT, LLVM and/or other FOSS projects on POWER8."
-"Node","Supporting porting efforts of POWER8 ppc64/ppc64le for the Node project. The goal is to provide stable POWER releases for community builds of Node.js."
+"Node.js","Supporting porting efforts of POWER8 ppc64/ppc64le for the Node.js project. The goal is to provide stable POWER releases for community builds of Node.js."
 "NumPy","Numerical computing in Python, now on POWER"
 "OCM","Observationally Cooperative Multithreading. OCM provides a 'kinder gentler' form of concurrency, allowing programmers to imagine that a single thread runs on the machine at any one time.  With POWER8 hardware transactional memory, it becomes possible to actually run multiple threads at the same time while *appearing* to be running only one at a time. This is test the performance on POWER8."
 "OpenCV","Implement Power8 VSX SIMD optimizations for OpenCV"
