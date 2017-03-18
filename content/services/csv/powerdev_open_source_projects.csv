@@ -28,7 +28,6 @@
 "LLVM","Supporting porting efforts of POWER8 ppc64/ppc64le for the LLVM project to run their buildbot instances. These instances build LLVM and run the test suites when patches are checked in to ensure they run properly on the POWER architecture."
 "LTTng","Supporting porting efforts of POWER8 ppc64/ppc64le for the LTTng project."
 "Mesos","API’s for resource management and scheduling across entire datacenter and cloud environments"
-"MulticoreWare x265","Use GCC PowerPC altivec instructions to optimize the x265 open source HEVC implemenation."
 "Multiple LLVM/HHVM/*","Contribution towards FOSS software, optimizations for POWER arch. Specifically contribution towards HHVM JIT, LLVM and/or other FOSS projects on POWER8."
 "Node","Supporting porting efforts of POWER8 ppc64/ppc64le for the Node project. The goal is to provide stable POWER releases for community builds of Node.js."
 "NumPy","Numerical computing in Python, now on POWER"
