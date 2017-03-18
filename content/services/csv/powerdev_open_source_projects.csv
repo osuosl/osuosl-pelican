@@ -15,7 +15,7 @@
 "Firefox","Porting Mozilla Firefox to POWER 8."
 "Gentoo PowerPC Project","The Gentoo PowerPC project (https://wiki.gentoo.org/wiki/Project:PowerPC) is part of Gentoo Linux and is responsible for porting Gentoo to PowerPC architecture of all flavors."
 "Glasgow Haskell","Implement native code generation on PowerPC 64-bit little endian for 'The Glorious Glasgow Haskell Compilation System' and as a pre-release for openSUSE and SUSE Linux Enterprise on POWER8 servers, while we are waiting for upstream to release version 7.12.  In a follow-up project they plan to do research on hardware transactional memory features of POWER8 in addition and compared to Haskell's software transactional memory implementation."
-"GoLang","Supporting porting efforts of POWER8 ppc64/ppc64le for the GoLang project."
+"Go Language","Supporting porting efforts of POWER8 ppc64/ppc64le for the GoLang project."
 "Goy.Chat","An open source platform powered by Meteor."
 "Hadoop_Spark","CI environment powered by a Jenkins server running Hadoop and Spark builds."
 "Hortonworks Data Platform","A secure, enterprise-ready open source Apache Hadoop distribution based on a centralized architecture (YARN) now on POWER"
