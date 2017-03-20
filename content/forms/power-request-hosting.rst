@@ -14,7 +14,8 @@ PowerLinux / OpenPOWER Request Form
           <div class="field-item even" property="content:encoded">
             <p>Please use the form below to request hosting on the POWER environment hosted at the OSUOSL.</p> <p>This
             access is intended only for <b><i>free and open source</i></b> projects who qualify and are
-            approved by both the OSUOSL and IBM.</p>
+            approved by both the OSUOSL and IBM. For proprietary sourced projects or products please use other POWER
+            resources which can be found <a href=https://developer.ibm.com/linuxonpower/cloud-resources/>here</a></p>
           </div>
         </div>
       </div>
