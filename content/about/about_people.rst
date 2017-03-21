@@ -51,40 +51,6 @@ Ramereth
 .. _Beaver BarCamp: http://beaverbarcamp.org
 .. _The Infallible Collective: http://infalliblecollective.com
 
-`Aaron Cohen`_
---------------
-
-.. image:: /images/acohen.jpg
-    :width: 110px
-    :align: right
-    :alt: Aaron Cohen
-
-.. class:: no-breaks
-
-  **Student Developer**
-
-Aaron was hired in March of 2016 after hearing about the OSL from a former
-teacher. With a love for programming and open source, it was a perfect fit for
-him. He is currently studying Electrical Engineering and Computer Science and
-wants to pursue a career in the robotics field. Aaron can also solve a Rubik's
-cube in under fifteen seconds and aspires to compete at the national level.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/aaroncohen73
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-resistortwister
-
-.. raw:: html
-
-  <br/>
-
 `Justin Dugger`_
 ----------------
 
@@ -601,40 +567,6 @@ thai
 
   <br/>
 
-`Cayden Thalmann`_
---------------------
-
-.. image:: /images/cthalmann.jpg
-    :width: 110px
-    :align: right
-    :alt: Cayden Thalmann
-
-.. class:: no-breaks
-
-  **Student Software/Systems Engineer**
-
-Cayden is going into his third year as a computer science student. He
-originally decided on this major to make video games, and has enjoyed
-learning many other aspects of computer science. When not poring over a
-computer science textbook, he enjoys playing video games and cuddling
-with cats.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/cthalmann
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-thal
-
-.. raw:: html
-
-  <br/>
-
 `Andy Tolvstad`_
 ----------------
 
@@ -699,38 +631,3 @@ https://github.com/mathuin
 Mathuin
 
 .. raw:: html
-
-  <br/>
-
-`Levi Willmeth`_
-----------------
-
-.. image:: /images/lwillmeth.jpg
-    :width: 110px
-    :align: right
-    :alt: Levi Willmeth
-
-.. class:: no-breaks
-
-  **Student Software/Systems Engineer**
-
-Levi joined the OSL as a student intern in the summer of 2016. He is married
-and has two energetic toddlers who help ensure he doesn't sleep too much.
-Levi enjoys playing bike polo, flying RC aircraft, looking thoughtful in
-photographs, and contributing to science with the OSU/LBCC Space Club.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/lo9key
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-lo9key
-
-.. raw:: html
-
-  <br />
