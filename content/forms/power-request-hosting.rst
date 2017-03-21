@@ -19,7 +19,7 @@ PowerLinux / OpenPOWER Request Form
           </div>
         </div>
       </div>
-      <form class="webform-client-form" enctype="multipart/form-data" action="http://formsender.osuosl.org:80" method="post" id="webform-client-form-1086" accept-charset="UTF-8">
+      <form class="webform-client-form" enctype="multipart/form-data" action="http://0.0.0.0:5000/" method="post" id="webform-client-form-1086" accept-charset="UTF-8">
         <div>
           <div class="form-item webform-component webform-component-textfield" id="webform-component-name">
             <label for="edit-submitted-name">Name <span class="form-required" title="This field is required.">*</span></label>
@@ -139,7 +139,7 @@ PowerLinux / OpenPOWER Request Form
           <input type="hidden" name="redirect" value="http://www.osuosl.org/services/powerdev/request_hosting" />
           <input type="hidden" name="mail_subject_prefix" value="New PowerLinux/OpenPOWER Hosting Request" />
           <input type="hidden" name="mail_subject_key" value="project_name" />
-          <input type="hidden" name="send_to" value="powerdev" />
+          <input type="hidden" name="send_to" value="codysseus" />
           <!-- /Formsender Settings -->
 
           <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Submit" class="form-submit" /></div>
