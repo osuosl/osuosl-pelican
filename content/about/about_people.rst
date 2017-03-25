@@ -123,6 +123,42 @@ recyclops
 
   <br/>
 
+JJ Frederick
+------------
+
+.. image:: /images/generalstaffpic.jpg
+    :width: 110px
+    :align: right
+    :alt: JJ Frederick
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+JJ joined CASS in March 2017 and is studying computer science. Even before
+joining the OSL, JJ used open source programs such as Linux on his own personal
+computers. Having a lot of experience and interest in the field already, the
+Open Source Lab was a perfect fit for him. He is also interested in video game
+design and application building as well as refurbishing old computers. He’s been
+programming since he was six years old and in his spare time he likes to play
+dodgeball.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/doublej472
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+doublej472
+
+.. raw:: html
+
+  <br/>
+
 `Samarendra M. Hedaoo`_
 -----------------------
 
