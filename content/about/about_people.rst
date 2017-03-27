@@ -89,6 +89,27 @@ pwnguin
 
   <br/>
 
+Mohamed Eldebri
+---------------
+
+.. image:: /images/generalstaffpic.jpg
+    :width: 110px
+    :align: right
+    :alt: No Image
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+.. raw:: html
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
 `Taylor Fahlman`_
 ------------------
 
@@ -196,6 +217,27 @@ samarendra
 
 .. raw:: html
 
+  <br/>
+
+Toby Hodges
+-----------
+
+.. image:: /images/generalstaffpic.jpg
+    :width: 110px
+    :align: right
+    :alt: No Image
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+.. raw:: html
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
   <br/>
 
 `Cody Holliday`_
@@ -667,3 +709,17 @@ https://github.com/mathuin
 Mathuin
 
 .. raw:: html
+
+  <br/>
+
+Travis Whitehead
+----------------
+
+.. image:: /images/generalstaffpic.jpg
+    :width: 110px
+    :align: right
+    :alt: No Image
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
