@@ -51,40 +51,6 @@ Ramereth
 .. _Beaver BarCamp: http://beaverbarcamp.org
 .. _The Infallible Collective: http://infalliblecollective.com
 
-`Aaron Cohen`_
---------------
-
-.. image:: /images/acohen.jpg
-    :width: 110px
-    :align: right
-    :alt: Aaron Cohen
-
-.. class:: no-breaks
-
-  **Student Developer**
-
-Aaron was hired in March of 2016 after hearing about the OSL from a former
-teacher. With a love for programming and open source, it was a perfect fit for
-him. He is currently studying Electrical Engineering and Computer Science and
-wants to pursue a career in the robotics field. Aaron can also solve a Rubik's
-cube in under fifteen seconds and aspires to compete at the national level.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/aaroncohen73
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-resistortwister
-
-.. raw:: html
-
-  <br/>
-
 `Justin Dugger`_
 ----------------
 
@@ -123,6 +89,27 @@ pwnguin
 
   <br/>
 
+Mohamed Eldebri
+---------------
+
+.. image:: /images/generalstaffpic.jpg
+    :width: 110px
+    :align: right
+    :alt: No Image
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+.. raw:: html
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
 `Taylor Fahlman`_
 ------------------
 
@@ -152,6 +139,42 @@ https://github.com/fahlmant
   **Nick on irc.freenode.net**
 
 recyclops
+
+.. raw:: html
+
+  <br/>
+
+JJ Frederick
+------------
+
+.. image:: /images/generalstaffpic.jpg
+    :width: 110px
+    :align: right
+    :alt: JJ Frederick
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+JJ joined CASS in March 2017 and is studying computer science. Even before
+joining the OSL, JJ used open source programs such as Linux on his own personal
+computers. Having a lot of experience and interest in the field already, the
+Open Source Lab was a perfect fit for him. He is also interested in video game
+design and application building as well as refurbishing old computers. He’s been
+programming since he was six years old and in his spare time he likes to play
+dodgeball.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/doublej472
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+doublej472
 
 .. raw:: html
 
@@ -194,6 +217,27 @@ samarendra
 
 .. raw:: html
 
+  <br/>
+
+Toby Hodges
+-----------
+
+.. image:: /images/generalstaffpic.jpg
+    :width: 110px
+    :align: right
+    :alt: No Image
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+.. raw:: html
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
   <br/>
 
 `Cody Holliday`_
@@ -601,40 +645,6 @@ thai
 
   <br/>
 
-`Cayden Thalmann`_
---------------------
-
-.. image:: /images/cthalmann.jpg
-    :width: 110px
-    :align: right
-    :alt: Cayden Thalmann
-
-.. class:: no-breaks
-
-  **Student Software/Systems Engineer**
-
-Cayden is going into his third year as a computer science student. He
-originally decided on this major to make video games, and has enjoyed
-learning many other aspects of computer science. When not poring over a
-computer science textbook, he enjoys playing video games and cuddling
-with cats.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/cthalmann
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-thal
-
-.. raw:: html
-
-  <br/>
-
 `Andy Tolvstad`_
 ----------------
 
@@ -702,35 +712,14 @@ Mathuin
 
   <br/>
 
-`Levi Willmeth`_
+Travis Whitehead
 ----------------
 
-.. image:: /images/lwillmeth.jpg
+.. image:: /images/generalstaffpic.jpg
     :width: 110px
     :align: right
-    :alt: Levi Willmeth
+    :alt: No Image
 
 .. class:: no-breaks
 
-  **Student Software/Systems Engineer**
-
-Levi joined the OSL as a student intern in the summer of 2016. He is married
-and has two energetic toddlers who help ensure he doesn't sleep too much.
-Levi enjoys playing bike polo, flying RC aircraft, looking thoughtful in
-photographs, and contributing to science with the OSU/LBCC Space Club.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/lo9key
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-lo9key
-
-.. raw:: html
-
-  <br />
+  **Student Systems Engineer**
