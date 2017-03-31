@@ -20,7 +20,6 @@ via production and development (Fedora, OpenSUSE, and Debian) distributions.
 .. _Google: https://www.google.com
 .. _Chef: https://www.chef.io/chef/
 
-
 Members of the community can use these POWER servers to develop and test open
 source projects on the `Power Architecture`_ platform and in a `PowerLinux`_
 environment. These shared systems are intended for functional development and
