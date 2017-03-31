@@ -12,4 +12,4 @@
 "Nokogiri","Provide support on RHEL 7.1 LE & Ubuntu 14.04 on ppc64le arch"
 "Openlibm","Provided hosting to support the development on the POWER platform of a high quality, portable, standalone C mathematical library (libm), used by the Julia project (http://julialang.org)(https://github.com/JuliaLang/openlibm)"
 "oVirt","Added support for POWER hosts for a virtual machine manager"
-"Squash","A plugin-based abstraction library for general purpose data compression algorithms which provides a common API for a large number of compression libraries, allowing people to easily test multiple codecs to see which works best, or pass along the choice to their users; it involved development and testing on the POWER platform and adding support for the big-endian architecture
+"Squash","A plugin-based abstraction library for general purpose data compression algorithms which provides a common API for a large number of compression libraries, allowing people to easily test multiple codecs to see which works best, or pass along the choice to their users; it involved development and testing on the POWER platform and adding support for the big-endian architecture"
