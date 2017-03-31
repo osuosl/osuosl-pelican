@@ -25,5 +25,5 @@ then
   deactivate
 else
   deactivate
-  exit $?
+  exit 1
 fi
