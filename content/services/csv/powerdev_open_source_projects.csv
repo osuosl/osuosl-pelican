@@ -1,4 +1,3 @@
-"Alpine Linux","A security-oriented, lightweight Linux distribution based on musl libc and busybox. "
 "Anaconda","Installation program used by Fedora, RHEL, and others; uses POWER support for Continuous Integration and development"
 "Apache Bigtop","An Apache Foundation project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components; supports a wide range of components/projects, including, but not limited to, Hadoop, HBase and Spark"
 "Apache Software Foundation","Supports POWER builds for CouchDB and possible other ASF projects in the future; currently working to support Cloudant on POWER"
