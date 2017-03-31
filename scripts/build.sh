@@ -15,7 +15,14 @@ pip install -r requirements.txt
 
 # Build the site
 # make rsync_copy first calls make publish, which builds using publishconf.py
-make rsync_copy
+make rsync_copy >&1
+
+if [ $? -eq 0 ]
+then
+  deactivate
+else
+  exit 1
+fi
 
 # Disable venv
-deactivate
+# deactivate

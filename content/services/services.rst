@@ -10,7 +10,6 @@ Services
 
 .. _Hosting Services: /services/hosting/
 
-
 The OSL provides world-class `hosting services`_ for the Linux operating system,
 the Apache Software Foundation, the Drupal content management system and more
 than 150 other leading open source `communities`_.
