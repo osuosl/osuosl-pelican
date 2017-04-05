@@ -89,8 +89,8 @@ pwnguin
 
   <br/>
 
-Mohamed Eldebri
----------------
+`Mohamed Eldebri`_
+------------------
 
 .. image:: /images/generalstaffpic.jpg
     :width: 110px
@@ -144,10 +144,10 @@ recyclops
 
   <br/>
 
-JJ Frederick
-------------
+`JJ Frederick`_
+---------------
 
-.. image:: /images/generalstaffpic.jpg
+.. image:: /images/jfrederick.jpg
     :width: 110px
     :align: right
     :alt: JJ Frederick
@@ -219,13 +219,13 @@ samarendra
 
   <br/>
 
-Toby Hodges
------------
+`Toby Hodges`_
+--------------
 
-.. image:: /images/generalstaffpic.jpg
+.. image:: /images/thodges.jpg
     :width: 110px
     :align: right
-    :alt: No Image
+    :alt: Toby Hodges
 
 .. class:: no-breaks
 
@@ -712,8 +712,8 @@ Mathuin
 
   <br/>
 
-Travis Whitehead
-----------------
+`Travis Whitehead`_
+-------------------
 
 .. image:: /images/generalstaffpic.jpg
     :width: 110px
