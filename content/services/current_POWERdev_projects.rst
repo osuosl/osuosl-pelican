@@ -16,3 +16,9 @@ academic partners.
    :class: powerdev-tbl
    :file: ./csv/powerdev_academic_partners.csv
    :widths: 20,80
+
+.. _BLCR: http://ftg.lbl.gov/checkpoint
+.. _Gentoo PowerPC Project: https://wiki.gentoo.org/wiki/Project:PowerPC
+.. _OpenQuake: https://github.com/gem/oq-engine
+.. _Snowpatch: https://developer.ibm.com/open/snowpatch/
+.. _Berkeley Lab Checkpoint/Restart: http://ftg.lbl.gov/checkpoint

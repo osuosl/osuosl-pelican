@@ -50,8 +50,3 @@
 "X265 HEVC Encoder","Explores POWER8-specific optimizations for x265 including, but not restricted to, assembly optimizations and thread-related optimizations"
 "VideoLan","Updates the Altivec code in x264 and x265 to VSX and makes sure it works correctly on POWER8le."
 "Zarafa","Supports project specific porting efforts of POWER8 ppc64/ppc64le"
-
-.. _BLCR: http://ftg.lbl.gov/checkpoint
-.. _Gentoo PowerPC Project: https://wiki.gentoo.org/wiki/Project:PowerPC
-.. _OpenQuake: https://github.com/gem/oq-engine
-.. _Snowpatch: https://developer.ibm.com/open/snowpatch/
