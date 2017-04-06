@@ -2,7 +2,7 @@
 "Diffusion magnetic resonance imaging of human brain","Drive diffusion basis spectrum imaging (DBSI) for clinical applications and large scale trials for a diffusion MRI modality which can increase the magnetic resonance imaging specificity for neurodegeneration diseases"
 "Drupal Testbots","Powered the testing and review of code contribution for Drupal 8 (qa.drupal.org)"
 "GCC","Contributed to improving support of various open source projects in the GCC family on POWER machines; began by tackling IBM Linux Technology Center items on bountysource.com"
-"gdb","Worked on adding fast tracepoint support for ppc/ppc64/ppc64le (https://sourceware.org/bugzilla/show_bug.cgi?id=17221)"
+"`gdb`_","Worked on adding fast tracepoint support for ppc/ppc64/ppc64le"
 "The Genome Analysis Toolkit (GATK)","A software package for analysis of high-throughput sequencing data with a primary focus on variant discovery and genotyping as well as strong emphasis on data quality assurance, hosted on POWER architecture to run faster"
 "GLIBC","GNU C Library: GNU project's implementation of the C standard library; supported the development and testing on the POWER platform"
 "GMP","Entailed the compilation of gmp-6.1.0 (from gmplib.org) and measurement of its performance with gmpbench-0.2 on the POWER platform"
@@ -10,6 +10,10 @@
 "MulticoreWare x265","Use GCC PowerPC altivec instructions to optimize the x265 open source HEVC implemenation"
 "MySQL","Involved testing on POWER8, provide fixes to platform specific bugs and make more stable on POWER8"
 "Nokogiri","Provide support on RHEL 7.1 LE & Ubuntu 14.04 on ppc64le arch"
-"Openlibm","Provided hosting to support the development on the POWER platform of a high quality, portable, standalone C mathematical library (libm), used by the Julia project (http://julialang.org)(https://github.com/JuliaLang/openlibm)"
+"`Openlibm`_","Provided hosting to support the development on the POWER platform of a high quality, portable, standalone C mathematical library (libm), used by the `Julia project`_"
 "oVirt","Added support for POWER hosts for a virtual machine manager"
 "Squash","A plugin-based abstraction library for general purpose data compression algorithms which provides a common API for a large number of compression libraries, allowing people to easily test multiple codecs to see which works best, or pass along the choice to their users; it involved development and testing on the POWER platform and adding support for the big-endian architecture"
+
+.. _gdb: https://sourceware.org/bugzilla/show_bug.cgi?id=17221
+.. _Openlibm: https://github.com/JuliaLang/openlibm
+.. _Julia project: http://julialang.org
