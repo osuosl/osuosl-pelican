@@ -16,3 +16,7 @@ partners.
    :class: powerdev-tbl
    :file: ./csv/powerdev_graduated_partners.csv
    :widths: 20,80
+
+.. _gdb: https://sourceware.org/bugzilla/show_bug.cgi?id=17221
+.. _Openlibm: https://github.com/JuliaLang/openlibm
+.. _Julia project: http://julialang.org
