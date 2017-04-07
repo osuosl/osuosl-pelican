@@ -17,6 +17,6 @@ partners.
    :file: ./csv/powerdev_former_partners.csv
    :widths: 20,80
 
-.. _gdb: https://sourceware.org/bugzilla/show_bug.cgi?id=17221
+.. _fast tracepoint support: https://sourceware.org/bugzilla/show_bug.cgi?id=17221
 .. _Openlibm: https://github.com/JuliaLang/openlibm
 .. _Julia project: http://julialang.org

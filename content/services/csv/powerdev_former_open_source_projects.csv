@@ -2,7 +2,7 @@
 "Diffusion magnetic resonance imaging of human brain","Drive diffusion basis spectrum imaging (DBSI) for clinical applications and large scale trials for a diffusion MRI modality which can increase the magnetic resonance imaging specificity for neurodegeneration diseases"
 "Drupal Testbots","Powered the testing and review of code contribution for Drupal 8 (qa.drupal.org)"
 "GCC","Contributed to improving support of various open source projects in the GCC family on POWER machines; began by tackling IBM Linux Technology Center items on bountysource.com"
-"`gdb`_","Worked on adding fast tracepoint support for ppc/ppc64/ppc64le"
+"gdb","Worked on adding `fast tracepoint support`_ for ppc/ppc64/ppc64le"
 "The Genome Analysis Toolkit (GATK)","A software package for analysis of high-throughput sequencing data with a primary focus on variant discovery and genotyping as well as strong emphasis on data quality assurance, hosted on POWER architecture to run faster"
 "GLIBC","GNU C Library: GNU project's implementation of the C standard library; supported the development and testing on the POWER platform"
 "GMP","Entailed the compilation of gmp-6.1.0 (from gmplib.org) and measurement of its performance with gmpbench-0.2 on the POWER platform"
