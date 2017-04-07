@@ -73,6 +73,7 @@ Request Hosting
               <input type="hidden" name="redirect" value="http://www.osuosl.org/request-hosting" />
               <input type="hidden" name="mail_subject_prefix" value="New Hosting Request" />
               <input type="hidden" name="mail_subject_key" value="project_name" />
+              <input type="hidden" name="send_to" value="hosting_request" />
               <!-- /Formsender Settings -->
 
               <div class="form-actions form-wrapper" id="edit-actions">
