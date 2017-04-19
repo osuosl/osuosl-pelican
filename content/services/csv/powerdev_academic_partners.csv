@@ -1,4 +1,4 @@
-"`Berkeley Lab Checkpoint/Restart`_","BLCR is ""Berkeley Lab Checkpoint/Restart"", a kernel-level checkpointer implemented via a loadable kernel module and a userspace library."
+"`BLCR`_","Berkeley Lab Checkpoint/Restart for LINUX is a kernel-level checkpointer implemented via a loadable kernel module and a userspace library. They use the system to compile, test and debug kernel modules against a range of linux kernels."
 "Harvey Mudd College","Observationally Cooperative Multithreading (OCM) provides a ""kinder gentler"" form of concurrency, allowing programmers to imagine that a single thread runs on the machine at any one time. With POWER8 hardware transactional memory, it becomes possible to actually run multiple threads at the same time while *appearing* to be running only one at a time."
 "University of Colorado Denver","Provide support for the Numerical Linear Algebra package in LINPACK on POWER architectures"
 "Harvard","Provide a set of tools that help Linux kernel developers understand Linux-kernel memory-ordering restrictions."

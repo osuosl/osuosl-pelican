@@ -4,10 +4,10 @@ Formerly Hosted Projects
 :title: Formerly Hosted Projects
 :menu: POWERLinux/OpenPOWER Development Hosting, Former Projects, 2
 
-Below are a list of projects formerly hosted on OpenPOWER and former OpenPOWER
-partners.
+Below are a list of projects formerly hosted on the OpenPOWER infrastructure at
+the OSL.
 
-.. csv-table:: Former POWERdev Projects
+.. csv-table:: Former FOSS Projects
    :class: powerdev-tbl
    :file: ./csv/powerdev_former_open_source_projects.csv
    :widths: 20,80

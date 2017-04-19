@@ -7,7 +7,7 @@ Currently Hosted Projects
 Below are a list of currently hosted OpenPOWER projects and our OpenPOWER
 academic partners.
 
-.. csv-table:: POWERdev Projects
+.. csv-table:: FOSS Projects
    :class: powerdev-tbl
    :file: ./csv/powerdev_open_source_projects.csv
    :widths: 20,80
