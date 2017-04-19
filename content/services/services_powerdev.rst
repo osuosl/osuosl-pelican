@@ -41,6 +41,7 @@ back to you shortly.
 .. _request form: /services/powerdev/request_hosting
 
 `Current Projects`_
+
 `Former Projects`_
 
 .. _Current Projects: /services/powerdev/current-projects
