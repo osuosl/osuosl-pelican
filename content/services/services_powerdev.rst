@@ -39,3 +39,9 @@ To request access to a POWER server, use our `request form`_ and we will get
 back to you shortly.
 
 .. _request form: /services/powerdev/request_hosting
+
+`Current Projects`_
+`Former Projects`_
+
+.. _Current Projects: /services/powerdev/current-projects
+.. _Former Projects: /services/powerdev/former-projects
