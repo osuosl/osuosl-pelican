@@ -23,17 +23,19 @@ via production and development (Fedora, OpenSUSE, and Debian) distributions.
 Members of the community can use these POWER servers to develop and test open
 source projects on the `Power Architecture`_ platform and in a `PowerLinux`_
 environment. These shared systems are intended for functional development and
-testing work, but are not ideal for performance testing.
+testing work, but are not ideal for performance testing. Developers looking for
+assistance can go to the `Linux on IBM Power Systems Developer`_ portal or IBM
+Portal for OpenPOWER.
 
 .. _Power Architecture: http://en.wikipedia.org/wiki/Power_Architecture
 .. _PowerLinux: http://en.wikipedia.org/wiki/PowerLinux
+.. _Linux on IBM Power Systems Developer: https://developer.ibm.com/linuxonpower/
 
-
-We offer either POWER7+ big endian instances using LPARs or POWER8 big or little
-endian instances running on KVM and providing access via OpenStack's API and GUI
-interface. The POWER8 instances offer much more flexibility, giving the ability
-to spin up or down instances on demand. We start projects out with a small
-quota, but can increase given resource availability and justification.
+We offer POWER8 big or little endian instances running on KVM and providing
+access via OpenStack's API and GUI interface. The POWER8 instances offer much
+more flexibility, giving the ability to spin up or down instances on demand. We
+start projects out with a small quota, but can increase given resource
+availability and justification.
 
 To request access to a POWER server, use our `request form`_ and we will get
 back to you shortly.
