@@ -43,9 +43,15 @@ back to you shortly.
 
 .. _request form: /services/powerdev/request_hosting
 
-`Current Projects`_
+* `Current Projects & Academic Partners`_
 
-`Former Projects`_
+   List of currently hosted OpenPOWER FOSS projects and our OpenPOWER academic
+   partners.
 
-.. _Current Projects: /services/powerdev/current-projects
-.. _Former Projects: /services/powerdev/former-projects
+* `Former Projects & Academic Partners`_
+
+   List of FOSS projects formerly hosted on OpenPOWER infrastructure at the OSL and
+   our former academic partners.
+
+.. _Current Projects & Academic Partners: /services/powerdev/current-projects
+.. _Former Projects & Academic Partners: /services/powerdev/former-projects
