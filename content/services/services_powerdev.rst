@@ -24,12 +24,13 @@ Members of the community can use these POWER servers to develop and test open
 source projects on the `Power Architecture`_ platform and in a `PowerLinux`_
 environment. These shared systems are intended for functional development and
 testing work, but are not ideal for performance testing. Developers looking for
-assistance can go to the `Linux on IBM Power Systems Developer`_ portal or IBM
-Portal for OpenPOWER.
+assistance can go to the `Linux on IBM Power Systems Developer`_ portal or `IBM
+Portal for OpenPOWER`_.
 
 .. _Power Architecture: http://en.wikipedia.org/wiki/Power_Architecture
 .. _PowerLinux: http://en.wikipedia.org/wiki/PowerLinux
 .. _Linux on IBM Power Systems Developer: https://developer.ibm.com/linuxonpower/
+.. _IBM Portal for OpenPOWER: https://www-355.ibm.com/systems/power/openpower/
 
 We offer POWER8 big or little endian instances running on KVM and providing
 access via OpenStack's API and GUI interface. The POWER8 instances offer much
