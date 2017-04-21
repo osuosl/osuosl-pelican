@@ -128,9 +128,9 @@ PowerLinux / OpenPOWER Request Form
             <div class="description">Is there anything additional you would like to provide for your request?</div>
           </div>
 
-          <p>You should receive an automated email from our request ticketing system within 5-10 minutes to the email
-          address you have provided.  If you don't receive this email please reach out to us at support@osuosl.org or
-          via IRC in #osuosl on Freenode.</p>
+          <p><i>You should receive an automated email from our request ticketing system within 5-10 minutes to the email
+          address you have provided.  If you don't receive this email please reach out to us at <a href="mailto:support@osuosl.org">support@osuosl.org</a> or
+          via IRC in <b>#osuosl</b> on Freenode.</i></p>
 
           <!-- Formsender Settings -->
           <input type="hidden" name="last_name" value="" />
