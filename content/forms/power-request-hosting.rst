@@ -2,7 +2,7 @@ PowerLinux / OpenPOWER Request Form
 ===================================
 :slug: services/powerdev/request_hosting
 :title: PowerLinux / OpenPOWER Request Form
-:menu: Development Hosting, PowerLinux / OpenPOWER Request Form, 1
+:menu: POWERLinux/OpenPOWER Development Hosting, PowerLinux/OpenPOWER Request Form, 3
 
 .. raw:: html
 
