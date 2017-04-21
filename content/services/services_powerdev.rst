@@ -17,7 +17,7 @@ via production and development (Fedora, OpenSUSE, and Debian) distributions.
 .. _OpenPOWER Foundation: http://openpowerfoundation.org
 .. _Mellanox: https://www.mellanox.com
 .. _Ubuntu: http://www.ubuntu.com
-.. _Google: https://www.google.com
+.. _Google: https://opensource.google.com/
 .. _Chef: https://www.chef.io/chef/
 
 Members of the community can use these POWER servers to develop and test open
