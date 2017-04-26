@@ -4,7 +4,6 @@ People
 :slug: about/people
 :menu: About, Staff, 4
 
-
 `Lance Albertson`_
 ------------------
 
