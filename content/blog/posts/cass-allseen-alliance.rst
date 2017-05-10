@@ -4,7 +4,6 @@ CASS and the AllSeen Alliance
 :author: Amanda Kelner
 :slug: cass-allseen-alliance
 :img: AllSeen-Alliance-Picture.png
-:tag: featured-stories
 
 Oregon State University has joined the world’s technology leaders — including
 LG, Microsoft, and Qualcomm — to advance the collaborative development of the
