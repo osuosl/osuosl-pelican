@@ -18,17 +18,24 @@ there, an unconference is an event in which the attendees decide the topics of
 presentation and discussion the day of, rather than determining these topics
 ahead of time. This year, we tried a few new things.
 
+.. image:: /images/BBC17_img_2.jpg
+    :scale: 100%
+    :align: right
+    :alt: Beaver BarCamp 17 Main Lobby
+
 Beaver BarCamp is usually more computer science oriented. This year, we wanted
 to expand our horizons. Coordinating with major colleges across the OSU campus
 along with `The CO`_ and `SPARK`_, we promoted the event to a wider audience and
 our pool of attendees this year included ecological science, food science, human
 communications, and other branches of engineering. Registrations were up nearly
 30% this year and we’ve been excited about the general reception of this year’s
-event. Many event goers said the sessions were engaging and informative and one
-person said, “I liked that the diversity of topics didn’t compromise on the
-highly technical stuff.” Even the first time attendees meshed with the natural
-flow of the event and sessions included diverse subjects such as chemistry and
-radio history. One first-time BarCamp attendee said, “Though I had no experience
+event.
+
+“I liked that the diversity of topics didn’t compromise on the
+highly technical stuff,” said one attendee studying DevOps. Even the first time
+attendees meshed with the natural flow of the event and sessions included
+diverse subjects such as chemistry and radio history. One first-time BarCamp
+attendee who works in human communications said, “Though I had no experience
 with the content of the session I attended, the speaker and participants made it
 easy for me to understand.” Given the success of this year and Beaver BarCamp’s
 naturally inclusive environment for all topics, experience levels, and
@@ -44,15 +51,20 @@ unconference and from Beaver BarCamp. Attendees were excited about this new
 offer because it they could reach a broader audience and circulate their ideas
 beyond this one-day event.
 
-Many attendees have already inquired about how they can stay informed of future
-events. And the answer is, there are a couple of ways to do that.
+.. image:: /images/BBC17_img_3.jpg
+    :scale: 100%
+    :align: center
+    :alt: Caleb Boylan presenting on Ceph
 
-Beaver BarCamp has it’s own `Facebook`_ and `Twitter`_ pages that you can
-follow, as well as a new OSL Instagram account @osuosl. Also, once you register
-for one event, we are able to contact you for future events and send out
-reminder emails as BarCamp draws closer. We also have expanded our advertising
-platforms over the last year and if you keep your eyes peeled, you might just
-spot a Beaver BarCamp ad in a place you might not expect.
+Interested in joining us next year? There are lots of ways to stay informed,
+including:
+
+* `Facebook`_
+* `Twitter`_
+* Instagram: @osuosl.
+
+Also, we send out reminder emails to past attendees so you can always stay
+connected to Beaver BarCamp.
 
 We’re very excited about this year’s success and what it means for future
 BarCamps. We hope next year will be even more diverse and include an even
