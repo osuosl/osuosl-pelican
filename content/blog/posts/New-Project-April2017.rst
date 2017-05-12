@@ -3,7 +3,7 @@ New Project: libpng Now Mirrored on ftp.osuosl.org
 :date: 2017-04-28
 :slug: new-project-libpng
 :author: Amanda Kelner
-:img: OSL-Project-Announcement-Picture.png
+:img: NewProjectAdjustedImage.png
 :tag: featured-stories
 
 The OSL took on a new project and delivers a new `mirroring site libpng source`_
