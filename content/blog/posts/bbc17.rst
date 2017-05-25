@@ -61,7 +61,7 @@ including:
 
 * `Facebook`_
 * `Twitter`_
-* Instagram: @osuosl.
+* `Instagram`_: @osuosl.
 
 Also, we send out reminder emails to past attendees so you can always stay
 connected to Beaver BarCamp.
@@ -82,3 +82,4 @@ the most out of BarCamp.
 .. _Facebook: https://www.facebook.com/beaverbarcamp/
 .. _Twitter: https://twitter.com/BeaverBarCamp
 .. _feedback survey: https://docs.google.com/forms/d/e/1FAIpQLSfY9BvXSNlniy0DJle3Dr3xQ54gpCaGSW_Xk-mjWxXTGusqng/viewform?usp=sf_link
+.. _Instagram: https://www.instagram.com/osuosl/ 
