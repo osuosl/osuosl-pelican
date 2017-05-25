@@ -4,10 +4,10 @@ Hosted Communities
 :title: Hosted Projects
 :menu: Hosting, Hosted Projects, 1
 
-We tailor fit our hosting to the needs of each project and try our best to help improve their community experience.
-Some projects we provide hosting for only reside on our mirroring infrastructure, while others encompass entire racks
-of server equipment. Below is a list of the current projects we provide hosting for. Some of these projects may have
-hundreds of sub-projects (such as the Apache Software Foundation) that we don't list here.
+We tailor fit our hosting to the needs of each project and try our best to help improve our partners' community
+experience.  Some projects we provide hosting for only reside on our mirroring infrastructure, while others encompass
+entire racks of server equipment. Below is a list of the current projects for which we provide hosting. Some of these
+projects may have hundreds of sub-projects (such as the Apache Software Foundation) that we don't list here.
 
 Service Descriptions:
 
