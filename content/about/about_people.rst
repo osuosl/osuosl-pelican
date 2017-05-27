@@ -101,13 +101,26 @@ pwnguin
 
   **Student Systems Engineer**
 
+Mohamed joined the OSL in March 2017 and is studying Electrical and Computer
+Engineering. He is is excited to develop his knowledge about open source
+software during his time at the OSL. He is also interested in operating systems
+and contributing to the Linux Kernel. In his spare time, Mohamed likes to play
+soccer, video games, and read.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/eldebrim
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+eldebrim
+
 .. raw:: html
 
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
   <br/>
 
 `Taylor Fahlman`_
@@ -231,13 +244,16 @@ samarendra
 
   **Student Systems Engineer**
 
+Toby joined the OSL in March 2017 and is studying computer science and
+mechanical engineering. Though much of his experience before being hired was in
+development, Toby was excited about the opportunity to gain real-world work
+experience and learn new skills along the way. He enjoys creating, whether it be
+computer programs or other platforms, and one day hopes to work for Autodesk,
+Google, or Adobe. In his spare time, he enjoys playing soccer and relaxing in
+his hammock.
+
 .. raw:: html
 
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
   <br/>
 
 `Cody Holliday`_
@@ -547,6 +563,40 @@ patcht
 
   <br/>
 
+`Jerry Peng`_
+-------------
+
+.. image:: /images/jpeng.png
+  :width: 110px
+  :align: right
+  :alt: Jerry Peng
+
+.. class:: no-breaks
+
+  **Student Developer**
+
+Jerry joined the OSL in April 2017 and is majoring in computer science with a
+systems option. He is interested in web development and when he heard from a
+friend the OSL was hiring, he quickly applied. After graduation he is looking to
+continue working in software development. In his spare time, he likes playing
+video games, photography, and playing sports and his first language is Chinese.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/jerrypeng0112
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+jerrypeng
+
+.. raw:: html
+
+  <br/>
+
 `Hannah Solorzano`_
 -------------------
 
@@ -715,11 +765,30 @@ Mathuin
 `Travis Whitehead`_
 -------------------
 
-.. image:: /images/generalstaffpic.jpg
+.. image:: /images/twhitehead.jpg
     :width: 110px
     :align: right
-    :alt: No Image
+    :alt: Travis Whitehead
 
 .. class:: no-breaks
 
   **Student Systems Engineer**
+
+Travis joined the OSL in March 2017 and is studying applied computer science
+with a security option. He first heard of the OSL through a friend that worked
+at CASS and immediately became interested in its investment in open-source
+technology. He is particularly interested in web development but is excited to
+learn as much as he can from this position. In his spare time, he enjoys
+relaxing and programming and is an identical twin.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/TravisWhitehead
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+whitehet
