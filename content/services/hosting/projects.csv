@@ -1,0 +1,115 @@
+Amahi,vm
+Apache Software Foundation,"co-location, mirroring"
+Apereo,vm
+AppArmor,webapp
+Arch Linux,mirroring
+Bro,vm
+Buildbot,co-location
+Buildroot,mailing-list
+BusyBox,"vm, mailing-list"
+Cacti,co-location
+CentOS Linux,"webapp, mirroring"
+CiviCRM,"co-location, vm"
+CPAN,mirroring
+Cppcheck,vm
+CRAN,mirroring
+crosstool-NG,vm
+Cygwin,mirroring
+Darcs,"vm, mailing-list"
+Debian Linux,"co-location, mirroring"
+Deluge,"vm, mirroring"
+Drupal,"co-location, vm, mirroring"
+Eclipse Communication Framework ,"co-location, vm"
+Eclipse,mirroring
+Elgg,vm
+eLinux,"webapp, mailing-list"
+ELRepo,mirroring
+Enlightenment,co-location
+Fedora Linux,"co-location, mirroring"
+Finnix,mirroring
+FOSDEM,mirroring
+FOSS Translation,vm
+Freedroid,"vm, mirroring"
+Funtoo Linux,mirroring
+GCC Compile Farm Project,co-location
+Gentoo Linux,"co-location, vm, mirroring"
+Gnome,"co-location, vm, mirroring"
+Grml,mirroring
+GSB (Gnome.SlackBuild),mirroring
+Hackage,mirroring
+Haiku,mirroring
+Harmony Agreements,"webapp, mailing-list"
+HHVM,mirroring
+Inkscape,"vm, mailing-list"
+Jaws,"vm, mailing-list"
+Jenkins,"co-location, vm, mailing-list, mirroring"
+K-3D,vm
+KDE,"vm, mirroring"
+LFS (Linux From Scratch),mirroring
+libpng,mirroring
+linhes,vm
+LinuxChix,"co-location, vm"
+Linux Driver Project,"webapp, mailing-list"
+Linux Foundation,co-location
+Linux Fund,vm
+Linux Plumbers Conference,"vm, mailing-list"
+Lubuntu,"webapp, mirroring"
+LuneOS,mailing-list
+Mageia,vm
+Majaro Linux,mirroring
+Mandriva Users,vm
+Manulix,mirroring
+MariaDB,mirroring
+Midnight Commander,"vm, mirroring"
+Monkey Server,vm
+Mozdev,"co-location, vm, mirroring"
+Mozillazine,co-location
+Mulgara,"vm, mailing-list"
+Musescore,mirroring
+Musicbrainz,"vm, mirroring"
+Mutt,mirroring
+Mycroft Project,webapp
+MythTV,"co-location, vm, mirroring"
+Mythubuntu,mirroring
+NAS-Admin,"co-location, mirroring"
+NTF,vm
+NTPSEC,vm
+OFTC,vm
+Open Advice,webapp
+opencert,co-location
+open-fcoe,"vm, mailing-list, mirroring"
+Open Hatch,vm
+OpenID,"co-location, webapp, mailing-list"
+open-lldp,"vm, mailing-list"
+OpenMRS,"vm, webapp, mirroring"
+OpenStreetMap,"co-location, vm, mirroring"
+OSDV,vm
+OSGeo,"co-location, vm"
+PA-RISC,"co-location, vm"
+Parrot,"vm, mailing-list, mirroring"
+phpBB,"co-location, vm, mirroring"
+Plone,"co-location, mailing-list"
+Privly,webapp
+Python Software Foundation,"co-location, vm, webapp"
+QEMU,vm
+Rainmeter,vm
+Replicant,"webapp, mailing-list, mirroring"
+Robot Operating System,"vm, mailing-list, mirroring"
+RPM,"mailing-list, mirroring"
+RTEMS,co-location
+Sahana Foundation,"vm, webapp, mirroring"
+Salix Linux,mirroring
+Slackware,"vm, mirroring"
+Teaching Open Source,"vm, webapp, mirroring"
+The Documentation Foundation,mirroring
+Trinity Rescue Kit,mirroring
+Trisquel Linux,mirroring
+Ubuntu,mirroring
+uClibc,mailing-list
+Vector Linux,mirroring
+VideoLAN,mirroring
+WebDAV,vm
+XBMC,mirroring
+Xiph,"co-location, mirroring"
+Yocto,co-location
+Yum,"vm, mirroring"
