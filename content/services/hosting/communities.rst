@@ -20,3 +20,4 @@ Service Descriptions:
 .. csv-table::
   :header: Project, Service(s)
   :file: projects.csv
+  :widths: 30, 70
