@@ -44,7 +44,7 @@ Expo Hall
 
 Come visit us at Booth 218 in Expo Hall D. We'll be demoing our home grown open
 source project, `Ganeti Web Manager`_, and giving the community updates about
-our `Supercell testing cluster`_. Better still, we have awesome new OSL swag to
+our Supercell testing cluster. Better still, we have awesome new OSL swag to
 hand out. But wait, there's more - our stellar student employees will be on hand
 to talk about their roles at the OSL, the projects they're working on and how
 the OSL has better prepared them for their future careers in industry. Make sure
@@ -78,6 +78,5 @@ in the hallway track!
 .. _Ganeti Web Manager\: Cluster Management Made Simple: http://www.oscon.com/oscon2011/public/schedule/detail/18464
 .. _registered: https://en.oreilly.com/oscon2011/public/register
 .. _Ganeti Web Manager: http://code.osuosl.org/projects/ganeti-webmgr
-.. _Supercell testing cluster: http://supercell.osuosl.org/
 .. _Puppet Labs: http://www.puppetlabs.com/
 .. _on the OSCON site: http://www.oscon.com/oscon2011/public/schedule/detail/20865

@@ -45,25 +45,6 @@ services`_.
 .. _Read more about our development services: /services/development/
 
 
-`Supercell`_
-------------
-
-.. _Supercell: /services/supercell
-
-
-Supercell is an on-demand virtualization and continuous integration resource
-from the OSL. We have created this cluster for use by open source projects that
-need to run software tests regularly but may not have access to the appropriate
-hardware or the funds to pay for outsourcing this service. Supercell allows
-projects to do manual testing to verify that a submitted patch has actually
-fixed the intended bug or to determine that their software package runs
-correctly on a particular operating system or distribution. The service also
-allows projects to test their software in a large cluster using several VMs
-concurrently. `Read more about our Supercell testing hosting services`_.
-
-.. _Read more about our Supercell testing hosting services: /services/supercell/
-
-
 `PowerLinux Development Hosting`_
 ---------------------------------
 
