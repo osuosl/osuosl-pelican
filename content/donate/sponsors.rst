@@ -34,7 +34,7 @@ hardware resources and through financial contributions.
 
 IBM has long been an advocate, sponsor and contributor to the Linux developer
 community and Open Technology development. Continuing this tradition of support,
-IBM has contributed a number of POWER7 servers to the OSL for the purpose of
+IBM has contributed a number of POWER servers to the OSL for the purpose of
 Linux and open source project development by the community on the Power
 Architecture. Please see our `development hosting`_ page for more information
 and SSH-based remote access to Linux on POWER servers.

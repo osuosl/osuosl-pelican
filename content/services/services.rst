@@ -51,13 +51,12 @@ services`_.
 .. _PowerLinux Development Hosting: /services/powerdev
 
 
-The OSL partners with `IBM`_ to host `POWER7`_-based servers, making partitions
-available to the open source community. Community members can use these POWER7
-servers to develop and test open source projects on the Power architecture
-platform and in a PowerLinux environment. These systems are intended for
-functional development and testing work, but are not to be used for performance
-testing. `Read more about our PowerLinux development hosting services`_
+The OSL partners with `IBM`_ to host `POWER`_-based servers, making partitions and POWER-based KVM guests available to
+the open source community. Community members can use these POWER servers to develop and test open source projects on
+the Power architecture platform and in a PowerLinux environment. These systems are intended for functional development
+and testing work, but are not to be used for performance testing. `Read more about our PowerLinux development hosting
+services`_
 
 .. _IBM: http://www-03.ibm.com/linux/ltc/
-.. _POWER7: https://en.wikipedia.org/wiki/POWER7
+.. _POWER: https://en.wikipedia.org/wiki/PowerLinux
 .. _Read more about our PowerLinux development hosting services: /services/powerdev/
