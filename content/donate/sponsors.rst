@@ -5,9 +5,9 @@ Sponsors
 :menu: Donate, Sponsors, 2
 
 Below are groups who support the Open Source Lab through annual contributions of
-*$25,000* or more.
+*$25,000* or more during fiscal year 2017.
 
-.. image:: /images/Google.gif
+.. image:: /images/Google_2015_logo.svg
     :scale: 100%
     :alt: Google Logo
     :target: http://www.google.com/
@@ -50,23 +50,11 @@ TDS Telecom is a major telephone and Internet services provider. TDS Telecom has
 made a large donation of bandwidth to the Open Source Lab, helping millions of
 people review or download free software every day.
 
-For a five-year period, the OSL will receive 2 gigabits of bandwidth. In
+For a five-year period, the OSL will receive 40 gigabits of bandwidth. In
 addition, OSU servers will be hosted in a TDS data center. The bandwidth
 provided gives the OSL the ability to host FTP servers in both New York, N.Y.,
 and Chicago, Ill., where files for many open source projects are mirrored for
 download from the main FTP server hosted in Corvallis, Ore.
-
-
-.. image:: /images/intel_logo_sponsors.jpeg
-    :scale: 100%
-    :alt: Intel Logo
-    :target: http://www.intel.com/content/www/us/en/homepage.html
-
-Intel is a major silicon chip manufacturer and the inventor of the famous x86
-CPU processor. Intel sponsors the OSL through financial grants. This funding
-helps the OSL provide a more diverse student workforce and strengthens our
-student mentoring and learning.
-
 
 .. image:: /images/dell_emc_logo_sponsors.png
     :scale: 100%
