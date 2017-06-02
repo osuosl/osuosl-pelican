@@ -32,41 +32,24 @@ communication.
 Mailing Addresses
 ~~~~~~~~~~~~~~~~~
 
-**Shipping Address (for servers, parts, etc)**
+**Shipping Address (for small parts and snail mail)**
 
-.. class:: no-breaks
+| ATTN: Lance Albertson
+| OSU Open Source Lab
+| 224 Milne Computer Center
+| 1800 SW Campus Way
+| Corvallis, OR 97331
+|
 
-  ATTN Lance Albertson
+**Shipping Address (for large servers)**
 
-.. class:: no-breaks
+*Please consult with us prior to sending anything to this address*
 
-  OSU Open Source Lab
-
-.. class:: no-breaks
-
-  100 Cascade Hall
-
-601 SW 17th ST
-
-Corvallis OR 97331
-
-**All other correspondence please mail to**
-
-.. class:: no-breaks
-
-  ATTN Lance Albertson
-
-.. class:: no-breaks
-
-  OSU Open Source Lab
-
-.. class:: no-breaks
-
-  224 Milne Computer Center
-
-1800 SW Campus Way
-
-Corvallis OR 97331
+| ATTN: Lance Albertson
+| OSU Open Source Lab
+| 100 Cascade Hall
+| 601 SW 17th ST
+| Corvallis, OR 97331
 
 
 Phone
