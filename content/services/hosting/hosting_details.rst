@@ -1,7 +1,7 @@
-Hosting Detail
-==============
+Hosting Details
+===============
 :slug: services/hosting/details
-:title: Hosting Detail
+:title: Hosting Details
 :menu: Hosting, Hosting Details, 2
 
 We offer a wide variety of services to our hosted clients so the OSL can help
@@ -22,7 +22,7 @@ Ganeti
 
 We offer virtual machines utilizing an open source stack consisting of `Ganeti`_ and the `KVM hypervisor`_. We have a
 cluster for small projects and offer VMs at a variety of sizes and platforms, all with full redundant storage. Ganeti
-is am Infrastructure as a Service (`IaaS`_) platform that we primarily use for long running VMs that need minimal
+is an Infrastructure as a Service (`IaaS`_) platform that we primarily use for long running VMs that need minimal
 changes. We provide minimal admin access to the VMs to project owners.
 
 .. _Ganeti: http://www.ganeti.org/
@@ -47,7 +47,7 @@ FTP Mirroring
 We have a cluster of three servers behind the `ftp.osuosl.org`_ name with a total bandwidth capacity of more than 50
 gigabits per second. These servers are hosted geographically across the United States. Instead of pushing files and
 releases out from your own server, let us take care of the dirty work for you. We currently host approximately 100
-projects on our mirroring servers using around 8TB of disk space. We do our best to host as many projects as we can
+projects on our mirroring servers using around 8TB of disk space. We do our best to host as many projects as we can,
 however space is limited.
 
 .. _ftp.osuosl.org: http://ftp.osuosl.org/
