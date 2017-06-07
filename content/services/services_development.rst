@@ -54,12 +54,19 @@ written in Flask (`timesync-frontend-flask`_), a backend written in NodeJS
 .. _timesync-node: https://github.com/osuosl/timesync-node
 .. _climesync: https://github.com/osuosl/climesync
 
-`Streamwebs`_
+`StreamWebs`_
 ~~~~~~~~~~~~~
 
-TODO
+The `StreamWebs Student Stewardship Network`_ is an educational platform that
+provides teachers and students with resources to conduct based hands-on
+watershed stewardship projects. The StreamWebs program works to promote the
+teaching and learning of field based science, enhance environmental literacy,
+and provide resources that support Meaningful Watershed Education Experiences
+(MWEEs). The `StreamWebs`_ application is a comprehensive Django based web
+application that allows students to record, view and analyze watershed data.
 
-.. _Streamwebs: https://github.com/osuosl/streamwebs
+.. _StreamWebs: https://github.com/osuosl/streamwebs
+.. _StreamWebs Student Stewardship Network: http://streamwebs.org/
 
 `formsender`_
 ~~~~~~~~~~~~~
