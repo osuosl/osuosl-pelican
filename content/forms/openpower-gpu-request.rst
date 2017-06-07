@@ -85,17 +85,16 @@ PowerLinux / OpenPOWER Request Form
           </div>
 
           <p><i>You should receive an automated email from our request ticketing system to the email address you have provided
-          within 5-10 minutes.  If you don't receive this email please reach out to us at <a href="mailto:powerdev-request@osuosl.org">powerdev-request@osuosl.org</a> or
+          within 5-10 minutes.  If you don't receive this email please reach out to us at <a href="mailto:openpower-gpu-support@osuosl.org">openpower-gpu-support@osuosl.org</a> or
           via IRC in <b>#osuosl</b> on Freenode.</i></p>
 
           <!-- Formsender Settings -->
           <input type="hidden" name="last_name" value="" />
           <input type="hidden" name="token" value="15674hsda//*q23%^13jnxccv3ds54sa4g4sa532323!OoRdsfISDIdks38*(dsfjk)aS" />
-          <!-- The following must be set to http://www.osuosl.org/services/powerdev/request_hosting in production -->
+          <!-- The following must be set to http://www.osuosl.org/services/powerdev/request_gpu in production -->
           <input type="hidden" name="redirect" value="http://www.osuosl.org/services/powerdev/request_gpu" />
           <input type="hidden" name="mail_subject_prefix" value="New OpenPOWER GPU Request" />
           <input type="hidden" name="mail_subject_key" value="project_name" />
-          <input type="hidden" name="send_to" value="powerdev" />
           <!-- /Formsender Settings -->
 
           <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Submit" class="form-submit" /></div>
