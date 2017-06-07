@@ -3,19 +3,27 @@ CS312 System Administration Course
 :slug: students/cs312
 :menu: Education, CS312, 4
 
-This course was originally created by Lance Albertson and Jeff Sheltren in 2009 who both worked at the `Oregon State
-University Open Source Lab`_. Lance is currently the Director, and Jeff was the Operations Manager at the time. Both
-Lance and Jeff have backgrounds in computer science and system administration. The course was revived in 2015 and 2016
-by Lance Albertson and Jordan Evans with more focus on newer technologies and methodologies.
+This course was originally created by `Lance Albertson`_ and `Jeff Sheltren`_ in 2009 who both worked at the Oregon
+State University Open Source Lab. Lance is currently the Director, and Jeff was the Operations Manager at the time.
+Both Lance and Jeff have backgrounds in computer science and system administration. The course was revived in 2015 and
+2016 by Lance Albertson and `Jordan Evans`_ with more focus on newer technologies and methodologies.
+
+.. _Lance Albertson: https://www.linkedin.com/in/ramereth/
+.. _Jeff Sheltren: https://www.linkedin.com/in/jeffsheltren/
+.. _Jordan Evans: https://github.com/jordane
 
 What is this Course?
 --------------------
 
-This is `CS312 - Linux System Administration`_, offered at `Oregon State University`_. The current plan is to offer
-this course once per year when OSL staff has time. Students in the course are expected to have at least a basic
-knowledge of UNIX/Linux operating systems. OSU students need to complete CS311 (Operating Systems) before they can
-enroll in this course. Exceptions can be made for students who can prove a strong knowledge of Linux. You can find the
-current course page at http://cs312.osuosl.org.
+This is `CS312 - Linux System Administration`_, offered at Oregon State University. The current plan is to offer this
+course once per year when OSL staff has time. Students in the course are expected to have at least a basic knowledge of
+UNIX/Linux operating systems. OSU students need to complete CS311 (Operating Systems) before they can enroll in this
+course. Exceptions can be made for students who can prove a strong knowledge of Linux. For more information, please
+consult the `course catalog`_ and `course website`_.
+
+.. _CS312 - Linux System Administration: http://cs312.osuosl.org
+.. _course catalog: http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=CS&coursenumber=312
+.. _course website: http://cs312.osuosl.org
 
 Can I Re-Use/Re-Distribute Course Content?
 ------------------------------------------
@@ -24,6 +32,8 @@ Absolutely! We hope that other people will find this course content useful, and 
 `Creative Commons Attribution-Noncommercial-Share Alike License`_. Certain resources used are licensed under different
 licenses, please check the LICENSES file and/or the individual documents for details. If you do re-use all or parts of
 the course materials, we would love to hear about it - please email cs312@osuosl.org to let us know.
+
+.. _Creative Commons Attribution-Noncommercial-Share Alike License: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
 
 Why Use a Non-free Book?
 ------------------------
@@ -44,11 +54,6 @@ You are free to download the course materials here:
 - `CS312 Ansible Homework Repo (2016)`_
 - `CS312 Chef Cookbook Homework Repo (2015)`_
 
-.. _Oregon State University Open Source Lab: /
-.. _CS312 - Linux System Administration: http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=CS&coursenumber=312
-.. _Oregon State University: http://oregonstate.edu/
-.. _Creative Commons Attribution-Noncommercial-Share Alike License: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
-.. _Ops School Project: https://github.com/opsschool/curriculum
 .. _CS312 Course Download (2009) (tar.gz format): http://osuosl.org/sites/default/files/cs312_linux_sysadmin_files.tar.gz
 .. _CS312 Course Github Repo: https://github.com/osuosl/cs312
 .. _CS312 Ansible Homework Repo (2016): https://github.com/osuosl/cs312-hw-ansible
