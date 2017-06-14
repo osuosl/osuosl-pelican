@@ -89,13 +89,34 @@ pwnguin
 
   <br/>
 
-`Mohamed Eldebri`_
-------------------
+`Devon Cash`_
+-------------
 
 .. image:: /images/generalstaffpic.jpg
     :width: 110px
     :align: right
     :alt: No Image
+
+.. class:: no-breaks
+
+  **Student Developer**
+
+.. raw:: html
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
+`Mohamed Eldebri`_
+------------------
+
+.. image:: /images/meldebri.jpg
+    :width: 110px
+    :align: right
+    :alt: Mohamed Eldebri
 
 .. class:: no-breaks
 
@@ -118,40 +139,6 @@ https://github.com/eldebrim
   **Nick on irc.freenode.net**
 
 eldebrim
-
-.. raw:: html
-
-  <br/>
-
-`Taylor Fahlman`_
-------------------
-
-.. image:: /images/tfahlman.jpg
-    :width: 110px
-    :align: right
-    :alt: Taylor Fahlman
-
-.. class:: no-breaks
-
-  **Community Systems Administrator**
-
-Taylor, a computer science and vocal performance major, is a student community
-systems administrator at the OSL. In his spare time, Taylor likes to sing,
-program and strives to brew the perfect cup of coffee. Taylor is a member of
-the Kendama club on campus, and in the future he hopes to spread open source
-software and education to people around the world.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/fahlmant
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-recyclops
 
 .. raw:: html
 
@@ -323,39 +310,6 @@ kelnera
 
   <br/>
 
-`Annie Lei`_
-------------
-
-.. image:: /images/alei.jpg
-    :width: 110px
-    :align: right
-    :alt: Annie Lei
-
-.. class:: no-breaks
-
-  **Student Developer**
-
-Annie joined the OSL in March of 2016 after participating in Devops Bootcamp. The
-possibilities that come from the collaborative nature of the OSL is what
-excited her the most about working here. Outside of the OSL, she enjoys hanging
-out with friends and eating cheesecake.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/leian
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-leian
-
-.. raw:: html
-
-  <br/>
-
 `Lee Leighton`_
 ---------------
 
@@ -429,140 +383,6 @@ kennric
 
   <br/>
 
-`Cody Malick`_
---------------
-
-.. image:: /images/cmalick.jpg
-    :width: 110px
-    :align: right
-    :alt: Cody Malick
-
-.. class:: no-breaks
-
-  **Systems Engineer**
-
-Cody has been working for the OSL since May 2014 and is majoring in Computer
-Science. He applied to get experience in the industry and enjoys applying new
-technologies to contemporary issues. He eventually would like to work on
-applying machine learning and artificial intelligence to security software
-solutions.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/codymalick
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-malickc
-
-.. raw:: html
-
-  <br/>
-
-`Spencer Moss`_
----------------
-
-.. image:: /images/smoss.jpg
-    :width: 110px
-    :align: right
-    :alt: Spencer Moss
-
-.. class:: no-breaks
-
-  **Community System Administrator**
-
-Spencer Moss has been working with the OSL since November 2015 and is majoring
-in Electrical and Computer Engineering. He became interested in working with the
-OSL in high school, where he studied in and maintained the computer science
-program. Spencer can also type 100 words per minute using less than four
-fingers.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/irandms
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-irandms
-
-.. raw:: html
-
-  <br/>
-
-`Alex Nguyen`_
---------------
-
-.. image:: /images/anguyen.jpg
-    :width: 110px
-    :align: right
-    :alt: Alex Nguyen
-
-.. class:: no-breaks
-
-  **Student Developer**
-
-Alex joined the OSL staff in March 2016 and is earning a degree in Computer
-Science. Working at the OSL has given him a chance to turn his hobby into a
-paying job. Alex is trained in American and English cuisine and in his spare
-time, he likes to exercise, cook, and program for fun.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/alxngyn
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-alxngyn
-
-.. raw:: html
-
-  <br/>
-
-`Morgan Patch`_
----------------
-
-.. image:: /images/tpatch.jpg
-    :width: 110px
-    :align: right
-    :alt: Morgan Patch
-
-.. class:: no-breaks
-
-  **Developer**
-
-Morgan, an aspiring NASA programmer or game developer started at the OSL in
-June 2015. She is a computer science major and is involved with the Linux Users
-Group as well as the Gaming Club. In her spare time she plays games, browses
-the internet, and programs personal projects.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/LyonesGamer
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-patcht
-
-.. raw:: html
-
-  <br/>
-
 `Jerry Peng`_
 -------------
 
@@ -597,6 +417,27 @@ jerrypeng
 
   <br/>
 
+`Bailey Singleton`_
+-------------------
+
+.. image:: /images/generalstaffpic.jpg
+    :width: 110px
+    :align: right
+    :alt: No Image
+
+.. class:: no-breaks
+
+  **Student Developer**
+
+.. raw:: html
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
 `Hannah Solorzano`_
 -------------------
 
@@ -625,104 +466,6 @@ https://github.com/hsolorzano
   **Nick on irc.freenode.net**
 
 hsolorzano
-
-.. raw:: html
-
-  <br/>
-
-`Alex Taylor`_
---------------
-
-.. image:: /images/ataylor.jpg
-    :width: 110px
-    :align: right
-    :alt: Alex Taylor
-
-.. class:: no-breaks
-
-  **Student Developer**
-
-Alex joined the OSL in February of 2016 and is studying Computer Science. He
-became interested in the OSL after seeing some of our projects and wanted to
-put his skills to good use and apply them here. Alex is interested in
-learning more about back-end web development while working at the OSL.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/subnomo
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-subnomo
-
-.. raw:: html
-
-  <br/>
-
-`Aileen Thai`_
---------------
-
-.. image:: /images/athai.jpg
-    :width: 110px
-    :align: right
-    :alt: Aileen Thai
-
-.. class:: no-breaks
-
-  **Developer**
-
-Aileen is a computer science and digital communication arts double major who
-started at the lab in June 2015. She likes to play video games (Kingdom of
-Hearts and Skyrim are her favorites) draw, read, and sleep in her spare time.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/athai
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-thai
-
-.. raw:: html
-
-  <br/>
-
-`Andy Tolvstad`_
-----------------
-
-.. image:: /images/atolvstad.jpg
-    :width: 110px
-    :align: right
-    :alt: Andy Tolvstad
-
-.. class:: no-breaks
-
-  **Community Systems Administrator**
-
-Andy is a computer science student who joined the OSL in December 2014 as a
-systems administrator. In his spare time, Andy arranges a cappella songs for
-small groups, plays music and watches Netflix. Andy enjoys playing Skyrim for
-PC and is especially interested in Web development.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/tolvstaa
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-tolvstaa
 
 .. raw:: html
 
