@@ -11,8 +11,8 @@ In order to support `our mission`_, the Oregon State University Open
 Source Lab provides hosting services for the Open Source Community. These
 services include:
 
-- Managed/unmanaged hosting – anything from a shared Web host, to a virtual
-  machine, to dedicated hardware.
+- Managed/unmanaged hosting – anything from a website, to a virtual machine, to
+  dedicated hardware.
 - FTP mirroring from our national mirror network.
 - Various other services such as email relay, DNS, database servers, backups and
   monitoring. See our services page for more information:
@@ -58,10 +58,10 @@ more community/communication-based projects such as IRC servers, forum/community
 sites dedicated to open source, etc.
 
 We typically try not to provide hosting for smaller projects which could be
-hosted at other “free” hosting sites such as SourceForge or Google Code. We do
-not have the infrastructure set up to provide hosting to thousands of smaller
-projects, but would prefer to focus our efforts on hosting those projects that
-have grown too large to fit in at SourceForge but cannot (yet) afford to pay for
+hosted at other “free” hosting services such as Github. We do not have the
+infrastructure set up to provide hosting to thousands of smaller projects, but
+would prefer to focus our efforts on hosting those projects that have grown too
+large to fit in at free hosted service but cannot (yet) afford to pay for
 hosting at a hosting company.
 
 We decide on hosting requests by looking at many factors. One of the main things

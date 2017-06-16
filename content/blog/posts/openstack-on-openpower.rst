@@ -18,14 +18,13 @@ of both worlds, because they each fill a specific niche in a cloud environment.
 
 
 Earlier this year we teamed up with `IBM`_ to work on deploying Openstack on the
-`OpenPOWER architecture`_ with the goal of expanding our `Supercell
-infrastructure`_ beyond the x86 architecture. Thanks to the hard work by both
+`OpenPOWER architecture`_ with the goal of expanding our Supercell
+infrastructure beyond the x86 architecture. Thanks to the hard work by both
 the IBM and OSUOSL team, we’ve been able to deploy Openstack on four IBM
 OpenPOWER machines which support KVM and little endian.
 
 .. _IBM: http://www-03.ibm.com/linux/ltc/
 .. _OpenPOWER architecture: http://openpowerfoundation.org/
-.. _Supercell infrastructure: http://osuosl.org/services/supercell
 
 
 .. image:: /images/ppc64-openstack.png

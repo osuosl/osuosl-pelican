@@ -97,12 +97,11 @@ Developer News
 --------------
 
 We released the 0.6 version of `Ganeti Web Manager`_ in early March. This latest
-release included several new features to support users of `Supercell`_. You can
+release included several new features to support users of Supercell. You can
 read all about the latest release of GWM on the blog of our Lead Developer,
 `Peter Krenesky`_.
 
 .. _Ganeti Web Manager: http://code.osuosl.org/projects/ganeti-webmgr
-.. _Supercell: http://supercell.osuosl.org/
 .. _Peter Krenesky: http://twitter.com/kreneskyp
 
 Events and Conferences

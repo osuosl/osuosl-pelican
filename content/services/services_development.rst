@@ -24,6 +24,58 @@ educational and government organizations looking to implement or extend open
 source software to meet their needs. Here are a few recent projects the OSL has
 worked on:
 
+Current Projects
+^^^^^^^^^^^^^^^^
+
+Here is a short (but not complete) list of current projects our development team
+is working on:
+
+`Invoicing and Metrics Project`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Invoicing and Metrics Project (IAM) is a web application developed at the OSL
+which collects metrics on hosted services (i.e. VMs & database usage) and tracks
+it by project. For the few projects we have hosting contracts with, this project
+allows us to easily see billable usage in a format we can put in an invoice.
+
+.. _Invoicing and Metrics Project: https://github.com/osuosl/iam
+
+`TimeSync`_
+~~~~~~~~~~~
+
+TimeSync is the OSU Open Source Lab's time tracking system. It's designed to be
+simple, have a sane API, and make sense while allowing users to track their time
+spent on various projects and activities. The project consists of a web frontend
+written in Flask (`timesync-frontend-flask`_), a backend written in NodeJS
+(`timesync-node`_) and a CLI written in Python (`climesync`_).
+
+.. _TimeSync: https://github.com/osuosl/timesync
+.. _timesync-frontend-flask: https://github.com/osuosl/timesync-frontend-flask
+.. _timesync-node: https://github.com/osuosl/timesync-node
+.. _climesync: https://github.com/osuosl/climesync
+
+`StreamWebs`_
+~~~~~~~~~~~~~
+
+The `StreamWebs Student Stewardship Network`_ is an educational platform that
+provides teachers and students with resources to conduct based hands-on
+watershed stewardship projects. The StreamWebs program works to promote the
+teaching and learning of field based science, enhance environmental literacy,
+and provide resources that support Meaningful Watershed Education Experiences
+(MWEEs). The `StreamWebs`_ application is a comprehensive Django based web
+application that allows students to record, view and analyze watershed data.
+
+.. _StreamWebs: https://github.com/osuosl/streamwebs
+.. _StreamWebs Student Stewardship Network: http://streamwebs.org/
+
+`formsender`_
+~~~~~~~~~~~~~
+
+Formsender is a WSGI app that accepts a POST request from a form and emails the
+contents in a formatted message to a configurable address. The OSL uses
+formsender to enable forms on it's website.
+
+.. _formsender: https://github.com/osuosl/formsender
 
 `Ganeti Web Manager`_
 ~~~~~~~~~~~~~~~~~~~~~
@@ -36,6 +88,11 @@ management for administrators truly simple.
 
 .. _Ganeti Web Manager: https://github.com/osuosl/ganeti_webmgr
 
+Completed Projects
+^^^^^^^^^^^^^^^^^^
+
+Here is a short (but not complete) list of completed projects our development
+team worked on in the past:
 
 `Oregon Virtual School District`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,10 +138,10 @@ simplicity that children all around the world will be able to handle.
 .. _One Laptop Per Child: http://www.laptop.org
 
 
-`Pydra`_
-~~~~~~~~
+Pydra
+~~~~~
 
-Pydra is a distributed and parallel computing framework for Python. Pydra aims
+Pydra was a distributed and parallel computing framework for Python. Pydra aimed
 to provide an easy-to-use framework for writing and running distributed programs
 for developers, and an easy-to-manage cluster for the administrators.
 
@@ -94,10 +151,5 @@ for developers, and an easy-to-manage cluster for the administrators.
 Project Funding
 ---------------
 
-The majority of our development projects are funded through donations we receive
-from both the OSL Alliance and the `Friends of the OSL`_ programs. In certain
-cases, we have an agreement in place and charge for our development services.
-This is especially true for educational institutions and state and local
-government agencies looking for help developing open source software.
-
-.. _Friends of the OSL: /sponsors/friends/
+The project funding is split between donations we receive and paid development
+projects.

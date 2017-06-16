@@ -45,38 +45,18 @@ services`_.
 .. _Read more about our development services: /services/development/
 
 
-`Supercell`_
-------------
-
-.. _Supercell: /services/supercell
-
-
-Supercell is an on-demand virtualization and continuous integration resource
-from the OSL. We have created this cluster for use by open source projects that
-need to run software tests regularly but may not have access to the appropriate
-hardware or the funds to pay for outsourcing this service. Supercell allows
-projects to do manual testing to verify that a submitted patch has actually
-fixed the intended bug or to determine that their software package runs
-correctly on a particular operating system or distribution. The service also
-allows projects to test their software in a large cluster using several VMs
-concurrently. `Read more about our Supercell testing hosting services`_.
-
-.. _Read more about our Supercell testing hosting services: /services/supercell/
-
-
 `PowerLinux Development Hosting`_
 ---------------------------------
 
 .. _PowerLinux Development Hosting: /services/powerdev
 
 
-The OSL partners with `IBM`_ to host `POWER7`_-based servers, making partitions
-available to the open source community. Community members can use these POWER7
-servers to develop and test open source projects on the Power architecture
-platform and in a PowerLinux environment. These systems are intended for
-functional development and testing work, but are not to be used for performance
-testing. `Read more about our PowerLinux development hosting services`_
+The OSL partners with `IBM`_ to host `POWER`_-based servers, making partitions and POWER-based KVM guests available to
+the open source community. Community members can use these POWER servers to develop and test open source projects on
+the Power architecture platform and in a PowerLinux environment. These systems are intended for functional development
+and testing work, but are not to be used for performance testing. `Read more about our PowerLinux development hosting
+services`_
 
 .. _IBM: http://www-03.ibm.com/linux/ltc/
-.. _POWER7: https://en.wikipedia.org/wiki/POWER7
+.. _POWER: https://en.wikipedia.org/wiki/PowerLinux
 .. _Read more about our PowerLinux development hosting services: /services/powerdev/
