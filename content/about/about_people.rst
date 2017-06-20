@@ -123,7 +123,7 @@ pwnguin
   **Student Systems Engineer**
 
 Mohamed joined the OSL in March 2017 and is studying Electrical and Computer
-Engineering. He is is excited to develop his knowledge about open source
+Engineering. He is excited to develop his knowledge about open source
 software during his time at the OSL. He is also interested in operating systems
 and contributing to the Linux Kernel. In his spare time, Mohamed likes to play
 soccer, video games, and read.
