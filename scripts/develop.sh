@@ -3,6 +3,8 @@
 # Update repo
 git checkout master
 git pull -q --ff-only
+
+# this should update the dougfir pelican theme
 git submodule update --init --recursive
 
 # Enable venv
