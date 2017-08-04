@@ -20,7 +20,7 @@ source leaders. Your donations will give our students the chance at life-
 changing experiences and opportunities and ultimately help expand the pipeline
 of graduates with DevOps and open source software experience.
 
-Please visit our crowdfunding page for more information and to watch our
+Please visit our `crowdfunding page`_ for more information and to watch our
 progress. If you would like to become a regular donor for the OSL, please
 contact us at donations@osuosl.org.
 
@@ -39,3 +39,4 @@ Also, for regular updates on this project and many others, follow us on
 .. _Facebook: https://www.facebook.com/OSUOSL/
 .. _Twitter: https://twitter.com/osuosl
 .. _Instagram: https://www.instagram.com/osuosl/
+.. _crowdfunding page: https://create.osufoundation.org/project/6976
