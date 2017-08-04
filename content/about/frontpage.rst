@@ -9,14 +9,10 @@ Boldly venturing *beyond the lab...*
 The Open Source Lab is a nonprofit organization and experiential learning center
 for OSU students, working for the advancement of open source technologies.
 
-.. image:: /images/FrontPageOSLImage.png
-    :scale: 100%
-    :align: center
-    :alt: Student Stories/Donate/Projects
-
-==================  ===========  =========  ===============  ===========
-`Student Stories`_               `Donate`_                   `Projects`_
-==================  ===========  =========  ===============  ===========
+============================================ ============================================  ============================================
+.. image:: /images/FrontPageCircleImage1.png .. image:: /images/FrontPageCircleImage2.png  .. image:: /images/FrontPageCircleImage3.png
+`Student Stories`_                           `Donate`_                                     `Projects`_
+============================================ ============================================  ============================================
 
 
 .. _Student Stories: /students
