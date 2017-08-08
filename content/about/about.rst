@@ -1,7 +1,6 @@
 About
 =====
 :slug: about
-:tag: frontpage
 :author: Lucy Wyman
 :title: About
 :menu: top, About, 1; About, About OSL, 1
