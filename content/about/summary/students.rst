@@ -30,6 +30,6 @@ generation of open source leaders.
 
 Go to our `donation page`_ to find out more.
 
-.. _Employment: about/employment
-.. _Education and Events: about/education
-.. _donation page: donate
+.. _Employment: /about/employment
+.. _Education and Events: /about/education
+.. _donation page: /donate
