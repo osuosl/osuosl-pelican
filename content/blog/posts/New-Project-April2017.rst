@@ -4,7 +4,6 @@ New Project: libpng Now Mirrored on ftp.osuosl.org
 :slug: new-project-libpng
 :author: Amanda Kelner
 :img: NewProjectAdjustedImage.png
-:tag: featured-stories
 
 The OSL took on a new project and delivers a new `mirroring site libpng source`_
 for libpng tarball distributions that is 20+ times as fast as the old site. It
