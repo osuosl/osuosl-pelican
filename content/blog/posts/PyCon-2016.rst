@@ -4,7 +4,6 @@ The OSL at PyCon
 :auther: Amanda Kelner
 :slug: pycon-2016
 :img: PyCon16-logo.png
-:tag: featured-stories
 
 The month of June opened with the annual `PyCon`_ event at the Oregon Convention
 Center in Portland, the largest annual gathering for the `Python`_ community.
