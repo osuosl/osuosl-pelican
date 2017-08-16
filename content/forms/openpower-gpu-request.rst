@@ -12,7 +12,13 @@ PowerLinux / OpenPOWER Request Form
       <div class="field field-name-body field-type-text-with-summary field-label-hidden">
         <div class="field-items">
           <div class="field-item even" property="content:encoded">
-          <p>Description here.</p>
+          <p>Please use the form below to request hosting on the OpenPOWER GPU POWER environment hosted at the
+          OSUOSL.</p>
+          <p>The OpenPOWER GPU development infrastructure was created to provide developers access to new NVIDIA GPU
+          technologies hosted on the OpenPOWER platform. Access to these resources are limited and we ask you provide
+          us with the information below so we can find the best way to provide the resources you are requesting for GPU
+          based development. If there are questions or concerns about access as well as requests that require large
+          amounts of resources, please provide details in the "Other information" section.</p>
           </div>
         </div>
       </div>
@@ -55,12 +61,8 @@ PowerLinux / OpenPOWER Request Form
             <label for="edit-submitted-distribution">Distribution <span class="form-required" title="This field is required.">*</span></label>
             <select id="edit-submitted-distribution" name="distribution" class="form-select required">
               <option value="None selected" selected="selected">- Select -</option>
-              <option value="Fedora">Fedora</option>
               <option value="CentOS">CentOS</option>
-              <option value="Debian">Debian</option>
               <option value="Ubuntu">Ubuntu</option>
-              <option value="OpenSUSE">OpenSUSE</option>
-              <option value="Other">Other</option>
             </select>
             <div class="description">Which Linux distribution would you like to use for your machine? This would likely be the latest stable version available for PPC. If you want a specific version, please state that in the comments section on the last page.</div>
           </div>
