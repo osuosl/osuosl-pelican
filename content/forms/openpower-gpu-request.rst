@@ -24,13 +24,25 @@ PowerLinux / OpenPOWER Request Form
       </div>
       <form class="webform-client-form" enctype="multipart/form-data" action="http://formsender.osuosl.org:80" method="post" id="webform-client-form-1086" accept-charset="UTF-8">
         <div>
-          <div class="form-item webform-component webform-component-textfield" id="webform-component-name">
-            <label for="edit-submitted-name">Name <span class="form-required" title="This field is required.">*</span></label>
-            <input type="text" id="edit-submitted-name" name="name" value="" size="60" maxlength="128" class="form-text required" />
+          <div class="form-item webform-component webform-component-textfield" id="webform-component-first-name">
+            <label for="edit-submitted-first-name">First name <span class="form-required" title="This field is required.">*</span></label>
+            <input type="text" id="edit-submitted-first-name" name="name" value="" size="60" maxlength="128" class="form-text required" />
+          </div>
+          <div class="form-item webform-component webform-component-textfield" id="webform-component-last-name">
+            <label for="edit-submitted-last-name">Last name <span class="form-required" title="This field is required.">*</span></label>
+            <input type="text" id="edit-submitted-last-name" name="lastname" value="" size="60" maxlength="128" class="form-text required" />
           </div>
           <div class="form-item webform-component webform-component-email" id="webform-component-email">
             <label for="edit-submitted-email">Email <span class="form-required" title="This field is required.">*</span></label>
             <input class="email form-text form-email required" type="email" id="edit-submitted-email" name="email" size="60" />
+          </div>
+          <div class="form-item webform-component webform-component-phone" id="webform-component-phone">
+            <label for="edit-submitted-phone">Phone number <span class="form-required" title="This field is required.">*</span></label>
+            <input class="phone form-text form-phone required" type="phone" id="edit-submitted-phone" name="phone" size="60" />
+          </div>
+          <div class="form-item webform-component webform-component-username" id="webform-component-username">
+            <label for="edit-submitted-username">Username <span class="form-required" title="This field is required.">*</span></label>
+            <input class="username form-text form-username required" type="username" id="edit-submitted-username" name="username" size="60" />
           </div>
           <div class="form-item webform-component webform-component-textfield" id="webform-component-project-name">
             <label for="edit-submitted-project-name">Project Name <span class="form-required" title="This field is required.">*</span></label>
@@ -94,10 +106,13 @@ PowerLinux / OpenPOWER Request Form
           <input type="hidden" name="last_name" value="" />
           <input type="hidden" name="token" value="15674hsda//*q23%^13jnxccv3ds54sa4g4sa532323!OoRdsfISDIdks38*(dsfjk)aS" />
           <!-- The following must be set to http://www.osuosl.org/services/powerdev/request_gpu in production -->
-          <input type="hidden" name="redirect" value="http://www.osuosl.org/services/powerdev/request_gpu" />
+          <input type="hidden" name="redirect" value="http://osuosl.org/services/powerdev/request_gpu/" />
           <input type="hidden" name="mail_subject_prefix" value="New OpenPOWER GPU Request" />
           <input type="hidden" name="mail_subject_key" value="project_name" />
           <input type="hidden" name="send_to" value="openpower_gpu" />
+          <input type="hidden" name="ibm_power" value="ibm-power" />
+          <input type="hidden" name="support" value="support" />
+          <input type="hidden" name="fields_to_join" value="username,name,lastname,phone,project_name,date,email,ibm_power,support,distribution,number_of_nodes,other_information" />
           <!-- /Formsender Settings -->
 
           <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Submit" class="form-submit" /></div>
