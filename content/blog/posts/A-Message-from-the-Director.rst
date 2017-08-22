@@ -16,13 +16,13 @@ community, but to our larger academic institution and its students.
 Becoming director of the OSL has been one of the most rewarding positions I have
 ever had the pleasure of filling. I have had the opportunity to watch students
 with amazing potential grow into graduates with incredible opportunities, all
-because of their hard work. As much as I would like to say the OSL is
+because of their hard work. As much as I would like to say the OSL is solely
 responsible for this transformation, I must give credit where credit is due:
 The students who come through the OSL are passionate, driven, and highly
-intelligent. They’re intelligent, patient, and generous in time and knowledge.
-Time and time again, I have seen the entire lab band together to help solve some
-of our most perplexing problems, from the most experienced mentors to the fresh
-eyes of our newest hires discussing openly and enthusiastically.
+intelligent. They’re dedicated, patient, and generous in sharing their time and
+knowledge. Time and time again, I have seen the entire lab band together to help
+solve some of our most perplexing problems, from the most experienced mentors to
+the fresh eyes of our newest hires discussing openly and enthusiastically.
 
 .. image:: /images/OSLWorkers3.jpg
     :scale: 100%
@@ -44,10 +44,10 @@ example, Alex Polvi and Brandon Philips co-founded CoreOS, an organization
 dedicated to open access and internet security. Emily Dunham was nominated for
 the Women in Open Source Award for 2015 and works at Mozilla on supporting the
 infrastructure behind the Rust language. Sarah Cooley works for Microsoft as a
-Program Manager for SQL and Hyper-V. And these are just to name a few. Here at
-the OSL, we are very proud of all our former students’ accomplishments and we
-hope to continue to provide our current and future students with all the tools
-and skills they need to exceed their goals.
+Program Manager for SQL and Hyper-V and played a major role in the recent open
+source changes at Microsoft. These are just a few of many former OSL students’
+accomplishments. The OSL hopes to continue to provide our current and future
+students with the tools and skills they need to exceed their goals.
 
 The OSL relies on donations and revenue generating projects to fund our student
 employees. Recently, we have found ourselves in need of increasingly more
