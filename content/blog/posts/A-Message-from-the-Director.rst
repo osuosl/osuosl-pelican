@@ -8,7 +8,7 @@ A Message from the Director
 
 Since its creation in 2002, the Open Source Lab (OSL) has been a beacon of
 innovation, experiential learning, and hosting at Oregon State University and
-beyond. As director, I’ve had the pleasure of watching the lab and its employees
+beyond. As Director, I’ve had the pleasure of watching the lab and its employees
 grow over the years and I’m so grateful to have been given such an opportunity.
 I want to express why the OSL is important not only to the open source
 community, but to our larger academic institution and its students.
