@@ -46,7 +46,7 @@ point you to MATLAB. Would I use MATLAB for developing a GUI? Not in a million y
 So why do we choose C? Well, C is efficient since it's practically one step above
 assembly and with GCC it compiles down to a small executable. This is great for 
 embedded programming and systems level programming, which is why we have been
-using it for so long in these feilds! However, the one problem with C is that it's
+using it for so long in these fields! However, the one problem with C is that it's
 like assembly. It will let you do whatever you want, even if that means shooting 
 yourself in the foot. There is no type safety, there is no memory protection, and no
 thread safety built into the language. You have to do all of that yourself with
@@ -55,7 +55,7 @@ and that is fair. Not everyone should think alike. However, I propose that we mo
 tools that help you rather than give you enough rope to hang yourself with.
 With computers being as important as they are, security should be our number one 
 priority when writing software. If you're writing an application that does an  
-unbounded copy from input (i.e. heartbleed) in your final release, you just added 
+unbounded copy from input (ex. heartbleed) in your final release, you just added 
 another vector of attack to someone's computer.
 
 We should be writing code that is safe and avoids all sorts of memory issues that
