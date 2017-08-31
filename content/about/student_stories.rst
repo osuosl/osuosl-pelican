@@ -41,17 +41,20 @@ are crowds that will only use certain languages for all projects.
 
 These people have lost sight of the fact that programming languages are tools.
 Languages have certain problem sets that they're really good at and some not so  
-much. If you were to ask me to do some complex math or signal processing I would
+much. If you were to ask me to do some complex math or signal processing, I would
 point you to MATLAB. Would I use MATLAB for developing a GUI? Not in a million years.
 So why do we choose C? Well, C is efficient since it's practically one step above
-assembly and with GCC it compiles down to a small executable. This is great for 
-embedded programming and systems level programming, which is why we have been
-using it for so long in these fields! However, the one problem with C is that it's
-like assembly. It will let you do whatever you want, even if that means shooting 
+assembly and with a modern compiler it compiles down to a small executable. 
+Plus modern compilers have extremely good optimization algorithms that can optimize
+your program better than if you wrote it by hand in Assembly. This makes C a great
+tool for embedded programming and systems level programming, which is why we have been
+using it for so long in these fields! However, a downside (and upside!) of C is that 
+it's like assembly. It will let you do whatever you want, even if that means shooting 
 yourself in the foot. There is no type safety, there is no memory protection, and no
 thread safety built into the language. You have to do all of that yourself with
-mutexes, semaphores, and checks. Some of you might think that this is fine and dandy 
-and that is fair. Not everyone should think alike. However, I propose that we move to
+mutexes, semaphores, and checks. It's good to know about these concepts and be able
+to design a system that puts these protections in place, but every project should
+not be an exercise in memory management and complex concurrency. We should move on to
 tools that help you rather than give you enough rope to hang yourself with.
 With computers being as important as they are, security should be our number one 
 priority when writing software. If you're writing an application that does an  
