@@ -51,44 +51,6 @@ Ramereth
 .. _Beaver BarCamp: http://beaverbarcamp.org
 .. _The Infallible Collective: http://infalliblecollective.com
 
-`Justin Dugger`_
-----------------
-
-.. image:: /images/jdugger.jpg
-    :width: 110px
-    :align: right
-    :alt: Justin Dugger
-
-.. class:: no-breaks
-
-  **Senior Systems Architect**
-
-Justin joined the OSL in March 2012 after studying and working at Kansas State
-University. Justin took graduate level courses in computer science at KSU and
-later worked as an applications system administrator there immediately before
-coming to the OSL. His work in identity and account management and his
-experience with Linux and Ubuntu are assets he'll utilize to benefit the
-lab's projects and infrastructure. Justin was involved in the Linux Users
-Group at KSU, and he has extensive experience with Java programming. Through
-the OSL, Justin is excited to be part of the wider open source community and
-to participate in outreach and development.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/jldugger
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-pwnguin
-
-.. raw:: html
-
-  <br/>
-
 `Devon Cash`_
 -------------
 
@@ -175,45 +137,6 @@ https://github.com/doublej472
   **Nick on irc.freenode.net**
 
 doublej472
-
-.. raw:: html
-
-  <br/>
-
-`Samarendra M. Hedaoo`_
------------------------
-
-.. image:: /images/shedaoo.jpg
-    :width: 110px
-    :align: right
-    :alt: Samarendra M. Hedaoo
-
-.. class:: no-breaks
-
-  **Senior Systems Architect**
-
-Samarendra joined the OSL in November 2016 all the way from India. He studied at
-the Symbiosis Institute of Computer Studies & Research in Pune, India where he
-also worked as a System Administrator. He has also worked in DevOps and ran his
-own startup developing SMS-based apps. Most recently, he worked as a System
-Administrator at the IIT Bombay’s OpenPOWER and GPU HPC center. He chose to
-apply to the OSL to work with students while contributing to open source in an
-academic environment. He enjoys exploring new places, meeting new people, and
-experiencing new cultures. He cooks and writes in his spare time and spends a
-fair amount of time learning new ways to speak to American audiences and
-explaining different ways of pronouncing his name - Sam (ar) (endra).
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/knightsamar
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-samarendra
 
 .. raw:: html
 
@@ -339,45 +262,6 @@ https://github.com/leel8on
   **Nick on irc.freenode.net**
 
 leel8on
-
-.. raw:: html
-
-  <br/>
-
-`Ken Lett`_
------------
-
-.. image:: /images/klett.jpg
-    :width: 110px
-    :align: right
-    :alt: Ken Lett
-
-.. class:: no-breaks
-
-  **Senior Software Engineer**
-
-Ken began at the OSL in March 2012 after spending over a decade in various
-positions on the OSU campus. Since 1999, he has worked professionally as a
-systems administrator in the School of Electrical Engineering and Computer
-Science, completed an undergraduate degree in physics as a student and worked
-with Central Web Services as a software developer. Ken sees the OSL as a
-synthesis of the wide variety of projects he has worked on at the university
-and hopes to use his experience with many different technologies and his dual
-perspective as an OSU staff member and alumnus to benefit the lab. Ken's
-personal interests are as varied as the technical projects he has worked on;
-he is a blacksmith as well as a woodworker and enjoys writing fiction.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/Kennric
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-kennric
 
 .. raw:: html
 
