@@ -4,7 +4,6 @@ Donate to Our Crowdfunding Campaign!
 :slug: crowdfunding-campaign-2017
 :author: Amanda Kelner
 :img: OSLWorkers2Adjusted.jpg
-:tag: featured-stories
 
 We’re very excited to announce our very first `crowdfunding campaign`_ through
 the OSU foundation! The OSL relies on donations and revenue generating projects
