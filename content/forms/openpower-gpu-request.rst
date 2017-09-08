@@ -106,7 +106,7 @@ PowerLinux / OpenPOWER Request Form
           <input type="hidden" name="last_name" value="" />
           <input type="hidden" name="token" value="15674hsda//*q23%^13jnxccv3ds54sa4g4sa532323!OoRdsfISDIdks38*(dsfjk)aS" />
           <!-- The following must be set to http://www.osuosl.org/services/powerdev/request_gpu in production -->
-          <input type="hidden" name="redirect" value="http://osuosl.org/services/powerdev/request_gpu/" />
+          <input type="hidden" name="redirect" value="http://www.osuosl.org/form-submitted" />
           <input type="hidden" name="mail_subject_prefix" value="New OpenPOWER GPU Request" />
           <input type="hidden" name="mail_subject_key" value="project_name" />
           <input type="hidden" name="send_to" value="openpower_gpu" />
