@@ -142,30 +142,6 @@ doublej472
 
   <br/>
 
-`Toby Hodges`_
---------------
-
-.. image:: /images/thodges.jpg
-    :width: 110px
-    :align: right
-    :alt: Toby Hodges
-
-.. class:: no-breaks
-
-  **Student Systems Engineer**
-
-Toby joined the OSL in March 2017 and is studying computer science and
-mechanical engineering. Though much of his experience before being hired was in
-development, Toby was excited about the opportunity to gain real-world work
-experience and learn new skills along the way. He enjoys creating, whether it be
-computer programs or other platforms, and one day hopes to work for Autodesk,
-Google, or Adobe. In his spare time, he enjoys playing soccer and relaxing in
-his hammock.
-
-.. raw:: html
-
-  <br/>
-
 `Cody Holliday`_
 ----------------
 
@@ -194,74 +170,6 @@ https://github.com/DesertBeagle
   **Nick on irc.freenode.net**
 
 codysseus
-
-.. raw:: html
-
-  <br/>
-
-`Amanda Kelner`_
-----------------
-
-.. image:: /images/akelner.jpg
-    :width: 110px
-    :align: right
-    :alt: Amanda Kelner
-
-.. class:: no-breaks
-
-  **Writer**
-
-Amanda joined the OSL in October of 2015 and is studying English and Music
-Performance. As our in-house writer, she creates content for our website
-including blog posts and updates to outdated pages. She also edits any talks or
-newsletters we produce, and runs our social media accounts.  In her free time,
-Amanda enjoys a good book or movie.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/kelnera
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-kelnera
-
-.. raw:: html
-
-  <br/>
-
-`Lee Leighton`_
----------------
-
-.. image:: /images/lleighton.jpg
-    :width: 110px
-    :align: right
-    :alt: Lee Leighton
-
-.. class:: no-breaks
-
-  **Community Systems Administrator**
-
-Lee is a computer science major, and he joined the OSL as a community systems
-administrator in May 2014. Lee looks forward to learning more about the OSL
-infrastructure and hopes to contribute to Chef. In his spare time, Lee attends
-OSU Linux Users Group meetings, and enjoys reading as well as a good cup of
-coffee.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/leel8on
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-leel8on
 
 .. raw:: html
 
@@ -320,39 +228,6 @@ jerrypeng
   <br/>
   <br/>
   <br/>
-  <br/>
-
-`Hannah Solorzano`_
--------------------
-
-.. image:: /images/hsolorzano.jpg
-    :width: 110px
-    :align: right
-    :alt: Hannah Solorzano
-
-.. class:: no-breaks
-
-  **Student Software/Systems Engineer**
-
-Hannah is a Computer Science major who plans to transfer to OSU in the
-fall of 2016. She looks forward to collaborating with others on projects in
-both Python and Ruby. In her free time she likes to read, play video games,
-and hike with her friends.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/hsolorzano
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-hsolorzano
-
-.. raw:: html
-
   <br/>
 
 `Jack Twilley`_
