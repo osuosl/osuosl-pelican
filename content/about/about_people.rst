@@ -51,27 +51,6 @@ Ramereth
 .. _Beaver BarCamp: http://beaverbarcamp.org
 .. _The Infallible Collective: http://infalliblecollective.com
 
-`Devon Cash`_
--------------
-
-.. image:: /images/generalstaffpic.jpg
-    :width: 110px
-    :align: right
-    :alt: No Image
-
-.. class:: no-breaks
-
-  **Student Developer**
-
-.. raw:: html
-
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-
 `Mohamed Eldebri`_
 ------------------
 
@@ -228,40 +207,6 @@ jerrypeng
   <br/>
   <br/>
   <br/>
-  <br/>
-
-`Jack Twilley`_
----------------
-
-.. image:: /images/jtwilley.jpg
-    :width: 110px
-    :align: right
-    :alt: Jack Twilley
-
-.. class:: no-breaks
-
-  **Developer**
-
-While Jack has spent most of his career working with computers, he is
-currently studying food science and technology at Oregon State University. At
-the OSL, Jack works on the Protein Geometry Database project and also mentors
-students. When he’s not brewing tasty, award-winning mead, Jack maintains a
-number of solo open source projects and watches “Doctor Who.”
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/mathuin
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-Mathuin
-
-.. raw:: html
-
   <br/>
 
 `Travis Whitehead`_
