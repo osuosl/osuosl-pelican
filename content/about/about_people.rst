@@ -142,7 +142,7 @@ school year, Cody is a DJ at KBVR, OSU's student run radio station.
 
   **Github Account**
 
-https://github.com/DesertBeagle
+https://github.com/Codysseus
 
 .. class:: no-breaks
 
