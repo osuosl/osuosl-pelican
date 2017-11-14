@@ -132,6 +132,23 @@
         <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-ssh-key" name="ssh_public_key" cols="60" rows="5" class="form-textarea required"></textarea></div>
         <div class="description">Public SSH key to be used for initial access to the system.</div>
       </div>
+      <div class="form-item webform-component webform-component-select" id="webform-component-ci-access">
+        <label for="edit-submitted-ci-access">POWER CI Access </label>
+        <select id="edit-submitted-ci-access" name="ci_access" class="form-select">
+          <option value="None selected" selected="selected">- None -</option>
+          <option value="Yes">Yes</option>
+          <option value="No">No</option>
+        </select>
+        <div class="description">Access to use our <a href="/services/powerdev#powerci">POWER CI service</a> which is
+        powered by Jenkins.</div>
+      </div>
+      <div class="form-item webform-component webform-component-textfield" id="webform-component-ci-github">
+        <label for="edit-submitted-ci-github">GitHub Username(s) for POWER CI</label>
+        <input type="text" id="edit-submitted-ci-github" name="ci-github" value="" size="60" maxlength="128"
+        class="form-text" />
+        <div class="description">We use Github OAuth to authenticate into the POWER CI system. If you selected "Yes"
+        above, please provide a comma separated list of Github username(s) to gain access.</div>
+      </div>
       <div class="form-item webform-component webform-component-textfield" id="webform-component-ibm-ltc-advocate">
         <label for="edit-submitted-ibm-ltc-advocate">IBM Advocate <span class="form-required" title="This field is
         required.">*</span></label>

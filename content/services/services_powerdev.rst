@@ -32,22 +32,6 @@ Systems Developer`_ portal or `IBM Portal for OpenPOWER`_.
 .. _Linux on IBM Power Systems Developer: https://developer.ibm.com/linuxonpower/
 .. _IBM Portal for OpenPOWER: https://www-355.ibm.com/systems/power/openpower/
 
-Two clusters of POWER resources are hosted at the Open Source Lab.
-
-The first is an OpenStack based cluster offering POWER8 (POWER9 once available)
-LE instances running on KVM and providing access via OpenStack's API and GUI
-interface.  These shared systems are intended for functional development and
-continuous integration work, but are not ideal for performance testing.  We
-start projects out with a small quota, but can increase given resource
-availability and justification. To request access to an OpenStack POWER
-instance, use our `OpenPOWER OpenStack request form`_.
-
-The second is an OpenPOWER GPU based acceleration cluster offering POWER8+
-"Minsky" servers with NVIDIA P100 GPUs connected via NVLink.  To request access
-to the OpenPOWER GPU cluster, use our `OpenPOWER GPU request form`_.
-
-.. _OpenPOWER OpenStack request form: /services/powerdev/request_hosting
-.. _OpenPOWER GPU request form: /services/powerdev/request_gpu
 
 * List of `Current Projects & Academic Partners`_
 
@@ -55,3 +39,44 @@ to the OpenPOWER GPU cluster, use our `OpenPOWER GPU request form`_.
 
 .. _Current Projects & Academic Partners: /services/powerdev/current-projects
 .. _Former Projects & Academic Partners: /services/powerdev/former-projects
+
+Two clusters of POWER resources are hosted at the Open Source Lab:
+
+OpenStack
+---------
+
+The first cluster is an OpenStack based cluster offering POWER8 (POWER9 once available)
+LE instances running on KVM and providing access via OpenStack's API and GUI
+interface.  These shared systems are intended for functional development and
+continuous integration work, but are not ideal for performance testing.  We
+start projects out with a small quota, but can increase given resource
+availability and justification.
+
+To request access to an OpenStack POWER instance, use our `OpenPOWER OpenStack request form`_.
+
+.. _powerci:
+
+POWER Continuous Integration (POWER CI)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hosted via the OpenStack cluster is an OSL managed Jenkins service which is hosted at https://powerci.osuosl.org. This
+service is intended to allow projects easier access to the POWER architecture via Jenkins.
+
+Users can request access to register one or more GitHub repositories on the Jenkins server, where they can configure
+the build process and the environment as needed.  Builds will run in a Docker container by default, but can also be run
+in a virtual machine if need be. Users can also configure the system to run their tests, package any necessary files
+and binaries after running the build, and archive the build artifacts on the Jenkins server for later access. The
+service also supports providing e-mail notifications on build status and embedded build-notification for webpages.
+
+To request access to the POWER CI service, use our `OpenPOWER OpenStack request form`_ and make sure you fill out the
+information regarding POWER CI.
+
+GPU
+---
+
+The second cluster is an OpenPOWER GPU based acceleration cluster offering POWER8+
+"Minsky" servers with NVIDIA P100 GPUs connected via NVLink.  To request access
+to the OpenPOWER GPU cluster, use our `OpenPOWER GPU request form`_.
+
+.. _OpenPOWER OpenStack request form: /services/powerdev/request_hosting
+.. _OpenPOWER GPU request form: /services/powerdev/request_gpu
