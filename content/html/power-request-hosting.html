@@ -72,6 +72,50 @@
         <div class="description">How long do you expect you will need these resources? Ongoing or indefinitely are also
         acceptable answers.</div>
       </div>
+      <div class="form-item webform-component webform-component-select" id="webform-component-ci-access">
+        <label for="edit-submitted-ci-access">OpenStack / POWER CI Access <span class="form-required" title="This field
+        is required.">*</span></label>
+        <select id="edit-submitted-ci-access" name="ci_access" class="form-select required">
+          <option value="OpenStack only" selected="selected">OpenStack only</option>
+          <option value="POWER CI only">POWER CI only</option>
+          <option value="OpenStack and POWER CI">OpenStack and POWER CI</option>
+        </select>
+        <div class="description">Access to use either our OpenStack cluster and/or our <a
+        href="/services/powerdev#powerci">POWER CI service</a> which is powered by Jenkins.</div>
+      </div>
+      <div class="form-item webform-component webform-component-textfield" id="webform-component-ibm-ltc-advocate">
+        <label for="edit-submitted-ibm-ltc-advocate">IBM Advocate <span class="form-required" title="This field is
+        required.">*</span></label>
+        <input type="text" id="edit-submitted-ibm-ltc-advocate" name="ibm_advocate" value="" size="60" maxlength="128"
+        class="form-text required" />
+        <div class="description">If you do not have an IBM Advocate, one will need to be assigned prior to activating
+        access. OSUOSL and IBM will work with the requesting project to find an appropriate advocate.</div>
+      </div>
+      <div class="form-item webform-component webform-component-select" id="webform-component-deployment-timeframe">
+        <label for="edit-submitted-deployment-timeframe">Deployment timeframe </label>
+        <select id="edit-submitted-deployment-timeframe" name="deployment_timeframe" class="form-select">
+          <option value="Within 7 business Days" selected="selected">Within 7 business Days</option>
+          <option value="Within 3 business Days">Within 3 business Days</option>
+          <option value="Within 1 business Days">Within 1 business Day</option>
+        </select>
+        <div class="description">Normal turnaround for access is typically 7 business days. If you need it sooner than
+        that, please choose which time frame you need. We will do our best to accommodate your request. </div>
+      </div>
+      <div class="form-item webform-component webform-component-textarea" id="webform-component-other-information">
+        <label for="edit-submitted-other-information">Other information </label>
+        <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-other-information"
+        name="other_information" cols="60" rows="5" class="form-textarea"></textarea></div>
+        <div class="description">Is there anything additional you would like to provide for your request?</div>
+      </div>
+      <h4>POWER CI Access Question(s)</h4>
+      <div class="form-item webform-component webform-component-textfield" id="webform-component-ci-github">
+        <label for="edit-submitted-ci-github">GitHub Username(s) for POWER CI</label>
+        <input type="text" id="edit-submitted-ci-github" name="ci-github" value="" size="60" maxlength="128"
+        class="form-text" />
+        <div class="description">We use Github OAuth to authenticate into the POWER CI system. If you selected "Yes"
+        above, please provide a comma separated list of Github username(s) to gain access.</div>
+      </div>
+      <h4>OpenStack Access Question(s)</h4>
       <div class="form-item webform-component webform-component-select" id="webform-component-power-architecture">
         <label for="edit-submitted-power-architecture">POWER Architecture <span class="form-required" title="This field
         is required.">*</span></label>
@@ -131,47 +175,6 @@
         required.">*</span></label>
         <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-ssh-key" name="ssh_public_key" cols="60" rows="5" class="form-textarea required"></textarea></div>
         <div class="description">Public SSH key to be used for initial access to the system.</div>
-      </div>
-      <div class="form-item webform-component webform-component-select" id="webform-component-ci-access">
-        <label for="edit-submitted-ci-access">POWER CI Access </label>
-        <select id="edit-submitted-ci-access" name="ci_access" class="form-select">
-          <option value="None selected" selected="selected">- None -</option>
-          <option value="Yes">Yes</option>
-          <option value="No">No</option>
-        </select>
-        <div class="description">Access to use our <a href="/services/powerdev#powerci">POWER CI service</a> which is
-        powered by Jenkins.</div>
-      </div>
-      <div class="form-item webform-component webform-component-textfield" id="webform-component-ci-github">
-        <label for="edit-submitted-ci-github">GitHub Username(s) for POWER CI</label>
-        <input type="text" id="edit-submitted-ci-github" name="ci-github" value="" size="60" maxlength="128"
-        class="form-text" />
-        <div class="description">We use Github OAuth to authenticate into the POWER CI system. If you selected "Yes"
-        above, please provide a comma separated list of Github username(s) to gain access.</div>
-      </div>
-      <div class="form-item webform-component webform-component-textfield" id="webform-component-ibm-ltc-advocate">
-        <label for="edit-submitted-ibm-ltc-advocate">IBM Advocate <span class="form-required" title="This field is
-        required.">*</span></label>
-        <input type="text" id="edit-submitted-ibm-ltc-advocate" name="ibm_advocate" value="" size="60" maxlength="128"
-        class="form-text required" />
-        <div class="description">If you do not have an IBM Advocate, one will need to be assigned prior to activating
-        access. OSUOSL and IBM will work with the requesting project to find an appropriate advocate.</div>
-      </div>
-      <div class="form-item webform-component webform-component-select" id="webform-component-deployment-timeframe">
-        <label for="edit-submitted-deployment-timeframe">Deployment timeframe </label>
-        <select id="edit-submitted-deployment-timeframe" name="deployment_timeframe" class="form-select">
-          <option value="Within 7 business Days" selected="selected">Within 7 business Days</option>
-          <option value="Within 3 business Days">Within 3 business Days</option>
-          <option value="Within 1 business Days">Within 1 business Day</option>
-        </select>
-        <div class="description">Normal turnaround for access is typically 7 business days. If you need it sooner than
-        that, please choose which time frame you need. We will do our best to accommodate your request. </div>
-      </div>
-      <div class="form-item webform-component webform-component-textarea" id="webform-component-other-information">
-        <label for="edit-submitted-other-information">Other information </label>
-        <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-other-information"
-        name="other_information" cols="60" rows="5" class="form-textarea"></textarea></div>
-        <div class="description">Is there anything additional you would like to provide for your request?</div>
       </div>
 
       <p><i>You should receive an automated email from our request ticketing system to the email address you have
