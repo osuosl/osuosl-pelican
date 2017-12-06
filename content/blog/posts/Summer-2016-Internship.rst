@@ -4,7 +4,6 @@ OSL Summer 2016 Internship
 :slug: summer-2016-internship
 :author: Amanda Kelner
 :img: Interns2016-1.jpg
-:tag: featured-stories
 
 In a new program, the Oregon State University Open Source Lab (OSL) partnered
 with Intel to give community college students an opportunity to get hands-on

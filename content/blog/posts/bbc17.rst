@@ -4,7 +4,6 @@ Beaver BarCamp 17: New Horizons
 :author: Amanda Kelner
 :slug: bbc17
 :img: BBC17_img_1.jpg
-:tag: featured-stories
 
 April 8 started out like any other Saturday in Spring in Corvallis: rainy, then
 sunny, then windy, windy-rainy sleet, hail, and then of course, sunny again.
