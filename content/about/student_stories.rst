@@ -14,7 +14,7 @@ Jonathan Frederick on Packer Templates project at the OSL
 
 1/19/18
 
-.. image:: Packer_logo_smaller.jpg
+.. image:: /images/Packer_logo_smaller.jpg
 
 At the OSL we use a Packer to build our images, because of the reproducible and
 easy work-flow it allows. We can create an entire operating system image based
