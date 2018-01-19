@@ -5,7 +5,7 @@ Ganeti Production Rebuild - Dec 11-15 & 18-19, 2017
 :author: Lance Albertson
 :slug: ganeti-production-rebuild-2017
 :img: OSLSignPicture.jpg
-:tag: featured-stories, outages
+:tag: outages
 
 Service(s) affected:
 --------------------
