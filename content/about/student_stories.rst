@@ -3,7 +3,7 @@ Student Stories
 :slug: student-stories
 :title: Student Stories
 :menu: Student Experience, Student Stories, 3
-:img: OSLWorkers2Adjusted.jpg
+:img: 2017_BootCamp.jpg
 
 Our Student Stories are a special collection of experiences and thoughts from
 the students themselves. Check out what our student employees find exciting and
