@@ -9,6 +9,39 @@ Our Student Stories are a special collection of experiences and thoughts from
 the students themselves. Check out what our student employees find exciting and
 worth taking some time to tell you about.
 
+Jonathan Frederick on out Packer Templates project at the OSL
+--------------------------------------------------------------
+
+1/19/18
+
+At the OSL we use a Packer to build our images, because of the reproducible and
+easy work-flow it allows. We can create an entire operating system image based
+off a Linux distribution without any interaction! With this we are looking to
+add much more complete and automated testing.
+
+To help with this we have decided to create a Github repository called Packer
+Templates! This is what the OSL will be using to generate OpenStack operating
+system images that many of our hosted projects use. We have been hard at work
+making this a reality for around 2 months and counting, and we still have work
+to do!
+
+In order to get any Linux distribution to install automatically, you have to use
+their version of automatic installation. They all have different names and syntax,
+but generally all follow the same pattern:
+
+1.	Boot the installation image and specify the web addess holding the autoinstallation file through the bootloader
+2.	watch it install! (and hopefully not fail!)
+
+Because we are using packer with QEMU (Virtual Machine software), even step #1
+can be automated, meaning you just run the program and it does everything for you!
+One of the major reasons we made this into a Github repository is so we can take
+this a step further: automated testing. Each time we make a pull request with some
+changes to the installation scripts, we have Jenkins build the system images, then
+test them to make sure they work in some degree. This means we don't have to worry
+about some change in a script breaking an unrelated system, and we don't introduce
+bugs that break existing features!
+
+
 Cody Holliday on Why we should stop using C
 -------------------------------------------
 
