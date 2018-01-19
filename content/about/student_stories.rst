@@ -9,7 +9,7 @@ Our Student Stories are a special collection of experiences and thoughts from
 the students themselves. Check out what our student employees find exciting and
 worth taking some time to tell you about.
 
-Jonathan Frederick on out Packer Templates project at the OSL
+Jonathan Frederick on Packer Templates project at the OSL
 --------------------------------------------------------------
 
 1/19/18
