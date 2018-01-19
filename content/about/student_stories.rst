@@ -14,6 +14,8 @@ Jonathan Frederick on out Packer Templates project at the OSL
 
 1/19/18
 
+:img: 
+
 At the OSL we use a Packer to build our images, because of the reproducible and
 easy work-flow it allows. We can create an entire operating system image based
 off a Linux distribution without any interaction! With this we are looking to
