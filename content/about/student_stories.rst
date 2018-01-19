@@ -3,7 +3,7 @@ Student Stories
 :slug: student-stories
 :title: Student Stories
 :menu: Student Experience, Student Stories, 3
-:img: images/OSLWorkers2_adjusted.jpeg
+:img: OSLWorkers2Adjusted.jpg
 
 Our Student Stories are a special collection of experiences and thoughts from
 the students themselves. Check out what our student employees find exciting and
@@ -14,7 +14,7 @@ Jonathan Frederick on Packer Templates project at the OSL
 
 1/19/18
 
-.. image:: images/Packer_logo_smaller.jpg
+.. image:: Packer_logo_smaller.jpg
 
 At the OSL we use a Packer to build our images, because of the reproducible and
 easy work-flow it allows. We can create an entire operating system image based
