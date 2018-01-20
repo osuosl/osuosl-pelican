@@ -3,7 +3,7 @@ Student Stories
 :slug: student-stories
 :title: Student Stories
 :menu: Student Experience, Student Stories, 3
-:img: 2017_BootCamp.jpg
+:img: 2017_BootCamp_smaller.jpg
 
 Our Student Stories are a special collection of experiences and thoughts from
 the students themselves. Check out what our student employees find exciting and
@@ -42,6 +42,7 @@ request with some changes to the installation scripts, we have Jenkins build the
 system images, then test them to make sure they work. We don't have to worry about
 some change in a script breaking an unrelated system, and we don't introduce bugs
 through adding features!
+
 
 
 Cody Holliday on Why we should stop using C
