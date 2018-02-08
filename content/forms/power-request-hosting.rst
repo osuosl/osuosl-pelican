@@ -1,5 +1,5 @@
-PowerLinux / OpenPOWER Request Form
-===================================
+PowerLinux / OpenPOWER OpenStack Request Form
+=============================================
 :slug: services/powerdev/request_hosting
 :title: OpenPOWER OpenStack Request Form
 :menu: POWERLinux/OpenPOWER Development Hosting, OpenPOWER OpenStack Request Form, 3

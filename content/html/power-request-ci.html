@@ -4,10 +4,12 @@
   <div class="field field-name-body field-type-text-with-summary field-label-hidden">
     <div class="field-items">
       <div class="field-item even" property="content:encoded">
-        <p>Please use the form below to request hosting on the POWER environment hosted at the OSUOSL.</p> <p>This
-        access is intended only for <b><i>free and open source</i></b> projects who qualify and are approved by both
-        the OSUOSL and IBM. For proprietary sourced projects or products please use other POWER resources which can be
-        found <a href=https://developer.ibm.com/linuxonpower/cloud-resources/>here</a>.</p>
+        <p>Please use the form below to request access to the POWER CI service provided by the OSUOSL.</p> <p>This
+        access is intended only for <b><i>free and open source</i></b> projects who qualify and are approved by
+        the OSUOSL. For proprietary sourced projects or products please use other POWER resources which can be
+        found <a href=https://developer.ibm.com/linuxonpower/cloud-resources/>here</a>. The POWER CI service uses
+        Docker to deploy Jenkins workers. In the future we will add access to use OpenStack to deploy Jenkins workers
+        (ppc64le only).</p>
       </div>
     </div>
   </div>
@@ -42,8 +44,8 @@
         <div class="description">Primary website URL for the open source project or education institution.</div>
       </div>
       <div class="form-item webform-component webform-component-textfield" id="webform-component-community-size">
-        <label for="edit-submitted-community-size">Estimated Size of  User Community <span class="form-required"
-            title="This field is required.">*</span></label>
+        <label for="edit-submitted-community-size">Estimated Size of User Community <span class="form-required"
+        title="This field is required.">*</span></label>
         <input type="text" id="edit-submitted-community-size" name="est_size_of_user_community" value="" size="60"
         maxlength="128" class="form-text required" /> <div class="description">How many estimated users do you have in
         your community?</div>
@@ -72,14 +74,6 @@
         <div class="description">How long do you expect you will need these resources? Ongoing or indefinitely are also
         acceptable answers.</div>
       </div>
-      <div class="form-item webform-component webform-component-textfield" id="webform-component-ibm-ltc-advocate">
-        <label for="edit-submitted-ibm-ltc-advocate">IBM Advocate <span class="form-required"
-            title="This field is required.">*</span></label>
-        <input type="text" id="edit-submitted-ibm-ltc-advocate" name="ibm_advocate" value="" size="60" maxlength="128"
-        class="form-text required" />
-        <div class="description">If you do not have an IBM Advocate, one will need to be assigned prior to activating
-        access. OSUOSL and IBM will work with the requesting project to find an appropriate advocate.</div>
-      </div>
       <div class="form-item webform-component webform-component-select" id="webform-component-deployment-timeframe">
         <label for="edit-submitted-deployment-timeframe">Deployment timeframe </label>
         <select id="edit-submitted-deployment-timeframe" name="deployment_timeframe" class="form-select">
@@ -96,80 +90,58 @@
         name="other_information" cols="60" rows="5" class="form-textarea"></textarea></div>
         <div class="description">Is there anything additional you would like to provide for your request?</div>
       </div>
-      <h4>OpenStack Access Question(s)</h4>
-      <div class="form-item webform-component webform-component-select" id="webform-component-power-architecture">
-        <label for="edit-submitted-power-architecture">POWER Architecture <span class="form-required"
+      <h4>POWER CI Access Question(s)</h4>
+      <div class="form-item webform-component" id="webform-component-platforms">
+        <label for="webform-component-platforms">OS Platform(s) <span class="form-required"
             title="This field is required.">*</span></label>
-        <select id="edit-submitted-power-architecture" name="power_architecture" class="form-select required">
-          <option value="ppc64le POWER (Little Endian)" selected="selected">ppc64le POWER (Little Endian)</option>
-        </select>
+        <div class="form-inline">
+          <input type="checkbox" id="edit-submitted-centos" class="form-checkbox" name="platform_centos" value="requested" />
+          <label for="edit-submitted-centos">CentOS</label>
+        </div>
+        <div class="form-inline">
+          <input type="checkbox" id="edit-submitted-fedora" class="form-checkbox" name="platform_fedora" value="requested" />
+          <label for="edit-submitted-fedora">Fedora</label>
+        </div>
+        <div class="form-inline">
+          <input type="checkbox" id="edit-submitted-debian" class="form-checkbox" name="platform_debian" value="requested" />
+          <label for="edit-submitted-debian">Debian</label>
+        </div>
+        <div class="form-inline">
+          <input type="checkbox" id="edit-submitted-ubuntu" class="form-checkbox" name="platform_ubuntu" value="requested" />
+          <label for="edit-submitted-ubuntu">Ubuntu</label>
+        </div>
+        <div class="form-inline">
+          <input type="checkbox" id="edit-submitted-gentoo" class="form-checkbox" name="platform_gentoo" value="requested" />
+          <label for="edit-submitted-gentoo">Gentoo</label>
+        </div>
+        <div class="form-inline">
+          <input type="checkbox" id="edit-submitted-other" class="form-checkbox" name="platform_other" value="requested" />
+          <label for="edit-submitted-other">Other (please specify in the "Other Information" field above)</label>
+        </div>
+        <div class="description">Some platforms may not be supported on a specific architecture, so please check with
+            us first.</div>
       </div>
-      <div class="form-item webform-component webform-component-select" id="webform-component-flavor">
-        <label for="edit-submitted-flavor">Flavor <span class="form-required" title="This field is required.">*</span>
-        </label>
-        <select id="edit-submitted-flavor" name="flavor" class="form-select required">
-          <option value="None selected" selected="selected">- Select -</option>
-          <option value="m1_small">1 CPU, 2G RAM, 20G Disk</option>
-          <option value="m1_medium">2 CPU, 4G RAM, 40G Disk</option>
-          <option value="m1_large">4 CPU, 8G RAM, 80G Disk</option>
-          <option value="m1_xlarge">8 CPU, 16G RAM, 160G Disk</option>
-        </select>
-      </div>
-      <div class="form-item webform-component webform-component-number" id="webform-component-num-nodes">
-        <label for="edit-submitted-num-nodes">Number of nodes <span class="form-required"
+      <div class="form-item webform-component webform-component-textfield" id="webform-component-ci-github">
+        <label for="edit-submitted-ci-github">GitHub Username(s) for POWER CI <span class="form-required"
             title="This field is required.">*</span></label>
-        <input type="number" id="edit-submitted-num-nodes" name="number_of_nodes" value="1" min="1" step="any"
-        class="form-text form-number required" />
-        <div class="description">Estimated number of nodes (machines) you'd like to have.</div>
-      </div>
-      <div class="form-item webform-component webform-component-select" id="webform-component-distribution">
-        <label for="edit-submitted-distribution">Distribution <span class="form-required"
-            title="This field is required.">*</span></label>
-        <select id="edit-submitted-distribution" name="distribution" class="form-select required">
-          <option value="None selected" selected="selected">- Select -</option>
-          <option value="Fedora">Fedora</option>
-          <option value="CentOS">CentOS</option>
-          <option value="Debian">Debian</option>
-          <option value="Ubuntu">Ubuntu</option>
-          <option value="OpenSUSE">OpenSUSE</option>
-          <option value="Other">Other</option>
-        </select>
-        <div class="description">Which Linux distribution would you like to use for your machine? This would likely be
-        the latest stable version available for PPC. If you want a specific version, please state that in the comments
-        section on the last page.</div>
-      </div>
-      <div class="form-item webform-component webform-component-select" id="webform-component-openstack-access">
-        <label for="edit-submitted-openstack-access">OpenStack Access </label>
-        <select id="edit-submitted-openstack-access" name="openstack_access" class="form-select">
-          <option value="None selected" selected="selected">- None -</option>
-          <option value="Have the OSL create the node(s) for me">Have the OSL create the node(s) for me</option>
-          <option value="I'd like to have access to the Openstack GUI/API">I&#039;d like to have access to the
-          Openstack GUI/API</option>
-        </select>
-        <div class="description">We use OpenStack to manage the POWER ppc64/ppc64le nodes. We can either create the
-        node for you or we can grant you access to the OpenStack GUI and API and let you manage it yourself. What do
-        you prefer?</div>
-      </div>
-      <div class="form-item webform-component webform-component-textarea" id="webform-component-ssh-key">
-        <label for="edit-submitted-ssh-key">SSH Public Key <span class="form-required" title="This field is required.">
-            *</span></label>
-        <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-ssh-key" name="ssh_public_key" cols="60" rows="5" class="form-textarea required"></textarea></div>
-        <div class="description">Public SSH key to be used for initial access to the system.</div>
+        <input type="text" id="edit-submitted-ci-github" name="ci-github" value="" size="60" maxlength="128"
+            class="form-text required" />
+        <div class="description">We use Github OAuth to authenticate into the POWER CI system. Please provide a comma
+        separated list of Github username(s) to gain access.</div>
       </div>
 
       <p><i>You should receive an automated email from our request ticketing system to the email address you have
       provided within 5-10 minutes.  If you don't receive this email please reach out to us at <a
-      href="mailto:powerdev-request@osuosl.org">powerdev-request@osuosl.org</a> or via IRC in <b>#osuosl</b> on
+      href="mailto:powerci-request@osuosl.org">powerci-request@osuosl.org</a> or via IRC in <b>#osuosl</b> on
       Freenode.</i></p>
 
       <!-- Formsender Settings -->
       <input type="hidden" name="last_name" value="" />
       <input type="hidden" name="token" value="15674hsda//*q23%^13jnxccv3ds54sa4g4sa532323!OoRdsfISDIdks38*(dsfjk)aS" />
-      <!-- The following must be set to http://www.osuosl.org/services/powerdev/request_hosting in production -->
       <input type="hidden" name="redirect" value="http://www.osuosl.org/form-submitted" />
-      <input type="hidden" name="mail_subject_prefix" value="New PowerLinux/OpenPOWER Hosting Request" />
+      <input type="hidden" name="mail_subject_prefix" value="New POWER CI Request" />
       <input type="hidden" name="mail_subject_key" value="project_name" />
-      <input type="hidden" name="send_to" value="powerdev" />
+      <input type="hidden" name="send_to" value="power-ci" />
       <!-- /Formsender Settings -->
 
       <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op"

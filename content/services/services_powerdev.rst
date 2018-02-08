@@ -68,8 +68,7 @@ in a virtual machine if need be. Users can also configure the system to run thei
 and binaries after running the build, and archive the build artifacts on the Jenkins server for later access. The
 service also supports providing e-mail notifications on build status and embedded build-notification for webpages.
 
-To request access to the POWER CI service, use our `OpenPOWER OpenStack request form`_ and make sure you fill out the
-information regarding POWER CI.
+To request access to the POWER CI service, use our `POWER CI request form`_.
 
 GPU
 ---
@@ -79,4 +78,5 @@ The second cluster is an OpenPOWER GPU based acceleration cluster offering POWER
 to the OpenPOWER GPU cluster, use our `OpenPOWER GPU request form`_.
 
 .. _OpenPOWER OpenStack request form: /services/powerdev/request_hosting
+.. _POWER CI request form: /services/ibm-z/request_ci
 .. _OpenPOWER GPU request form: /services/powerdev/request_gpu
