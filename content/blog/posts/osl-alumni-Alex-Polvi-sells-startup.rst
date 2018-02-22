@@ -5,6 +5,6 @@ OSL Alumni Alex Plovi sells CoreOS to RedHat
 :slug: osl-alumni-Alex-Polvi-sells-startup
 :tag: featured-stories
 
-CoreOS is a San Francisco based company that focuses on developing software for container management. Alex Polvi, the CEO of CoreOS and OSL alum, recently sold CoreOS to RedHat for $250 million. Congratulations, Alex!
+CoreOS is a San Francisco based company that focuses on developing software for container management. Alex Polvi, the CEO of CoreOS and OSL alum, recently `sold CoreOS to RedHat for $250 million`_. Congratulations, Alex!
 
 .. _article: https://www.redhat.com/en/about/press-releases/red-hat-acquire-coreos-expanding-its-kubernetes-and-containers-leadership
