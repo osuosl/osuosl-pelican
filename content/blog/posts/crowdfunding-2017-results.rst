@@ -4,7 +4,6 @@ Thank You for Supporting our Crowdfunding Campaign!
 :slug: crowdfunding-2017-results
 :author: Amanda Kelner
 :img: OSLWorkers2Adjusted.jpg
-:tag: featured-stories
 
 As of September 1, the OSL has concluded its first ever crowdfunding campaign.
 With the support of our donors and the larger open source community, we managed
