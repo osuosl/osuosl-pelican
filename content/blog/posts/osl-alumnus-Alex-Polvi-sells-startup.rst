@@ -1,8 +1,8 @@
-OSL Alumni Alex Plovi sells CoreOS to RedHat
+OSL Alumnus Alex Plovi sells CoreOS to RedHat
 ============================================
 :date: 2018-02-21
 :author: Cody Holliday
-:slug: osl-alumni-Alex-Polvi-sells-startup
+:slug: osl-alumnus-Alex-Polvi-sells-startup
 :img: COS_RHblog.png
 :tag: featured-stories
 
