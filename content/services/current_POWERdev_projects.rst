@@ -12,6 +12,11 @@ academic partners.
    :file: ./csv/powerdev_open_source_projects.csv
    :widths: 20,80
 
+.. csv-table:: OpenPOWER GPU Projects (15 projects)
+   :class: powerdev-tbl
+   :file: ./csv/powerdev_gpu_projects.csv
+   :widths: 20,80
+
 .. csv-table:: Academic Partners (9 projects)
    :class: powerdev-tbl
    :file: ./csv/powerdev_academic_partners.csv
