@@ -1,15 +1,16 @@
-"CASHX Pipeline", "Sequence alignment tools CASHX and pipeline were ported to work on the IBM POWER8 to take full advantage of higher thread count machines. CASHX is one of the few non-BWA based high throughput genome alignment tools."
-"Cuttlefish denovo DNA", "Eric Aker at PacBell are using the Power8 platform to test the denovo assembly of the Cuttlefish genome."
-"DIAMOND Sequence Alignment Tool", "Benjamin Buchfink, creator of the DIAMOND Sequence alignment tool, helped port this software onto the IBM POWER8 architecture based on requests from the research community. DIAMOND is a sequence aligner for protein and translated DNA searches, and it functions as a drop-in replacement for the NCBI Basic Local Alignment Search Tool."
-"FBPIC and Numba", "Rémi Lehe is working on installing Numba and FBPIC on an OpenPower plateform. Once the code is working they plan to run the test suite that we routinely use for Continuous Integration."
-"GeneMark", "Mark Borodovsky and Alexandre Lomsadze from GeneMark are currently working on porting tools onto the POWER8 platform. GeneMark and its associated tools are used throughout the genomics field for gene prediction."
-"Julia Language", "Collaboration between IBM, OSU and the Julia Language mathematical software community enabled developers to use graphics processing unit (GPU) technology, which made the software ready for the new CAPI and NVLink acceleration technologies. This was an instrumental step in getting independent software vendors to port to Power."
-"Ryan Kitchen", "CADA - CUDA Accelerated DNA Assembly as well as CASSA - CUDA Accelerated Scalable Sequence Aligner."
-"PyTorch", "Freddie Mendoza is working on PyTorch on the Power8 systems."
-"Texas A&M", "Jian Tao from Texas A&M is interested in testing the performance of the Power8 systems."
-"UNIVA", "The UNIVA team is working on a version of UGE that will support Power8-9 architectures for cross platform integration."
-"VSEARCH", "Torbjørn Rognes and Tomas Flourithe creators of VSEARCH are using the Power8 platform to build and provide binaries for their tool."
-"Virginia Tech", "James McClure is looking at IBM Power8 and developing tools on the platform."
-"Xiaoli Fern Lab OSU", "Xiaoli Fern lab is working on identification of bird sounds using GPU technology. They are currently testing tools on the Power8 platform with the P100 GPU on the board for increased performance."
-"Tensorflow on Power", "Community builds of the TensorFlowOpen Source project automatically built on Power."
-"GPGPUSim+Ramulator simulator", "Yunfan Li at Oregon State is Power to calibrate a cycle accurate GPU simulator with a real GPU chip."
+CASHX Pipeline,Sequence alignment tools CASHX and pipeline were ported to work on the IBM POWER8 to take full advantage of higher thread count machines. CASHX is one of the few non-BWA based high throughput genome alignment tools.
+CADA,CADA - CUDA Accelerated DNA Assembly is being developed by Ryan Kitchen to change the way genome assembly uses hardware resources. 
+CASSA,CASSA - CUDA Accelerated Scalable Sequence Aligner.The CGRB is working with Ryan Kitchen to develop this new alignment tool. 
+Cuttlefish denovo DNA,Eric Aker at PacBell are using the Power8 platform to test the denovo assembly of the Cuttlefish genome.
+DIAMOND Sequence Alignment Tool,"Benjamin Buchfink, creator of the DIAMOND Sequence alignment tool, helped port this software onto the IBM POWER8 architecture based on requests from the research community. DIAMOND is a sequence aligner for protein and translated DNA searches, and it functions as a drop-in replacement for the NCBI Basic Local Alignment Search Tool."
+FBPIC and Numba,Rémi Lehe is working on installing Numba and FBPIC on an OpenPower plateform. Once the code is working they plan to run the test suite that we routinely use for Continuous Integration.
+GeneMark,Mark Borodovsky and Alexandre Lomsadze from GeneMark are currently working on porting tools onto the POWER8 platform. GeneMark and its associated tools are used throughout the genomics field for gene prediction.
+GPGPUSim+Ramulator simulator,Yunfan Li at Oregon State is Power to calibrate a cycle accurate GPU simulator with a real GPU chip.
+Julia Language,"Collaboration between IBM, OSU and the Julia Language mathematical software community enabled developers to use graphics processing unit (GPU) technology, which made the software ready for the new CAPI and NVLink acceleration technologies. This was an instrumental step in getting independent software vendors to port to Power."
+PyTorch,Freddie Mendoza is working on PyTorch on the Power8 systems.
+Tensorflow on Power,Community builds of the TensorFlowOpen Source project automatically built on Power.
+Texas A&M,Jian Tao from Texas A&M is interested in testing the performance of the Power8 systems.
+UNIVA,The UNIVA team is working on a version of UGE that will support Power8-9 architectures for cross platform integration.
+Virginia Tech,James McClure is looking at IBM Power8 and developing tools on the platform.
+VSEARCH,Torbjørn Rognes and Tomas Flourithe creators of VSEARCH are using the Power8 platform to build and provide binaries for their tool.
+Xiaoli Fern Lab OSU,Xiaoli Fern lab is working on identification of bird sounds using GPU technology. They are currently testing tools on the Power8 platform with the P100 GPU on the board for increased performance.
