@@ -51,6 +51,7 @@
 "pgSphere","Provides ppc64le builds for pgSphere, a PostgreSQL extension for spherical geometry"
 "postgreSQL","Allows the postgres database system to build and troubleshoot on pp64le architecture on various distributions."
 "Presto","Supports efforts of a POWER8 ppc64le port of Presto, a distributed SQL query engine for running interactive analytic queries against big data sources"
+"PowerPC Notebook","Supports development and compiling efforts for Debian on PowerPC. The goal is to design an Open Hardware notebook motherboard based on the Power Architecture NXP T2080 CPU"
 "PyTorch","Python framework for tensors and deep neural networks. Uses POWER8 for continuous integration and functional testing"
 "qiskit-sdk-py","Python tools for running quantum information experiments"
 "RPM Fusion","A community driven third party repository for Fedora and Enterprise Linux. They use a dedicated VM as a builder connected to their main infrastructure for building packages for ppc64le platform"
