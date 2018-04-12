@@ -17,7 +17,7 @@ More information about running Linux on IBM Z can be found at IBM's `Linux on IB
 
 IBM Z Continuous Integration (IBM Z CI)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-An OSL-managed Jenkins service is hosted at https://ibm-z.osuosl.org. This
+An OSL-managed Jenkins service is hosted at https://ibmz-ci.osuosl.org. This
 service is intended to allow projects easier access to the s390x architecture
 via Jenkins.
 
