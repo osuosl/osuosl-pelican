@@ -121,6 +121,16 @@
         <div class="description">Some platforms may not be supported on a specific architecture, so please check with
             us first.</div>
       </div>
+      <div class="form-item webform-component webform-component-select" id="webform-component-gpu">
+        <label for="edit-submitted-gpu">GPU Access</label>
+        <select id="edit-submitted-gpu" name="gpu_access" class="form-select">
+          <option value="No" selected="selected">No</option>
+          <option value="Yes">Yes</option>
+        </select>
+        <div class="description">Thanks to a collaboration with the <a href="http://cgrb.oregonstate.edu/">Center for
+        Genome Research and Biocomputing (CGRB)</a>, our POWER CI system does have access to GPU's via Jenkins. If you
+        require GPU access, please answer "Yes".</div>
+      </div>
       <div class="form-item webform-component webform-component-textfield" id="webform-component-ci-github">
         <label for="edit-submitted-ci-github">GitHub Username(s) for POWER CI <span class="form-required"
             title="This field is required.">*</span></label>
