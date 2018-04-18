@@ -4,7 +4,6 @@ We're Hiring!
 :slug: were-hiring-feb-2018
 :author: Jonathan Frederick
 :img: CASS_group_photo_17.jpg
-:tag: featured-stories
 
 Are you a student at Oregon State University who likes working with open source
 software? If so, then we have a job for you! We currently have two
