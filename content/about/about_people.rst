@@ -239,3 +239,39 @@ https://github.com/TravisWhitehead
   **Nick on irc.freenode.net**
 
 whitehet
+
+.. raw:: html
+
+  <br/>
+
+`Hunter Lannon`_
+----------------
+
+.. image:: /images/hlannon.jpg
+    :width: 110px
+    :align: right
+    :alt: Hunter Lannon
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Hunter joined the OSL in March 2018 and is studying applied computer science
+with an emphasis on video game and simulation programming. He overheard a
+classmate talking about applying for CASS, and did some research on the OSL,
+which he found to be interesting. He hopes to learn more about the inner
+workings of GNU/Linux operating systems and security. He enjoys both CLI and
+graphical programming, hiking, biking, and the occasional unicycle ride through
+campus. He also has two pet rats: Calvin and Klaus the Mouse.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/kindlehl
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+kindlehl
