@@ -62,6 +62,7 @@
 "RPM Fusion","A community driven third party repository for Fedora and Enterprise Linux. They use a dedicated VM as a builder connected to their main infrastructure for building packages for ppc64le platform"
 "SHA-3","Ensures support and viability of Secure Hash Algorithm 3 on POWER, including POWER8 specific optimizations"
 "`Snowpatch`_","An open source tool which provides CI testing for open-source projects which use a traditional patches + email system for accepting contributions; improves the state of continuous integration for a number of open source projects which are critical to the OpenPOWER community, providing automated test capabilities, similar to work already being done on the x86 architecture"
+"Swift", "Fast and highly comprehensible programming language for Unix-based operating systems. Supports objects-oriented, protocol-oriented, and functional programming paradigms."
 "Tesseract-OCR", "Offers a POWER8 testing platform for Google's optical character recognition library, Tesseract OCR"
 "Tobin's Linux kernel","Supports a volunteer developer's efforts to test the Linux kernel on POWER"
 "Travis CI","Continuous Integration using Travis and Power"
