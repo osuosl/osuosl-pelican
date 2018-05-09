@@ -16,6 +16,7 @@
 "Elephant Shed","Provides ppc64le build and performance testing for Elephant Shed, a bundle of PostgreSQL tools and web UI for easy administration of PostgreSQL servers"
 "Firefox","Ports Mozilla Firefox to POWER8"
 "GCC/Clang","Contributes to improved support of GCC and Clang projects on POWER machines by working on IBM Linux Technology Center items on bountysource.com"
+"GCC Fortran", "Compiler optimizations and bug fixing for POWER port of GCC fortran compiler"
 "`Gentoo PowerPC Project`_","Part of Gentoo Linux and is responsible for porting Gentoo to PowerPC architecture of all flavors"
 "Ginga Middleware","ISDB middleware for interactive DTV. Supports project in porting to POWER8"
 "Go Language","Supports project specific porting efforts of POWER8 ppc64/ppc64le"
