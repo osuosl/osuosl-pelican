@@ -15,4 +15,4 @@ If you would like to read about his experience, `click here!`_
 Way to go Cody!
 
 .. _read more about the competition.: https://blogs.oregonstate.edu/eecsnews/2018/04/12/student-team-wins-regional-doe-cyber-defense-competition/
-.. _click here!: content/about/student_stories.rst 
+.. _click here!: ../../about/student_stories.rst 
