@@ -3,7 +3,7 @@ OSL's Cody Holliday Wins Regional DOE Cyber Defense Competition
 :date: 2018-04-18
 :slug: cody-holliday-ctf-2018
 :author: Travis Whitehead
-:img: cody-holliday-ctf-2018
+:img: cody-holliday-ctf-2018.jpg
 :tag: featured-stories
 
 The Open Source Lab's Cody Holliday recently competed on a team with five other
@@ -15,4 +15,4 @@ If you would like to read about his experience, `click here!`_
 Way to go Cody!
 
 .. _read more about the competition.: https://blogs.oregonstate.edu/eecsnews/2018/04/12/student-team-wins-regional-doe-cyber-defense-competition/
-.. _click here!: ../../about/student_stories.rst 
+.. _click here!: /student-stories/ 
