@@ -27,6 +27,7 @@ node, and also gained an appreciation of open source software.
 Cody Holliday on the Department of Energy Cyber Defense Competition 2018
 ------------------------------------------------------------------------
 4/23/18
+
 I took part in a Cyber Defense Competition hosted by the Department of
 Energy, and it was a fantastic experience! Our team worked hard to ensure that
 we had a fighting chance at the competition, and we had much needed help
@@ -52,7 +53,7 @@ to allow logins through LDAP. Despite my many attempts at configuring Kerberos I
 kept running into the enigmatic "su: system error". In hindsight I should have
 investigated "su", but I had my blinders on trying to get LDAP to work. Besides
 configuring LDAP, I removed a couple webservers that were running backdoor
-services and locked down some serivce accounts that had way too many permissions.
+services and locked down some service accounts that had way too many permissions.
 
 The final network layout consisted of 8 virtual machines: one web server, one
 MySQL/FTP server, one HMI access server, two Windows DNS/Active Directory servers,
@@ -70,7 +71,12 @@ When we were nearing the end of the competition the Red Team taunted all the
 Blue Teams by playing Disco Inferno and burning out the motors of all the
 extractors that were compromised.
 
-Then it turns out we were first place in our region and there was much rejoicing.
+By the end we were in 2nd or 3rd place nationally before the final scoring.
+Once the final score had been released we were surprised to see that other
+school had risen so much that we were in fourth nationally, but we were
+definitely pleased to see that we had won first a our location. All in all
+it was a rewarding experience that I wish I could do again this coming fall,
+but that is another story all to itself.
 
 Jack Twilley on Leaving the OSL
 -------------------------------
