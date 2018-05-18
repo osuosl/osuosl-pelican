@@ -74,7 +74,7 @@ extractors that were compromised.
 By the end we were in 2nd or 3rd place nationally before the final scoring.
 Once the final score had been released we were surprised to see that other
 school had risen so much that we were in fourth nationally, but we were
-definitely pleased to see that we had won first a our location. All in all
+definitely pleased to see that we had won first at our location. All in all
 it was a rewarding experience that I wish I could do again this coming fall,
 but that is another story all to itself.
 
