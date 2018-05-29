@@ -73,10 +73,18 @@ To request access to the POWER CI service, use our `POWER CI request form`_.
 GPU
 ---
 
-The second cluster is an OpenPOWER GPU based acceleration cluster offering POWER8+
-"Minsky" servers with NVIDIA P100 GPUs connected via NVLink.  To request access
-to the OpenPOWER GPU cluster, use our `OpenPOWER GPU request form`_.
+The second cluster is an OpenPOWER GPU based acceleration cluster offering POWER8+ "Minsky" servers with NVIDIA P100
+GPUs connected via NVLink. This cluster is hosted and provided by the `Center for Genome Research & Biocomputing
+(CGRB)`_ at OSU through a partnership with the OSU Open Source Lab. This platform is powered using `Sun of Grid Engine
+(SGE)`_ instead of our OpenStack infrastructure. This platform has access to a variety of software and libraries and
+also includes access to GPU enabled Docker. For more information on how this infrastructure is setup, please read this
+`PDF`_.
+
+To request access to the OpenPOWER GPU cluster, use our `OpenPOWER GPU request form`_.
 
 .. _OpenPOWER OpenStack request form: /services/powerdev/request_hosting
 .. _POWER CI request form: /services/ibm-z/request_ci
+.. _Center for Genome Research & Biocomputing (CGRB): http://cgrb.oregonstate.edu/
+.. _Sun of Grid Engine (SGE): https://arc.liv.ac.uk/trac/SGE
+.. _PDF: /downloads/OpenPOWER_Developement_GPU_Access.pdf
 .. _OpenPOWER GPU request form: /services/powerdev/request_gpu
