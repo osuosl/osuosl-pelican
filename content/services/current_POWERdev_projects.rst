@@ -14,7 +14,7 @@ academic partners.
 `OpenPOWER GPU Projects`_
 
 .. _`FOSS Projects`:
-.. csv-table:: FOSS Projects (71 projects)
+.. csv-table:: FOSS Projects (73 projects)
    :class: powerdev-tbl
    :file: ./csv/powerdev_open_source_projects.csv
    :widths: 20,80
