@@ -275,3 +275,38 @@ https://github.com/kindlehl
   **Nick on irc.freenode.net**
 
 kindlehl
+
+.. raw:: html
+
+  <br/>
+
+`Jason Chen`_
+----------------
+
+.. image:: /images/jchen.jpg
+    :width: 110px
+    :align: right
+    :alt: Jason Chen
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Jason joined the OSL in April 2018 and is studying computer science and 
+mathematics. He joined the Open Source Lab to learn more about how systems 
+operate at a large scale. During his free time, he likes to watch basketball, 
+football, and soccer, listen to Air Traffic Control, and program.  He hopes to 
+work in a software engineering-related field after graduation, but if that does 
+not work out, he might go fly planes instead.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/jcorme
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+jcorme
