@@ -281,7 +281,7 @@ kindlehl
   <br/>
 
 `Jason Chen`_
-----------------
+-------------
 
 .. image:: /images/jchen.jpg
     :width: 110px
@@ -292,11 +292,12 @@ kindlehl
 
   **Student Systems Engineer**
 
-Jason joined the OSL in April 2018 and is studying computer science and 
-mathematics. He joined the Open Source Lab to learn more about how systems 
-operate at a large scale. During his free time, he likes to watch basketball, 
-football, and soccer, listen to Air Traffic Control, and program.  He hopes to 
-work in a software engineering-related field after graduation, but if that does 
+Jason joined the OSL in April 2018 and is studying computer science and
+mathematics. He joined the lab to work with open source projects and gain a
+better understanding of how software is deployed at a large scale. During his
+free time, he likes to watch various sports, including basketball,
+football, and soccer, listen to Air Traffic Control, and program. He hopes to
+work in a software engineering-related field after graduation, but if that does
 not work out, he might go fly planes instead.
 
 .. class:: no-breaks
