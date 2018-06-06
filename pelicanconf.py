@@ -14,7 +14,7 @@ AUTHOR = u'OSU OSL'
 SITENAME = u'OSU Open Source Lab'
 SITEURL = ''
 PATH = 'content'
-STATIC_PATHS = ['downloads']
+STATIC_PATHS = ['downloads', 'images']
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_DATE_FORMAT = '%B %e, %Y'
 
