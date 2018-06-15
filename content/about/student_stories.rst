@@ -14,6 +14,8 @@ Goodbye Letter from Graduating Senior, Cody Holiday
 
 6/14/18
 
+..image::/images/Cody_OSL_awards.jpg
+
 The Open Source Lab has treated me well. I came here bright eyed and full 
 of wonder, fascinated by the racks and racks of servers we had in the data 
 center. Fascinated at the treasure trove of artifacts held in the back 
