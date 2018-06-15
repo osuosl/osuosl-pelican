@@ -15,7 +15,6 @@ academic partners.
 
 .. _`FOSS Projects`:
 .. csv-table:: FOSS Projects (74 projects)
-=======
    :class: powerdev-tbl
    :file: ./csv/powerdev_open_source_projects.csv
    :widths: 20,80
