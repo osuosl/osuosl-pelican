@@ -21,7 +21,7 @@ The Open Source Lab has treated me well. I came here bright eyed and full of
 wonder, fascinated by the racks and racks of servers we had in the data center.
 Fascinated at the treasure trove of artifacts held in the back room from
 conventions passed, old CDs labeled "Fedora 10" or "Ubuntu 8".  That scrap of
-paper on the wall of an IRC log with Linux Torvalds.
+paper on the wall of an IRC log with Linus Torvalds.
 
 I may have been infatuated with the aura of the OSL, but the what made it all
 worthwhile were the people. Justin, Chris, Anthony, Lee, Jack (whose goodbye is
