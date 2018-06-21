@@ -4,7 +4,6 @@ A Message from the Director
 :slug: a-message-from-the-director
 :author: Lance Albertson
 :img: OSLSignPicture.jpg
-:tag: featured-stories
 
 Since its creation in 2002, the Open Source Lab (OSL) has been a beacon of
 innovation, experiential learning, and hosting at Oregon State University and
