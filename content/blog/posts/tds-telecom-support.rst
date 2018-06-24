@@ -3,7 +3,7 @@ TDS Telecom Support of OSU Open Source Lab Tops $5 Million
 :date: 2018-06-20
 :slug: tds-telecom-support 
 :author: Mohamed Eldebri
-:img: tds_logo_2018.png
+:img: tds_osl_logos.png
 :tag: featured-stories
 
 TDS Telecommunications, a telephone and Internet services provider has been
