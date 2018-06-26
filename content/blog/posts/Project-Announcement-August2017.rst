@@ -4,7 +4,6 @@ New Project: polr
 :slug: project-announcement-polr
 :author: Amanda Kelner
 :img: NewProjectAdjustedImage.png
-:tag: featured-stories
 
 In July 2017, the OSL began providing virtual machine and database for hosting
 the demo service of polr. The project itself simplifies long and complicated
