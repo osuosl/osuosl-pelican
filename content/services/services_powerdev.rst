@@ -83,7 +83,7 @@ also includes access to GPU enabled Docker. For more information on how this inf
 To request access to the OpenPOWER GPU cluster, use our `OpenPOWER GPU request form`_.
 
 .. _OpenPOWER OpenStack request form: /services/powerdev/request_hosting
-.. _POWER CI request form: /services/ibm-z/request_ci
+.. _POWER CI request form: /services/powerdev/request_powerci
 .. _Center for Genome Research & Biocomputing (CGRB): http://cgrb.oregonstate.edu/
 .. _Sun of Grid Engine (SGE): https://arc.liv.ac.uk/trac/SGE
 .. _PDF: /downloads/OpenPOWER_Developement_GPU_Access.pdf
