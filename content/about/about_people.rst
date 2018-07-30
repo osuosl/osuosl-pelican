@@ -121,39 +121,6 @@ doublej472
 
   <br/>
 
-`Cody Holliday`_
-----------------
-
-.. image:: /images/cholliday.jpg
-    :width: 110px
-    :align: right
-    :alt: Cody Holliday
-
-.. class:: no-breaks
-
-  **Student Systems Engineer**
-
-Cody joined the OSL in June of 2016 and studies Computer Science. He is excited
-to learn through his experience with the OSL and expand his knowledge on a
-variety of topics including servers, SysAdmin skills, and Linux. During the
-school year, Cody is a DJ at KBVR, OSU's student run radio station.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/Codysseus
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-codysseus
-
-.. raw:: html
-
-  <br/>
-
 `Jerry Peng`_
 -------------
 
@@ -186,27 +153,6 @@ jerrypeng
 
 .. raw:: html
 
-  <br/>
-
-`Bailey Singleton`_
--------------------
-
-.. image:: /images/generalstaffpic.jpg
-    :width: 110px
-    :align: right
-    :alt: No Image
-
-.. class:: no-breaks
-
-  **Student Developer**
-
-.. raw:: html
-
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
   <br/>
 
 `Travis Whitehead`_
@@ -262,7 +208,7 @@ classmate talking about applying for CASS, and did some research on the OSL,
 which he found to be interesting. He hopes to learn more about the inner
 workings of GNU/Linux operating systems and security. He enjoys both CLI and
 graphical programming, hiking, biking, and the occasional unicycle ride through
-campus. He also has two pet rats: Calvin and Klaus the Mouse.
+campus. He also has three pet rats: Calvin, Earl the Squirrel, and Klaus the Mouse.
 
 .. class:: no-breaks
 
