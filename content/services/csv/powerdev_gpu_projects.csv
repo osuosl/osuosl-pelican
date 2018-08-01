@@ -10,6 +10,7 @@
 "Julia Language","Collaboration between IBM, OSU, and Julia Language mathematical software community enabled developers to use graphics processing unit (GPU) technology. This made the software ready for the new CAPI and NVLink acceleration technologies. This was an instrumental step in getting independent software vendors to port to Power."
 "Patagonia","Natural Iron Fertilization."
 "PyTorch","Freddie Mendoza is working on PyTorch on the Power8 systems."
+"PyTorch","Using GPUs on Power to demo running sample AI workloads based on TensorFlow & PyTorch for a workshop event."
 "The Street-based Environmental Exposure Project","The Street-based Environmental Exposure Project is using Power8 for compiling builds and performance testing. Their project is working to understand links between built environment exposures and human health."
 "Tensorflow","Ted Chang is building and testing the latest source on Power because is not a supported architecture of Tensorflow."
 "Tensorflow on Power","Community builds of the TensorFlow Open Source project automatically built on Power."
