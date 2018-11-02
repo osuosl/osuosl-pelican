@@ -45,12 +45,10 @@ Two clusters of POWER resources are hosted at the Open Source Lab:
 OpenStack
 ---------
 
-The first cluster is an OpenStack based cluster offering POWER8 (POWER9 once available)
-LE instances running on KVM and providing access via OpenStack's API and GUI
-interface.  These shared systems are intended for functional development and
-continuous integration work, but are not ideal for performance testing.  We
-start projects out with a small quota, but can increase given resource
-availability and justification.
+The first cluster is an OpenStack based cluster offering POWER8 & POWER9 LE instances running on KVM and providing
+access via OpenStack's API and GUI interface.  These shared systems are intended for functional development and
+continuous integration work, but are not ideal for performance testing.  We start projects out with a small quota, but
+can increase given resource availability and justification.
 
 To request access to an OpenStack POWER instance, use our `OpenPOWER OpenStack request form`_.
 
