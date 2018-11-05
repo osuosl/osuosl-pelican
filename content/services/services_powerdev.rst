@@ -45,12 +45,10 @@ Two clusters of POWER resources are hosted at the Open Source Lab:
 OpenStack
 ---------
 
-The first cluster is an OpenStack based cluster offering POWER8 (POWER9 once available)
-LE instances running on KVM and providing access via OpenStack's API and GUI
-interface.  These shared systems are intended for functional development and
-continuous integration work, but are not ideal for performance testing.  We
-start projects out with a small quota, but can increase given resource
-availability and justification.
+The first cluster is an OpenStack based cluster offering POWER8 & POWER9 LE instances running on KVM and providing
+access via OpenStack's API and GUI interface.  These shared systems are intended for functional development and
+continuous integration work, but are not ideal for performance testing.  We start projects out with a small quota, but
+can increase given resource availability and justification.
 
 To request access to an OpenStack POWER instance, use our `OpenPOWER OpenStack request form`_.
 
@@ -74,11 +72,11 @@ GPU
 ---
 
 The second cluster is an OpenPOWER GPU based acceleration cluster offering POWER8+ "Minsky" servers with NVIDIA P100
-GPUs connected via NVLink. This cluster is hosted and provided by the `Center for Genome Research & Biocomputing
-(CGRB)`_ at OSU through a partnership with the OSU Open Source Lab. This platform is powered using `Sun of Grid Engine
-(SGE)`_ instead of our OpenStack infrastructure. This platform has access to a variety of software and libraries and
-also includes access to GPU enabled Docker. For more information on how this infrastructure is setup, please read this
-`PDF`_.
+GPUs connected via NVLink and POWER9 AC922 "Newell" servers with NVIDIA V100 GPUs connected via NVLink. This cluster is
+hosted and provided by the `Center for Genome Research & Biocomputing (CGRB)`_ at OSU through a partnership with the
+OSU Open Source Lab.  This platform is powered using `Sun of Grid Engine (SGE)`_ instead of our OpenStack
+infrastructure. This platform has access to a variety of software and libraries and also includes access to GPU enabled
+Docker. For more information on how this infrastructure is setup, please read this `PDF`_.
 
 To request access to the OpenPOWER GPU cluster, use our `OpenPOWER GPU request form`_.
 
