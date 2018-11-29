@@ -1,6 +1,7 @@
-"CASHX Pipeline","Sequence alignment tools CASHX and pipeline were ported to work on the IBM POWER8 to take full advantage of higher thread count machines. CASHX is one of the few non-BWA based high throughput genome alignment tools."
 "CADA","CADA - CUDA Accelerated DNA Assembly is being developed by Ryan Kitchen to change the way genome assembly uses hardware resources."
+"CASHX Pipeline","Sequence alignment tools CASHX and pipeline were ported to work on the IBM POWER8 to take full advantage of higher thread count machines. CASHX is one of the few non-BWA based high throughput genome alignment tools."
 "CASSA","CASSA - CUDA Accelerated Scalable Sequence Aligner. The CGRB is working with Ryan Kitchen to develop this new alignment tool."
+"Cryo-EM","Frank Liu and Suvadip Paul are using GPU Acceleration on Power8 and Power9 architecture to build, debug, and test software used to examine and model highly detailed microscopic structures such as proteins gathered using Cryo-EM technology."
 "Cuttlefish denovo DNA","Eric Aker at PacBell is using the Power8 platform to test the denovo assembly of the Cuttlefish genome."
 "Deeplearning4j","Deeplearning4j is a Java-based toolkit for building/training/deploying deep neural networks. POWER architecture is one of the main platforms that Deeplearning4j project is going to support."
 "DIAMOND Sequence Alignment Tool","Benjamin Buchfink - creator of the DIAMOND Sequence alignment tool - helped port this software onto the IBM POWER8 architecture based on requests from the research community. DIAMOND is a sequence aligner for protein and translated DNA searches and it functions as a drop-in replacement for the NCBI Basic Local Alignment Search Tool."
