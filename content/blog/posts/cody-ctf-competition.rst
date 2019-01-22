@@ -4,7 +4,6 @@ OSL's Cody Holliday Wins Regional DOE Cyber Defense Competition
 :slug: cody-holliday-ctf-2018
 :author: Travis Whitehead
 :img: cody-holliday-ctf-2018.jpg
-:tag: featured-stories
 
 The Open Source Lab's Cody Holliday recently competed on a team with five other
 students at the Department of Energy Cyber Defense Competition. Despite that

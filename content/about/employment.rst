@@ -32,9 +32,8 @@ All positions are pool positions and are filled as they become available. To
 check if we are hiring, go to the `student jobs page`_ and search for "open
 source lab" or one of the positions listed below.
 
-**Positions**
+**Position(s)**
 
-* Student Developer
 * Student Systems Engineer
 
 Current Student Employee Resources
