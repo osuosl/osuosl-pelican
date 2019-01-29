@@ -12,34 +12,43 @@ provide.
 Virtualization
 --------------
 
-.. image:: /images/sysadmin.jpg
+.. image:: /images/student-sysadmin.jpg
     :scale: 100%
     :align: right
     :alt: Hosting Detail - Sysadmin
 
-Ganeti
-^^^^^^
-
-We offer virtual machines utilizing an open source stack consisting of `Ganeti`_ and the `KVM hypervisor`_. We have a
-cluster for small projects and offer VMs at a variety of sizes and platforms, all with full redundant storage. Ganeti
-is an Infrastructure as a Service (`IaaS`_) platform that we primarily use for long running VMs that need minimal
-changes. We provide minimal admin access to the VMs to project owners.
-
-.. _Ganeti: http://www.ganeti.org/
-.. _KVM hypervisor: http://www.linux-kvm.org/page/Main_Page
-.. _IaaS: https://en.wikipedia.org/wiki/Cloud_computing#Infrastructure_as_a_service_.28IaaS.29
+We currently have two virtualization clusters available for use: `Ganeti`_ and `OpenStack`_. Depending on the project's
+use case, we host their VM(s) on either or both platforms. Both clusters are powered with the `KVM hypervisor`_.
 
 OpenStack
 ^^^^^^^^^
 
-*ETA late 2017*
+OpenStack offers a full API and web interface which allows projects to manage their VM resources as they see fit. Our
+OpenStack cluster currently offers the following services:
 
-We're working on offering access to an `OpenStack`_ cluster hosted at the OSL for projects to use in late 2017. We've
-been running an internal cluster for several years and have been working on getting the platform in a stable state for
-us to start offering to the projects. For now the target is primarily for compute services but we may expand that later
-as the need arises.
+- Compute (nova)
+- Cinder (cinder)
+- Image (glance)
+- Network (neutron)
+- Orchestration (heat)
+
+We plan to add more OpenStack services as needed by projects. Our cluster is currently running the Ocata release with
+eight compute nodes. Storage is powered via an six-node Ceph cluster. If you need to dynamically create/destroy/manage
+your services, our OpenStack cluster is the way to go.
 
 .. _OpenStack: http://openstack.org
+
+Ganeti
+^^^^^^
+
+We have used Ganeti for ten years and it continues to be the stable solution for long running VMs that need minimal
+changes. We have a cluster for small projects and offer VMs at a variety of sizes and platforms, all with full
+redundant storage using DRBD. Ganeti is very simple to use and maintain, however it doesn't provide a public API to
+deploy and manage the VMs. We do have a simple web management interface which allows projects to access the console and
+power the VM on and off as needed.
+
+.. _Ganeti: http://www.ganeti.org/
+.. _KVM hypervisor: http://www.linux-kvm.org/page/Main_Page
 
 FTP Mirroring
 -------------
@@ -47,7 +56,7 @@ FTP Mirroring
 We have a cluster of three servers behind the `ftp.osuosl.org`_ name with a total bandwidth capacity of more than 50
 gigabits per second. These servers are hosted geographically across the United States. Instead of pushing files and
 releases out from your own server, let us take care of the dirty work for you. We currently host approximately 100
-projects on our mirroring servers using around 8TB of disk space. We do our best to host as many projects as we can,
+projects on our mirroring servers using around 11TB of disk space. We do our best to host as many projects as we can,
 however space is limited.
 
 .. _ftp.osuosl.org: http://ftp.osuosl.org/
