@@ -11,6 +11,7 @@ projects may have hundreds of sub-projects (such as the Apache Software Foundati
 
 Service Descriptions:
 
+:build-farm: Build farm server hosting hosted using OpenCompute hardware
 :co-location: Physical server hosting
 :mailing-list: Mailman list hosting
 :mirroring: HTTP/FTP Mirror hosting on ftp.osuosl.org
