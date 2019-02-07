@@ -5,12 +5,28 @@ Sponsors
 :menu: Donate, Sponsors, 2
 
 Below are groups who support the Open Source Lab through annual contributions of
-*$25,000* or more during fiscal year 2017.
+*$25,000* or more during fiscal year 2018 and 2019.
+
+.. image:: /images/ibm-logo_small.jpg
+  :width: 200
+  :alt: IBM Logo
+
+IBM has contributed to projects hosted at the Open Source Lab by donating
+hardware resources and through financial contributions.
+
+IBM has long been an advocate, sponsor and contributor to the Linux developer
+community and Open Technology development. Continuing this tradition of support,
+IBM has contributed a number of POWER servers to the OSL for the purpose of
+Linux and open source project development by the community on the Power
+Architecture. Please see our `development hosting`_ page for more information
+and SSH-based remote access to Linux on POWER servers.
+
+.. _development hosting: /services/powerdev
 
 .. image:: /images/Google_2015_logo.svg
-    :scale: 100%
-    :alt: Google Logo
-    :target: http://www.google.com/
+  :width: 200
+  :alt: Google Logo
+  :target: http://www.google.com/
 
 Google is one of the world's leading search engines and a leader in the Web
 services industry. According to their website, "Google's mission is to organize
@@ -25,53 +41,10 @@ producing open code of their own, and sponsoring the Summer of Code program.
 Each year Google puts millions of dollars toward open source research and
 development through this program.
 
-.. image:: /images/ibm-logo_small.jpg
-    :scale: 100%
-    :alt: IBM Logo
-
-IBM has contributed to projects hosted at the Open Source Lab by donating
-hardware resources and through financial contributions.
-
-IBM has long been an advocate, sponsor and contributor to the Linux developer
-community and Open Technology development. Continuing this tradition of support,
-IBM has contributed a number of POWER servers to the OSL for the purpose of
-Linux and open source project development by the community on the Power
-Architecture. Please see our `development hosting`_ page for more information
-and SSH-based remote access to Linux on POWER servers.
-
-.. _development hosting: /services/powerdev
-
-.. image:: /images/tds_logo.jpg
-    :scale: 100%
-    :alt: TDS Logo
-    :target: http://tdstelecom.com/
-
-TDS Telecom is a major telephone and Internet services provider. TDS Telecom has
-made a large donation of bandwidth to the Open Source Lab, helping millions of
-people review or download free software every day.
-
-For a five-year period, the OSL will receive 40 gigabits of bandwidth. In
-addition, OSU servers will be hosted in a TDS data center. The bandwidth
-provided gives the OSL the ability to host FTP servers in both New York, N.Y.,
-and Chicago, Ill., where files for many open source projects are mirrored for
-download from the main FTP server hosted in Corvallis, Ore.
-
-.. image:: /images/dell_emc_logo_sponsors.png
-    :scale: 100%
-    :alt: DellEMC Logo
-    :target: https://www.delltechnologies.com/en-us/index.htm?ST=dell%20emc%20logo&dgc=ST&cid=304362&lid=5774484&acd=123092124872795912&ven1=L53S8tad&ven2=e&ven3=111103645177538844
-
-DellEMC (formerly EMC Corporation) is a leader in data storage technology.
-DellEMC sponsors the OSL through financial grants and in-kind hardware
-donations. This funding helps the OSL provide a stable testing platform for open
-source projects including mentoring students on cloud technologies such as
-Openstack.
-
-
 .. image:: /images/facebook_logo_gold_sponsor.png
-    :scale: 100%
-    :alt: Facebook Logo
-    :target: http://facebook.com/
+  :width: 200
+  :alt: Facebook Logo
+  :target: http://facebook.com/
 
 Facebook is a social utility that helps more than 900 million people around the
 world communicate more efficiently with their friends, family and coworkers.
@@ -83,3 +56,28 @@ including HipHop for PHP, Cassandra, Hive, Scribe and Thrift. Facebook engineers
 actively contribute and participate in various open source projects, especially
 around the Apache Hadoop ecosystem, developing technologies that facilitate the
 sharing of information through the social graph.
+
+.. image:: /images/handshake-logo.svg
+  :width: 200
+  :alt: Handshake Logo
+  :target: https://handshake.org/
+
+Handshake is a decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in
+charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities. Its
+purpose is not to replace the DNS protocol, but to replace the root zone file and the root servers with a public
+commons.
+
+.. image:: /images/tds_logo.jpg
+  :width: 200
+  :alt: TDS Logo
+  :target: http://tdstelecom.com/
+
+TDS Telecom is a major telephone and Internet services provider. TDS Telecom has
+made a large donation of bandwidth to the Open Source Lab, helping millions of
+people review or download free software every day.
+
+For a five-year period, the OSL will receive 40 gigabits of bandwidth. In
+addition, OSU servers will be hosted in a TDS data center. The bandwidth
+provided gives the OSL the ability to host FTP servers in both New York, N.Y.,
+and Chicago, Ill., where files for many open source projects are mirrored for
+download from the main FTP server hosted in Corvallis, Ore.
