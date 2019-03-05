@@ -1,8 +1,8 @@
-`Building a Bright Future With DevOps </blog/devops>`_
-------------------------------------------------------
+Building a Bright Future With DevOps
+====================================
 :date: 2012-08-02
 :author: Kayla Harr
-:slug: blog/devops
+:slug: devops
 
 Submitted by Kayla Harr on August 2, 2012
 

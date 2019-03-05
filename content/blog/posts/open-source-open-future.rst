@@ -2,7 +2,7 @@ Open Source, Open Future
 ========================
 :date: 2012-05-10
 :author: Kayla Harr
-:slug: blog/open-source-open-future
+:slug: open-source-open-future
 
 Submitted by Kayla Harr on May 10, 2012
 
