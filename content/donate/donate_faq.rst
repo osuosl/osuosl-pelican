@@ -152,14 +152,8 @@ Drupal, and many others. For a full list, please see our `projects page`_.
 
 **How is the OSUOSL run?**
 
-We have four full-time staff members and we employ about twenty students at any
-given time. The full-time staff consists of:
-
-- A Director to oversee all activities of the lab
-- A Lead Software Engineer to serve as our lead developer and to oversee work
-  done by our student developers
-- Two Systems Administrator/Architects to design and manage our hosting
-  infrastructure, and to oversee work done by our student system administrators
+We have one full-time Director who oversees all activities of the lab and we employ about seven to ten students at any
+given time.
 
 The OSUOSL Advisory Council, a group of experts from open source projects and
 industry, for suggestions and advice on opportunities and direction for the lab.
