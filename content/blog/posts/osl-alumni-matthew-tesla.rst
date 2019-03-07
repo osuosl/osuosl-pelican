@@ -3,7 +3,7 @@ OSL Alumni Matthew Johnson on working at Tesla
 :date: 2019-03-07
 :slug: osl-alumni-matthew-johnson
 :author: Jerry Peng
-:img: matthew.png
+:img: matthew.jpg
 :tag: featured-stories
 
 Matthew Johnson is an OSL alumni who currently works at Tesla as a senior software engineer.
