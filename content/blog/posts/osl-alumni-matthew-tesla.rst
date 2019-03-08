@@ -15,4 +15,9 @@ He recently sat down with College of Engineering to talk about his experience wo
 At Oregon State, he worked for the Open Source Lab and received a scholarship from CBT Nuggets. 
 He now works for Tesla as a senior software engineer."
 
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/uHvRPlV0Fg8" frameborder="0"
+    allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 .. _YouTube Video\: Graduate Matthew Johnson: https://www.youtube.com/watch?v=uHvRPlV0Fg8
