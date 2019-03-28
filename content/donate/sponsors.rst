@@ -4,7 +4,7 @@ Sponsors
 :title: Sponsors
 :menu: Donate, Sponsors, 2
 
-Below are groups who support the Open Source Lab through annual contributions of *$25,000* or more during fiscal year
+Below are groups who supported the Open Source Lab through annual contributions of *$25,000* or more during fiscal years
 2018 and 2019.
 
 .. image:: /images/ibm-logo_small.jpg
@@ -42,11 +42,11 @@ of dollars toward open source research and development through this program.
   :target: http://facebook.com/
 
 Facebook is a social utility that helps more than 2 billion people around the world communicate more efficiently with
-their friends, family and coworkers.
+their friends, family and co-workers.
 
 The site has been built on common open source software such as Linux, Apache, MySQL and PHP, and over the past few
 years the company has developed a number of open source infrastructure technologies to support the website's growth
-including HipHop for PHP, Cassandra, Hive, Scribe and Thrift. Facebook engineers actively contribute and participate in
+including HipHop for PHP, Cassandra, Hive, Scribe and Thrift. Facebook engineers actively contribute to and participate in
 various open source projects, especially around the Apache Hadoop ecosystem, developing technologies that facilitate
 the sharing of information through the social graph.
 
@@ -74,5 +74,5 @@ the Open Source Lab, helping millions of people review or download free software
 
 For a five-year period, the OSL will receive 40 gigabits of bandwidth. In addition, several OSU servers will be hosted
 at several TDS data centers. The bandwidth provided gives the OSL the ability to host FTP servers in both New York,
-N.Y., and Chicago, Ill., where files for many open source projects are mirrored for download from the main FTP server
-hosted in Corvallis, Ore.
+NY, and Chicago, IL, where files for many open source projects are mirrored for download from the main FTP server
+hosted in Corvallis, OR.

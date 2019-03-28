@@ -152,7 +152,7 @@ Drupal, and many others. For a full list, please see our `projects page`_.
 
 **How is the OSUOSL run?**
 
-We have one full-time Director who oversees all activities of the lab and we employ about seven to ten students at any
+We have one full-time Director who oversees all lab activities, and we employ about seven to ten students at any
 given time.
 
 The OSUOSL Advisory Council, a group of experts from open source projects and

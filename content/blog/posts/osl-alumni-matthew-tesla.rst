@@ -8,7 +8,7 @@ OSL Alumnus Matthew Johnson on working at Tesla
 
 
 Matthew Johnson is an OSU alumnus who now works at Tesla as a senior software engineer.  He is a veteran of the U.S
-Marine Corp Infantry and served as a police officer.  At Oregon State University, he worked for the Open Source Lab and
+Marine Corps Infantry and served as a law enforcement officer.  At Oregon State University, he worked for the Open Source Lab and
 received a scholarship from CBT Nuggets.  He recently sat down with College of Engineering to talk about his experience
 working at Tesla.
 

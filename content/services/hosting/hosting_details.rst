@@ -20,10 +20,10 @@ Managed
 
 For managed hosting, we will take care of your system(s) using our configuration management which ensures your systems
 are always up to date, stable and tested configurations, and automated. We currently use `Chef`_ to manage all of our
-systems and can create a project specific cookbook if you want to assist in managing the system. We'll also configure
+systems and can create a project-specific cookbook if you want to assist in managing the system. We'll also configure
 and maintain all of the services running on your system(s) including monitoring them and backing up any data.
 
-Managed systems are ideal for smaller projects that have simple requirements and don't want to deal with the day-to-day
+Managed systems are ideal for smaller projects that have simple requirements and don't want to deal with day-to-day
 system administration tasks.
 
 .. _Chef: https://www.chef.io/
@@ -32,7 +32,7 @@ Unmanaged
 ^^^^^^^^^
 
 Unmanaged hosting means you control everything about your system(s). We only require that you keep one sudo-enabled
-account on the system for us to use as needed for troubleshooting needs. We will not actively manage, monitor or back
+account on the system for us to use as needed for troubleshooting. We will not actively manage, monitor or back
 up these systems unless requested. If you run into an issue with your unmanaged system(s), we're still available to
 help of course!
 
@@ -60,7 +60,7 @@ OpenStack cluster currently offers the following services:
 - Orchestration (heat)
 
 We plan to add more OpenStack services as needed by projects. Our cluster is currently running the Ocata release with
-eight compute nodes. Storage is powered via an six-node Ceph cluster. If you need to dynamically create/destroy/manage
+eight compute nodes. Storage is powered via a six-node Ceph cluster. If you need to dynamically create/destroy/manage
 your services, our OpenStack cluster is the way to go.
 
 .. _OpenStack: http://openstack.org
@@ -68,9 +68,9 @@ your services, our OpenStack cluster is the way to go.
 Ganeti
 ^^^^^^
 
-We have used Ganeti for ten years and it continues to be the stable solution for long running VMs that need minimal
+We have used Ganeti for ten years and it continues to be the stable solution for long-running VMs that need minimal
 changes. We have a cluster with eight nodes for small projects and offer VMs at a variety of sizes and platforms, all
-with full redundant storage using DRBD. Ganeti is very simple to use and maintain, however it doesn't provide a public
+with full redundant storage using DRBD. Ganeti is very simple to use and maintain; however, it doesn't provide a public
 API to deploy and manage the VMs. We do have a simple web management interface which allows projects to access the
 console and power the VM on and off as needed.
 

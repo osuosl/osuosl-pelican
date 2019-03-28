@@ -5,7 +5,7 @@ Hardware Donations
 :menu: Donate, Hardware Donations, 1
 
 The OSL has a very limited budget to purchase additional hardware which supports the projects we host. We rely heavily
-on in-kind donations to refresh our hardware. Any hardware you donate to the OSL will be tax deductible based on it's
+on in-kind donations to refresh our hardware. Any hardware you donate to the OSL will be tax deductible based on its'
 current value.
 
 If you are interested in donating hardware to the OSL, please keep the following in mind:
@@ -19,7 +19,7 @@ If you are interested in donating hardware to the OSL, please keep the following
 Current Wishlist
 ----------------
 
-Our hardware needs change over time but here is a current list of specific needs we have.
+Our hardware needs change over time, but here is a current list of specific needs:
 
 - 1U general purpose servers (PowerEdge R240/R640 or similar)
 - 2U storage servers (PowerEdge R740 or similar)
