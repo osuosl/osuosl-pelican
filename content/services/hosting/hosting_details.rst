@@ -113,7 +113,7 @@ Mail Relaying
 ^^^^^^^^^^^^^^
 
 We have a number of local mail relays that OSL-hosted servers can use to help relieve some of the pressure that mail
-can put on their servers. These relays do spam and virus tagging.
+can put on your servers. These relays do spam and virus tagging.
 
 Mailing Lists
 ^^^^^^^^^^^^^
@@ -158,10 +158,13 @@ Realtime
 ^^^^^^^^
 
 We use `Nagios`_ to monitor our managed hosts and send alerts to `PagerDuty`_ when services go down. We are able to
-offer fine-grained monitoring and notification to our hosted clients as needed.
+offer fine-grained monitoring and notification to our hosted clients as needed. In addition, we use `Prometheus`_ with
+`Grafana`_ to track various metrics of our infrastructure.
 
 .. _Nagios: http://nagios.org/
 .. _PagerDuty: http://pagerduty.com/
+.. _Prometheus: https://prometheus.io/
+.. _Grafana: https://grafana.com/
 
 Trend Graphs
 ^^^^^^^^^^^^
