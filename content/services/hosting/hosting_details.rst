@@ -86,13 +86,13 @@ Build Farm Hosting
     :alt: Hosting Detail - Build Farm hosting
 
 Thanks to a hardware donation from Facebook in 2015, we have three OpenCompute Project (OCP) racks which contain a
-total of 90 OpenRack V2 "`Windmill`_" servers. These servers have 144 GB of RAM, 2 x Intel(R) Xeon(R) CPU E5-2660 0 @
+total of 90 OpenRack V2 "`Winterfell`_" servers. These servers have 144 GB of RAM, 2 x Intel(R) Xeon(R) CPU E5-2660 0 @
 2.20GHz and one 3TB 5400 RPM SATA disk. These servers are hosted in a smaller secondary data center near our offices
 and have some limitations on cooling and publicly addressable IP addresses. Due to this limitation, these servers are
 behind an IPv4 NAT network and require port forwarding to access the systems. We can open additional ports as needed
 but these machines are best suited for running tests and building software.
 
-.. _Windmill: https://www.opencompute.org/wiki/Server/SpecsAndDesigns-old#Open_Rack_compatible_server_design
+.. _Winterfell: https://www.opencompute.org/wiki/Server/SpecsAndDesigns-old#Open_Rack_compatible_server_design
 
 
 FTP Mirroring
