@@ -19,7 +19,7 @@ Managed
 ^^^^^^^
 
 For managed hosting, we will take care of your system(s) using our configuration management which ensures your systems
-are always up to date, stable and tested configurations, and automated. We currently use `Chef`_ to manage all of our
+are always up to date, stable with tested configurations, and automated. We currently use `Chef`_ to manage all of our
 systems and can create a project-specific cookbook if you want to assist in managing the system. We'll also configure
 and maintain all of the services running on your system(s) including monitoring them and backing up any data.
 
