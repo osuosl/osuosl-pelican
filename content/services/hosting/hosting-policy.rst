@@ -28,9 +28,7 @@ All use of Oregon State University Open Source Lab (OSUOSL) computing and
 network resources must meet the conditions set forth in the `OSU Acceptable Use
 Policy for Computing Resources`_.
 
-.. _OSU Acceptable Use Policy for Computing Resources:
-  http://fa.oregonstate.edu/gen-manual/acceptable-use-university-computing-resou
-  rces
+.. _OSU Acceptable Use Policy for Computing Resources: https://policy.oregonstate.edu/UPSM/08-005_acceptable_use_computing_resources
 
 
 When granted use of a computing resource at OSUOSL, it is expected that the

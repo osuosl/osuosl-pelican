@@ -11,10 +11,12 @@ projects may have hundreds of sub-projects (such as the Apache Software Foundati
 
 Service Descriptions:
 
+:build-farm: Build farm server hosting hosted using OpenCompute hardware
 :co-location: Physical server hosting
 :mailing-list: Mailman list hosting
 :mirroring: HTTP/FTP Mirror hosting on ftp.osuosl.org
-:vm: Virtual Machine (KVM-based powered by our Ganeti clusters)
+:powerpc: Providing PPC64 or PPC64LE virtual machines (KVM-based powered by OpenStack)
+:vm: Virtual Machine (KVM-based powered by our Ganeti or OpenStack clusters)
 :webapp: Hosting web applications which may use PHP, Rails, Django, Flask or even static hosting.
 
 .. csv-table::

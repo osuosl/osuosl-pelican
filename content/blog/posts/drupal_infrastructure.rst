@@ -2,8 +2,7 @@ Helping Drupal Grow
 ===================
 :date: 2009-02-05
 :author: OSUOSL Admin
-:slug: students/stories/drupal_infrastructure
-:slug: blog/drupal_infrastructure
+:slug: drupal_infrastructure
 
 Submitted by OSUOSL Admin on February 5, 2009
 
