@@ -77,23 +77,37 @@ console and power the VM on and off as needed.
 .. _Ganeti: http://www.ganeti.org/
 .. _KVM hypervisor: http://www.linux-kvm.org/page/Main_Page
 
-Build Farm Hosting
-------------------
+CI/CD Hardware Resources
+------------------------
 
 .. image:: /images/facebook-servers.jpg
     :scale: 100%
     :align: right
-    :alt: Hosting Detail - Build Farm hosting
+    :alt: Hosting Detail - CI/CD Hardware Resources
 
-Thanks to a hardware donation from Facebook in 2015, we have three OpenCompute Project (OCP) racks which contain a
+We understand that FOSS projects have growing demands for doing continuous integration and even continuous delivery
+(CI/CD).  While there are free resources available to most FOSS projects using such services as Travis-CI or CircleCI,
+most of those free resources have limits which many projects run into. Here at the OSL, we can help with those needs in
+two ways:
+
+- Access to virtual machine resources via our OpenStack cluster(s)
+- Access to bare metal resources via OpenCompute hardware
+
+Thanks to a hardware donation from Facebook in 2015, we have three `OpenCompute Project`_ (OCP) racks which contain a
 total of 90 OpenRack V2 "`Winterfell`_" servers. These servers have 144 GB of RAM, 2 x Intel(R) Xeon(R) CPU E5-2660 0 @
 2.20GHz and one 3TB 5400 RPM SATA disk. These servers are hosted in a smaller secondary data center near our offices
 and have some limitations on cooling and publicly addressable IP addresses. Due to this limitation, these servers are
 behind an IPv4 NAT network and require port forwarding to access the systems. We can open additional ports as needed
 but these machines are best suited for running tests and building software.
 
-.. _Winterfell: https://www.opencompute.org/wiki/Server/SpecsAndDesigns-old#Open_Rack_compatible_server_design
+These resources provide can be used in any way that is needed, whether it's integrating with `Jenkins`_, `Buildbot`_,
+`Gitlab CE`_, or any other CI/CD system you use.
 
+.. _OpenCompute Project: https://www.opencompute.org/
+.. _Winterfell: https://www.opencompute.org/wiki/Server/SpecsAndDesigns-old#Open_Rack_compatible_server_design
+.. _Jenkins: https://jenkins.io/
+.. _Buildbot: https://buildbot.net/
+.. _Gitlab CE: https://gitlab.com/gitlab-org/gitlab-ce/
 
 FTP Mirroring
 -------------
