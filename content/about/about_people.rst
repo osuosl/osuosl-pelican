@@ -372,3 +372,38 @@ catherin1
 .. raw:: html
 
   <br/>
+
+Yuning Gao`_
+----------------
+
+.. image:: /images/yuning.jpg
+    :width: 110px
+    :align: right
+    :alt: Yuning Gao
+
+.. class:: no-breaks
+
+  **Media & Events Coordinator/Writer**
+
+Yuning joined the OSL in April 2019 and is studying Psychology, Computer Science and Marketing.
+She first learned about the OSL during a Marketing related job searching.
+Yuning joined the lab to contribute to the open source community as well as to gain
+knowledge about the social media management and event planning.
+In her free time she enjoys kendo, watch movies and camping with hammock.
+She is also wroking in Sport Programs and various kinds of student support organizations.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/gaoyuning
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+Yuninghahaha
+
+.. raw:: html
+
+  <br/>
