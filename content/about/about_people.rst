@@ -279,7 +279,7 @@ learned about the OSL from teammates at the `OSU Security Team`_ who were workin
 high impact and importance of open-source software and loves building things that empower other people. OSL's missions
 align perfectly with his career goals. When not in front of computers, Khuong spends a lot of time training to compete
 for the `OSU Table Tennis team`_ and sometimes plays soccer or badminton for fun. Video games, `manga`_, movies, learning,
-and surfing on `r/aww`_ are other things he especially enjoys. After graduation, Khuong plans to adopt a lot of dogs and
+and browsing on `r/aww`_ are other things he especially enjoys. After graduation, Khuong plans to adopt a lot of dogs and
 cats.
 
 .. class:: no-breaks
