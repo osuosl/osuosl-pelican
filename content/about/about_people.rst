@@ -262,6 +262,47 @@ jcorme
 
   <br/>
 
+`Khuong Luu`_
+----------------
+
+.. image:: /images/kluu.jpg
+    :width: 110px
+    :align: right
+    :alt: Khuong Luu
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Khuong joined the OSL in February 2019 and is studying Computer Science with the Computer System option. He first
+learned about the OSL from teammates at the `OSU Security Team`_ who were working there. Khuong strongly believes in the
+high impact and importance of open-source software and loves building things that empower other people. OSL's missions
+align perfectly with his career goals. When not in front of computers, Khuong spends a lot of time training to compete
+for the `OSU Table Tennis team`_ and sometimes plays soccer or badminton for fun. Video games, `manga`_, movies, learning,
+and browsing on `r/aww`_ are other things he especially enjoys. After graduation, Khuong plans to adopt a lot of dogs and
+cats.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/khashf
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+freefood
+
+.. raw:: html
+
+  <br/>
+
+.. _OSU Security team: https://www.osusec.org/
+.. _OSU Table Tennis team: https://www.facebook.com/osutabletennis1
+.. _manga: https://www.google.com/search?q=shingeki+no+kyojin
+.. _r/aww: https://www.reddit.com/r/aww
+
 `David Gasper`_
 ----------------
 
