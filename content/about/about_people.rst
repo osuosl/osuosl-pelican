@@ -312,7 +312,7 @@ runnerboi
 Catherine joined the OSL in February 2019 and is studying computer science. 
 She previously did UX development for websites, then joined the lab to gain a better 
 understanding of open source technology and how software is written and tested.
-She is interested in how computer science, data analysis and security can be used to 
+She is interested in how computer science, data analysis, and security can be used to 
 inform more equitable public policies. During her free time, she enjoys cooking, baking 
 fancy desserts, making friends with cats and playing bike polo. 
 
