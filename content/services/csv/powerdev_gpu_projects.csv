@@ -1,4 +1,5 @@
 "APMA2822B","Students taking a course on Parallel Computing at Brown University experimenting with the AC922 servers"
+"Brookhaven National Lab","Development of Singularity containers for distributed machine learning (Horovod) to be run on Summit supercomputer at OLCF."
 "CADA","CADA - CUDA Accelerated DNA Assembly is being developed by Ryan Kitchen to change the way genome assembly uses hardware resources."
 "CASHX Pipeline","Sequence alignment tools CASHX and pipeline were ported to work on the IBM POWER8 to take full advantage of higher thread count machines. CASHX is one of the few non-BWA based high throughput genome alignment tools."
 "CASSA","CASSA - CUDA Accelerated Scalable Sequence Aligner. The CGRB is working with Ryan Kitchen to develop this new alignment tool."
