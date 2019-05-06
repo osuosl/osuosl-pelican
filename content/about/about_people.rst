@@ -373,7 +373,7 @@ catherin1
 
   <br/>
 
-Yuning Gao`_
+`Yuning Gao`_
 ----------------
 
 .. image:: /images/yuning.jpg
