@@ -16,7 +16,7 @@ SITEURL = ''
 PATH = 'content'
 STATIC_PATHS = ['downloads', 'images']
 TIMEZONE = 'America/Los_Angeles'
-DEFAULT_DATE_FORMAT = '%B %e, %Y'
+DEFAULT_DATE_FORMAT = '%a, %b %d %Y'
 
 DEFAULT_LANG = u'en'
 
