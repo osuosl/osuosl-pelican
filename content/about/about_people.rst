@@ -337,3 +337,38 @@ runnerboi
 .. raw:: html
 
   <br/>
+
+`Catherine Stevens`_
+--------------------
+
+.. image:: /images/cstevens.jpeg
+    :width: 110px
+    :align: right
+    :alt: Catherine Stevens
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Catherine joined the OSL in February 2019 and is studying computer science. 
+She previously did UX development for websites, then joined the lab to gain a better 
+understanding of open source technology and how software is written and tested.
+She is interested in how computer science, data analysis, and security can be used to 
+inform more equitable public policies. During her free time, she enjoys cooking, baking 
+fancy desserts, making friends with cats and playing bike polo. 
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/csrs
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+catherin1
+
+.. raw:: html
+
+  <br/>
