@@ -31,7 +31,6 @@
 "Goy.Chat","An open source platform powered by Meteor uses the POWER infrastructure to test deployments on POWER8."
 "Hadoop_Spark","CI environment powered by a Jenkins server running Hadoop and Spark builds for including POWER into the Hyperledger fabric community to perform Continuous Integration for IBM Hyperledger fabric codebase."
 "Hortonworks Data Platform","A secure, enterprise-ready open source Apache Hadoop distribution based on a centralized architecture (YARN) now on POWER"
-"ICU","The International Components for Unicode project runs their build machines on a OSL hosted POWER VM"
 "Istio","Supports compiling and testing Istio, a platform for microservice management, on POWER"
 "Jellyfish","A fast multi-threaded k-mer counter. POWER infrastructure is being used to compile builds, performance testing, architecture troubleshooting"
 "juju-charms","Adds ppc64el support to appliance image for building/interfacing with juju, the juju charm store, and assembling charms "
