@@ -373,6 +373,45 @@ catherin1
 
   <br/>
 
+`Kerry Vance`_
+--------------------
+
+.. image:: /images/kvance.jpg
+    :width: 150px
+    :align: right
+    :alt: Kerry Vance
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Kerry joined the OSL in February 2019 and is studying computer science. He
+learned about OSL through the `OSU Linux Users Group`_ and applied as soon as
+they had an opening. He joined the lab to contribute to the open source
+community and learn more about Linux is used in an operational context. He
+enjoys talking people into ditching Mac and Windows for Linux, philosophical
+discussions about the nature of existence, throwing together Raspberry pi and
+other projects that never get finished, and hiking. He also can't play guitar.
+
+.. _OSU Linux Users Group: http://lug.oregonstate.edu/
+.. class:: no-breaks
+
+  **Github/lab Account**
+
+https://github.com/Vancelot11
+
+https://gitlab.com/Vancelot
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+Vancelot
+
+.. raw:: html
+
+  <br/>
+
 `Yuning Gao`_
 ----------------
 
