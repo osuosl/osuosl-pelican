@@ -37,5 +37,7 @@ Looking forward, I hope that the Open Source Lab continues to grow and expand so
 opportunities. The OSL is truly one of a kind, and I feel really thankful to have been able to work with the lab for the
 past several years.
 
-Excitingly, this is my last term at Oregon State. I'll be going on to work with Tag1 Consulting, where I will continue
+Excitingly, this is my last term at Oregon State. I'll be going on to work with `Tag1 Consulting`_, where I will continue
 to tackle exciting infrastructure challenges and contribute back to the open-source community whenever I can.
+
+.. _Tag1 Consulting: https://tag1consulting.com/
