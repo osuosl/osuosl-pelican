@@ -377,7 +377,7 @@ catherin1
 --------------------
 
 .. image:: /images/kvance.jpg
-    :width: 150px
+    :width: 110px
     :align: right
     :alt: Kerry Vance
 
