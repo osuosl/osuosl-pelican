@@ -388,7 +388,7 @@ catherin1
 Kerry joined the OSL in February 2019 and is studying computer science. He
 learned about OSL through the `OSU Linux Users Group`_ and applied as soon as
 they had an opening. He joined the lab to contribute to the open source
-community and learn more about Linux is used in an operational context. He
+community and learn more about how Linux is used in an operational context. He
 enjoys talking people into ditching Mac and Windows for Linux, philosophical
 discussions about the nature of existence, throwing together Raspberry pi and
 other projects that never get finished, and hiking. He also can't play guitar.
