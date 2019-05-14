@@ -2,6 +2,7 @@ Reflections on My Time at the Open Source Lab, Travis Whitehead
 ---------------------------------------------------------------
 :author: Travis Whitehead
 :date: 2019-04-24
+:img: twhitehead_wide.jpg
 :slug: student-story-whitehet
 :tag: student-stories
  
