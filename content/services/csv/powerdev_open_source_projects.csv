@@ -59,6 +59,7 @@
 "ONNX","Open Neural Network Exchange, ONNX provides an open source format for AI models, both deep learning and traditional ML"
 "OpenBLAS","Optimizes BLAS 1/2 double precision for POWER8 VSX"
 "OpenCV","Implements POWER8 and POWER9 VSX SIMD optimizations for OpenCV"
+"OpenFaaS","Making Serverless Functions Simple"
 "OpenJDK","Supports project specific porting efforts of POWER8 ppc64/ppc64le; provides support for Java 7 and 8 which is being consumed by most major distributions"
 "OpenLibm","PowerPC support for OpenLibm, a high quality, portable, standalone C mathematical library"
 "`OpenQuake`_","An Open Source Engine for seismic hazard and risk assessment uses the infrastructure to try porting to POWER architecture and see how a different architecture affects the numerical tests (the code is covered by numerical, functional and qa tests)"
