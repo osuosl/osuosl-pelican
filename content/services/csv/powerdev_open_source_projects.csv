@@ -83,6 +83,7 @@
 "Tobin's Linux kernel","Supports a volunteer developer's efforts to test the Linux kernel on POWER"
 "Travis CI","Continuous Integration using Travis and Power"
 "Travis/Rust/Swift","Provides access to the POWER8 architeture for Travis, Rust, or Swift project developers"
+"TripleO CI", "Continuous Integration and Delivery for RedHat OpenStack Platform"
 "VideoLan","Updates the Altivec code in x264 and x265 to VSX and makes sure it works correctly on POWER8le"
 "VSXSIMD","SIMD Optimization Bountys"
 "Wazuh","Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance."
