@@ -1,4 +1,5 @@
 "Anaconda","Installation program used by Fedora, RHEL, and others; uses POWER support for Continuous Integration and development"
+"Ansible Molecule", "Framework for testing Ansible roles and playbooks"
 "Apache Bigtop","An Apache Foundation project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components; supports a wide range of components/projects, including, but not limited to, Hadoop, HBase and Spark"
 "Apache Software Foundation","Supports POWER builds for CouchDB and possible other ASF projects in the future; currently working to support Cloudant on POWER"
 "Apache Spark / Arrow","Apache Arrow is an in-memory columnar to exchange data among AI frameworks such as Apache Spark"
@@ -83,6 +84,7 @@
 "Tobin's Linux kernel","Supports a volunteer developer's efforts to test the Linux kernel on POWER"
 "Travis CI","Continuous Integration using Travis and Power"
 "Travis/Rust/Swift","Provides access to the POWER8 architeture for Travis, Rust, or Swift project developers"
+"TripleO CI", "Continuous Integration and Delivery for RedHat OpenStack Platform"
 "VideoLan","Updates the Altivec code in x264 and x265 to VSX and makes sure it works correctly on POWER8le"
 "VSXSIMD","SIMD Optimization Bountys"
 "Wazuh","Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance."
