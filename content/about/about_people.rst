@@ -121,75 +121,6 @@ doublej472
 
   <br/>
 
-`Jerry Peng`_
--------------
-
-.. image:: /images/jpeng.png
-  :width: 110px
-  :align: right
-  :alt: Jerry Peng
-
-.. class:: no-breaks
-
-  **Student Developer**
-
-Jerry joined the OSL in April 2017 and is majoring in computer science with a
-systems option. He is interested in web development and when he heard from a
-friend the OSL was hiring, he quickly applied. After graduation he is looking to
-continue working in software development. In his spare time, he likes playing
-video games, photography, and playing sports and his first language is Chinese.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/jerrypeng0112
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-jerrypeng
-
-.. raw:: html
-
-  <br/>
-
-`Travis Whitehead`_
--------------------
-
-.. image:: /images/twhitehead.jpg
-    :width: 110px
-    :align: right
-    :alt: Travis Whitehead
-
-.. class:: no-breaks
-
-  **Student Systems Engineer**
-
-Travis joined the OSL in March 2017 and is studying applied computer science
-with a security option. He first heard of the OSL through a friend that worked
-at CASS and immediately became interested in its investment in open-source
-technology. He is particularly interested in web development but is excited to
-learn as much as he can from this position. In his spare time, he enjoys
-relaxing and programming and is an identical twin.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/TravisWhitehead
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-whitehet
-
-.. raw:: html
-
-  <br/>
-
 `Hunter Lannon`_
 ----------------
 
@@ -407,41 +338,6 @@ https://gitlab.com/Vancelot
   **Nick on irc.freenode.net**
 
 Vancelot
-
-.. raw:: html
-
-  <br/>
-
-`Yuning Gao`_
-----------------
-
-.. image:: /images/yuning.jpg
-    :width: 110px
-    :align: right
-    :alt: Yuning Gao
-
-.. class:: no-breaks
-
-  **Media & Events Coordinator/Writer**
-
-Yuning joined the OSL in April 2019 and is studying Psychology, Computer Science and Marketing.
-She first learned about the OSL during a Marketing related job searching.
-Yuning joined the lab to contribute to the open source community as well as to gain
-knowledge about the social media management and event planning.
-In her free time she enjoys kendo, watch movies and camping with hammock.
-She is also wroking in Sport Programs and various kinds of student support organizations.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/gaoyuning
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-Yuninghahaha
 
 .. raw:: html
 
