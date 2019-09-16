@@ -1,8 +1,7 @@
 "Anaconda","Installation program used by Fedora, RHEL, and others; uses POWER support for Continuous Integration and development"
 "Ansible Molecule", "Framework for testing Ansible roles and playbooks"
 "Apache Bigtop","An Apache Foundation project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components; supports a wide range of components/projects, including, but not limited to, Hadoop, HBase and Spark"
-"Apache CouchDB", "Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API
-and designed for Reliability."
+"Apache CouchDB", "Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability."
 "Apache Software Foundation","Supports POWER builds for CouchDB and possible other ASF projects in the future; currently working to support Cloudant on POWER"
 "Apache Spark / Arrow","Apache Arrow is an in-memory columnar to exchange data among AI frameworks such as Apache Spark"
 "BearSSL","An SSL/TLS library, with a focus on a clean, secure implementation of protocol, up-to-date with the latest research; POWER8 systems writes specific implementations of AES/GCM and other cryptographic algorithms that leverage the specific opcodes offered by the CPU, for better performance"
