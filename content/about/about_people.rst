@@ -51,40 +51,6 @@ Ramereth
 .. _Beaver BarCamp: http://beaverbarcamp.org
 .. _The Infallible Collective: http://infalliblecollective.com
 
-`Mohamed Eldebri`_
-------------------
-
-.. image:: /images/meldebri.jpg
-    :width: 110px
-    :align: right
-    :alt: Mohamed Eldebri
-
-.. class:: no-breaks
-
-  **Student Systems Engineer**
-
-Mohamed joined the OSL in March 2017 and is studying Electrical and Computer
-Engineering. He is excited to develop his knowledge about open source
-software during his time at the OSL. He is also interested in operating systems
-and contributing to the Linux Kernel. In his spare time, Mohamed likes to play
-soccer, video games, and read.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/eldebrim
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-eldebrim
-
-.. raw:: html
-
-  <br/>
-
 `JJ Frederick`_
 ---------------
 
