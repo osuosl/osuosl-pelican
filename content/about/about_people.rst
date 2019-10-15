@@ -87,6 +87,41 @@ jcorme
 
   <br/>
 
+`Andrew Dassonville`_
+----------------------
+
+.. image:: /images/andrewda.jpg
+    :width: 110px
+    :align: right
+    :alt: Andrew Dassonville
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Andrew joined the OSL in October 2019 and is studying computer science. He first
+learned about the OSL during the College of Engineering's "Clubs and Cookies"
+day and immediately applied for a position. Andrew joined the lab because he is
+passionate about open-source software and wanted to become more proficient with
+Linux. Outside of the OSL, Andrew enjoys contributing to open-source projects,
+hiking, swimming, and flying drones.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/andrewda
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+andrewda
+
+.. raw:: html
+
+  <br/>
+
 `Khuong Luu`_
 ----------------
 
