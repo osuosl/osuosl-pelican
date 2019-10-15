@@ -1,8 +1,13 @@
 appdirs==1.4.0
+backports.functools-lru-cache==1.5
 beautifulsoup4==4.4.1
 blinker==1.4
+certifi==2019.9.11
+chardet==3.0.4
+distlib==0.2.9.post0
 docutils==0.12
 feedgenerator==1.7
+idna==2.8
 Jinja2==2.10.1
 Markdown==2.6.7
 MarkupSafe==1.1.1
@@ -12,5 +17,7 @@ Pygments==2.0.2
 pyparsing==2.1.10
 python-dateutil==2.4.2
 pytz==2015.4
+requests==2.22.0
 six==1.9.0
 Unidecode==0.4.18
+urllib3==1.25.6
