@@ -4,7 +4,6 @@ Changing the World, One Line of Code at a Time
 :slug: osl-in-the-news
 :author: Jonathan Frederick
 :img: OSLWorkers2Adjusted.jpg
-:tag: featured-stories
 
 The `OSU Experience Site`_ has published an online `article`_ about our
 students! In it they talk about the services we provide, our positive impact
