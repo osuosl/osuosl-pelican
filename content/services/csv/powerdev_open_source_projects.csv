@@ -10,6 +10,7 @@
 "checkpoint-restore","Implements checkpoint-restore functionality for Linux on POWER architecture; functionality can be used for wide range of use-cases, including live migration, ‘suspend’ and ‘resume’ operations on containers, reboot-less kernel upgrades"
 "Cloud Foundry","Supports porting on POWER, continuous integration and builds integration"
 "CRIU","Supports project specific porting efforts of POWER8 ppc64/ppc64le"
+"conda-forge", "community-led collection of recipes, build infrastructure and distributions for the conda package manager"
 "Debian","A universal operating system composed entirely of free software, and packaged by the Debian Project"
 "Debian-CI","Provide a system available to Debian community to enable debuging of problems"
 "Deeplearning4j","Makes deep learning simple and accessible to enterprises. The project uses POWER VMs at OSL for compile builds, performance testing, architecture troubleshooting, including CUDA"
