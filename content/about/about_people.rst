@@ -236,3 +236,40 @@ Vancelot
 .. raw:: html
 
   <br/>
+
+
+`Robert Detjens`_
+--------------------
+
+.. image:: /images/detjensrobert.jpg
+    :width: 110px
+    :align: right
+    :alt: Robert Detjens
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Robert joined the OSL in November 2019 and is working toward a degree in
+Computer Systems. After hearing about the OSL through the `OSU SEC`_ security 
+club, he joined since providing the open-source community with a platform is 
+something that he wants to support. When not staring at a computer screen,
+Robert likes to play board games, hike, play trumpet, and stare at computer screens.
+
+.. class:: no-breaks
+
+  **Github Account**
+
+https://github.com/detjensrobert
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+wholewheatbagels
+
+.. raw:: html
+
+  <br/>
+
+.. _OSU SEC: https://www.osusec.org/
