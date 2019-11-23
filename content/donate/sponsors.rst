@@ -4,8 +4,8 @@ Sponsors
 :title: Sponsors
 :menu: Donate, Sponsors, 2
 
-Below are groups who supported the Open Source Lab through annual contributions of *$25,000* or more during fiscal years
-2018 and 2019.
+Below are groups who supported the Open Source Lab through annual contributions of *$25,000* or more during fiscal
+years 2019 and 2020.
 
 .. image:: /images/ibm-logo_small.jpg
   :width: 200
@@ -35,34 +35,6 @@ Google sponsors the OSL through financial grants. This funding helps the OSL pro
 hosting and bandwidth, and covers the cost of "Smart Hands" support. Google is a big supporter of the open source
 movement, producing open code of their own, and sponsoring the Summer of Code program.  Each year Google puts millions
 of dollars toward open source research and development through this program.
-
-.. image:: /images/facebook_logo_gold_sponsor.png
-  :width: 200
-  :alt: Facebook Logo
-  :target: http://facebook.com/
-
-Facebook is a social utility that helps more than 2 billion people around the world communicate more efficiently with
-their friends, family and co-workers.
-
-The site has been built on common open source software such as Linux, Apache, MySQL and PHP, and over the past few
-years the company has developed a number of open source infrastructure technologies to support the website's growth
-including HipHop for PHP, Cassandra, Hive, Scribe and Thrift. Facebook engineers actively contribute to and participate in
-various open source projects, especially around the Apache Hadoop ecosystem, developing technologies that facilitate
-the sharing of information through the social graph.
-
-Facebook sponsors the OSL through financial grants and in-kind hardware donations.
-
-.. image:: /images/handshake-logo.svg
-  :width: 200
-  :alt: Handshake Logo
-  :target: https://handshake.org/
-
-Handshake is a decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in
-charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities. Its
-purpose is not to replace the DNS protocol, but to replace the root zone file and the root servers with a public
-commons.
-
-Handshake sponsors the OSL through financial grants.
 
 .. image:: /images/tds_logo.jpg
   :width: 200
