@@ -64,6 +64,11 @@ to find out if your donation is eligible for a matching program.
 
 **How much money are you trying to raise?**
 
+.. image:: /images/IncomeGraphic2019.png
+    :align: right
+    :width: 40%
+    :alt: Income for the 2019 fiscal year
+
 Our annual expenses are roughly $400,000. Our goal is to raise at least enough to cover those expenses. The exact
 amount we need to cover with donations varies based on paid hosting and grant-supported funding we receive. Any
 additional funding beyond what we need to operate during this fiscal year will go towards expenses beyond the current
@@ -74,21 +79,17 @@ various hosting contracts we have with larger FOSS projects. The larger FOSS pro
 expenses for the smaller projects and thus keep the vast majority of our hosting free. Below you can find a pie chart
 showing the breakdown of our income for the 2019 fiscal year.
 
-.. image:: /images/IncomeGraphic2019.png
-    :align: center
-    :alt: Income for the 2019 fiscal year
-
-
 .. _What will you use my donation for?:
 
 **What will you use my donation for?**
 
-Many of the services we provide for open source projects are provided for no-cost. We rely on donations to cover the
-expenses we incur providing these valuable services. Below is a breakdown of our expenses for the 2018 fiscal year.
-
 .. image:: /images/ExpensesGraphic2019.png
-    :align: center
+    :align: right
+    :width: 40%
     :alt: Expenses for the 2019 fiscal year
+
+Many of the services we provide for open source projects are provided for no-cost. We rely on donations to cover the
+expenses we incur providing these valuable services. Below is a breakdown of our expenses for the 2019 fiscal year.
 
 Below are a few examples of where we have spent money in the past year:
 
