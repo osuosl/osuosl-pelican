@@ -31,7 +31,7 @@ Lance can be reached at lance-at-osuosl-dot-org
 
 .. class:: no-breaks
 
-  **Github Account**
+  **GitHub Account**
 
 https://github.com/ramereth
 
@@ -73,7 +73,7 @@ not work out, he might go fly planes instead.
 
 .. class:: no-breaks
 
-  **Github Account**
+  **GitHub Account**
 
 https://github.com/jcorme
 
@@ -108,7 +108,7 @@ hiking, swimming, and flying drones.
 
 .. class:: no-breaks
 
-  **Github Account**
+  **GitHub Account**
 
 https://github.com/andrewda
 
@@ -144,7 +144,7 @@ cats.
 
 .. class:: no-breaks
 
-  **Github Account**
+  **GitHub Account**
 
 https://github.com/khashf
 
@@ -184,7 +184,7 @@ He is also known to occasionally play classic rock hits on the piano.
 
 .. class:: no-breaks
 
-  **Github Account**
+  **GitHub Account**
 
 https://github.com/dmgasper
 
@@ -221,7 +221,7 @@ other projects that never get finished, and hiking. He also can't play guitar.
 .. _OSU Linux Users Group: http://lug.oregonstate.edu/
 .. class:: no-breaks
 
-  **Github/lab Account**
+  **GitHub/Lab Account**
 
 https://github.com/Vancelot11
 

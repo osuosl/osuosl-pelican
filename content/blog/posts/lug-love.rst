@@ -52,7 +52,7 @@ amazing contributions!
 * `Fedora <http://fedoraproject.org/>`_
 * `Free Software Foundation <http://www.fsf.org/>`_
 * `Gearman.org <http://gearman.org/>`_
-* `Github <https://github.com/>`_
+* `GitHub <https://github.com/>`_
 * `Google Fiber <http://www.google.com/appserve/fiberrfi/>`_
 * `Heroku <http://www.heroku.com/>`_
 * `Intel <http://www.intel.com/content/www/us/en/homepage.html>`_

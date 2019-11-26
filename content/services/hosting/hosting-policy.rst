@@ -56,7 +56,7 @@ more community/communication-based projects such as IRC servers, forum/community
 sites dedicated to open source, etc.
 
 We typically try not to provide hosting for smaller projects which could be
-hosted at other “free” hosting services such as Github. We do not have the
+hosted at other “free” hosting services such as GitHub. We do not have the
 infrastructure set up to provide hosting to thousands of smaller projects, but
 would prefer to focus our efforts on hosting those projects that have grown too
 large to fit in at free hosted service but cannot (yet) afford to pay for

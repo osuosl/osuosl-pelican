@@ -18,7 +18,7 @@ geometry or the correlations between protein conformation and bond angles and
 lengths."*
 
 There's a lot of science in that paragraph; I speak code much better than I
-speak science, so let's look at the `Github Repository`_. That page says things
+speak science, so let's look at the `GitHub Repository`_. That page says things
 like...
 
 * PGD has `6 open Pull Requests`_,
@@ -41,7 +41,7 @@ the OSL develops and maintains. This year a lot of great work was done on it for
 the 2015 Google Summer of Code.**
 
 .. _code.osuosl.org: http://code.osuosl.org/
-.. _Github Repository: http://github.com/osuosl/pgd
+.. _GitHub Repository: http://github.com/osuosl/pgd
 .. _6 open Pull Requests: https://github.com/osuosl/pgd/pulls
 .. _1 unresolved Issue: https://github.com/osuosl/pgd/issues
 .. _1156 commits in the master branch: https://github.com/osuosl/pgd/commits/master

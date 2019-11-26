@@ -31,13 +31,13 @@ provides a lot of awesome functionality to Openstack users. The dashboard
 provides a full interface to the existing Openstack CLI tools, and lets users
 create new VMs with a few clicks of a button, all using a web interface. I began
 to explore how we might be able to use Horizon in order to accomplish our
-rewrite. As I discovered on the `Horizon Github`_ page the project has already
+rewrite. As I discovered on the `Horizon GitHub`_ page the project has already
 been mostly separated out from the Openstack dashboard and can be used as a
 general purpose dashboard library for Django. Horizon provides utilities from
 mapping Django models to interactive/editable tables to creating tabbed page
 layouts and multiple step modal windows for performing actions.
 
-.. _Horizon Github: https://github.com/openstack/horizon/
+.. _Horizon GitHub: https://github.com/openstack/horizon/
 
 .. image:: /images/openstack-screenshot.png
    :scale: 100%
