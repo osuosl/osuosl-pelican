@@ -66,7 +66,7 @@ techniques.
    :alt: The Beaver BarCamp 11 schedule diplays the nearly 50 sessions held
          throughout the day.
 
-Sponsors `Dice.com`_, `Jive`_, `Github`_ and `Silicon Mechanics`_ funded the
+Sponsors `Dice.com`_, `Jive`_, `GitHub`_ and `Silicon Mechanics`_ funded the
 conference and made it possible for everyone to enjoy a full schedule of
 sessions, as well as refreshments and T-shirts. In addition, representatives
 from gold sponsor Dice.com attended Beaver BarCamp 11, allowing attendees
@@ -88,7 +88,7 @@ next unconference.
 
 .. _Dice.com: http://dice.com/
 .. _Jive: http://www.jivesoftware.com/
-.. _Github: http://github.com/
+.. _GitHub: http://github.com/
 .. _Silicon Mechanics: http://www.siliconmechanics.com/
 .. _Google Plus Photo Album: https://plus.google.com/photos/107361178205293595706/albums/5873077749428585489
 .. _Beaver BarCamp: http://beaverbarcamp.org/

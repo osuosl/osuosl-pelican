@@ -101,13 +101,13 @@ behind an IPv4 NAT network and require port forwarding to access the systems. We
 but these machines are best suited for running tests and building software.
 
 These resources provide can be used in any way that is needed, whether it's integrating with `Jenkins`_, `Buildbot`_,
-`Gitlab CE`_, or any other CI/CD system you use.
+`GitLab CE`_, or any other CI/CD system you use.
 
 .. _OpenCompute Project: https://www.opencompute.org/
 .. _Winterfell: https://www.opencompute.org/wiki/Server/SpecsAndDesigns-old#Open_Rack_compatible_server_design
 .. _Jenkins: https://jenkins.io/
 .. _Buildbot: https://buildbot.net/
-.. _Gitlab CE: https://gitlab.com/gitlab-org/gitlab-ce/
+.. _GitLab CE: https://gitlab.com/gitlab-org/gitlab-ce/
 
 FTP Mirroring
 -------------

@@ -50,11 +50,11 @@ Downloading the Course
 You are free to download the course materials here:
 
 - `CS312 Course Download (2009) (tar.gz format)`_
-- `CS312 Course Github Repo`_
+- `CS312 Course GitHub Repo`_
 - `CS312 Ansible Homework Repo (2016)`_
 - `CS312 Chef Cookbook Homework Repo (2015)`_
 
 .. _CS312 Course Download (2009) (tar.gz format): http://osuosl.org/sites/default/files/cs312_linux_sysadmin_files.tar.gz
-.. _CS312 Course Github Repo: https://github.com/osuosl/cs312
+.. _CS312 Course GitHub Repo: https://github.com/osuosl/cs312
 .. _CS312 Ansible Homework Repo (2016): https://github.com/osuosl/cs312-hw-ansible
 .. _CS312 Chef Cookbook Homework Repo (2015): https://github.com/osuosl/cs312-hw-cookbook
