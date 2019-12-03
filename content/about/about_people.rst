@@ -122,6 +122,40 @@ andrewda
 
   <br/>
 
+`Heather DiRuscio`_
+----------------------
+
+.. image:: /images/heatherd.jpg
+    :width: 120px
+    :align: right
+    :alt: Heather DiRuscio
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Heather joined the OSL during Fall 2019 and is studying computer science (Games and Simulation
+Programming Option) with a minor in math. Heather decided to return to school after completing
+the Warrior-Scholar Project while transitioning out of the Navy, where she served as an Arabic
+linguist. She loves the ethos of open source software, and in her free time likes making programs
+to model star systems, traveling, learning foreign languages, and playing Nintendo Switch games.
+
+.. class:: no-breaks
+
+  **GitHub Account**
+
+https://github.com/wrongenvelope
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+wrongenvelope
+
+.. raw:: html
+
+  <br/>
+  
 `Khuong Luu`_
 ----------------
 
