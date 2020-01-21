@@ -88,7 +88,7 @@ jcorme
   <br/>
 
 `Abby Lawrence`_
--------------
+----------------
 
 .. image:: /images/abbylawrence.jpg
     :width: 110px
