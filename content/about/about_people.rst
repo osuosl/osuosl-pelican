@@ -87,6 +87,34 @@ jcorme
 
   <br/>
 
+`Abby Lawrence`_
+-------------
+
+.. image:: /images/abbylawrence.jpg
+    :width: 110px
+    :align: right
+    :alt: Abby Lawrence
+
+.. class:: no-breaks
+
+  **Student Media and Event Coordinator**
+
+Abby Lawrence joined CASS/OSL in December 2019. She is in the University
+Exploratory Program. Abby joined CASS to gain professional experience and
+because she values networking and teamwork. She hopes to one day go into research.
+
+
+
+  .. class:: no-breaks
+
+    **GitHub Account**
+
+  https://github.com/abbylawrence
+
+  .. class:: no-breaks
+
+    <br/>
+
 `Andrew Dassonville`_
 ----------------------
 
@@ -155,7 +183,7 @@ wrongenvelope
 .. raw:: html
 
   <br/>
-  
+
 `Khuong Luu`_
 ----------------
 
@@ -285,8 +313,8 @@ Vancelot
   **Student Systems Engineer**
 
 Robert joined the OSL in November 2019 and is working toward a degree in
-Computer Systems. After hearing about the OSL through the `OSU SEC`_ security 
-club, he joined since providing the open-source community with a platform is 
+Computer Systems. After hearing about the OSL through the `OSU SEC`_ security
+club, he joined since providing the open-source community with a platform is
 something that he wants to support. When not staring at a computer screen,
 Robert likes to play board games, hike, play trumpet, and stare at computer screens.
 
