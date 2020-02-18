@@ -102,6 +102,7 @@
 "MariaDB","mirroring"
 "Mesos","powerpc"
 "Midnight Commander","vm, mirroring"
+"Monitoring-plugins","mirroring"
 "Monkey Server","vm"
 "Mozdev","co-location, vm, mirroring"
 "Mozilla","powerpc"
