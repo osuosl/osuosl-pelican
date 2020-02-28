@@ -28,6 +28,7 @@
 "Debian RISCV","ci-cd"
 "Deeplearning4j","powerpc"
 "Deluge","vm, mirroring"
+"Django","vm"
 "Docker","powerpc"
 "Drupal","co-location, vm, mirroring"
 "Eclipse Communication Framework ","co-location, vm"
