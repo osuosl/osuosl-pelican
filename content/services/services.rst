@@ -57,14 +57,19 @@ the Power architecture platform and in a PowerLinux environment. These systems a
 and testing work, but are not to be used for performance testing. `Read more about our PowerLinux development hosting
 services`_
 
-`ARM Hosting`_
---------------
+`ARM Development Hosting`_
+--------------------------
 
 .. _ARM Hosting: /services/arm
 
-`Read more about our ARM hosting services`_
+The OSL partners with `Ampere Computing`_ to host `ARM`_-based servers, making ARM-based KVM guests available to the
+open source community. Community members can use these ARM servers to develop and test open source projects on the ARM
+architecture. These systems are intended for functional development and testing work, but are not to be used for
+performance testing.  `Read more about our ARM hosting services`_.
 
 .. _IBM: http://www-03.ibm.com/linux/ltc/
 .. _POWER: https://en.wikipedia.org/wiki/PowerLinux
 .. _Read more about our PowerLinux development hosting services: /services/powerdev/
+.. _Ampere Computing: http://amperecomputing.com/
+.. _ARM: https://en.wikipedia.org/wiki/ARM_architecture
 .. _Read more about our ARM hosting services: /services/arm/
