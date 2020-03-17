@@ -4,16 +4,23 @@
   <div class="field field-name-body field-type-text-with-summary field-label-hidden">
     <div class="field-items">
       <div class="field-item even" property="content:encoded">
-        <p>The Open Source Lab partners with Ampere Computing to host ARM based servers in order to provide an open
-        platform for innovation to the open source community.<b>For more information about ARM Hosting, please visit
-        our <a href="/services/arm/">ARM Development Hosting page</a></b>.</p>
-        <p>Please use the form below to request <b>new</b> hosting on the ARM environment hosted at the OSUOSL.</p>
-        <p>For any <b>changes, updates, or issues with an existing project</b> please send the specific request as an
-          email to <a href="mailto:arm-hosting-request@osuosl.org">arm-hosting-request@osuosl.org</a> and include the
-          original project name in the subject line and the IP address(es) for the VM(s) in the message body of the
-          request which will help us narrow down what specific VM it's for.</p>
-        <p>This access is intended only for <b><i>free and open source</i></b> projects who qualify and are approved by
-          the OSUOSL. For proprietary sourced projects or products please TODO</p>
+        <p>The Open Source Lab partners with Ampere Computing to host AARCH64
+        based servers in order to provide an open platform for innovation to
+        the open source community.<b>For more information about AARCH64
+        Hosting, please visit our <a href="/services/aarch64/">AARCH64
+        Development Hosting page</a></b>.</p>
+        <p>Please use the form below to request <b>new</b> hosting on the
+        AARCH64 environment hosted at the OSUOSL.</p>
+        <p>For any <b>changes, updates, or issues with an existing project</b>
+        please send the specific request as an email to <a
+        href="mailto:aarch64-hosting-request@osuosl.org">aarch64-hosting-request@osuosl.org</a>
+        and include the original project name in the subject line and the IP
+        address(es) for the VM(s) in the message body of the request which will
+        help us narrow down what specific VM it's for.</p>
+        <p>This access is intended only for <b><i>free and open source</i></b>
+        projects who qualify and are approved by the OSUOSL. For proprietary
+        sourced projects or products please contact <a
+        href="mailto:info@amperecomputing.com">info@amperecomputing.com</a>.</p>
       </div>
     </div>
   </div>
@@ -60,7 +67,8 @@
         <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-mission"
         name="description_of_project_mission" cols="60" rows="5" class="form-textarea required"></textarea></div>
         <div class="description">Please describe in detail the mission and purpose of this request in regards to how
-        the ARM architecture will support your project. Also describe the general mission of your project.</div>
+        the AARCH64 architecture will support your project. Also describe the
+        general mission of your project.</div>
       </div>
       <div class="form-item webform-component webform-component-textarea" id="webform-component-usage">
         <label for="edit-submitted-usage">Expected Usage Model <span class="form-required"
@@ -96,7 +104,7 @@
       </div>
       <h4>OpenStack Access Question(s)</h4>
       <div class="form-item webform-component webform-component-select" id="webform-component-power-architecture">
-        <label for="edit-submitted-power-architecture">ARM Architecture <span class="form-required"
+        <label for="edit-submitted-power-architecture">AARCH64 Architecture <span class="form-required"
             title="This field is required.">*</span></label>
         <select id="edit-submitted-power-architecture" name="power_architecture" class="form-select required">
           <option value="aarch64" selected="selected">aarch64</option>
@@ -131,9 +139,10 @@
           <option value="Ubuntu">Ubuntu</option>
           <option value="Other">Other</option>
         </select>
-        <div class="description">Which Linux distribution would you like to use for your machine? This would likely be
-        the latest stable version available for PPC. If you want a specific version, please state that in the comments
-        section on the last page.</div>
+        <div class="description">Which Linux distribution would you like to use
+        for your machine? This would likely be the latest stable version
+        available for PPC. If you want a specific version, please state that in
+        the comments section on the last page.</div>
       </div>
       <div class="form-item webform-component webform-component-select" id="webform-component-openstack-access">
         <label for="edit-submitted-openstack-access">OpenStack Access </label>
@@ -143,9 +152,10 @@
           <option value="I'd like to have access to the Openstack GUI/API">I&#039;d like to have access to the
           Openstack GUI/API</option>
         </select>
-        <div class="description">We use OpenStack to manage the ARM nodes. We can either create the
-        node for you or we can grant you access to the OpenStack GUI and API and let you manage it yourself. What do
-        you prefer?</div>
+        <div class="description">We use OpenStack to manage the AARCH64 nodes.
+        We can either create the node for you or we can grant you access to the
+        OpenStack GUI and API and let you manage it yourself. What do you
+        prefer?</div>
       </div>
       <div class="form-item webform-component webform-component-textarea" id="webform-component-ssh-key">
         <label for="edit-submitted-ssh-key">SSH Public Key <span class="form-required" title="This field is required.">
@@ -154,19 +164,20 @@
         <div class="description">Public SSH key to be used for initial access to the system.</div>
       </div>
 
-      <p><i>You should receive an automated email from our request ticketing system to the email address you have
-      provided within 5-10 minutes.  If you don't receive this email please reach out to us at <a
-      href="mailto:arm-hosting-request@osuosl.org">arm-hosting-request@osuosl.org</a> or via IRC in <b>#osuosl</b> on
-      Freenode.</i></p>
+      <p><i>You should receive an automated email from our request ticketing
+      system to the email address you have provided within 5-10 minutes.  If
+      you don't receive this email please reach out to us at <a
+      href="mailto:aarch64-hosting-request@osuosl.org">aarch64-hosting-request@osuosl.org</a>
+      or via IRC in <b>#osuosl</b> on Freenode.</i></p>
 
       <!-- Formsender Settings -->
       <input type="hidden" name="last_name" value="" />
       <input type="hidden" name="token" value="15674hsda//*q23%^13jnxccv3ds54sa4g4sa532323!OoRdsfISDIdks38*(dsfjk)aS" />
       <!-- The following must be set to http://www.osuosl.org/services/powerdev/request_hosting in production -->
       <input type="hidden" name="redirect" value="http://www.osuosl.org/form-submitted" />
-      <input type="hidden" name="mail_subject_prefix" value="New ARM Hosting Request" />
+      <input type="hidden" name="mail_subject_prefix" value="New AARCH64 Hosting Request" />
       <input type="hidden" name="mail_subject_key" value="project_name" />
-      <input type="hidden" name="send_to" value="arm-hosting" />
+      <input type="hidden" name="send_to" value="aarch64-hosting" />
       <!-- /Formsender Settings -->
 
       <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op"
