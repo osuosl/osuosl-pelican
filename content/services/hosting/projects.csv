@@ -128,6 +128,7 @@
 "OFTC","vm"
 "Open Advice","webapp"
 "OpenBLAS","powerpc"
+"OpenBMC", "vm"
 "OpenBSD","ci-cd"
 "OpenCV","powerpc"
 "open-fcoe","vm, mailing-list, mirroring"
