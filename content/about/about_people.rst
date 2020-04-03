@@ -51,8 +51,6 @@ Ramereth
 .. _Beaver BarCamp: http://beaverbarcamp.org
 .. _The Infallible Collective: http://infalliblecollective.com
 
-  <br/>
-
 `Andrew Dassonville`_
 ----------------------
 
