@@ -46,7 +46,7 @@ PAGINATED_DIRECT_TEMPLATES = ['blog', 'tags']
 DIRECT_TEMPLATE_INFO = [
         {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 5, 'children': []}]  # noqa
 
-DONATE_LINK = 'http://osuosl.org/donate'
+DONATE_LINK = 'https://osuosl.org/donate'
 
 THEME = 'dougfir-pelican-theme'
 
@@ -89,17 +89,17 @@ DEFAULT_DATE = 'fs'
 USE_FOLDER_AS_CATEGORY = True
 
 # Social media
-TWITTERURL = 'http://twitter.com/osuosl'
-FACEBOOKURL = 'http://facebook.com/osuosl'
+TWITTERURL = 'https://twitter.com/osuosl'
+FACEBOOKURL = 'https://facebook.com/osuosl'
 GITHUBURL = 'https://github.com/osuosl'
-YOUTUBEURL = 'http://youtube.com/osuopensourcelab'
+YOUTUBEURL = 'https://youtube.com/osuopensourcelab'
 GPLUSURL = 'https://plus.google.com/107361178205293595706?rel=author'
 
 GOOGLE_ANALYTICS = 'UA-537692-1'
 
 DEP_NAME = 'OSU Open Source Lab'
 PARENT_ORG = 'Center for Applied Systems & Software'
-PARENT_ORG_URL = 'http://cass.oregonstate.edu/'
+PARENT_ORG_URL = 'https://cass.oregonstate.edu/'
 OSLLOGO = 'osllogo-web_0.png'
 SITELOGO = 'milne_street.png'
 SITELOG_URL = 'https://www.google.com/maps/place/Milne+Computer+Center,+1800+SW+Campus+Way,+Corvallis,+OR+97331'  # noqa
