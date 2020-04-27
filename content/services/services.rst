@@ -57,6 +57,19 @@ the Power architecture platform and in a PowerLinux environment. These systems a
 and testing work, but are not to be used for performance testing. `Read more about our PowerLinux development hosting
 services`_
 
+`AARCH64 Development Hosting`_
+------------------------------
+
+.. _AARCH64 Hosting: /services/aarch64
+
+The OSL partners with `Ampere Computing`_ to host `AARCH64`_-based servers, making AARCH64-based KVM guests available
+to the open source community. Community members can use these AARCH64 servers to develop and test open source projects
+on the AARCH64 architecture. These systems are intended for functional development and testing work, but are not to be
+used for performance testing.  `Read more about our AARCH64 hosting services`_.
+
 .. _IBM: http://www-03.ibm.com/linux/ltc/
 .. _POWER: https://en.wikipedia.org/wiki/PowerLinux
 .. _Read more about our PowerLinux development hosting services: /services/powerdev/
+.. _Ampere Computing: http://amperecomputing.com/
+.. _AARCH64: https://en.wikipedia.org/wiki/ARM_architecture#AArch64
+.. _Read more about our AARCH64 hosting services: /services/aarch64/
