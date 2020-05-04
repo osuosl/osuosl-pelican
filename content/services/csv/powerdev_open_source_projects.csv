@@ -87,7 +87,6 @@
 "`Snowpatch`_","An open source tool which provides CI testing for open-source projects which use a traditional patches + email system for accepting contributions; improves the state of continuous integration for a number of open source projects which are critical to the OpenPOWER community, providing automated test capabilities, similar to work already being done on the x86 architecture"
 "Swift", "Fast and highly comprehensible programming language for Unix-based operating systems. Supports objects-oriented, protocol-oriented, and functional programming paradigms."
 "Tesseract-OCR", "Offers a POWER8 testing platform for Google's optical character recognition library, Tesseract OCR"
-"Tobin's Linux kernel","Supports a volunteer developer's efforts to test the Linux kernel on POWER"
 "Travis CI","Continuous Integration using Travis and Power"
 "Travis/Rust/Swift","Provides access to the POWER8 architeture for Travis, Rust, or Swift project developers"
 "TripleO CI", "Continuous Integration and Delivery for RedHat OpenStack Platform"
