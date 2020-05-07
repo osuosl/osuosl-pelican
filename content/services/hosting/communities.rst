@@ -16,6 +16,7 @@ Service Descriptions:
 :mailing-list: Mailman list hosting
 :mirroring: HTTP/FTP Mirror hosting on ftp.osuosl.org
 :powerpc: Providing PPC64 or PPC64LE virtual machines (KVM-based powered by OpenStack)
+:aarch64: Providing AARCH64 (arm64) virtual machines (KVM-based powered by OpenStack)
 :vm: Virtual Machine (KVM-based powered by our Ganeti or OpenStack clusters)
 :webapp: Hosting web applications which may use PHP, Rails, Django, Flask or even static hosting.
 
