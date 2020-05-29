@@ -34,6 +34,7 @@
 "Drupal","co-location, vm, mirroring"
 "Eclipse Communication Framework ","co-location, vm"
 "Eclipse","mirroring"
+"Eclipse Platform","powerpc"
 "Eclipse OMR","powerpc"
 "Eclipse OpenJ9","powerpc"
 "Elastic Beats","powerpc"
