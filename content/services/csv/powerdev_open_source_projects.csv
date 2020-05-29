@@ -1,3 +1,4 @@
+"Abyss OS","An experimental distribution that aims to provide a flexible ecosystem based on pure-llvm and musl userland"
 "Anaconda","Installation program used by Fedora, RHEL, and others; uses POWER support for Continuous Integration and development"
 "Ansible Molecule", "Framework for testing Ansible roles and playbooks"
 "Apache Bigtop","An Apache Foundation project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components; supports a wide range of components/projects, including, but not limited to, Hadoop, HBase and Spark"
