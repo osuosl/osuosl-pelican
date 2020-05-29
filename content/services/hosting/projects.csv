@@ -14,7 +14,7 @@
 "Cacti","co-location"
 "CentOS Linux","mirroring"
 "Checkpoint-restore","powerpc"
-"Cinc Project","vm,aarch64,mirroring"
+"Cinc Project","vm,aarch64,powerpc,mirroring"
 "CiviCRM","co-location, vm"
 "Cloud Foundry","powerpc"
 "CPAN","mirroring"
