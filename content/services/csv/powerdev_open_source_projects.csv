@@ -59,6 +59,7 @@
 "microbench","Carefully measure the performance of the bandwidth between different system compenents on POWER systems to understand their influence on application development"
 "Mozilla","Supports Mozilla projects in testing builds, running automated functionality tests, and debugging architecture-specific bugs."
 "Multiple LLVM/HHVM/*","Contributes towards FOSS software, optimizations for POWER arch; specifically contributes towards HHVM JIT, LLVM and other FOSS projects on POWER8"
+"Nettle","A cryptographic library that is designed to fit easily in more or less any context"
 "Netty","Non-blocking network framework for the JVM"
 "Node.js","Supports project specific porting efforts of POWER8 ppc64/ppc64le; provides stable POWER releases for community builds of Node.js"
 "NumPy","Numerical computing in Python, now on POWER"
