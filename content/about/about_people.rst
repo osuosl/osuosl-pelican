@@ -236,7 +236,6 @@ wholewheatbagels
 
   <br/>
 
-
 .. _OSU SEC: https://www.osusec.org/
 
 `Ryan Zimmerman`_
