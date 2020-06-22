@@ -237,3 +237,39 @@ wholewheatbagels
   <br/>
 
 .. _OSU SEC: https://www.osusec.org/
+
+`Ryan Zimmerman`_
+------------------
+
+.. image:: /images/zimmerry.jpg
+    :width: 110px
+    :align: right
+    :alt: Ryan Zimmerman
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Ryan joined the OSL in June 2020 and is studying computer science. He learned
+about the OSL through the `OSU Linux Users Group`_ and applied immediately
+when he heard about the job opening. He joined to get exposure to and
+contribute to the open source community and to get experience using Linux
+in a production environment. In his free time, he enjoys running, photography,
+hiking, and spending excessive amounts of time working on his home server.
+
+.. _OSU Linux Users Group: http://lug.oregonstate.edu/
+.. class:: no-breaks
+
+  **GitHub Account**
+
+https://github.com/zimmerry
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+zimmerry
+
+.. raw:: html
+
+  <br/>
