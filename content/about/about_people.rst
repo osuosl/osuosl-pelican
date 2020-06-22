@@ -309,3 +309,37 @@ EMH333
 .. raw:: html
 
    <br/>
+`Ryan Kennedy`_
+----------------
+
+.. image:: /images/Ryan.jpg
+    :width: 110px
+    :align: right
+    :alt: Ryan Kennedy
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Ryan joined the OSL in June 2020 and is studying Computer Science with a focus on cybersecurity. 
+He first learned of the OSL through Khuogn and other members of the security club.
+Ryan is the lab manager for the OSU Security Club (OSUSEC), and hopes to be able to use the knowledge he gains at the OSL to improve the club's systems.
+He also loves playing videogames, learning how to build exciting things, and participating in cometitions with the Security Club. 
+
+.. class:: no-breaks
+
+  **GitHub Account**
+
+https://github.com/TheREK3R
+
+.. class:: no-breaks
+
+  **Nick on irc.freenode.net**
+
+REK
+
+.. raw:: html
+
+  <br/>
+
+.. _OSU Security team: https://www.osusec.org/
