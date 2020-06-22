@@ -312,7 +312,7 @@ EMH333
 `Ryan Kennedy`_
 ----------------
 
-.. image:: /images/Ryan.jpg
+.. image:: /images/r.jpg
     :width: 110px
     :align: right
     :alt: Ryan Kennedy
@@ -322,7 +322,7 @@ EMH333
   **Student Systems Engineer**
 
 Ryan joined the OSL in June 2020 and is studying Computer Science with a focus on cybersecurity. 
-He first learned of the OSL through Khuogn and other members of the security club.
+He first learned of the OSL through Khuong and other OSL alumni during a Cyber Defense Competition.
 Ryan is the lab manager for the OSU Security Club (OSUSEC), and hopes to be able to use the knowledge he gains at the OSL to improve the club's systems.
 He also loves playing videogames, learning how to build exciting things, and participating in cometitions with the Security Club. 
 
