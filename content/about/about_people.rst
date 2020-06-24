@@ -288,7 +288,7 @@ ________________
 
 Ethan joined the OSL in June of 2020 studying computer science. He is
 enthusiastic about all the opportunity available to him here and is grateful for
-this change to learn more about the OSS ecosystem. Ethan's first introduction to
+this chance to learn more about the OSS ecosystem. Ethan's first introduction to
 OSS was when he installed Ubuntu on his desktop in middle school and has loved
 it ever since. His first programming experience was robotics and continues to
 love elegant solutions to complex problems. If he isn't working with technology,
