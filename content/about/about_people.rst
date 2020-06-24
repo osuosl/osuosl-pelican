@@ -323,8 +323,10 @@ EMH333
 
 Ryan joined the OSL in June 2020 and is studying Computer Science with a focus on cybersecurity. 
 He first learned of the OSL through Khuong and other OSL alumni during a Cyber Defense Competition.
-Ryan is the lab manager for the OSU Security Club (OSUSEC), and hopes to be able to use the knowledge he gains at the OSL to improve the club's systems.
-He also loves playing videogames, learning how to build exciting things, and participating in cometitions with the Security Club. 
+Ryan is the lab manager for the OSU Security Club (OSUSEC), and hopes to be able to use the knowledge he gains 
+at the OSL to improve the club's systems.
+He also loves playing video games, learning how to build exciting things, and participating in competitions with the 
+Security Club. 
 
 .. class:: no-breaks
 
