@@ -279,7 +279,7 @@ ________________
 
 .. image:: /images/hamptone.jpg
     :width: 110px
-    :alight: right
+    :align: right
     :alt: Ethan Hampton
 
 .. class:: no breaks
