@@ -273,3 +273,39 @@ zimmerry
 .. raw:: html
 
   <br/>
+
+`Ethan Hampton`_
+________________
+
+.. image:: /images/hamptone.jpg
+    :width: 110px
+    :align: right
+    :alt: Ethan Hampton
+
+.. class:: no breaks
+
+   **Student Systems Engineer**
+
+Ethan joined the OSL in June of 2020 studying Computer Science. He is
+enthusiastic about all the opportunities available to him here and is grateful for
+this chance to learn more about the OSS ecosystem. Ethan's first introduction to
+OSS was when he installed Ubuntu on his desktop in middle school and has loved
+it ever since. His first programming experience was in FIRST LEGO League robotics
+and continues to love elegant solutions to complex problems. If he isn't working
+with technology, Ethan enjoys playing piano, reading, hiking and tinkering.
+
+.. class:: no-breaks
+
+   **GitHub Account**
+
+https://github.com/EMH333
+
+.. class:: no-breaks
+
+   **Nic on irc.freenode.net**
+
+EMH333
+
+.. raw:: html
+
+   <br/>
