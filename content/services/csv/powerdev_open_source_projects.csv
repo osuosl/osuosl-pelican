@@ -97,6 +97,7 @@
 "VSXSIMD","SIMD Optimization Bountys"
 "Wazuh","Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance."
 "WebM","Dedicated to developing a high-quality, open video format for the web that's freely available to everyone"
+"Whonix", "Anonymity, privacy, security online"
 "X265 HEVC Encoder","Explores POWER8-specific optimizations for x265 including, but not restricted to, assembly optimizations and thread-related optimizations"
 "X2Go","A Remote Desktop and Remote Application Solution. Originally developed on x86/x64 hardware platforms, the server and client components are also available for ARM (Raspbian) and POWER (big and little endian). In short, it's for Linux what Citrix is for Windows."
 "Zarafa","Supports project specific porting efforts of POWER8 ppc64/ppc64le"
