@@ -48,7 +48,7 @@ Ramereth
 .. _Beaver BarCamp: http://beaverbarcamp.org
 
 `Andrew Dassonville`_
-----------------------
+---------------------
 
 .. image:: /images/andrewda.jpg
     :width: 110px
@@ -81,7 +81,7 @@ andrewda
   <br/>
 
 `Khuong Luu`_
-----------------
+-------------
 
 .. image:: /images/kluu.jpg
     :width: 110px
@@ -122,7 +122,7 @@ freefood
 .. _r/aww: https://www.reddit.com/r/aww
 
 `David Gasper`_
-----------------
+---------------
 
 .. image:: /images/gdavid.jpg
     :width: 110px
@@ -156,7 +156,7 @@ runnerboi
   <br/>
 
 `Kerry Vance`_
---------------------
+--------------
 
 .. image:: /images/kvance.jpg
     :width: 110px
@@ -194,7 +194,7 @@ Vancelot
 
 
 `Robert Detjens`_
---------------------
+-----------------
 
 .. image:: /images/detjensrobert.jpg
     :width: 110px
@@ -229,7 +229,7 @@ wholewheatbagels
 .. _OSU SEC: https://www.osusec.org/
 
 `Ryan Zimmerman`_
-------------------
+-----------------
 
 .. image:: /images/zimmerry.jpg
     :width: 110px
@@ -263,7 +263,7 @@ zimmerry
   <br/>
 
 `Ethan Hampton`_
-________________
+----------------
 
 .. image:: /images/hamptone.jpg
     :width: 110px
@@ -297,7 +297,7 @@ EMH333
    <br/>
 
 `Ryan Kennedy`_
-----------------
+---------------
 
 .. image:: /images/r.jpg
     :width: 110px
