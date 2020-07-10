@@ -21,8 +21,8 @@ People
 than 160 high-profile open source projects since joining the lab as lead systems administrator and architect in 2007.
 Lance’s involvement in the open source community began in 2003, when he became a developer and package maintainer with
 `Gentoo Linux`_. Prior to joining the OSL, Lance was a UNIX Administrator for the Enterprise Server Technologies group
-at `Kansas State University`_. In his free time he helps organize `Beaver BarCamp`_ and plays trumpet in local jazz
-group `The Infallible Collective`_.
+at `Kansas State University`_. In his free time he helps organize `Beaver BarCamp`_, and enjoys playing the trumpet and
+spending time with his family.
 
 Lance can be reached at lance-at-osuosl-dot-org
 
@@ -46,7 +46,6 @@ Ramereth
 .. _Gentoo Linux: http://gentoo.org
 .. _Kansas State University: http://ksu.edu
 .. _Beaver BarCamp: http://beaverbarcamp.org
-.. _The Infallible Collective: http://infalliblecollective.com
 
 `Andrew Dassonville`_
 ----------------------
