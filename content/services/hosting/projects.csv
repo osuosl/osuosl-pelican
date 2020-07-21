@@ -82,6 +82,7 @@
 "Jupyter / Base-notebook","powerpc"
 "K-3D","vm"
 "KDE","vm, mirroring"
+"Kali Linux","aarch64"
 "LAPACK","powerpc"
 "LDC","powerpc"
 "LFS (Linux From Scratch)","mirroring"
