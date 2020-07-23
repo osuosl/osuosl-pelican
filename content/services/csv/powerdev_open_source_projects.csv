@@ -72,6 +72,7 @@
 "OpenFaaS","Making Serverless Functions Simple"
 "OpenJDK","Supports project specific porting efforts of POWER8 ppc64/ppc64le; provides support for Java 7 and 8 which is being consumed by most major distributions"
 "OpenLibm","PowerPC support for OpenLibm, a high quality, portable, standalone C mathematical library"
+"OpenMandriva","Building an easy to use, yet powerful and state of art, Linux distribution aimed primarily at desktop use"
 "`OpenQuake`_","An Open Source Engine for seismic hazard and risk assessment uses the infrastructure to try porting to POWER architecture and see how a different architecture affects the numerical tests (the code is covered by numerical, functional and qa tests)"
 "OpenWhisk","Supports building ppc64le Docker images for OpenWhisk, a programming service that provides event based execution of functions"
 "OrientDB","Multi-Model NoSQL database management system that supports graph, document, key/value and object models. Uses PowerCI infrastructure for regression tests"

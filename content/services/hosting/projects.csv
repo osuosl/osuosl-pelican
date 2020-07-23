@@ -145,6 +145,7 @@
 "OpenJDK","powerpc"
 "OpenLibm","powerpc"
 "open-lldp","vm, mailing-list"
+"OpenMandriva","aarch64, powerpc"
 "OpenMRS","vm, webapp, mirroring"
 "OpenQuake","powerpc"
 "OpenStreetMap","co-location, vm, mirroring"
