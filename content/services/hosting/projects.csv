@@ -58,7 +58,7 @@
 "GCC/Clang","powerpc"
 "GCC Compile Farm Project","co-location, ci-cd"
 "GCC Fortran","powerpc"
-"Gentoo Linux","co-location, vm, mirroring, powerpc"
+"Gentoo Linux","co-location, vm, mirroring, powerpc, aarch64"
 "Ginga Middleware","powerpc"
 "Gnome","co-location, vm, mirroring, ci-cd"
 "GNU Radio","vm"
