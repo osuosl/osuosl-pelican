@@ -2,7 +2,7 @@ Currently Hosted Projects
 =========================
 :slug: services/aarch64/current-projects
 :title: Current AARCH64 Projects
-:menu: AARCH64 Development Hosting, Current Projects, 1
+:menu: AARCH64 Development Hosting, Current Projects, 5
 
 Below are a list of currently hosted AARCH64 projects
 
