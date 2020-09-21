@@ -75,7 +75,7 @@
 "OpenLibm","PowerPC support for OpenLibm, a high quality, portable, standalone C mathematical library"
 "OpenMandriva","Building an easy to use, yet powerful and state of art, Linux distribution aimed primarily at desktop use"
 "`OpenQuake`_","An Open Source Engine for seismic hazard and risk assessment uses the infrastructure to try porting to POWER architecture and see how a different architecture affects the numerical tests (the code is covered by numerical, functional and qa tests)"
-"OpenShiftCI","Test builds of OpenShift 4.x for Continuous Integration"
+"OpenShift","Test builds of OpenShift for Continuous Integration"
 "OpenWhisk","Supports building ppc64le Docker images for OpenWhisk, a programming service that provides event based execution of functions"
 "OrientDB","Multi-Model NoSQL database management system that supports graph, document, key/value and object models. Uses PowerCI infrastructure for regression tests"
 "Perfbook","Provides education on parallel programming, and availability of a ppc64le system will help ensure that this education is not x86-centric."
