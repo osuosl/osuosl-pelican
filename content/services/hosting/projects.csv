@@ -149,6 +149,7 @@
 "OpenMandriva","aarch64, powerpc"
 "OpenMRS","vm, webapp, mirroring"
 "OpenQuake","powerpc"
+"OpenStackCI","powerpc"
 "OpenStreetMap","co-location, vm, mirroring"
 "OpenWhisk","powerpc"
 "OpenWRT","ci-cd"
