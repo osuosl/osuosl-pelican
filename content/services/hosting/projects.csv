@@ -67,6 +67,7 @@
 "godon","vm"
 "Grml","mirroring"
 "GSB (Gnome.SlackBuild)","mirroring"
+"gVisor", "aarch64"
 "Hackage","mirroring"
 "Hadoop Spark","powerpc"
 "Haiku","mirroring"
