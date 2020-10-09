@@ -13,6 +13,7 @@
 "Buildroot","vm, mailing-list, ci-cd"
 "BusyBox","vm, mailing-list"
 "Cacti","co-location"
+"Census Reporter","vm"
 "CentOS Linux","mirroring"
 "Checkpoint-restore","powerpc"
 "Cinc Project","vm,aarch64,powerpc,mirroring"
