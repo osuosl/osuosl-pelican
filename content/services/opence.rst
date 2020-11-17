@@ -2,6 +2,7 @@ Open-CE
 =======
 :slug: opence
 :author: Ken Lett
+:menu: POWERLinux/OpenPOWER Development Hosting, Open-CE, 3
 
 The Open Source Lab (OSUOSL) and Center for Genome Research and Biocomputing (CGRB) partner with IBM and OpenPOWER in order to provide a download resources around Open-CE. Open-CE is a community driven software distribution for machine learning that runs on standard Linux platforms with NVIDIA GPU technologies.
 - `Current release`_
