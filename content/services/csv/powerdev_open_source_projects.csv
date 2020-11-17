@@ -71,7 +71,6 @@
 "OpenBLAS","Optimizes BLAS 1/2 double precision for POWER8 VSX"
 "OpenBMC","Open source BMC firmware, which supports PowerPC hosts"
 "OpenCV","Implements POWER8 and POWER9 VSX SIMD optimizations for OpenCV"
-"OpenFaaS","Making Serverless Functions Simple"
 "OpenJDK","Supports project specific porting efforts of POWER8 ppc64/ppc64le; provides support for Java 7 and 8 which is being consumed by most major distributions"
 "OpenLibm","PowerPC support for OpenLibm, a high quality, portable, standalone C mathematical library"
 "OpenMandriva","Building an easy to use, yet powerful and state of art, Linux distribution aimed primarily at desktop use"
