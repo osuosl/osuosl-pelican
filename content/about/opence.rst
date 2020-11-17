@@ -134,14 +134,14 @@ You can install the MLDL frameworks individually. The framework packages include
 
 **Table 1. Framework packages**
 
-==================  ===========================  =======   ====================  ===================
-Package             Description                  Version   Available on ppc64le  Available on x86_64
-==================  ===========================  =======   ====================  ===================
-pytorch             PyTorch                      1.6.0     X                     X
-tensorflow          TensorFlow with GPU support  2.3.1     X                     X
-tensorflow-serving  TensorFlow Serving           2.3.0     X                     X
-py-xgboost          xgboost with GPU support     1.2.0     X                     X
-==================  ===========================  =======   ====================  ===================
+======================  ===========================  =======   ====================  ===================
+Package                 Description                  Version   Available on ppc64le  Available on x86_64
+======================  ===========================  =======   ====================  ===================
+``pytorch``             PyTorch                      1.6.0     X                     X
+``tensorflow``          TensorFlow with GPU support  2.3.1     X                     X
+``tensorflow-serving``  TensorFlow Serving           2.3.0     X                     X
+``py-xgboost``          xgboost with GPU support     1.2.0     X                     X
+======================  ===========================  =======   ====================  ===================
 
 
 With the conda environment activated, run the following command:
