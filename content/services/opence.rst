@@ -1,12 +1,12 @@
 Open-CE
 =======
-:slug: opence
+:slug: services/powerdev/opence
 :author: Ken Lett
-:menu: POWERLinux/OpenPOWER Development Hosting, Open-CE, 3
+:menu: POWERLinux/OpenPOWER Development Hosting, Open-CE, 5
 
 The Open Source Lab (OSUOSL) and Center for Genome Research and Biocomputing (CGRB) partner with IBM and OpenPOWER in order to provide a download resources around Open-CE. Open-CE is a community driven software distribution for machine learning that runs on standard Linux platforms with NVIDIA GPU technologies.
-- `Current release`_
 
+- `Current release`_
 - `Previous releases`_
 
 .. _Current release:
@@ -90,7 +90,7 @@ Installing the Open-CE Repository and Frameworks
 Setting up the software repository
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The Open-CE MLDL packages are distributed as conda packages in an online conda repository. conda must be configured to give priority to installing packages from this channel.
+The Open-CE MLDL packages are distributed as conda packages in an online conda repository. Conda must be configured to give priority to installing packages from this channel.
 
 Add the Open-CE channel to the conda configuration by running the following command:
 
@@ -175,6 +175,7 @@ Individual frameworks (and any packages that depend on them) can be removed by r
 Important: This command removes the specified packages and any packages that depend on any of the specified packages. If you want to skip this dependency checking and remove just the requested packages, add the --force option. However, this may break your environment, so use this option with caution.
 
 Previous releases
+^^^^^^^^^^^^^^^^^
 
 We recommend that you install the most current release of Open-CE, however, if you have an earlier version installed, you can find information below:
 
