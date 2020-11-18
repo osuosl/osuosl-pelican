@@ -54,7 +54,7 @@ Get information about planning, configuring, and managing Open-CE 1.0 Below:
 Planning
 --------
 
-We recommend users use one of the listed operating systems listed above. This is a standard conda repository and can be added to any conda install. Conda must be configured to give priority to installing packages from this channel.
+We recommend users use one of the listed operating systems listed below. This is a standard conda repository and can be added to any conda install. Conda must be configured to give priority to installing packages from this channel.
 
 .. _system setup:
 
