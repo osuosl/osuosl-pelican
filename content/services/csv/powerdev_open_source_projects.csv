@@ -25,7 +25,6 @@
 "Elastic Beats","Part of the Elastic stack (Elasticsearch, Kibana, Logstash, Beats). Manual testing and checking that the Beats are working on POWER platform"
 "Elephant Shed","Provides ppc64le build and performance testing for Elephant Shed, a bundle of PostgreSQL tools and web UI for easy administration of PostgreSQL servers"
 "Envoy","sidecar binary used by the most popular service mesh in the microservice space (istio)"
-"EQueue","an efficient lock-free queue for pipeline parallelism on multi-core architectures"
 "Fedora","Provide a location for developers to port their Fedora projects to the POWER architecture"
 "FFmpeg","Supports optimization of software scaling in FFmpeg running on POWER systems"
 "Firefox","Ports Mozilla Firefox to POWER8"
