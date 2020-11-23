@@ -51,7 +51,6 @@
 "libpod","a library for applications looking to use the Container Pod concept, popularized by Kubernetes"
 "libvpx","Adds VSX optimizations for libvpx on POWER architecture"
 "LIBXSMM","LIBXSMM is a library for specialized dense and sparse matrix operations as well as for deep learning primitives such as small convolutions. Enabling POWER JIT-code generation and optimization."
-"Linux Kernel","Allows maintainer of Linux kernel features to test on ppc64le"
 "Linux Standard Base","Tests for and maintains compatibility between Linux distributions"
 "LLVM","Supports project specific porting efforts of POWER8 ppc64/ppc64le to run buildbot instances; these instances build LLVM and run the test suites when patches are checked in to ensure they run properly on the POWER architecture"
 "LLVM Memory Order Loads Handling", "The C standard currently specifies that that memory_order_consume loads feed into carries a dependency, however, no known implementation does anything other than promote memory_order_consume to memory_order_acquire. C users therefore avoid memory_order_consume loads in favour of volatile loads, inline assembly, and other subterfuge. There has been considerable work within the C++ standards committee to address similar issues in C++, however, the current proposals involve C++ templates, which have no reasonable C equivalent. We proposes a new _Dependent_ptr type qualifier to provide this functionality in the C language. We are implementing the same in LLVM."
