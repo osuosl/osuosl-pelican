@@ -34,7 +34,6 @@
 "GCC Fortran", "Compiler optimizations and bug fixing for POWER port of GCC fortran compiler"
 "`Gentoo PowerPC Project`_","Part of Gentoo Linux and is responsible for porting Gentoo to PowerPC architecture of all flavors"
 "Glasgow Haskell Compiler (GHC)","state-of-the-art open source compiler and interactive environment for the functional language Haskell"
-"Ginga Middleware","ISDB middleware for interactive DTV. Supports project in porting to POWER8"
 "glibc","The GNU C Library project provides the core libraries for the GNU system and GNU/Linux systems"
 "Go Language","Supports project specific porting efforts of POWER8 ppc64/ppc64le"
 "Hadoop_Spark","CI environment powered by a Jenkins server running Hadoop and Spark builds for including POWER into the Hyperledger fabric community to perform Continuous Integration for IBM Hyperledger fabric codebase."
