@@ -121,40 +121,6 @@ freefood
 .. _manga: https://www.google.com/search?q=shingeki+no+kyojin
 .. _r/aww: https://www.reddit.com/r/aww
 
-`David Gasper`_
----------------
-
-.. image:: /images/gdavid.jpg
-    :width: 110px
-    :align: right
-    :alt: David Gasper
-
-.. class:: no-breaks
-
-  **Student Systems Engineer**
-
-David joined the OSL in February 2019 and is studying computer science.  He first learned about the OSL during an
-engineering club rush during fall term.  David joined the lab to contribute to the open source community as well as to
-gain knowledge about the Linux operating system and software development processes.  In his free time he enjoys
-competitive running, programming and the great outdoors.  He is also known to occasionally play classic rock hits on
-the piano.
-
-.. class:: no-breaks
-
-  **GitHub Account**
-
-https://github.com/dmgasper
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-runnerboi
-
-.. raw:: html
-
-  <br/>
-
 `Robert Detjens`_
 -----------------
 
