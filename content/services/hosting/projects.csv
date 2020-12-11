@@ -34,6 +34,7 @@
 "Django","vm"
 "Docker","powerpc"
 "Drupal","co-location, vm, mirroring"
+"EasyBuild","powerpc"
 "Eclipse Communication Framework ","co-location, vm"
 "Eclipse OMR","powerpc"
 "Eclipse OpenJ9","powerpc"
