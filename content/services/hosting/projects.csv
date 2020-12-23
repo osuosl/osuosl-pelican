@@ -78,6 +78,7 @@
 "Heptapod","ci-cd, aarch64"
 "HHVM","mirroring, powerpc"
 "Hortonworks Data Platform","powerpc"
+"Hush","vm"
 "Inkscape","vm, mailing-list"
 "Istio","powerpc"
 "Jaws","vm, mailing-list"
