@@ -38,7 +38,7 @@
 "Eclipse Communication Framework ","co-location, vm"
 "Eclipse OMR","powerpc"
 "Eclipse OpenJ9","powerpc"
-"Eclipse Platform","powerpc"
+"Eclipse Platform","powerpc, aarch64"
 "Eclipse","mirroring"
 "Eigen","powerpc"
 "Elastic Beats","powerpc"
