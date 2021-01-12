@@ -1,4 +1,5 @@
 "Cinc Project","aarch64 builds for various Cinc Project packages (Cinc Client primarily)."
+"Eclipse Platform","Eclipse platform project builds a very popular Eclipse IDE. This project is completely open source and recently Eclipse community started supporting AARC64 architecture."
 "Gentoo Linux","Gentoo Foundation Mission Statement: To promote the advancement of free knowledge and Free and Open Source Software (FOSS) through the primary vehicle of the meta-distribution known as Gentoo. These goals are accomplished through relationships with free software authors, technical contributions to external projects, and a thriving community of volunteers that make Gentoo possible."
 "gVisor", "Provide isolation for containers, so that the overall system remains secure."
 "Heptapod", "A community driven effort to bring Mercurial SCM support to GitLab."
