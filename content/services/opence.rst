@@ -10,37 +10,34 @@ The Open Source Lab (OSUOSL) and Center for Genome Research and Biocomputing (CG
 - `Previous releases`_
 
 .. _Current release:
-.. _Release 1.0.0:
+.. _Release 1.1.1:
 
-Open-CE Release 1.0.0
----------------------
-
-*Release date: 11/10/2020*
+*Release date: 01/12/2021*
 
 **What's new**
 
-Open-CE 1.0 is the `current release`_ of Open-CE and includes the following features:
+This is release 1.1 of Open Cognitive Environment (Open-CE), code named Meerkat.
 
-- conda packages are now available on ppc64le.
-- conda packages are now available on x86.
-- TensorFlow 2.3.1
-- PyTorch 1.6.0
-- Open-CE is distributed as prebuilt containers, or on demand through the Conda provisioning process.
-
-  - All of the Conda packages are available in a `Open-CE Conda channel`_
-  - Current Conda packages are available in a `Current Open-CE Conda channel`_
-  - There is no install package to download, instead connect to the Conda channel and install your packages from there
-  - Package dependencies are automatically resolved
-  - Delivery of packages is open and continuous
-  - Enable Python versions 3.6, 3.7, 3.8
-  - You can run more than one framework at the same time in the same environment. For example, you can run TensorFlow and PyTorch at the same time.
+- Added support for CUDA 11.0, which is currently supported on RHEL8.
+- Added recipes for the following new packages: LightGBM, TensorFlow Model Optimization, TensorFlow Addons, PyTorch Lightning Bolts, Python Flatbuffers.
+- Added the open-ce tool for running build and validate commands. This replaces the previously existing build_env.py and build_feedstock.py entry points to Open-CE.
+- Added the open-ce test commands to test packages that are built by Open-CE.
+    open-ce build env will now output conda environment files that can be used to create conda environments containing the packages that were just built.
+- The open-ce build image command has been added to create Docker images from the output of open-ce build env.
+- Open-CE build tools can now accept --cuda_versions as an argument to choose a version of CUDA to build with.
+- open-ce build env will now check for circular dependencies between packages.
+- open-ce build env will verify that all packages that are being built can be installed within the same conda environment before starting a build.
+- Added the --skip_build_packages argument to open-ce build env.
+- Jinja can now be used within any Open-CE configuration file.
+- Improved performance when attempting to build packages that already exist.
+- Added the patches key to the Open-CE environment files to allow for patching feedstocks.
 
 .. _Open-CE Conda channel: https://ftp.osuosl.org/pub/open-ce/
 .. _Current Open-CE Conda channel: https://ftp.osuosl.org/pub/open-ce/current
 
 **Learn more**
 
-Get information about planning, configuring, and managing Open-CE 1.0 Below:
+Get information about planning, configuring, and managing Open-CE 1.1 Below:
 
 - `Planning`_
 - `System setup`_
@@ -79,8 +76,8 @@ Supported hardware:
 
 - Required 3rd party software:
 
-  - NVIDIA GPU driver 440.33.01
-  - CUDA driver 10.2
+  - NVIDIA GPU driver 440.33 - 460.32
+  - CUDA driver 10.2 or 11.0
 
 Installing the Open-CE Repository and Frameworks
 ------------------------------------------------
@@ -138,10 +135,10 @@ You can install the MLDL frameworks individually. The framework packages include
 ======================  ===========================  =======   ====================  ===================
 Package                 Description                  Version   Available on ppc64le  Available on x86_64
 ======================  ===========================  =======   ====================  ===================
-``pytorch``             PyTorch                      1.6.0     X                     X
-``tensorflow``          TensorFlow with GPU support  2.3.1     X                     X
-``tensorflow-serving``  TensorFlow Serving           2.3.0     X                     X
-``py-xgboost``          xgboost with GPU support     1.2.0     X                     X
+``pytorch``             PyTorch                      1.7.1     X                     X
+``tensorflow``          TensorFlow with GPU support  2.4.0     X                     X
+``tensorflow-serving``  TensorFlow Serving           2.4.0     X                     X
+``py-xgboost``          xgboost with GPU support     1.3.0     X                     X
 ======================  ===========================  =======   ====================  ===================
 
 
@@ -174,6 +171,7 @@ Individual frameworks (and any packages that depend on them) can be removed by r
 
 Important: This command removes the specified packages and any packages that depend on any of the specified packages. If you want to skip this dependency checking and remove just the requested packages, add the --force option. However, this may break your environment, so use this option with caution.
 
+
 Previous releases
 ^^^^^^^^^^^^^^^^^
 
@@ -184,4 +182,30 @@ We recommend that you install the most current release of Open-CE, however, if y
 Previous releases
 -----------------
 
-- `Release 1.0.0`_
+.. _Release 1.0.0:
+
+Open-CE Release 1.0.0
+---------------------
+
+*Release date: 11/10/2020*
+
+**What's new**
+
+Open-CE 1.0 is the `current release`_ of Open-CE and includes the following features:
+
+- conda packages are now available on ppc64le.
+- conda packages are now available on x86.
+- TensorFlow 2.3.1
+- PyTorch 1.6.0
+- Open-CE is distributed as prebuilt containers, or on demand through the Conda provisioning process.
+
+  - All of the Conda packages are available in a `Open-CE Conda channel`_
+  - Conda packages are available in the `Open-CE 1.0.0 Conda channel`_
+  - There is no install package to download, instead connect to the Conda channel and install your packages from there
+  - Package dependencies are automatically resolved
+  - Delivery of packages is open and continuous
+  - Enable Python versions 3.6, 3.7, 3.8
+  - You can run more than one framework at the same time in the same environment. For example, you can run TensorFlow and PyTorch at the same time.
+
+.. _Open-CE Conda channel: https://ftp.osuosl.org/pub/open-ce/
+.. _Open-CE 1.0.0 Conda channel: https://ftp.osuosl.org/pub/open-ce/1.0.0
