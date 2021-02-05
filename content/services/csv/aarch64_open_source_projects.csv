@@ -1,3 +1,4 @@
+"Abyss OS", "Abyss is a modern take on the “just enough OS” paradigm, with a focus on modern components (LLVM, musl) and flexibility."
 "Antrea","A Kubernetes-native project that implements the Container Network Interface (CNI) and Kubernetes NetworkPolicy thereby providing network connectivity and security for pod workloads."
 "Cinc Project","aarch64 builds for various Cinc Project packages (Cinc Client primarily)."
 "Eclipse Platform","Eclipse platform project builds a very popular Eclipse IDE. This project is completely open source and recently Eclipse community started supporting AARC64 architecture."
