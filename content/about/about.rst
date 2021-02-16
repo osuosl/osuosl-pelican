@@ -39,8 +39,7 @@ to maintain its unique brand while combining their expertise and giving them the
 ability and resources to take on bigger and better projects.
 
 To learn more about obtaining services from the lab and explore our active
-projects, please visit our Hosting and Development pages. A list of our hosted
-projects can be found on our Hosted Communities page. To get updates on the Open
-Source Lab, read our Blog page. If you are interested in contributing to the
-success of our projects or sponsoring our students' progress, please visit our
-Donate page.
+projects, please visit our Hosting page. A list of our hosted projects can be
+found on our Hosted Communities page. To get updates on the Open Source Lab,
+read our Blog page. If you are interested in contributing to the success of our
+projects or sponsoring our students' progress, please visit our Donate page.
