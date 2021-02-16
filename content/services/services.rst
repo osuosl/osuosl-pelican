@@ -27,24 +27,6 @@ hosting services`_.
 .. _Read more about our hosting services: /services/hosting/
 
 
-`Development Services`_
------------------------
-
-.. _Development Services: /services/development
-
-
-The OSL develops technology and tools to expand and manage growing open source
-software projects. Our talented development staff and students provide a full
-range of development services including requirements analysis, design, coding
-and testing.
-
-We are passionate about developing a robust solution that is well designed, does
-what you want and will hold up over time. `Read more about our development
-services`_.
-
-.. _Read more about our development services: /services/development/
-
-
 `PowerLinux Development Hosting`_
 ---------------------------------
 
