@@ -150,7 +150,6 @@
 "OpenFAAS","aarch64"
 "OpenID","co-location, webapp, mailing-list"
 "OpenJDK","powerpc"
-"OpenLibm","powerpc"
 "OpenMandriva","aarch64, powerpc"
 "OpenMRS","vm, webapp, mirroring"
 "OpenQuake","powerpc"
