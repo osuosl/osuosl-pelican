@@ -35,3 +35,4 @@
 "Tobin's Linux kernel","Supports a volunteer developer's efforts to test the Linux kernel on POWER"
 "VSXSIMD","SIMD Optimization Bountys"
 "X265 HEVC Encoder","Explores POWER8-specific optimizations for x265 including, but not restricted to, assembly optimizations and thread-related optimizations"
+"Zarafa","Supports project specific porting efforts of POWER8 ppc64/ppc64le"
