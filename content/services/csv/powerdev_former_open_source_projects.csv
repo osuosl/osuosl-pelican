@@ -15,6 +15,7 @@
 "GMP","Entailed the compilation of gmp-6.1.0 (from gmplib.org) and measurement of its performance with gmpbench-0.2 on the POWER platform"
 "ICU","The International Components for Unicode project runs their build machines on a OSL hosted POWER VM"
 "Jellyfish","A fast multi-threaded k-mer counter. POWER infrastructure is being used to compile builds, performance testing, architecture troubleshooting"
+"juju-charms","Adds ppc64el support to appliance image for building/interfacing with juju, the juju charm store, and assembling charms "
 "JXcore on PPC","Supports the platforms that the mainstream node.js does not; IBM has a PPC version of V8; Besides V8, JXcore also implements SpiderMonkey engine; project involved providing stable PPC releases on each version of Node.JS / JXcore"
 "Linux Kernel","Allows maintainer of Linux kernel features to test on ppc64le"
 "MulticoreWare x265","Use GCC PowerPC altivec instructions to optimize the x265 open source HEVC implemenation"

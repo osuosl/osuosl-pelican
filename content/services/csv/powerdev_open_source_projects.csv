@@ -40,7 +40,6 @@
 "Hortonworks Data Platform","A secure, enterprise-ready open source Apache Hadoop distribution based on a centralized architecture (YARN) now on POWER"
 "INRIA","Updating the HACL* Cryptographic Library to build on POWER"
 "Istio","Supports compiling and testing Istio, a platform for microservice management, on POWER"
-"juju-charms","Adds ppc64el support to appliance image for building/interfacing with juju, the juju charm store, and assembling charms "
 "Julia/LLVM","ppc64el port of the Julia language to LLVM-6.0"
 "jupyter/base-notebook","Provides docker image of jupyter/base-notebook on POWER"
 "LAPACK","The Numerical Linear Algebra package project tests builds on IBM architecture and with IBM compiler and also uses it to fix bugs with IBM xlf"
