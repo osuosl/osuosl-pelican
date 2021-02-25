@@ -7,12 +7,12 @@ Formerly Hosted Projects
 Below are a list of projects formerly hosted on the OpenPOWER infrastructure at
 the OSL.
 
-.. csv-table:: Former FOSS Projects (26 projects)
+.. csv-table:: Former FOSS Projects (38 projects)
    :class: powerdev-tbl
    :file: ./csv/powerdev_former_open_source_projects.csv
    :widths: 20,80
 
-.. csv-table:: Former Academic Partners (1 project)
+.. csv-table:: Former Academic Partners (2 projects)
    :class: powerdev-tbl
    :file: ./csv/powerdev_former_partners.csv
    :widths: 20,80
