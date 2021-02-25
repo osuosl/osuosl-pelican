@@ -34,3 +34,4 @@
 "Squash","A plugin-based abstraction library for general purpose data compression algorithms which provides a common API for a large number of compression libraries, allowing people to easily test multiple codecs to see which works best, or pass along the choice to their users; it involved development and testing on the POWER platform and adding support for the big-endian architecture"
 "Tobin's Linux kernel","Supports a volunteer developer's efforts to test the Linux kernel on POWER"
 "VSXSIMD","SIMD Optimization Bountys"
+"X265 HEVC Encoder","Explores POWER8-specific optimizations for x265 including, but not restricted to, assembly optimizations and thread-related optimizations"
