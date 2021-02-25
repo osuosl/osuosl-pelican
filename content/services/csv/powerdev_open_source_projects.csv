@@ -7,7 +7,6 @@
 "Apache Spark / Arrow","Apache Arrow is an in-memory columnar to exchange data among AI frameworks such as Apache Spark"
 "BearSSL","An SSL/TLS library, with a focus on a clean, secure implementation of protocol, up-to-date with the latest research; POWER8 systems writes specific implementations of AES/GCM and other cryptographic algorithms that leverage the specific opcodes offered by the CPU, for better performance"
 "Blockchain","Continuous intergration for IBM Blockchain hyperledger fabric code for POWER"
-"Blosc","PowerPC testing for Blosc, a high performance compressor optmized for binary data"
 "checkpoint-restore","Implements checkpoint-restore functionality for Linux on POWER architecture; functionality can be used for wide range of use-cases, including live migration, ‘suspend’ and ‘resume’ operations on containers, reboot-less kernel upgrades"
 "Cinc Project","ppc64le builds for various Cinc Project packages (Cinc Client primarily)"
 "Cloud Foundry","Supports porting on POWER, continuous integration and builds integration"

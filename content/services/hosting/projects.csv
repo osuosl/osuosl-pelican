@@ -8,7 +8,6 @@
 "BearSSL","powerpc"
 "BioJS","vm, webapp"
 "Blockchain","powerpc"
-"Blosc","powerpc"
 "Bro","vm"
 "Buildbot","co-location"
 "Buildroot","vm, mailing-list, ci-cd"
