@@ -32,7 +32,6 @@
 "Firefox","Ports Mozilla Firefox to POWER8"
 "Flathub","Provide support for ppc64le on all Flatpaks currently available on Flathub"
 "FRRouting","Free routing stack (BGP, OSPF, ISIS, RIP, EIGRP, PIM, etc)"
-"GCC/Clang","Contributes to improved support of GCC and Clang projects on POWER machines by working on IBM Linux Technology Center items on bountysource.com"
 "GCC Fortran", "Compiler optimizations and bug fixing for POWER port of GCC fortran compiler"
 "`Gentoo PowerPC Project`_","Part of Gentoo Linux and is responsible for porting Gentoo to PowerPC architecture of all flavors"
 "Glasgow Haskell Compiler (GHC)","state-of-the-art open source compiler and interactive environment for the functional language Haskell"

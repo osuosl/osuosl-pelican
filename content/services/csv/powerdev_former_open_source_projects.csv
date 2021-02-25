@@ -5,6 +5,7 @@
 "dlib","A modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. The projects ran tests and benchmarked PowerPC8 VSX optimizations."
 "Drupal Testbots","Powered the testing and review of code contribution for Drupal 8 (qa.drupal.org)"
 "EQueue","an efficient lock-free queue for pipeline parallelism on multi-core architectures"
+"GCC/Clang","Contributes to improved support of GCC and Clang projects on POWER machines by working on IBM Linux Technology Center items on bountysource.com"
 "GCC","Contributed to improving support of various open source projects in the GCC family on POWER machines; began by tackling IBM Linux Technology Center items on bountysource.com"
 "gdb","Worked on adding `fast tracepoint support`_ for ppc/ppc64/ppc64le"
 "Genome Analysis Toolkit (GATK)","A software package for analysis of high-throughput sequencing data with a primary focus on variant discovery and genotyping as well as strong emphasis on data quality assurance, hosted on POWER architecture to run faster"
