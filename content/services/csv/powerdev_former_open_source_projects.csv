@@ -18,6 +18,7 @@
 "juju-charms","Adds ppc64el support to appliance image for building/interfacing with juju, the juju charm store, and assembling charms "
 "JXcore on PPC","Supports the platforms that the mainstream node.js does not; IBM has a PPC version of V8; Besides V8, JXcore also implements SpiderMonkey engine; project involved providing stable PPC releases on each version of Node.JS / JXcore"
 "LAPACK","The Numerical Linear Algebra package project tests builds on IBM architecture and with IBM compiler and also uses it to fix bugs with IBM xlf"
+"libpod","a library for applications looking to use the Container Pod concept, popularized by Kubernetes"
 "Linux Kernel","Allows maintainer of Linux kernel features to test on ppc64le"
 "MulticoreWare x265","Use GCC PowerPC altivec instructions to optimize the x265 open source HEVC implemenation"
 "MySQL","Involved testing on POWER8, provide fixes to platform specific bugs and make more stable on POWER8"
