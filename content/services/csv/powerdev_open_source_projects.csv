@@ -52,6 +52,7 @@
 "LLVM","Supports project specific porting efforts of POWER8 ppc64/ppc64le to run buildbot instances; these instances build LLVM and run the test suites when patches are checked in to ensure they run properly on the POWER architecture"
 "LTTng","Supports project specific porting efforts of POWER8 ppc64/ppc64le"
 "Machine Learning/Deep Learning","Enable and optimize frameworks of OpenBLAS, NVIDIA/Caffe, BVLC/Caffe, Torch, TensorFlow, Theano, DIGITS for IBM POWER Platform"
+"Maple Tree","Oracle Linux kernel POWER architecture troubleshooting: remove mmap_sem"
 "Mesos","API’s for resource management and scheduling across entire datacenter and cloud environments. OSL hosts the CI infrastructure on POWER platform for this project"
 "microbench","Carefully measure the performance of the bandwidth between different system compenents on POWER systems to understand their influence on application development"
 "Mozilla","Supports Mozilla projects in testing builds, running automated functionality tests, and debugging architecture-specific bugs."

@@ -203,6 +203,7 @@
 "Trinity Rescue Kit","mirroring"
 "Trisquel Linux","mirroring"
 "Ubuntu","mirroring"
+"UEK Maple Tree","powerpc"
 "uClibc","mailing-list"
 "Vector Linux","mirroring"
 "VideoLAN","mirroring, powerpc, ci-cd"
