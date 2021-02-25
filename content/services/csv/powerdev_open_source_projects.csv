@@ -80,7 +80,6 @@
 "Primerclip","Supports efficient trimming of primer sequences from next-generation sequencing reads sequenced from libraries which use PCR to amplify the target DNA"
 "PVECLIB","A library of useful vector functions for POWER"
 "PyTorch","Python framework for tensors and deep neural networks. Uses POWER8 for continuous integration and functional testing"
-"qiskit-sdk-py","Python tools for running quantum information experiments"
 "RocksDB","Building the fastest key/value database, PPC port for CI and testing"
 "RPM Fusion","A community driven third party repository for Fedora and Enterprise Linux. They use a dedicated VM as a builder connected to their main infrastructure for building packages for ppc64le platform"
 "SFTPGo","SFTPGo is a fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support, written in Go. It can serve local filesystem, S3 or Google Cloud Storage. POWER Docker image testing."

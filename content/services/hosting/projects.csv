@@ -178,7 +178,6 @@
 "Python Software Foundation","co-location, vm, webapp"
 "PyTorch","powerpc"
 "QEMU","vm"
-"qiskit-sdk-py","powerpc"
 "Rainmeter","vm"
 "Replicant","webapp, mailing-list, mirroring"
 "Reproducible builds","ci-cd"
