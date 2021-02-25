@@ -25,7 +25,6 @@
 "EESSI","The European Environment for Scientific Software Installations (EESSI, pronounced as “easy“) is a brand new collaboration between different European HPC sites & industry partners, with the common goal to set up a shared repository of scientific software installations that can be used on a variety of systems"
 "Eigen","A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms."
 "Elastic Beats","Part of the Elastic stack (Elasticsearch, Kibana, Logstash, Beats). Manual testing and checking that the Beats are working on POWER platform"
-"Elephant Shed","Provides ppc64le build and performance testing for Elephant Shed, a bundle of PostgreSQL tools and web UI for easy administration of PostgreSQL servers"
 "Envoy","sidecar binary used by the most popular service mesh in the microservice space (istio)"
 "Fedora","Provide a location for developers to port their Fedora projects to the POWER architecture"
 "FFmpeg","Supports optimization of software scaling in FFmpeg running on POWER systems"

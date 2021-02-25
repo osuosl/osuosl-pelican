@@ -4,6 +4,7 @@
 "Diffusion magnetic resonance imaging of human brain","Drive diffusion basis spectrum imaging (DBSI) for clinical applications and large scale trials for a diffusion MRI modality which can increase the magnetic resonance imaging specificity for neurodegeneration diseases"
 "dlib","A modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. The projects ran tests and benchmarked PowerPC8 VSX optimizations."
 "Drupal Testbots","Powered the testing and review of code contribution for Drupal 8 (qa.drupal.org)"
+"Elephant Shed","Provides ppc64le build and performance testing for Elephant Shed, a bundle of PostgreSQL tools and web UI for easy administration of PostgreSQL servers"
 "EQueue","an efficient lock-free queue for pipeline parallelism on multi-core architectures"
 "GCC/Clang","Contributes to improved support of GCC and Clang projects on POWER machines by working on IBM Linux Technology Center items on bountysource.com"
 "GCC","Contributed to improving support of various open source projects in the GCC family on POWER machines; began by tackling IBM Linux Technology Center items on bountysource.com"
