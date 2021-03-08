@@ -41,7 +41,7 @@
 "Eclipse OpenJ9","powerpc"
 "Eclipse Platform","powerpc, aarch64"
 "Eclipse","mirroring"
-"Eigen","powerpc"
+"Eigen","powerpc, ci-cd"
 "Elastic Beats","powerpc"
 "Elgg","vm"
 "eLinux","webapp, mailing-list"
