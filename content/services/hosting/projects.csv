@@ -29,7 +29,7 @@
 "Cygwin","mirroring"
 "Darcs","vm, mailing-list"
 "Debian Linux","co-location, mirroring"
-"Debian OpenQA","vm"
+"Debian OpenQA","vm, ci-cd"
 "Debian RISCV","ci-cd"
 "Deeplearning4j","powerpc"
 "Deluge","vm, mirroring"
