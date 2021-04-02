@@ -198,6 +198,7 @@
 "Snowpatch","powerpc"
 "Software Freedom Conservatory","vm"
 "Swift","powerpc"
+"tcpdump/libpcap", "ci-cd"
 "Teaching Open Source","vm, webapp, mirroring"
 "Tesseract-OCR","powerpc"
 "The Documentation Foundation","mirroring"
