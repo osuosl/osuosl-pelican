@@ -26,6 +26,6 @@ To request access to an OpenStack AARCH64 instance, use our `AARCH64 OpenStack r
 
 .. _Ampere Computing: http://amperecomputing.com/
 .. _AARCH64: https://en.wikipedia.org/wiki/ARM_architecture#AArch64
-.. _Ampere Computing eMAG: https://amperecomputing.com/emag/
+.. _Ampere Computing eMAG: https://amperecomputing.com/wp-content/uploads/2019/04/Lenovo_ThinkSystem_HR350A_20190409.pdf
 .. _Current Projects & Academic Partners: /services/aarch64/current-projects
 .. _AARCH64 OpenStack request form: /services/aarch64/request_hosting
