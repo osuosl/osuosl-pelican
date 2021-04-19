@@ -62,7 +62,7 @@
 "Freedesktop.org","co-location, ci-cd"
 "Freedroid","vm, mirroring"
 "Funtoo Linux","mirroring"
-"GCC Compile Farm Project","co-location, ci-cd"
+"GCC Compile Farm Project","co-location, ci-cd, powerpc, aarch64"
 "GCC Fortran","powerpc"
 "GCC/Clang","powerpc"
 "Gentoo Linux","co-location, vm, mirroring, powerpc, aarch64"
