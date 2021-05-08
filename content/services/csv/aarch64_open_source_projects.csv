@@ -1,5 +1,6 @@
 "Abyss OS", "Abyss is a modern take on the “just enough OS” paradigm, with a focus on modern components (LLVM, musl) and flexibility."
-"AlmaLinux", "An open-source RHEL fork from the team at CloudLinux. A free Linux OS for the community, developed in close co-operation with the community."
+"AlmaLinux", "AlmaLinux is an Open Source and forever-free enterprise Linux distribution, governed and driven by the community, focused on long-term stability and providing a robust production-grade platform that is 1:1 binary
+compatible with RHEL® and pre-CentOS-Stream CentOS™ (e.g. CentOS 8.3). Founded by the team behind the well-established CloudLinux OS."
 "Antrea","A Kubernetes-native project that implements the Container Network Interface (CNI) and Kubernetes NetworkPolicy thereby providing network connectivity and security for pod workloads."
 "Cinc Project","aarch64 builds for various Cinc Project packages (Cinc Client primarily)."
 "Eclipse Platform","Eclipse platform project builds a very popular Eclipse IDE. This project is completely open source and recently Eclipse community started supporting AARC64 architecture."
