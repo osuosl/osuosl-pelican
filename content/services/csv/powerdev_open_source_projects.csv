@@ -43,6 +43,7 @@
 "Istio","Supports compiling and testing Istio, a platform for microservice management, on POWER"
 "Julia/LLVM","ppc64el port of the Julia language to LLVM-6.0"
 "jupyter/base-notebook","Provides docker image of jupyter/base-notebook on POWER"
+"Kubeflow","A project dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable"
 "LDC","Supports project specific porting efforts for the the LLVM-based D compiler"
 "libjpeg-turbo","Supports project specific porting efforts of POWER8 ppc64/ppc64le"
 "libvpx","Adds VSX optimizations for libvpx on POWER architecture"
