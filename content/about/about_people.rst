@@ -99,7 +99,7 @@ and stare at computer screens.
 
 .. class:: no-breaks
 
-  **Github Account**
+  **GitHub Account**
 
 https://github.com/detjensrobert
 
