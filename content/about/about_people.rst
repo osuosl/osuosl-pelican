@@ -34,7 +34,7 @@ https://github.com/ramereth
 
 .. class:: no-breaks
 
-  **Nick on irc.freenode.net**
+  **Nick on irc.libera.chat**
 
 Ramereth
 
@@ -141,7 +141,7 @@ https://github.com/zimmerry
 
 .. class:: no-breaks
 
-  **Nick on irc.freenode.net**
+  **Nick on irc.libera.chat**
 
 zimmerry
 
@@ -175,7 +175,7 @@ https://github.com/EMH333
 
 .. class:: no-breaks
 
-   **Nic on irc.freenode.net**
+   **Nick on irc.freenode.net**
 
 EMH333
 
