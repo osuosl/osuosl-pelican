@@ -72,7 +72,7 @@ https://github.com/andrewda
 
 .. class:: no-breaks
 
-  **Nick on irc.freenode.net**
+  **Nick on irc.libera.chat**
 
 andrewda
 
