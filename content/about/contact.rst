@@ -23,11 +23,13 @@ press@osuosl.org can be used for press inquiries about the lab.
 IRC
 ~~~
 
-We can be found in the **#osuosl** channel on the Freenode IRC network
-(irc.freenode.net). Please feel free to drop by and visit. If you need immediate
-support, emailing the support address listed above is the best means of
-communication.
+We can be found in the **#osuosl** channel on the `Libera Chat`_ network (irc.libera.chat). Please feel free to drop by
+and visit. If you need immediate support, emailing the support address listed above is the best means of communication.
 
+*NOTE: We previously had our IRC channels on the Freenode Network, however we have moved to Libera Chat as of May
+2021.*
+
+.. _Libera Chat: https://libera.chat/
 
 Mailing Addresses
 ~~~~~~~~~~~~~~~~~
