@@ -105,7 +105,7 @@ https://github.com/detjensrobert
 
 .. class:: no-breaks
 
-  **Nick on irc.freenode.net**
+  **Nick on irc.libera.chat**
 
 wholewheatbagels
 
