@@ -14,3 +14,4 @@ compatible with RHEL® and pre-CentOS-Stream CentOS™ (e.g. CentOS 8.3). Founde
 "OpenDev","OpenDev is a collaboratory for open source software development at scale. CI nodes supporting projects such as Openstack, Airship, Kata, pypa/pip, pyca/cryptography etc."
 "OpenFaaS","Making Serverless Functions Simple. Troubleshooting and development of ARM64 support for builds (to create artifacts) and function templates."
 "Open Mandriva", "Powerful and state of art, Linux distribution focused on desktop use"
+"tcpdump/libpcap","A packet analyzer for UNIX-like OSes"
