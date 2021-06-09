@@ -12,11 +12,6 @@ the OSL.
    :file: ./csv/aarch64_former_open_source_projects.csv
    :widths: 20,80
 
-.. csv-table:: Former Academic Partners (0 projects)
-   :class: aarch64-tbl
-   :file: ./csv/aarch64_former_partners.csv
-   :widths: 20,80
-
 .. _fast tracepoint support: https://sourceware.org/bugzilla/show_bug.cgi?id=17221
 .. _Openlibm: https://github.com/JuliaLang/openlibm
 .. _Julia project: http://julialang.org
