@@ -97,6 +97,7 @@
 "LFS (Linux From Scratch)","mirroring"
 "libjpeg-turbo","powerpc"
 "libpng","mirroring"
+"libvert","vm"
 "libvpx","powerpc"
 "LIBXSMM","powerpc"
 "LineageOS","ci-cd"
