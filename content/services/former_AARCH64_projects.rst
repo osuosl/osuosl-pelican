@@ -2,7 +2,7 @@ Formerly Hosted Projects
 ========================
 :slug: services/aarch64/former-projects
 :title: Formerly Hosted Projects
-:menu: aarch64 Development Hosting, Former Projects, 1
+:menu: AARCH64 Development Hosting, Former Projects, 1
 
 Below are a list of projects formerly hosted on the aarch64 infrastructure at
 the OSL.
