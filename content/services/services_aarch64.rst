@@ -13,6 +13,10 @@ Members of the community can use these `Ampere Computing eMAG`_ AARCH64 servers 
 projects on the AARCH64 Architecture platform and in a AARCH64 environment.
 
 * List of `Current Projects & Academic Partners`_
+* List of `Former Projects & Academic Partners`_
+
+.. _Current Projects & Academic Partners: /services/aarch64/current-projects
+.. _Former Projects & Academic Partners: /services/aarch64/former-projects
 
 OpenStack
 ---------
