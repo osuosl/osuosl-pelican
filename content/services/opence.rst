@@ -10,34 +10,53 @@ The Open Source Lab (OSUOSL) and Center for Genome Research and Biocomputing (CG
 - `Previous releases`_
 
 .. _Current release:
-.. _Release 1.1.1:
+.. _Release 1.2.0:
 
-*Release date: 01/12/2021*
+
+Open-CE Release 1.2.0
+---------------------
+
+*Release date: 04/16/2021*
 
 **What's new**
 
-This is release 1.1 of Open Cognitive Environment (Open-CE), code named Meerkat.
+This is release 1.2 of Open Cognitive Environment (Open-CE), code named Prairiedog.
 
-- Added support for CUDA 11.0, which is currently supported on RHEL8.
-- Added recipes for the following new packages: LightGBM, TensorFlow Model Optimization, TensorFlow Addons, PyTorch Lightning Bolts, Python Flatbuffers.
-- Added the open-ce tool for running build and validate commands. This replaces the previously existing build_env.py and build_feedstock.py entry points to Open-CE.
-- Added the open-ce test commands to test packages that are built by Open-CE.
-    open-ce build env will now output conda environment files that can be used to create conda environments containing the packages that were just built.
-- The open-ce build image command has been added to create Docker images from the output of open-ce build env.
-- Open-CE build tools can now accept --cuda_versions as an argument to choose a version of CUDA to build with.
-- open-ce build env will now check for circular dependencies between packages.
-- open-ce build env will verify that all packages that are being built can be installed within the same conda environment before starting a build.
-- Added the --skip_build_packages argument to open-ce build env.
-- Jinja can now be used within any Open-CE configuration file.
-- Improved performance when attempting to build packages that already exist.
-- Added the patches key to the Open-CE environment files to allow for patching feedstocks.
+Previously, the Open-CE build tools were part of the `Open-CE repository`_. `They can now be found in their own repo`_.
 
+A release of Open-CE now only includes:
+- The Open-CE env files used to generate a conda channel containing all of the packages that are part of an Open-CE release.
+- A collection of feedstocks containing conda recipes for building the packages that are part of an Open-CE release.
+
+**New Features**
+- PyArrow is now included as part of Open-CE.
+- The protobuf version that all Open-CE packages use is now set to 3.11.2.
+- TensorFlow serving was removed, due to its incompatibility with protobuf 3.11.2
+
+**Bug Fix Changes**
+- The conda hash string has been removed from the name of all noarch packages.
+- The version of sqlite that TensorFlow uses is now explicitly set 38 39.
+
+- Open-CE is distributed as prebuilt containers, or on demand through the Conda provisioning process.
+
+  - All of the Conda packages are available in a `Open-CE Conda channel`_
+  - Conda packages are available in the `Open-CE 1.2.0 Conda channel`_
+  - There is no install package to download, instead connect to the Conda channel and install your packages from there
+  - Package dependencies are automatically resolved
+  - Delivery of packages is open and continuous
+  - Enable Python versions 3.6, 3.7, 3.8
+  - You can run more than one framework at the same time in the same environment. For example, you can run TensorFlow and PyTorch at the same time.
+
+.. _They can now be found in their own repo: https://github.com/open-ce/open-ce-builder
 .. _Open-CE Conda channel: https://ftp.osuosl.org/pub/open-ce/
 .. _Current Open-CE Conda channel: https://ftp.osuosl.org/pub/open-ce/current
+.. _Open-CE repository: https://github.com/open-ce
+.. _Open-CE 1.2.0 Conda channel: https://ftp.osuosl.org/pub/open-ce/1.2.0
+
 
 **Learn more**
 
-Get information about planning, configuring, and managing Open-CE 1.1 Below:
+Get information about planning, configuring, and managing Open-CE 1.2 Below:
 
 - `Planning`_
 - `System setup`_
@@ -70,8 +89,8 @@ Supported hardware:
 
 - Supported operating systems:
 
-  - Red Hat Enterprise Linux for POWER LE 7.8
-  - Community Enterprise Operating System (CentOS) 7.8
+  - Red Hat Enterprise Linux for POWER LE 7.8, 8.x
+  - Community Enterprise Operating System (CentOS) 7.8, 8.x
   - Ubuntu 20.04.1
 
 - Required 3rd party software:
@@ -130,16 +149,38 @@ Installing frameworks individually
 
 You can install the MLDL frameworks individually. The framework packages include the following versions.
 
-**Table 1. Framework packages**
+**Table 1. Framework packages (Open-CE 1.2.0)**
 
-======================  ===========================  =======   ====================  ===================
-Package                 Description                  Version   Available on ppc64le  Available on x86_64
-======================  ===========================  =======   ====================  ===================
-``pytorch``             PyTorch                      1.7.1     X                     X
-``tensorflow``          TensorFlow with GPU support  2.4.0     X                     X
-``tensorflow-serving``  TensorFlow Serving           2.4.0     X                     X
-``py-xgboost``          xgboost with GPU support     1.3.0     X                     X
-======================  ===========================  =======   ====================  ===================
+===================================  ==============================  =======   ====================  ===================
+Package                              Description                     Version   Available on ppc64le  Available on x86_64
+===================================  ==============================  =======   ====================  ===================
+``tensorflow``                       Tensorflow                      2.4.1     X                     X
+``tensorflow-estimators``            TensorFlow Estimators           2.4.0     X                     X
+``tensorflow-probability``           TensorFlow Probability          0.12.1    X                     X
+``tensorboard``                      TensorBoard                     2.4.1     X                     X
+``tensorflow-text``                  TensorFlow Text                 2.4.1     X                     X
+``tensorflow-model-optimizations``   TensorFlow Model Optimizations  0.5.0     X                     X
+``tensorflow-addons``                TensorFlow Addons               0.12.1    X                     X
+``Tensorflow-datasets``              TensorFlow Datasets             4.1.0     X                     X
+``tensorflow-hub``                   TensorFlow Hub                  0.10.0    X                     X
+``tensorflow-metadata``              TensorFlow MetaData             0.26.0    X                     X
+``pytorch``                          PyTorch                         1.7.1     X                     X
+``torchtext``                        TorchText                       0.8.1     X                     X
+``torchvision``                      TorchVision                     0.8.2     X                     X
+``pytorch-lightning``                PyTorch Lightning               1.1.0     X                     X
+``pyTorch-lightning-bolts``          PyTorch Lightning Bolts         0.2.5     X                     X
+``xgboost``                          XGBoost                         1.3.3     X                     X
+``transformers``                     Transformers                    3.5.1     X                     X
+``tokenizers``                       Tokenizers                      0.9.3     X                     X
+``sentencepiece``                    SentencePiece                   0.1.91    X                     X
+``spacy``                            Spacy                           2.3.4     X                     X
+``thinc``                            Thinc                           7.4.1     X                     X
+``dali``                             DALI                            0.28.0    X                     X
+``opencv``                           OpenCV                          3.4.10    X                     X
+``horovod``                          Horovod                         0.21.0    X                     X
+``lightgbm``                         LightGBM                        3.1.1     X                     X
+``pyarrow``                          PyArrow                         3.0.0     X                     X
+===================================  ==============================  =======   ====================  ===================
 
 
 With the conda environment activated, run the following command:
@@ -181,6 +222,35 @@ We recommend that you install the most current release of Open-CE, however, if y
 
 Previous releases
 -----------------
+
+.. _Release 1.1.1:
+
+Open-CE Release 1.1.1
+---------------------
+
+*Release date: 01/12/2021*
+
+**What's new**
+
+This is release 1.1 of Open Cognitive Environment (Open-CE), code named Meerkat.
+
+- Added support for CUDA 11.0, which is currently supported on RHEL8.
+- Added recipes for the following new packages: LightGBM, TensorFlow Model Optimization, TensorFlow Addons, PyTorch Lightning Bolts, Python Flatbuffers.
+- Added the open-ce tool for running build and validate commands. This replaces the previously existing build_env.py and build_feedstock.py entry points to Open-CE.
+- Added the open-ce test commands to test packages that are built by Open-CE.
+    open-ce build env will now output conda environment files that can be used to create conda environments containing the packages that were just built.
+- The open-ce build image command has been added to create Docker images from the output of open-ce build env.
+- Open-CE build tools can now accept --cuda_versions as an argument to choose a version of CUDA to build with.
+- open-ce build env will now check for circular dependencies between packages.
+- open-ce build env will verify that all packages that are being built can be installed within the same conda environment before starting a build.
+- Added the --skip_build_packages argument to open-ce build env.
+- Jinja can now be used within any Open-CE configuration file.
+- Improved performance when attempting to build packages that already exist.
+- Added the patches key to the Open-CE environment files to allow for patching feedstocks.
+
+.. _Open-CE Conda channel: https://ftp.osuosl.org/pub/open-ce/
+.. _Current Open-CE Conda channel: https://ftp.osuosl.org/pub/open-ce/current
+
 
 .. _Release 1.0.0:
 
