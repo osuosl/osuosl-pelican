@@ -65,7 +65,6 @@
 "Nvidia-docker","Uses images agnostics of the NVIDIA driver to make Docker images portable while still leveraging NVIDIA GPUs"
 "OCaml","A modern, functional programming language with support for fast native code compilation on POWER"
 "OCM","Observationally Cooperative Multithreading: provides a 'kinder gentler' form of concurrency, allowing programmers to imagine that a single thread runs on the machine at any one time; uses POWER8 hardware transactional memory to run multiple threads at the same time while appearing to be running only one at a time"
-"ONNX","Open Neural Network Exchange, ONNX provides an open source format for AI models, both deep learning and traditional ML"
 "OpenBLAS","Optimizes BLAS 1/2 double precision for POWER8 VSX"
 "OpenBMC","Open source BMC firmware, which supports PowerPC hosts"
 "OpenCV","Implements POWER8 and POWER9 VSX SIMD optimizations for OpenCV"
