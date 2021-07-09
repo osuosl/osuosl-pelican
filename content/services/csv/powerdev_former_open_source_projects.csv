@@ -26,6 +26,7 @@
 "MySQL","Involved testing on POWER8, provide fixes to platform specific bugs and make more stable on POWER8"
 "Nettle","A cryptographic library that is designed to fit easily in more or less any context"
 "Nokogiri","Provide support on RHEL 7.1 LE & Ubuntu 14.04 on ppc64le arch"
+"ONNX","Open Neural Network Exchange, ONNX provides an open source format for AI models, both deep learning and traditional ML"
 "OpenFaaS","Making Serverless Functions Simple"
 "`Openlibm`_","Provided hosting to support the development on the POWER platform of a high quality, portable, standalone C mathematical library (libm), used by the `Julia project`_"
 "OpenShift Origin","Used POWER infrastructure to demo OpenShift Origin clusters at KubeCon 2017"
