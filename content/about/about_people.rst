@@ -269,12 +269,12 @@ ryanpersson
   **Student Systems Engineer**
 
 Violet joined the OSL in August 2021. She first heard of the OSL while doing routine maintenance on her Arch Linux
-system by noticing it provides mirroring services for Arch Linux,  and later discovered it again while looking for
-software and computing groups on campus. She hopes that working at the OSL will help her to develop professional skills
-working in the industry, in teams, and with clients, as well as help her round out her capabilities. In her free time,
-Violet enjoys playing video games and analyzing the themes that can be expressed only through interactive medium,
-producing simple videos for YouTube, using mathematics for optimization and data analysis, and learning every little
-thing she can.
+system by noticing it provides mirroring services for Arch,  and later discovered it again while looking for software
+and computing groups on campus. She hopes that working at the OSL will help her to develop professional skills working
+in the industry, in teams, and with clients, as well as help her round out her capabilities. In her free time, Violet
+enjoys playing video games and analyzing the themes that can be expressed only through interactive media, producing
+simple videos for YouTube, using mathematics for optimization and data analysis, and learning every little thing she
+can.
 
 .. class:: no-breaks
 
