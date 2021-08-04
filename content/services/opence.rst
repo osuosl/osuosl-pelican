@@ -10,7 +10,7 @@ The Open Source Lab (OSUOSL) and Center for Genome Research and Biocomputing (CG
 - `Previous releases`_
 
 .. _Current release:
-.. _Release 1.2.0:
+.. _Release 1.2.2:
 
 
 Open-CE Release 1.2.2
