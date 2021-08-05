@@ -10,17 +10,28 @@ The Open Source Lab (OSUOSL) and Center for Genome Research and Biocomputing (CG
 - `Previous releases`_
 
 .. _Current release:
-.. _Release 1.2.0:
+.. _Release 1.2.2:
 
 
-Open-CE Release 1.2.0
+Open-CE Release 1.2.2
 ---------------------
 
-*Release date: 04/16/2021*
+*Release date: 06/16/2021*
 
 **What's new**
 
-This is release 1.2 of Open Cognitive Environment (Open-CE), code named Prairiedog.
+This is release 1.2.2 of Open Cognitive Environment (Open-CE).
+
+This is bug fix 2 of release 1.2 of Open Cognitive Environment (Open-CE), code named Prairiedog.
+
+Bug Fix Changes
+
+- libgcc and libstdc++ were pinned to cos6 versions to allow for compilation with GCC 7.2/7.3 #433
+- TensorFlow was updated to version 2.4.2
+- Dependency pins were loosened for networkx, requests, scipy and werkzeug #439
+- Changed PyArrow to build with -O2 optimizations to avoid a compiler error in GCC 7.x
+- Add patch to PyArrow to fix handling of decimal types with negative scale in C data import
+
 
 Previously, the Open-CE build tools were part of the `Open-CE repository`_. `They can now be found in their own repo`_.
 
@@ -149,12 +160,12 @@ Installing frameworks individually
 
 You can install the MLDL frameworks individually. The framework packages include the following versions.
 
-**Table 1. Framework packages (Open-CE 1.2.0)**
+**Table 1. Framework packages (Open-CE 1.2.2)**
 
 ===================================  ==============================  =======   ====================  ===================
 Package                              Description                     Version   Available on ppc64le  Available on x86_64
 ===================================  ==============================  =======   ====================  ===================
-``tensorflow``                       Tensorflow                      2.4.1     X                     X
+``tensorflow``                       Tensorflow                      2.4.2     X                     X
 ``tensorflow-estimators``            TensorFlow Estimators           2.4.0     X                     X
 ``tensorflow-probability``           TensorFlow Probability          0.12.1    X                     X
 ``tensorboard``                      TensorBoard                     2.4.1     X                     X
@@ -180,6 +191,7 @@ Package                              Description                     Version   A
 ``horovod``                          Horovod                         0.21.0    X                     X
 ``lightgbm``                         LightGBM                        3.1.1     X                     X
 ``pyarrow``                          PyArrow                         3.0.0     X                     X
+``grpc``                             GRPC                            1.29.1    X                     X
 ===================================  ==============================  =======   ====================  ===================
 
 
@@ -222,6 +234,50 @@ We recommend that you install the most current release of Open-CE, however, if y
 
 Previous releases
 -----------------
+
+
+.. _Release 1.2.0:
+
+Open-CE Release 1.2.0
+---------------------
+
+*Release date: 04/16/2021*
+
+**What's new**
+
+This is release 1.2 of Open Cognitive Environment (Open-CE), code named Prairiedog.
+
+Previously, the Open-CE build tools were part of the `Open-CE repository`_. `They can now be found in their own repo`_.
+
+A release of Open-CE now only includes:
+- The Open-CE env files used to generate a conda channel containing all of the packages that are part of an Open-CE release.
+- A collection of feedstocks containing conda recipes for building the packages that are part of an Open-CE release.
+
+**New Features**
+- PyArrow is now included as part of Open-CE.
+- The protobuf version that all Open-CE packages use is now set to 3.11.2.
+- TensorFlow serving was removed, due to its incompatibility with protobuf 3.11.2
+
+**Bug Fix Changes**
+- The conda hash string has been removed from the name of all noarch packages.
+- The version of sqlite that TensorFlow uses is now explicitly set 38 39.
+
+- Open-CE is distributed as prebuilt containers, or on demand through the Conda provisioning process.
+
+  - All of the Conda packages are available in a `Open-CE Conda channel`_
+  - Conda packages are available in the `Open-CE 1.2.0 Conda channel`_
+  - There is no install package to download, instead connect to the Conda channel and install your packages from there
+  - Package dependencies are automatically resolved
+  - Delivery of packages is open and continuous
+  - Enable Python versions 3.6, 3.7, 3.8
+  - You can run more than one framework at the same time in the same environment. For example, you can run TensorFlow and PyTorch at the same time.
+
+.. _They can now be found in their own repo: https://github.com/open-ce/open-ce-builder
+.. _Open-CE Conda channel: https://ftp.osuosl.org/pub/open-ce/
+.. _Current Open-CE Conda channel: https://ftp.osuosl.org/pub/open-ce/current
+.. _Open-CE repository: https://github.com/open-ce
+.. _Open-CE 1.2.0 Conda channel: https://ftp.osuosl.org/pub/open-ce/1.2.0
+
 
 .. _Release 1.1.1:
 
