@@ -218,3 +218,36 @@ REK
   <br/>
 
 .. _OSU Security club: https://www.osusec.org/
+
+.. raw:: html
+
+  <br/>
+
+`Ryan Persson`_
+----------------
+
+.. image:: /images/ryanpersson.jpg
+    :width: 110px
+    :align: right
+    :alt: Ryan Persson
+
+.. class:: no breaks
+
+   **Student Systems Engineer**
+
+Ryan joined the OSL in August of 2021. He studies mathematics with a minor in computer science. He joined OSL because he is 
+passionate about supporting the open-source community and wanted to gain more experience working with Linux in real world 
+applications. Outside of work, he spends his time hiking, riding his motorcycle and messing around with machine learning.
+
+
+.. class:: no-breaks
+
+   **GitHub Account**
+
+https://github.com/RyanPersson
+
+.. class:: no-breaks
+
+   **Nick on irc.libera.chat**
+
+ryanpersson
