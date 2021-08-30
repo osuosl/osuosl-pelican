@@ -37,6 +37,7 @@
 "glibc","The GNU C Library project provides the core libraries for the GNU system and GNU/Linux systems"
 "Go Language","Supports project specific porting efforts of POWER8 ppc64/ppc64le"
 "Hadoop_Spark","CI environment powered by a Jenkins server running Hadoop and Spark builds for including POWER into the Hyperledger fabric community to perform Continuous Integration for IBM Hyperledger fabric codebase."
+"heyoka","heyoka is a C++ library for the integration of ordinary differential equations (ODEs) via Taylor's method and LLVM."
 "Hortonworks Data Platform","A secure, enterprise-ready open source Apache Hadoop distribution based on a centralized architecture (YARN) now on POWER"
 "INRIA","Updating the HACL* Cryptographic Library to build on POWER"
 "Istio","Supports compiling and testing Istio, a platform for microservice management, on POWER"
