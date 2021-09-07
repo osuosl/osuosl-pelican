@@ -207,6 +207,7 @@
 "Snowpatch","powerpc"
 "Software Freedom Conservatory","vm"
 "Swift","powerpc"
+"Tahoe LAFS", "mailing-list"
 "tcpdump/libpcap", "vm, ci-cd, powerpc, aarch64"
 "Teaching Open Source","vm, webapp, mirroring"
 "Tesseract-OCR","powerpc"
