@@ -95,6 +95,7 @@
 "Kubeflow","ci-cd, powerpc"
 "LDC","powerpc"
 "LFS (Linux From Scratch)","mirroring"
+"libGD", "powerpc"
 "libjpeg-turbo","powerpc"
 "libpng","mirroring"
 "libvirt","vm"
