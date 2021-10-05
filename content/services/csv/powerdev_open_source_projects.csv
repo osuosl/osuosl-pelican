@@ -72,6 +72,7 @@
 "OpenBMC","Open source BMC firmware, which supports PowerPC hosts"
 "OpenCV","Implements POWER8 and POWER9 VSX SIMD optimizations for OpenCV"
 "OpenJDK","Supports project specific porting efforts of POWER8 ppc64/ppc64le; provides support for Java 7 and 8 which is being consumed by most major distributions"
+"OpenJDK and OpenJFX Snaps","To create verifiable JDK and JavaFX builds for Linux from source in the form of Snap packages. The packages are built for the 'ppc64el' Debian architecture in addition to five other architectures."
 "OpenMandriva","Building an easy to use, yet powerful and state of art, Linux distribution aimed primarily at desktop use"
 "`OpenQuake`_","An Open Source Engine for seismic hazard and risk assessment uses the infrastructure to try porting to POWER architecture and see how a different architecture affects the numerical tests (the code is covered by numerical, functional and qa tests)"
 "OpenShift","Test builds of OpenShift for Continuous Integration"
