@@ -94,7 +94,6 @@
 "`Snowpatch`_","An open source tool which provides CI testing for open-source projects which use a traditional patches + email system for accepting contributions; improves the state of continuous integration for a number of open source projects which are critical to the OpenPOWER community, providing automated test capabilities, similar to work already being done on the x86 architecture"
 "Swift", "Fast and highly comprehensible programming language for Unix-based operating systems. Supports objects-oriented, protocol-oriented, and functional programming paradigms."
 "tcpdump/libpcap","A packet analyzer for UNIX-like OSes"
-"Termux","Termux is a terminal running on Android. It does not need root and runs on internal storage (not on SD card). You can run Linux through proot or chroot. Most termux users run termux on the aarch64 architecture machine, which can be used to compile software suitable for termux and conduct performance testing."
 "Tesseract-OCR", "Offers a POWER8 testing platform for Google's optical character recognition library, Tesseract OCR"
 "Travis CI","Continuous Integration using Travis and Power"
 "Travis/Rust/Swift","Provides access to the POWER8 architeture for Travis, Rust, or Swift project developers"
