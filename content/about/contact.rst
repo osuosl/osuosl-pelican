@@ -49,8 +49,7 @@ Mailing Addresses
 
 | ATTN: Lance Albertson
 | OSU Open Source Lab
-| 660 SW 26th ST
-| Reser West, Door 6
+| 191 S.W. 35th St.
 | Corvallis, OR 97331
 
 Phone
