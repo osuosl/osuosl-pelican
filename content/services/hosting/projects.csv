@@ -67,6 +67,7 @@
 "GCC/Clang","powerpc"
 "Gentoo Linux","co-location, vm, mirroring, powerpc, aarch64"
 "Ginga Middleware","powerpc"
+"Glassbeats","webapp"
 "GNOME","co-location, vm, mirroring, ci-cd, aarch64"
 "GNU Assembly","vm"
 "GNU Radio","vm"
