@@ -91,6 +91,7 @@
 "RPM Fusion","A community driven third party repository for Fedora and Enterprise Linux. They use a dedicated VM as a builder connected to their main infrastructure for building packages for ppc64le platform"
 "Ruby","A dynamic, open source programming language with a focus on simplicity and productivity"
 "SFTPGo","SFTPGo is a fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support, written in Go. It can serve local filesystem, S3 or Google Cloud Storage. POWER Docker image testing."
+"Snappy","A fast compressor/decompressor"
 "`Snowpatch`_","An open source tool which provides CI testing for open-source projects which use a traditional patches + email system for accepting contributions; improves the state of continuous integration for a number of open source projects which are critical to the OpenPOWER community, providing automated test capabilities, similar to work already being done on the x86 architecture"
 "Swift", "Fast and highly comprehensible programming language for Unix-based operating systems. Supports objects-oriented, protocol-oriented, and functional programming paradigms."
 "tcpdump/libpcap","A packet analyzer for UNIX-like OSes"
