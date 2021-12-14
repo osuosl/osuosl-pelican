@@ -104,7 +104,7 @@ target/
 [Ii]nclude
 [Ll]ib
 venv/
-
+.venv
 
 ##Node gitignore
 # Logs
