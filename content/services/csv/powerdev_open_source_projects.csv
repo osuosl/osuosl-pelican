@@ -27,6 +27,7 @@
 "Elastic Beats","Part of the Elastic stack (Elasticsearch, Kibana, Logstash, Beats). Manual testing and checking that the Beats are working on POWER platform"
 "Envoy","sidecar binary used by the most popular service mesh in the microservice space (istio)"
 "Fedora","Provide a location for developers to port their Fedora projects to the POWER architecture"
+"Fedora Copr","An easy-to-use automatic build system providing a package repository as its output"
 "FFmpeg","Supports optimization of software scaling in FFmpeg running on POWER systems"
 "Firefox","Ports Mozilla Firefox to POWER8"
 "Flathub","Provide support for ppc64le on all Flatpaks currently available on Flathub"
