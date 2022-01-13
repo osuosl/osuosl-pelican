@@ -12,37 +12,24 @@ The Open Source Lab (OSUOSL) and Center for Genome Research and Biocomputing (CG
 .. _Current release:
 
 
-.. _Release 1.3.1:
+.. _Release 1.5.0:
 
 
-Open-CE Release 1.3.1
+Open-CE Release 1.5.0
 ---------------------
 
+*Release date: 12/08/2021*
 
-This is bug fix 1 of release 1.3 of Open Cognitive Environment (Open-CE), code named Chipmunk.
-Bug Fix Changes
+**What's new**
 
-- Fix uwsgi build #470 #474
-- Adjust h5py pins for py39 #473 #482
-- enable open-cv build directly in opence-env.yaml #477
-- Move feedstock patches directory into /envs #484
-- Update OpenBLAS to 0.3.13 #479
-- Add pin for ICU #493
-- adjust build resources for TensorFlow builds open-ce/tensorflow-feedstock#58 open-ce/tensorflow-feedstock#59
-- TensorFlow: update to 2.5.1 open-ce/tensorflow-feedstock#61
-- Pytorch: use TBB for CPU and OpenMP for GPU open-ce/pytorch-feedstock#68
-- Horovod: use system compilers when using system MPI open-ce/horovod-feedstock#28
-- LightGBM: use system compilers when using system MPI open-ce/LightGBM-feedstock#21
-- OpenCV: disable LAPACK temporarily open-ce/opencv-feedstock#19
+This is release 1.5.0 of the Open Cognitive Environment (Open-CE), codenamed Otter
 
-For a complete list of changes also see the `1.3.0 release`_.
-
-.. _1.3.0 release: https://github.com/open-ce/open-ce/releases/tag/open-ce-v1.3.0
+This release of Open-CE supports NVIDIA's CUDA versions 10.2,11.2 as well as Python 3.7,3.8,3.9.
 
 
 **Learn more**
 
-Get information about planning, configuring, and managing Open-CE 1.3 Below:
+Get information about planning, configuring, and managing Open-CE 1.5 Below:
 
 - `Planning`_
 - `System setup`_
@@ -82,7 +69,7 @@ Supported hardware:
 - Required 3rd party software:
 
   - NVIDIA GPU driver 440.33 - 460.32
-  - CUDA driver 10.2, 11.0 or 11.2
+  - CUDA driver 10.2 or 11.2
 
 Installing the Open-CE Repository and Frameworks
 ------------------------------------------------
@@ -115,13 +102,13 @@ The syntax to create and activate a conda environment is:
 
 Note: It is recommended that you specify the Python version when creating a new environment. If you do not specify the version, Python 3.7 is installed when any package that requires Python are installed.
 
-The only valid Python versions with Open-CE are Python 3.6, 3.7 and 3.8.
+The only valid Python versions with Open-CE are Python 3.7, 3.8 and 3.9.
 
-For example, to create an environment named opence_env with Python 3.6:
+For example, to create an environment named opence_env with Python 3.9:
 
 .. code-block:: bash
 
-  conda create --name opence_env python=3.6 conda activate opence_env
+  conda create --name opence_env python=3.9 conda activate opence_env
 
 For more information on what you can do with conda environment see https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html.
 
@@ -135,45 +122,45 @@ Installing frameworks individually
 
 You can install the MLDL frameworks individually. The framework packages include the following versions.
 
-**Table 1. Framework packages (Open-CE 1.3.1)**
+**Table 1. Framework packages (Open-CE 1.5.0)**
+
 
 ===================================  ==============================  =======   ====================  ===================
 Package                              Description                     Version   Available on ppc64le  Available on x86_64
 ===================================  ==============================  =======   ====================  ===================
-``tensorflow``                       Tensorflow                      2.5.1     X                     X
-``tensorflow-estimators``            TensorFlow Estimators           2.5.0     X                     X
-``tensorflow-probability``           TensorFlow Probability          0.13.0    X                     X
-``tensorboard``                      TensorBoard                     2.5.0     X                     X
-``tensorflow-text``                  TensorFlow Text                 2.5.0     X                     X
-``tensorflow-model-optimizations``   TensorFlow Model Optimizations  0.5.0     X                     X
-``tensorflow-addons``                TensorFlow Addons               0.13.0    X                     X
-``Tensorflow-datasets``              TensorFlow Datasets             4.3.0     X                     X
+``tensorflow``                       Tensorflow                      2.7.0     X                     X
+``tensorflow-estimators``            TensorFlow Estimators           2.7.0     X                     X
+``tensorflow-probability``           TensorFlow Probability          0.15.0    X                     X
+``tensorboard``                      TensorBoard                     2.7.0     X                     X
+``tensorflow-text``                  TensorFlow Text                 2.7.0     X                     X
+``tensorflow-model-optimizations``   TensorFlow Model Optimizations  0.7.0     X                     X
+``tensorflow-addons``                TensorFlow Addons               0.15.0    X                     X
+``Tensorflow-datasets``              TensorFlow Datasets             4.4.0     X                     X
 ``tensorflow-hub``                   TensorFlow Hub                  0.12.0    X                     X
 ``tensorflow-metadata``              TensorFlow MetaData             1.0.0     X                     X
-``pytorch``                          PyTorch                         1.8.1     X                     X
-``torchtext``                        TorchText                       0.9.1     X                     X
-``torchvision``                      TorchVision                     0.9.1     X                     X
-``pytorch-lightning``                PyTorch Lightning               1.2.8     X                     X
-``pyTorch-lightning-bolts``          PyTorch Lightning Bolts         0.3.3     X                     X
-``onnx``                             ONNX                            1.7       X                     X
-``onnx-runtime``                     Onnx-runtime                    1.7.2     X                     X
-``keras2onnx``                       keras2onnx                      1.7.0     X                     X
-``skl2onnx``                         skl2onnx                        0.9.0     X                     X
-``tf2onnx``                          tf2onnx                         1.8.5     X                     X
-``onnxmltools``                      onnxmltools                     1.8.0     X                     X
-``onnxconverter-common``             onnxconverter-common            1.8.1     X                     X
-``xgboost``                          XGBoost                         1.4.2     X                     X
-``transformers``                     Transformers                    3.5.1     X                     X
-``tokenizers``                       Tokenizers                      0.9.3     X                     X
-``sentencepiece``                    SentencePiece                   0.1.91    X                     X
-``spacy``                            Spacy                           2.3.4     X                     X
-``thinc``                            Thinc                           7.4.1     X                     X
-``dali``                             DALI                            0.28.0    X                     X
-``opencv``                           OpenCV                          3.4.10    X                     X
-``horovod``                          Horovod                         0.21.0    X                     X
-``lightgbm``                         LightGBM                        3.1.1     X                     X
-``pyarrow``                          PyArrow                         3.0.0     X                     X
-``grpc``                             GRPC                            1.29.1    X                     X
+``pytorch``                          PyTorch                         1.10.0    X                     X
+``torchtext``                        TorchText                       0.11.0    X                     X
+``torchvision``                      TorchVision                     0.11.1    X                     X
+``pytorch-lightning``                PyTorch Lightning               1.5.4     X                     X
+``pyTorch-lightning-bolts``          PyTorch Lightning Bolts         0.4.0     X                     X
+``onnx``                             ONNX                            1.10.2    X                     X
+``onnx-runtime``                     Onnx-runtime                    1.10.0    X                     X
+``skl2onnx``                         skl2onnx                        1.10.3    X                     X
+``tf2onnx``                          tf2onnx                         1.9.3     X                     X
+``onnxmltools``                      onnxmltools                     1.10.0    X                     X
+``onnxconverter-common``             onnxconverter-common            1.9.0     X                     X
+``xgboost``                          XGBoost                         1.5.1     X                     X
+``transformers``                     Transformers                    4.11.3    X                     X
+``tokenizers``                       Tokenizers                      0.10.3    X                     X
+``sentencepiece``                    SentencePiece                   0.1.96    X                     X
+``spacy``                            Spacy                           3.2.0     X                     X
+``dali``                             DALI                            1.9.0     X                     X
+``opencv``                           OpenCV                          4.5.3     X                     X
+``horovod``                          Horovod                         0.23.0    X                     X
+``lightgbm``                         LightGBM                        3.3.0     X                     X
+``pyarrow``                          PyArrow                         5.0.0     X                     X
+``grpc``                             GRPC                            1.41.0    X                     X
+``uwsgi``                            UWSGI                           2.0.20    X                     X
 ===================================  ==============================  =======   ====================  ===================
 
 
@@ -216,6 +203,65 @@ We recommend that you install the most current release of Open-CE, however, if y
 
 Previous releases
 -----------------
+
+.. _Release 1.4.1:
+
+
+Open-CE Release 1.4.1
+---------------------
+
+*Release date: 10/10/2021*
+
+**What's new**
+
+This is bug fix 1 of release 1.4 of Open Cognitive Environment (Open-CE). Main updates are:
+
+- TensorFlow is now at 2.6.2
+- PyTorch is now at 1.9.1
+- The DALI recipe now builds on both x86 and ppc.
+- Bug Fix Changes
+- Changes For open-ce
+- Release updates for 1.4.1 (#545)
+- Use updated uwsgi 2.0.20 from conda-forge (#544)
+- Pin updates for 1.4.1 (#540)
+- Update OpenCV to v3.4.16 (#open-ce/opencv-feedstock#27)
+- Update Tensorflow Probability to v0.14.1 (#open-ce/tensorflow-probability-feedstock#19)
+- Update pytorch-lightning to 1.4.9 and torchmetrics to v0.5.1 (#open-ce/pytorch-lightning-feedstock#24)
+
+For a complete list of changes also see the `1.4.0 release`_.
+
+.. _1.4.0 release: https://github.com/open-ce/open-ce/releases/tag/open-ce-v1.4.0
+
+.. _Release 1.3.1:
+
+
+Open-CE Release 1.3.1
+---------------------
+
+*Release date: 08/26/2021*
+
+**What's new**
+
+This is bug fix 1 of release 1.3 of Open Cognitive Environment (Open-CE), code named Chipmunk.
+Bug Fix Changes
+
+- Fix uwsgi build #470 #474
+- Adjust h5py pins for py39 #473 #482
+- enable open-cv build directly in opence-env.yaml #477
+- Move feedstock patches directory into /envs #484
+- Update OpenBLAS to 0.3.13 #479
+- Add pin for ICU #493
+- adjust build resources for TensorFlow builds open-ce/tensorflow-feedstock#58 open-ce/tensorflow-feedstock#59
+- TensorFlow: update to 2.5.1 open-ce/tensorflow-feedstock#61
+- Pytorch: use TBB for CPU and OpenMP for GPU open-ce/pytorch-feedstock#68
+- Horovod: use system compilers when using system MPI open-ce/horovod-feedstock#28
+- LightGBM: use system compilers when using system MPI open-ce/LightGBM-feedstock#21
+- OpenCV: disable LAPACK temporarily open-ce/opencv-feedstock#19
+
+For a complete list of changes also see the `1.3.0 release`_.
+
+.. _1.3.0 release: https://github.com/open-ce/open-ce/releases/tag/open-ce-v1.3.0
+
 
 .. _Release 1.2.2:
 
