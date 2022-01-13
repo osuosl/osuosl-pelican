@@ -102,6 +102,7 @@
 "libpng","mirroring"
 "libvirt","vm"
 "libvpx","powerpc"
+"LibreHealth","vm"
 "LIBXSMM","powerpc"
 "LineageOS","ci-cd"
 "linhes","vm"
