@@ -4,7 +4,7 @@ beautifulsoup4==4.4.1
 blinker==1.4
 certifi==2019.9.11
 chardet==3.0.4
-distlib==0.2.9.post0
+distlib==0.3.4
 docutils==0.12
 feedgenerator==1.7
 idna==2.8
