@@ -11,7 +11,7 @@ idna==2.8
 importlib-metadata==4.8.3
 Jinja2==2.11.3
 Markdown==3.3.6
-MarkupSafe==1.1.1
+MarkupSafe==2.0.1
 packaging==16.8
 pelican==3.6.3
 Pygments==2.7.4
