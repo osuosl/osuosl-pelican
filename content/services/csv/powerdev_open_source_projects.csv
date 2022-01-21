@@ -48,7 +48,6 @@
 "LDC","Supports project specific porting efforts for the the LLVM-based D compiler"
 "libGD", "GD is an open source code library for the dynamic creation of images by programmers."
 "libjpeg-turbo","Supports project specific porting efforts of POWER8 ppc64/ppc64le"
-"LibreHealth","LibreHealth is collaborative community for free & open source software projects in Health IT"
 "libvpx","Adds VSX optimizations for libvpx on POWER architecture"
 "LIBXSMM","LIBXSMM is a library for specialized dense and sparse matrix operations as well as for deep learning primitives such as small convolutions. Enabling POWER JIT-code generation and optimization."
 "Linux Kernel (Various Kernel Developers)","Testing issues with RCU_SCALE_TEST parameter"
