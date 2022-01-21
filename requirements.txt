@@ -5,8 +5,8 @@ blinker==1.4
 certifi==2019.9.11
 chardet==3.0.4
 distlib==0.3.4
-docutils==0.12
-feedgenerator==1.7
+docutils==0.16
+feedgenerator==1.9
 idna==2.8
 importlib-metadata==4.8.3
 Jinja2==2.11.3

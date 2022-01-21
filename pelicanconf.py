@@ -41,7 +41,7 @@ DEFAULT_PAGINATION = 5
 DIRECT_TEMPLATES = ['index', 'search/index', 'tags', 'tag']
 
 # use pagination for these content types
-PAGINATED_DIRECT_TEMPLATES = ['blog', 'tags']
+PAGINATED_TEMPLATES = {'blog': None, 'tags': None}
 
 DIRECT_TEMPLATE_INFO = [
         {'parent': u'top', 'link': '/blog', 'name': 'Blog', 'weight': 5, 'children': []}]  # noqa
