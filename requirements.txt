@@ -5,7 +5,7 @@ blinker==1.4
 certifi==2019.9.11
 chardet==3.0.4
 distlib==0.3.4
-docutils==0.16
+docutils==0.18.1
 feedgenerator==1.9
 idna==2.8
 importlib-metadata==4.8.3
