@@ -7,7 +7,6 @@ chardet==4.0.0
 charset-normalizer==2.0.10
 colorama==0.4.4
 commonmark==0.9.1
-dataclasses==0.6
 distlib==0.3.4
 docutils==0.18.1
 feedgenerator==2.0.0
