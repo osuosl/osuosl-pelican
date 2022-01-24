@@ -100,6 +100,7 @@
 "libGD", "powerpc"
 "libjpeg-turbo","powerpc"
 "libpng","mirroring"
+"LibreHealth","vm"
 "libvirt","vm"
 "libvpx","powerpc"
 "LIBXSMM","powerpc"
