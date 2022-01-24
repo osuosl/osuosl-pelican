@@ -211,6 +211,7 @@
 "Snappy","powerpc"
 "Snowpatch","powerpc"
 "Software Freedom Conservatory","vm"
+"SWI-Prolog","vm"
 "Swift","powerpc"
 "Tahoe LAFS", "mailing-list"
 "tcpdump/libpcap", "vm, ci-cd, powerpc, aarch64"
