@@ -12,19 +12,25 @@ The Open Source Lab (OSUOSL) and Center for Genome Research and Biocomputing (CG
 .. _Current release:
 
 
-.. _Release 1.5.0:
 
+.. _Release 1.5.1:
 
-Open-CE Release 1.5.0
+Open-CE Release 1.5.1
 ---------------------
 
-*Release date: 12/08/2021*
+*Release date: 01/11/2021*
+
+This is bug fix release 1 of release 1.5
 
 **What's new**
 
-This is release 1.5.0 of the Open Cognitive Environment (Open-CE), codenamed Otter
+Key changes include:
 
-This release of Open-CE supports NVIDIA's CUDA versions 10.2,11.2 as well as Python 3.7,3.8,3.9.
+Refresh PyTorch to v1.10.1
+remove py36 blocks and dataclasses from all recipes
+Update DALI to 1.9 (from 1.9-dev)
+Update tensorflow metadata to 1.5.0
+Enable uwsgi for python version 3.9
 
 
 **Learn more**
@@ -132,16 +138,16 @@ Package                              Description                     Version   A
 ``tensorflow-estimators``            TensorFlow Estimators           2.7.0     X                     X
 ``tensorflow-probability``           TensorFlow Probability          0.15.0    X                     X
 ``tensorboard``                      TensorBoard                     2.7.0     X                     X
-``tensorflow-text``                  TensorFlow Text                 2.7.0     X                     X
+``tensorflow-text``                  TensorFlow Text                 2.7.3     X                     X
 ``tensorflow-model-optimizations``   TensorFlow Model Optimizations  0.7.0     X                     X
 ``tensorflow-addons``                TensorFlow Addons               0.15.0    X                     X
 ``Tensorflow-datasets``              TensorFlow Datasets             4.4.0     X                     X
 ``tensorflow-hub``                   TensorFlow Hub                  0.12.0    X                     X
-``tensorflow-metadata``              TensorFlow MetaData             1.0.0     X                     X
-``pytorch``                          PyTorch                         1.10.0    X                     X
-``torchtext``                        TorchText                       0.11.0    X                     X
-``torchvision``                      TorchVision                     0.11.1    X                     X
-``pytorch-lightning``                PyTorch Lightning               1.5.4     X                     X
+``tensorflow-metadata``              TensorFlow MetaData             1.5.0     X                     X
+``pytorch``                          PyTorch                         1.10.1    X                     X
+``torchtext``                        TorchText                       0.11.1    X                     X
+``torchvision``                      TorchVision                     0.11.2    X                     X
+``pytorch-lightning``                PyTorch Lightning               1.5.7     X                     X
 ``pyTorch-lightning-bolts``          PyTorch Lightning Bolts         0.4.0     X                     X
 ``onnx``                             ONNX                            1.10.2    X                     X
 ``onnx-runtime``                     Onnx-runtime                    1.10.0    X                     X
@@ -149,15 +155,16 @@ Package                              Description                     Version   A
 ``tf2onnx``                          tf2onnx                         1.9.3     X                     X
 ``onnxmltools``                      onnxmltools                     1.10.0    X                     X
 ``onnxconverter-common``             onnxconverter-common            1.9.0     X                     X
+``orc``                              ORC                             1.7       X                     X
 ``xgboost``                          XGBoost                         1.5.1     X                     X
 ``transformers``                     Transformers                    4.11.3    X                     X
 ``tokenizers``                       Tokenizers                      0.10.3    X                     X
 ``sentencepiece``                    SentencePiece                   0.1.96    X                     X
-``spacy``                            Spacy                           3.2.0     X                     X
+``spacy``                            Spacy                           3.2.1     X                     X
 ``dali``                             DALI                            1.9.0     X                     X
 ``opencv``                           OpenCV                          4.5.3     X                     X
 ``horovod``                          Horovod                         0.23.0    X                     X
-``lightgbm``                         LightGBM                        3.3.0     X                     X
+``lightgbm``                         LightGBM                        3.3.1     X                     X
 ``pyarrow``                          PyArrow                         5.0.0     X                     X
 ``grpc``                             GRPC                            1.41.0    X                     X
 ``uwsgi``                            UWSGI                           2.0.20    X                     X
@@ -203,6 +210,21 @@ We recommend that you install the most current release of Open-CE, however, if y
 
 Previous releases
 -----------------
+
+.. _Release 1.5.0:
+
+
+Open-CE Release 1.5.0
+---------------------
+
+*Release date: 12/08/2021*
+
+**What's new**
+
+This is release 1.5.0 of the Open Cognitive Environment (Open-CE), codenamed Otter
+
+This release of Open-CE supports NVIDIA's CUDA versions 10.2,11.2 as well as Python 3.7,3.8,3.9.
+
 
 .. _Release 1.4.1:
 
