@@ -62,7 +62,7 @@ Ramereth
 Max joined the OSL in early 2022, and is split half time between OSL and the `Center for Quantitative Life Sciences (CQLS)`_. He received his 
 degree in Computer Systems degree from OSU EECS in 2019, and spent two years at the `Clackamas Education Service District`_ assisting school 
 districts across Clackamas County with enterprise level computing and infrastructure, before returning to OSU. Max's hybrid position with the OSL and 
-CQLS primarily focuses on delivering the services of a new community platform: the OpenPower Hub. In his free time Max spends his time with 
+CQLS primarily focuses on delivering the services of a new community platform: the OpenPower Hub. In his free time Max spends it with 
 family and friends, in his home lab tinkering on some sort of computer or electronics, backpacking, skiing, seeking the perfect IPA, or 
 playing video games of a complex fashion.
 
