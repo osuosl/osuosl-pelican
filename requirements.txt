@@ -1,6 +1,6 @@
 appdirs==1.4.4
 backports.functools-lru-cache==1.6.4
-beautifulsoup4==4.10.0
+beautifulsoup4==4.11.1
 blinker==1.4
 certifi==2021.10.8
 chardet==4.0.0
