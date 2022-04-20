@@ -94,6 +94,7 @@
 "SFTPGo","SFTPGo is a fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support, written in Go. It can serve local filesystem, S3 or Google Cloud Storage. POWER Docker image testing."
 "Snappy","A fast compressor/decompressor"
 "`Snowpatch`_","An open source tool which provides CI testing for open-source projects which use a traditional patches + email system for accepting contributions; improves the state of continuous integration for a number of open source projects which are critical to the OpenPOWER community, providing automated test capabilities, similar to work already being done on the x86 architecture"
+"sqlite","modernc.org/sqlite is a Go port of the SQLite C project."
 "Swift", "Fast and highly comprehensible programming language for Unix-based operating systems. Supports objects-oriented, protocol-oriented, and functional programming paradigms."
 "tcpdump/libpcap","A packet analyzer for UNIX-like OSes"
 "Tesseract-OCR", "Offers a POWER8 testing platform for Google's optical character recognition library, Tesseract OCR"
