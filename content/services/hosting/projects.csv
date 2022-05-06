@@ -19,6 +19,7 @@
 "Checkpoint-restore","powerpc"
 "Cinc Project","vm,aarch64,powerpc,mirroring"
 "CiviCRM","co-location, vm"
+"ClickHouse","powerpc"
 "Cloud Foundry","powerpc"
 "CPAN","mirroring"
 "Cppcheck","vm"
