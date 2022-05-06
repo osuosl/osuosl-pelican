@@ -194,6 +194,7 @@
 "PyTorch","powerpc"
 "QEMU","vm"
 "Rainmeter","vm"
+"RDKit","powerpc"
 "Replicant","webapp, mailing-list, mirroring"
 "Reproducible builds","ci-cd"
 "Robot Operating System","vm, mailing-list, mirroring"
