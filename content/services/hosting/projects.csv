@@ -216,6 +216,7 @@
 "Software Freedom Conservatory","vm"
 "SWI-Prolog","vm"
 "Swift","powerpc"
+"sqlite","powerpc"
 "Tahoe LAFS", "mailing-list"
 "tcpdump/libpcap", "vm, ci-cd, powerpc, aarch64"
 "Teaching Open Source","vm, webapp, mirroring"
