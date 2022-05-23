@@ -87,74 +87,6 @@ madmax-cw
 .. _Center for Quantitative Life Sciences (CQLS): https://cqls.oregonstate.edu
 .. _Clackamas Education Service District: https://clackesd.org
 
-`Andrew Dassonville`_
----------------------
-
-.. image:: /images/andrewda.jpg
-    :width: 110px
-    :align: right
-    :alt: Andrew Dassonville
-
-.. class:: no-breaks
-
-  **Student Systems Engineer**
-
-Andrew joined the OSL in October 2019 and is studying computer science. He first learned about the OSL during the
-College of Engineering's "Clubs and Cookies" day and immediately applied for a position. Andrew joined the lab because
-he is passionate about open-source software and wanted to become more proficient with Linux. Outside of the OSL, Andrew
-enjoys contributing to open-source projects, hiking, swimming, and flying drones.
-
-.. class:: no-breaks
-
-  **GitHub Account**
-
-https://github.com/andrewda
-
-.. class:: no-breaks
-
-  **Nick on irc.libera.chat**
-
-andrewda
-
-.. raw:: html
-
-  <br/>
-
-`Robert Detjens`_
------------------
-
-.. image:: /images/detjensrobert.jpg
-    :width: 110px
-    :align: right
-    :alt: Robert Detjens
-
-.. class:: no-breaks
-
-  **Student Systems Engineer**
-
-Robert joined the OSL in November 2019 and is working toward a degree in Computer Systems. After hearing about the OSL
-through the `OSU SEC`_ security club, he joined since providing the open-source community with a platform is something
-that he wants to support. When not staring at a computer screen, Robert likes to play board games, hike, play trumpet,
-and stare at computer screens.
-
-.. class:: no-breaks
-
-  **GitHub Account**
-
-https://github.com/detjensrobert
-
-.. class:: no-breaks
-
-  **Nick on irc.libera.chat**
-
-wholewheatbagels
-
-.. raw:: html
-
-  <br/>
-
-.. _OSU SEC: https://www.osusec.org/
-
 `Ryan Zimmerman`_
 -----------------
 
@@ -215,86 +147,13 @@ https://github.com/EMH333
 
 .. class:: no-breaks
 
-   **Nick on irc.freenode.net**
+   **Nick on irc.libera.chat**
 
 EMH333
 
 .. raw:: html
 
    <br/>
-
-`Ryan Kennedy`_
----------------
-
-.. image:: /images/r.jpg
-    :width: 110px
-    :align: right
-    :alt: Ryan Kennedy
-
-.. class:: no-breaks
-
-  **Student Systems Engineer**
-
-Ryan joined the OSL in June 2020 and is studying Computer Science with a focus on cybersecurity.  He first learned of
-the OSL through Khuong and other OSL alumni during a Cyber Defense Competition.  Ryan is the lab manager for the OSU
-Security Club (OSUSEC), and hopes to be able to use the knowledge he gains at the OSL to improve the club's systems.
-He also loves playing video games, learning how to build exciting things, and participating in competitions with the
-Security Club.
-
-.. class:: no-breaks
-
-  **GitHub Account**
-
-https://github.com/TheREK3R
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-REK
-
-.. raw:: html
-
-  <br/>
-
-.. _OSU Security club: https://www.osusec.org/
-
-.. raw:: html
-
-  <br/>
-
-`Ryan Persson`_
-----------------
-
-.. image:: /images/ryanpersson.jpg
-    :width: 110px
-    :align: right
-    :alt: Ryan Persson
-
-.. class:: no breaks
-
-   **Student Systems Engineer**
-
-Ryan joined the OSL in August of 2021. He studies mathematics with a minor in computer science. He joined OSL because he is 
-passionate about supporting the open-source community and wanted to gain more experience working with Linux in real world 
-applications. Outside of work, he spends his time hiking, riding his motorcycle and messing around with machine learning.
-
-
-.. class:: no-breaks
-
-   **GitHub Account**
-
-https://github.com/RyanPersson
-
-.. class:: no-breaks
-
-   **Nick on irc.libera.chat**
-
-ryanpersson
-
-.. raw:: html
-
-  <br />
 
 `Violet Kurtz`_
 ---------------
