@@ -15,7 +15,6 @@ compatible with RHEL® and pre-CentOS-Stream CentOS™ (e.g. CentOS 8.3). Founde
 "OpenDev","OpenDev is a collaboratory for open source software development at scale. CI nodes supporting projects such as Openstack, Airship, Kata, pypa/pip, pyca/cryptography etc."
 "OpenFaaS","Making Serverless Functions Simple. Troubleshooting and development of ARM64 support for builds (to create artifacts) and function templates."
 "Open Mandriva", "Powerful and state of art, Linux distribution focused on desktop use"
-"Skytable", "Skytable is an insanely fast, free and open-source, realtime NoSQL database that aims to provide flexible data modeling without compromising on performance or queryability — at scale."
 "Termux","Termux is a terminal running on Android. It does not need root and runs on internal storage (not on SD card). You can run Linux through proot or chroot. Most termux users run termux on the aarch64 architecture machine, which can be used to compile software suitable for termux and conduct performance testing."
 "tcpdump/libpcap","A packet analyzer for UNIX-like OSes"
 "The Tor Project","To advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding."
