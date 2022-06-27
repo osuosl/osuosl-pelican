@@ -3,8 +3,8 @@ backports.functools-lru-cache==1.6.4
 beautifulsoup4==4.11.1
 blinker==1.4
 certifi==2022.6.15
-chardet==4.0.0
-charset-normalizer==2.1.0
+chardet==5.0.0
+charset-normalizer==2.0.12
 colorama==0.4.5
 commonmark==0.9.1
 distlib==0.3.4
