@@ -20,7 +20,7 @@ academic partners.
    :widths: 20,80
 
 .. _`Academic Partners`:
-.. csv-table:: Academic Partners (8 projects)
+.. csv-table:: Academic Partners (9 projects)
    :class: powerdev-tbl
    :file: ./csv/powerdev_academic_partners.csv
    :widths: 20,80
