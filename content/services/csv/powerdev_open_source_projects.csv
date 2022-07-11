@@ -3,6 +3,7 @@
 "Anaconda","Installation program used by Fedora, RHEL, and others; uses POWER support for Continuous Integration and development"
 "Ansible Molecule", "Framework for testing Ansible roles and playbooks"
 "Apache Bigtop","An Apache Foundation project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components; supports a wide range of components/projects, including, but not limited to, Hadoop, HBase and Spark"
+"Apache CouchDB", "Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability."
 "Apache Software Foundation","Supports POWER builds for CouchDB and possible other ASF projects in the future; currently working to support Cloudant on POWER"
 "Apache Spark / Arrow","Apache Arrow is an in-memory columnar to exchange data among AI frameworks such as Apache Spark"
 "Blockchain","Continuous intergration for IBM Blockchain hyperledger fabric code for POWER"

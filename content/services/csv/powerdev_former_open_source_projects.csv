@@ -1,6 +1,5 @@
 "Abebeos","Provide Barrier-Free Power PC OSS-Development"
 "Alberta Speculation","Investigate multi-threaded speculation of alternative paths of execution in a sequential execution"
-"Apache CouchDB", "Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability."
 "BearSSL","An SSL/TLS library, with a focus on a clean, secure implementation of protocol, up-to-date with the latest research; POWER8 systems writes specific implementations of AES/GCM and other cryptographic algorithms that leverage the specific opcodes offered by the CPU, for better performance"
 "Blosc","PowerPC testing for Blosc, a high performance compressor optmized for binary data"
 "CentOS","Provided support and testing for alpha testing of CentOS Linux distribution on POWER architecture"
