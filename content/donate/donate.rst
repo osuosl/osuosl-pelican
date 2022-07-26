@@ -33,7 +33,7 @@ Make a Gift to the OSU Open Source Lab
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *Once you click the "Make a Gift" button, you will be redirected to the OSU Foundation's website to process your
-donation.*
+donation. Once there, type the following in the "I want to give to" field: Open Source Lab Fund.*
 
 .. image:: /images/grey-campaign.png
     :scale: 10%
@@ -42,7 +42,7 @@ donation.*
 
 `Make a Gift`_
 
-.. _Make a Gift: https://securelb.imodules.com/s/359/foundation/index.aspx?sid=359&gid=34&pgid=1982&bledit=1&cid=3007&dids=79
+.. _Make a Gift: https://give.fororegonstate.org/PL1Uv3Fkug
 
 Thank you for making a secure donation to the Open Source Lab through the OSU Foundation. Your gift will support the
 growth of the open source community, as we build the future through education, outreach, and research and
