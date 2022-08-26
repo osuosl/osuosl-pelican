@@ -106,6 +106,7 @@
 "Travis CI","Continuous Integration using Travis and Power"
 "Travis/Rust/Swift","Provides access to the POWER8 architeture for Travis, Rust, or Swift project developers"
 "TripleO CI", "Continuous Integration and Delivery for RedHat OpenStack Platform"
+"trivy", "Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets"
 "VideoLan","Updates the Altivec code in x264 and x265 to VSX and makes sure it works correctly on POWER8le"
 "Wazuh","Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance."
 "WebM","Dedicated to developing a high-quality, open video format for the web that's freely available to everyone"
