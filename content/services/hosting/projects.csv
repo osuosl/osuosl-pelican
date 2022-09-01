@@ -9,6 +9,7 @@
 "BearSSL","powerpc"
 "BioJS","vm, webapp"
 "Blockchain","powerpc"
+"BlueMika","powerpc"
 "Bro","vm"
 "Buildbot","co-location"
 "Buildroot","vm, mailing-list, ci-cd"
