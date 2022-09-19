@@ -200,6 +200,7 @@
 "QEMU","vm"
 "Rainmeter","vm"
 "RDKit","powerpc"
+"RebornOS","aarch64"
 "Replicant","webapp, mailing-list, mirroring"
 "Reproducible builds","ci-cd"
 "Robot Operating System","vm, mailing-list, mirroring"
