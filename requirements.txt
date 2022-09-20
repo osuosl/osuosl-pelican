@@ -10,7 +10,7 @@ commonmark==0.9.1
 distlib==0.3.6
 docutils==0.18.1
 feedgenerator==2.0.0
-idna==3.3
+idna==3.4
 importlib-metadata==4.8.3
 Jinja2==3.0.3
 Markdown==3.3.7
