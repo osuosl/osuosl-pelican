@@ -13,6 +13,7 @@ compatible with RHEL® and pre-CentOS-Stream CentOS™ (e.g. CentOS 8.3). Founde
 "Kali Linux", "A Debian-derived Linux distribution designed for digital forensics and penetration testing"
 "Minio","Testing minio object storage server on ARM architecture."
 "MSYS2","MSYS2 is a collection of tools and libraries providing you with an easy-to-use environment for building, installing and running native Windows software."
+"Node.js", "Node.js is a JavaScript runtime for servers. It runs on a variety of OS and architecture platforms (https://github.com/nodejs/node/blob/main/BUILDING.md#platform-list for the current list), including Linux on AARCH64 (arm64)."
 "OpenDev","OpenDev is a collaboratory for open source software development at scale. CI nodes supporting projects such as Openstack, Airship, Kata, pypa/pip, pyca/cryptography etc."
 "OpenFaaS","Making Serverless Functions Simple. Troubleshooting and development of ARM64 support for builds (to create artifacts) and function templates."
 "Open Mandriva", "Powerful and state of art, Linux distribution focused on desktop use"
