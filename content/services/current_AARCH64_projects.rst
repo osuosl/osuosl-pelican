@@ -9,7 +9,7 @@ Below are a list of currently hosted AARCH64 projects
 `FOSS Projects`_
 
 .. _`FOSS Projects`:
-.. csv-table:: FOSS Projects (25 projects)
+.. csv-table:: FOSS Projects (26 projects)
    :class: powerdev-tbl
    :file: ./csv/aarch64_open_source_projects.csv
    :widths: 20,80

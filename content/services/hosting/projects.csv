@@ -148,7 +148,7 @@
 "NAS-Admin","co-location, mirroring"
 ".Net","powerpc"
 "Nettle","powerpc"
-"Node.js","powerpc"
+"Node.js","powerpc,aarch64"
 "NTF","vm"
 "NTPSEC","vm"
 "NumPy","powerpc"
