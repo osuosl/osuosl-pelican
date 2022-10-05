@@ -11,29 +11,32 @@ The Open Source Lab (OSUOSL) and Center for Genome Research and Biocomputing (CG
 
 .. _Current release:
 
-.. _Release 1.6.1:
+.. _Release 1.7.2:
 
-Open-CE Release 1.6.1
+Open-CE Release 1.7.2
 ---------------------
 
-*Release date: 05/19/2022*
+*Release date: 09/29/2022*
 
-This is bug fix release 1 of release 1.6
+This is bug fix release 2 of release 1.7
 
 **What's new**
 
 - Various build fixed
 - Upadated packages
 
-  - pytorch-lightning 1.6.3
-  - pyDeprecate 0.3.2
-  - torchmetrics  0.8.2
-  - tensorflow-io-gcs-filesystem  0.25.0
-  - ray 1.11.1
+  - TensorFlow  2.9.2
+  - xgboost 1.6.2
+  - DALI  1.16.1
+  - Ray 1.13.1
+  - PyTorch Geometric 2.1.0
+  - numba 0.56.1
+  - snapml  1.8.10
+  - TF Serving  2.9.2
 
 **Learn more**
 
-Get information about planning, configuring, and managing Open-CE 1.6 Below:
+Get information about planning, configuring, and managing Open-CE 1.7 Below:
 
 - `Planning`_
 - `System setup`_
@@ -72,8 +75,8 @@ Supported hardware:
 
 - Required 3rd party software:
 
-  - NVIDIA GPU driver 440.33 - 470.82
-  - CUDA driver 11.2
+  - NVIDIA GPU driver 440.33 - 520.61
+  - CUDA driver 11.2 or 11.4
 
 Installing the Open-CE Repository and Frameworks
 ------------------------------------------------
@@ -106,7 +109,7 @@ The syntax to create and activate a conda environment is:
 
 Note: It is recommended that you specify the Python version when creating a new environment. If you do not specify the version, Python 3.7 is installed when any package that requires Python are installed.
 
-The only valid Python versions with Open-CE are Python 3.8 and 3.9.
+The only valid Python versions with Open-CE are Python 3.8, 3.9 and 3.10
 
 For example, to create an environment named opence_env with Python 3.9:
 
@@ -126,89 +129,94 @@ Installing frameworks individually
 
 You can install the MLDL frameworks individually. The framework packages include the following versions.
 
-**Table 1. Framework packages (Open-CE 1.6.1)**
+**Table 1. Framework packages (Open-CE 1.7.2)**
 
 
-===================================  ==============================  ==========  ====================  ===================
-Package                              Description                     Version     Available on ppc64le  Available on x86_64
-===================================  ==============================  ==========  ====================  ===================
-``av``                               AV                              8.0.3       X                     X
-``bazel``                            Bazel                           4.2.1       X                     X
-``boost_mp11``                       Boost MP11                      1.76.0      X                     X
-``cli11``                            CLI11                           2.2.0       X                     X
-``cpp-filesystem``                   CPP Filesystem                  1.5.8       X                     X
-``cudatoolkit``                      Cuda Toolkit                    11.2.2      X                     X
-``cudnn``                            Cudnn                           8.1.1_11.2  X                     X
-``dali``                             DALI                            1.10.0      X                     X
-``dm-tree``                          DM-Tree                         0.1.5       X                     X
-``grpc``                             GRPC                            1.41.0      X                     X
-``gtest``                            GTest                           1.10.0      X                     X
-``horovod``                          Horovod                         0.23.0      X                     X
-``huggingface_hub``                  Huggingface Hub                 0.4.0       X                     X
-``jpeg-turbo``                       JPEG Turbo                      2.1.0       X                     X
-``keras``                            Keras                           2.8.0       X                     X
-``langcodes``                        Langcodes                       3.3.0       X                     X
-``libdate``                          Date                            3.0.1       X                     X
-``libflac``                          Flac                            1.3.3       X                     X
-``libiconv``                         IConv                           1.16        X                     X
-``libsndfile``                       SndFile                         1.0.31      X                     X
-``libsolv``                          Solv                            0.7.19      X                     X
-``lightgbm``                         LightGBM                        3.3.2       X                     X
-``magma``                            Magma                           2.6.1       X                     X
-``mamba``                            Mamba                           0.22.1      X                     X
-``nccl``                             NCCL                            2.12.7      X                     X
-``nlohmann_json``                    Nlohmann JSON                   3.10.5      X                     X
-``numactl``                          NumaCtl                         2.0.12      X                     X
-``onnx-runtime``                     Onnx-runtime                    1.10.0      X                     X
-``onnx``                             ONNX                            1.10.2      X                     X
-``onnxconverter-common``             onnxconverter-common            1.9.0       X                     X
-``onnxmltools``                      ONNX ML Tools                   1.10.0      X                     X
-``opencv``                           OpenCV                          4.5.3       X                     X
-``openmpi``                          OpenMPI                         4.1.1       X                     X
-``orc``                              ORC                             1.7         X                     X
-``pyarrow``                          PyArrow                         7.0.0       X                     X
-``pybind11-abi``                     PyBind11                        4           X                     X
-``pyDeprecate``                      PyDeprecate                     0.3.2       X                     X
-``pyTorch-lightning-bolts``          PyTorch Lightning Bolts         0.5.0       X                     X
-``pytorch-lightning``                PyTorch Lightning               1.6.3       X                     X
-``pytorch_geometric``                PyTorch Geometric               2.0.3       X                     X
-``pytorch_scatter``                  PyTorch Scatter                 2.0.8       X                     X
-``pytorch_sparse``                   PyTorch Sparse                  0.6.10      X                     X
-``pytorch``                          PyTorch                         1.10.2      X                     X
-``ray_all``                          Ray                             1.11.1      X                     X
-``ray-tune``                         Ray Tune                        1.11.1      X                     X
-``reproc``                           Reproc                          14.2.3      X                     X
-``sacremoses``                       Sacremoses                      0.0.46      X                     X
-``safeint``                          SafeInt                         3.0.26      X                     X
-``sentencepiece``                    SentencePiece                   0.1.96      X                     X
-``skl2onnx``                         skl2onnx                        1.10.3      X                     X
-``spacy``                            Spacy                           3.2.1       X                     X
-``spacy-legacy``                     Spacy Legacy                    3.0.8       X                     X
-``spacy-loggers``                    Spacy Loggers                   1.0.1       X                     X
-``spdlog``                           SPDLog                          1.9.2       X                     X
-``tensorboard-data-server``          TensorBoard Data Server         0.6.1       X                     X
-``tensorboard``                      TensorBoard                     2.7.0       X                     X
-``tensorflow-addons``                TensorFlow Addons               0.16.0      X                     X
-``tensorflow-datasets``              TensorFlow Datasets             4.4.0       X                     X
-``tensorflow-estimators``            TensorFlow Estimators           2.8.0       X                     X
-``tensorflow-hub``                   TensorFlow Hub                  0.12.0      X                     X
-``tensorflow-io-gcs-filesystem``     TensorFlow GCS Filesystem       0.25.0      X                     X
-``tensorflow-metadata``              TensorFlow MetaData             1.7.0       X                     X
-``tensorflow-model-optimizations``   TensorFlow Model Optimizations  0.7.1       X                     X
-``tensorflow-probability``           TensorFlow Probability          0.16.0      X                     X
-``tensorflow-text``                  TensorFlow Text                 2.8.1       X                     X
-``tensorflow``                       Tensorflow                      2.8.0       X                     X
-``tf2onnx``                          tf2onnx                         1.9.3       X                     X
-``tokenizers``                       Tokenizers                      0.10.3      X                     X
-``torchmetrics``                     TorchMetrics                    0.8.2       X                     X
-``torchtext``                        TorchText                       0.11.2      X                     X
-``torchvision``                      TorchVision                     0.11.3      X                     X
-``transformers``                     Transformers                    4.11.3      X                     X
-``typeguard``                        TypeGuard                       2.12.0      X                     X
-``uwsgi``                            UWSGI                           2.0.20      X                     X
-``xgboost``                          XGBoost                         1.5.2       X                     X
-``yaml-cpp``                         YAML CPP                        0.6.3       X                     X
-===================================  ==============================  ==========  ====================  ===================
+===================================  ===============================  ==========  ====================  ===================
+Package                              Description                      Version     Available on ppc64le  Available on x86_64
+===================================  ===============================  ==========  ====================  ===================
+``av``                               AV                               8.0.3       X                     X
+``bazel``                            Bazel                            5.1.1       X                     X
+``boost_mp11``                       Boost MP11                       1.76.0      X                     X
+``cli11``                            CLI11                            2.2.0       X                     X
+``cpp-filesystem``                   CPP Filesystem                   1.5.8       X                     X
+``cudatoolkit``                      Cuda Toolkit                     11.4.4      X                     X
+``cudatoolkit-dev``                  Cuda Toolkit Dev                 11.4.4      X                     X
+``cudnn``                            Cudnn                            8.3.0.98    X                     X
+``dali``                             DALI                             1.16.1      X                     X
+``dm-tree``                          DM-Tree                          0.1.5       X                     X
+``grpc``                             GRPC                             1.41.0      X                     X
+``gtest``                            GTest                            1.10.0      X                     X
+``horovod``                          Horovod                          0.25.0      X                     X
+``huggingface_hub``                  Huggingface Hub                  0.6.0       X                     X
+``jpeg-turbo``                       JPEG Turbo                       2.1.0       X                     X
+``keras``                            Keras                            2.9.0       X                     X
+``langcodes``                        Langcodes                        3.3.0       X                     X
+``libdate``                          Date                             3.0.1       X                     X
+``libflac``                          Flac                             1.3.3       X                     X
+``libiconv``                         IConv                            1.16        X                     X
+``libsndfile``                       SndFile                          1.0.31      X                     X
+``libsolv``                          Solv                             0.7.19      X                     X
+``lightgbm``                         LightGBM                         3.3.2       X                     X
+``magma``                            Magma                            2.6.1       X                     X
+``mamba``                            Mamba                            0.25.1      X                     X
+``nccl``                             NCCL                             2.12.7      X                     X
+``nlohmann_json``                    Nlohmann JSON                    3.10.5      X                     X
+``numactl``                          NumaCtl                          2.0.12      X                     X
+``onnx-runtime``                     Onnx-runtime                     1.12.1      X                     X
+``onnx``                             ONNX                             1.12        X                     X
+``onnxconverter-common``             onnxconverter-common             1.9.0       X                     X
+``onnxmltools``                      ONNX ML Tools                    1.11.1      X                     X
+``openblas``                         OpenBLAS                         0.3.20      X                     X
+``opencv``                           OpenCV                           4.6.0       X                     X
+``openmpi``                          OpenMPI                          4.1.1       X                     X
+``optional-lite``                    Optional Lite                    3.4.0       X                     X
+``orc``                              ORC                              1.7.4       X                     X
+``pyarrow``                          PyArrow                          8.0.0       X                     X
+``pybind11-abi``                     PyBind11                         4           X                     X
+``pyDeprecate``                      PyDeprecate                      0.3.2       X                     X
+``pyTorch-lightning-bolts``          PyTorch Lightning Bolts          0.5.0       X                     X
+``pytorch-lightning``                PyTorch Lightning                1.6.5       X                     X
+``pytorch_geometric``                PyTorch Geometric                2.1,0       X                     X
+``pytorch_scatter``                  PyTorch Scatter                  2.0.8       X                     X
+``pytorch_sparse``                   PyTorch Sparse                   0.6.10      X                     X
+``pytorch``                          PyTorch for Cuda 11.2            1.10.2      X                     X
+``pytorch``                          PyTorch for Cuda 11.4, CPU       1.12.1      X                     X
+``ray_all``                          Ray                              1.13.1      X                     X
+``ray-tune``                         Ray Tune                         1.13.1      X                     X
+``reproc``                           Reproc                           14.2.3      X                     X
+``sacremoses``                       Sacremoses                       0.0.53      X                     X
+``safeint``                          SafeInt                          3.0.26      X                     X
+``sentencepiece``                    SentencePiece                    0.1.96      X                     X
+``skl2onnx``                         skl2onnx                         1.12.0      X                     X
+``spacy``                            Spacy                            3.3.1       X                     X
+``spacy-legacy``                     Spacy Legacy                     3.0.9       X                     X
+``spacy-loggers``                    Spacy Loggers                    1.0.2       X                     X
+``spdlog``                           SPDLog                           1.9.2       X                     X
+``tensorboard-data-server``          TensorBoard Data Server          0.6.1       X                     X
+``tensorboard``                      TensorBoard                      2.9.1       X                     X
+``tensorflow-addons``                TensorFlow Addons                0.17.0      X                     X
+``tensorflow-datasets``              TensorFlow Datasets              4.6.0       X                     X
+``tensorflow-estimators``            TensorFlow Estimators            2.9.0       X                     X
+``tensorflow-hub``                   TensorFlow Hub                   0.12.0      X                     X
+``tensorflow-io-gcs-filesystem``     TensorFlow GCS Filesystem        0.26.0      X                     X
+``tensorflow-metadata``              TensorFlow MetaData              1.8.0       X                     X
+``tensorflow-model-optimizations``   TensorFlow Model Optimizations   0.7.3       X                     X
+``tensorflow-probability``           TensorFlow Probability           0.17.0      X                     X
+``tensorflow-text``                  TensorFlow Text                  2.9.0       X                     X
+``tensorflow-base``                  Tensorflow                       2.9.2       X                     X
+``tf2onnx``                          Tensorflow2ONNX                  1.11.1      X                     X
+``tokenizers``                       Tokenizers                       0.11.4      X                     X
+``torchtext-base``                   TorchText for CUDA 11.2          0.11.2      X                     X
+``torchtext-base``                   TorchText for CUDA 11.4, CPU     0.13.1      X                     X
+``torchvision-base``                 TorchVision for CUDA 11.2        0.11.3      X                     X
+``torchvision-base``                 TorchVision for CUDA 11.4, CPU   0.11.3      X                     X
+``transformers``                     Transformers                     4.19.2      X                     X
+``typeguard``                        TypeGuard                        2.12.0      X                     X
+``uwsgi``                            UWSGI                            2.0.20      X                     X
+``xgboost``                          XGBoost                          1.6.2       X                     X
+``yaml-cpp``                         YAML CPP                         0.6.3       X                     X
+===================================  ===============================  ==========  ====================  ===================
 
 
 With the conda environment activated, run the following command:
@@ -250,6 +258,27 @@ We recommend that you install the most current release of Open-CE, however, if y
 
 Previous releases
 -----------------
+
+
+.. _Release 1.6.1:
+
+Open-CE Release 1.6.1
+---------------------
+
+*Release date: 05/19/2022*
+
+This is bug fix release 1 of release 1.6
+
+**What's new**
+
+- Various build fixed
+- Upadated packages
+
+  - pytorch-lightning 1.6.3
+  - pyDeprecate 0.3.2
+  - torchmetrics  0.8.2
+  - tensorflow-io-gcs-filesystem  0.25.0
+  - ray 1.11.1
 
 
 .. _Release 1.5.1:
