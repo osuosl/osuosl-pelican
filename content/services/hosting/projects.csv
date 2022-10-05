@@ -46,6 +46,7 @@
 "Eclipse","mirroring"
 "Eclipse OMR","powerpc"
 "Eclipse OpenJ9","powerpc"
+"Eclipse Adoptium","aarch64"
 "Eclipse Platform","powerpc, aarch64"
 "Eigen","powerpc"
 "Elastic Beats","powerpc"
