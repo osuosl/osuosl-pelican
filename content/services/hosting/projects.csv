@@ -50,6 +50,7 @@
 "Eclipse Platform","powerpc, aarch64"
 "Eigen","powerpc"
 "Elastic Beats","powerpc"
+"ELENA LANG","powerpc"
 "Elgg","vm"
 "eLinux","webapp, mailing-list"
 "ELRepo","mirroring"
