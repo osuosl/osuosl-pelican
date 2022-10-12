@@ -6,6 +6,7 @@
 "Apache CouchDB", "Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability."
 "Apache Software Foundation","Supports POWER builds for CouchDB and possible other ASF projects in the future; currently working to support Cloudant on POWER"
 "Apache Spark / Arrow","Apache Arrow is an in-memory columnar to exchange data among AI frameworks such as Apache Spark"
+"Bazel","Build and test software of any size, quickly and reliably."
 "Blockchain","Continuous intergration for IBM Blockchain hyperledger fabric code for POWER"
 "BlueMika","An open source library that searches in files/web pages/documents/etc and give you the results"
 "checkpoint-restore","Implements checkpoint-restore functionality for Linux on POWER architecture; functionality can be used for wide range of use-cases, including live migration, ‘suspend’ and ‘resume’ operations on containers, reboot-less kernel upgrades"
