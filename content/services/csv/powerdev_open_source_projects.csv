@@ -41,6 +41,7 @@
 "Glasgow Haskell Compiler (GHC)","state-of-the-art open source compiler and interactive environment for the functional language Haskell"
 "glibc","The GNU C Library project provides the core libraries for the GNU system and GNU/Linux systems"
 "Go Language","Supports project specific porting efforts of POWER8 ppc64/ppc64le"
+"grommunio","Delivering 100% open source Microsoft Exchange alternative with native protocol support (MAPI/HTTP, EWS, ...)"
 "Hadoop_Spark","CI environment powered by a Jenkins server running Hadoop and Spark builds for including POWER into the Hyperledger fabric community to perform Continuous Integration for IBM Hyperledger fabric codebase."
 "heyoka","heyoka is a C++ library for the integration of ordinary differential equations (ODEs) via Taylor's method and LLVM."
 "Hortonworks Data Platform","A secure, enterprise-ready open source Apache Hadoop distribution based on a centralized architecture (YARN) now on POWER"
