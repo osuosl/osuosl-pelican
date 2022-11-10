@@ -216,6 +216,7 @@
 "RTEMS","co-location"
 "Ruby","powerpc"
 "Rust","powerpc"
+"Rust Exploit Mitigations","powerpc"
 "Sahana Foundation","vm, webapp, mirroring"
 "Salix Linux","mirroring"
 "SFTPGo","powerpc"
