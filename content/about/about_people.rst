@@ -163,7 +163,7 @@ vikurtz
 .. image:: /images/zwall.png
     :width: 110px
     :align: right
-    :alt: Image of Zach Wallace
+    :alt: Zach Wallace
 
 .. class:: no-breaks
 
