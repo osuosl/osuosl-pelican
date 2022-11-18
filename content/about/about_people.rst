@@ -157,3 +157,32 @@ vikurtz
 
   <br/>
 
+`Zachary Wallace`_
+------------------
+
+.. image:: /images/zwall.png
+    :width: 110px
+    :align: right
+    :alt: Image of Zach Wallace
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Starting in November of 2022, Zach was brought aboard during his Junior year of his college career as a Computer Science major. Zach's first introduction to programming dated back to the fifth grade, in 2013, where he did a presentation on "How to Create an Adder in Lua". His first experience with the Linux environment started in late-2019, when he used a Raspberry-Pi to set up a local file sharing server; and ever since then he's used some flavor of Linux as a daily driver for both personal and server use. Outside of the office and classroom, Zach enjoys modding games, with an added interest in level design. With now being employed at the Open Source Lab, he hopes to further understand the duties of a systems administrator while also providing assistance in service hosting for the FOSS community.
+
+.. class:: no-breaks
+
+  **GitHub Account**
+
+https://github.com/sectopodwreck
+
+.. class:: no-breaks
+
+  **Nick on irc.libera.chat**
+
+zwall
+
+.. raw:: html
+
+  <br/>
