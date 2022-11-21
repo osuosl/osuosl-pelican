@@ -1,4 +1,5 @@
 "Abyss OS","An experimental distribution that aims to provide a flexible ecosystem based on pure-llvm and musl userland"
+"Akari","Testing framework for porting and optimizing x86 SIMD library to OpenPOWER systems"
 "AlmaLinux","An Open Source, community-governed and forever-free enterprise Linux distribution, focused on long-term stability, providing a robust production-grade platform. AlmaLinux OS is 1:1 binary compatible with RHEL and pre-Stream CentOS."
 "Anaconda","Installation program used by Fedora, RHEL, and others; uses POWER support for Continuous Integration and development"
 "Ansible Molecule", "Framework for testing Ansible roles and playbooks"
