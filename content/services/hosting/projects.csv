@@ -12,6 +12,7 @@
 "BioJS","vm, webapp"
 "Blockchain","powerpc"
 "BlueMika","powerpc"
+"Briar","ci-cd"
 "Bro","vm"
 "Buildbot","co-location"
 "Buildroot","vm, mailing-list, ci-cd"
