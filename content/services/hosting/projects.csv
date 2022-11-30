@@ -230,7 +230,7 @@
 "Snappy","powerpc"
 "Snowpatch","powerpc"
 "Software Freedom Conservatory","vm"
-"Spack", "aarch64"
+"Spack", "aarch64, powerpc"
 "Strimzi","powerpc"
 "sourceware","aarch64"
 "sqlite","powerpc"
