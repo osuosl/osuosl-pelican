@@ -157,6 +157,43 @@ vikurtz
 
   <br/>
 
+`Paul Simko`_
+---------------
+
+.. image:: /images/paul.png
+    :width: 110px
+    :align: right
+    :alt: Paul Simko
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Paul joined the OSL in May 2021. He's been using OSL mirrors since arriving on
+campus, and is glad for the opportunity to contribute to the FOSS ecosystem. He's
+been using Linux since high school, and enjoys optimizing his work environment and
+trying out new community projects.
+Paul is a computer science major and is interested in cybersecurity,
+infrastructure automation, and spending 3 hours writing scripts that save 1
+minute. He spends the time that these scripts save hunting mushrooms, reading,
+and rock climbing.
+
+.. class:: no-breaks
+
+  **GitHub Account**
+
+https://github.com/pasimko
+
+.. class:: no-breaks
+
+  **Nick on irc.libera.chat**
+
+paul-osl
+
+.. raw:: html
+
+  <br/>
+
 `Zachary Wallace`_
 ------------------
 
