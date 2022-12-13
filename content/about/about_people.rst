@@ -257,3 +257,33 @@ awhittle2
 .. raw:: html
 
   <br/>
+
+`Oria Weng`_
+------------------
+
+.. image:: /images/o.jpg
+    :width: 110px
+    :align: right
+    :alt:  
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Oria has been excited about open-source software from far too young an age, so no one should have told her there was an Open Source Lab right at OSU! In all seriousness, she started at the OSL in November 2022 as a way to further explore computer science and get involved in the open-source community. When not learning new ways to play on computers, she dabbles in digital drawing, board games, and animation.
+
+.. class:: no-breaks
+
+  **GitHub Account**
+
+https://github.com/ArtofBugs
+
+.. class:: no-breaks
+
+  **Nick on irc.libera.chat**
+
+oweng
+
+.. raw:: html
+
+  <br/>
