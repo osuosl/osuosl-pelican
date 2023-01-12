@@ -87,6 +87,36 @@ madmax-cw
 .. _Center for Quantitative Life Sciences (CQLS): https://cqls.oregonstate.edu
 .. _Clackamas Education Service District: https://clackesd.org
 
+`Antonia Gaete`_
+--------------------
+
+.. image:: /images/antonia_gaete.jpg
+    :width: 100px
+    :align: right
+    :alt:
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Antonia joined the OSL in June 2022. She was intersted in joining OSL as a learning opportunity for career skills, in hopes of finding her niche as a Computer Science major. Antonia is most interested in development and hopes to learn skills from OSL that are needed to pursue a career in such areas. In her free time, Antonia enjoys playing/watching soccer, playing instruments, reading, and listening to music.
+
+.. class:: no-breaks
+
+  **GitHub Account**
+
+https://github.com/antoniagaete
+
+.. class:: no-breaks
+
+  **Nick on irc.libera.chat**
+
+antoniagaete
+
+.. raw:: html
+
+  <br/>
+
 `Ethan Hampton`_
 ----------------
 
