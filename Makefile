@@ -2,7 +2,6 @@ PY?=python
 PELICAN?=pelican
 PELICANOPTS=
 
-
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/build
@@ -56,6 +55,9 @@ help:
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
+	@echo "OSL specific targets:"
+	@echo "lint     Run doc8 on all files"
+	@echo "lint_changed Run doc8 only on changed RST files from master branch"
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
@@ -112,5 +114,13 @@ cf_upload: publish
 github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
+
+lint:
+	@echo "Running doc8"
+	doc8
+
+lint_changed:
+	@echo "Running doc8 on changed files RST from master branch"
+	git diff master --stat --name-only | grep rst$$ | xargs -r doc8
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
