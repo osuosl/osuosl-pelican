@@ -13,6 +13,10 @@ source venv/bin/activate
 # Update packages
 pip install -r requirements.txt
 
+if [ -n "${CHECK_LINT}" ]; then
+  make -e lint_changed
+fi
+
 # Build the site
 # make rsync_copy first calls make publish, which builds using publishconf.py
 make rsync_copy
