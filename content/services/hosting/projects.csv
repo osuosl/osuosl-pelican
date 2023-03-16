@@ -92,6 +92,7 @@
 "Hadoop Spark","powerpc"
 "Haiku","mirroring"
 "Harmony Agreements","mailing-list"
+"HELICS","ci-cd, aarch64"
 "Heptapod","ci-cd, aarch64"
 "heyoka","powerpc"
 "HHVM","mirroring, powerpc"
