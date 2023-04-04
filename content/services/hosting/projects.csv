@@ -235,7 +235,7 @@
 "Software Freedom Conservatory","vm"
 "Spack", "aarch64, powerpc"
 "Strimzi","powerpc"
-"Sourceware","aarch64, vm"
+"Sourceware","aarch64, vm, co-location"
 "sqlite","powerpc"
 "Swift","powerpc"
 "SWI-Prolog","vm"
