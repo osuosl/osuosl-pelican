@@ -41,6 +41,7 @@
 "Debian RISCV","ci-cd"
 "Deeplearning4j","powerpc"
 "Deluge","vm, mirroring"
+"Delve","powerpc"
 "Django","vm"
 "Docker Matrix","powerpc"
 "Docker","powerpc"
