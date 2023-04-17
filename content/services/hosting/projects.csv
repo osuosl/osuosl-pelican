@@ -45,6 +45,7 @@
 "Django","vm"
 "Docker Matrix","powerpc"
 "Docker","powerpc"
+"DotFile-HPC","powerpc"
 "Drupal","co-location, vm, mirroring"
 "EasyBuild","powerpc"
 "Eclipse Communication Framework ","co-location, vm"
