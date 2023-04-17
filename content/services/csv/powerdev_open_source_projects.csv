@@ -23,6 +23,7 @@
 "Docker 4 Power","Enrich the PowerPC container ecosystem by providing both a platform for developers to create docker containers, and for the PowerPC community to find docker images."
 "Docker Matrix","A Docker image for Matrix, an open federated Instant Messaging and VoIP communication server"
 "Docker Open Source","An open platform for developers and sysadmins to build, ship, and run distributed applications on laptops, data center VMs, or the cloud; provides build system to the Docker community to share Docker images built on this system; system is used on demand builds"
+"DotFile-HPC","Our goal is to help PhD students, researchers, open-source contributors and enterprise employees overcome the challenges of working with unfamiliar high-performance computing (HPC) architectures. Setting up a development environment on an unknown architecture can take months and be a frustrating experience. Our mission is to save time and make the process more enjoyable - just like Python does. By providing a user-friendly development environment, we aim to help our users focus on their work and enjoy a better life."
 "EasyBuild","EasyBuild is a software build and installation framework that allows you to manage (scientific) software on High Performance Computing (HPC) systems in an efficient way."
 "Eclipse OMR","Build an enterprise caliber technology foundation for language runtimes within cloud platforms."
 "Eclipse OpenJ9","Provides high performance Java Virtual Machine capabilities for the POWER platform"
