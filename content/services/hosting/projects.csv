@@ -188,7 +188,7 @@
 "OpenStreetMap","co-location, vm, mirroring"
 "OpenWhisk","powerpc"
 "OpenWRT","ci-cd"
-"OpenZFS","webapp, powerpc, aarch64"
+"OpenZFS","webapp, powerpc, aarch64, vm"
 "OrientDB","powerpc"
 "OSDV","vm"
 "OSGeo","co-location, vm"
