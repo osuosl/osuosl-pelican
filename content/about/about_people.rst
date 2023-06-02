@@ -242,7 +242,7 @@ Starting in November of 2022, Zach was brought aboard during his Junior year of 
 
   **GitHub Account**
 
-https://github.com/sectopodwreck
+https://github.com/zwall-bp
 
 .. class:: no-breaks
 
