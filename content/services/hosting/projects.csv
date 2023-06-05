@@ -7,6 +7,7 @@
 "Apache Software Foundation","co-location, mirroring, powerpc"
 "Apereo","vm"
 "Arch Linux","mirroring"
+"Armbian", "aarch64"
 "Bazel","powerpc"
 "BearSSL","powerpc"
 "BioJS","vm, webapp"
