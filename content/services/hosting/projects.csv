@@ -262,6 +262,7 @@
 "Vector Linux","mirroring"
 "VideoLAN","mirroring, powerpc, ci-cd"
 "WebDAV","vm"
+"x265", "powerpc"
 "X2go","powerpc"
 "Xenia","powerpc"
 "XBMC","mirroring"
