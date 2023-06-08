@@ -94,6 +94,7 @@
 "OrientDB","Multi-Model NoSQL database management system that supports graph, document, key/value and object models. Uses PowerCI infrastructure for regression tests"
 "ORNL Research Cloud","Container and software development and testing for Oak Ridge National Laboratory Summit Supercomputer. Compile testing, container builds, and general compatibility testing for several open source software stacks."
 "Perfbook","Provides education on parallel programming, and availability of a ppc64le system will help ensure that this education is not x86-centric."
+"Persistent SI-HTM","Enable the use of hardware transactions, on Power machines, with snapshot isolation consistency."
 "postgreSQL","Allows the postgres database system to build and troubleshoot on pp64le architecture on various distributions."
 "PowerPC Notebook","Supports development and compiling efforts for Debian on PowerPC. The goal is to design an Open Hardware notebook motherboard based on the Power Architecture NXP T2080 CPU"
 "Presto","Supports efforts of a POWER8 ppc64le port of Presto, a distributed SQL query engine for running interactive analytic queries against big data sources"
