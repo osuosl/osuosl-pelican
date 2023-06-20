@@ -22,7 +22,7 @@
 "Census Reporter","vm"
 "CentOS Linux","mirroring"
 "Checkpoint-restore","powerpc"
-"Chimera Linux","aarch64, powerpc"
+"Chimera Linux","aarch64,powerpc"
 "Cinc Project","vm,aarch64,powerpc,mirroring"
 "CiviCRM","co-location, vm"
 "ClickHouse","powerpc"
