@@ -102,6 +102,7 @@
 "Primerclip","Supports efficient trimming of primer sequences from next-generation sequencing reads sequenced from libraries which use PCR to amplify the target DNA"
 "PVECLIB","A library of useful vector functions for POWER"
 "PyTorch","Python framework for tensors and deep neural networks. Uses POWER8 for continuous integration and functional testing"
+"Project Quay", "Builds, stores, and distributes Docker containers"
 "RDKit","Open source toolkit for cheminformatics"
 "RocksDB","Building the fastest key/value database, PPC port for CI and testing"
 "Rocky Linux","A community-driven effort to bring you enterprise-grade, production-ready Linux."
