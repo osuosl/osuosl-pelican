@@ -87,6 +87,40 @@ madmax-cw
 .. _Center for Quantitative Life Sciences (CQLS): https://cqls.oregonstate.edu
 .. _Clackamas Education Service District: https://clackesd.org
 
+`Sharon Bousso`_
+------------------
+
+.. image:: /images/sharon_bousso.png
+    :width: 110px
+    :align: right
+    :alt: Sharon Bousso 
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Sharon joined OSL in June of 2023. She had her first Linux machine in fourth grade, it was an ancient Thinkpad running
+Lubuntu, and that was just the beginning. Sharon got interested in Computer Science and Computer Security from a young
+age, and went on to work as a Security Engineer at a small company based in San Fransisco. She is very passionate
+about the open source movement and is thrilled to partake in the community. In her free time, Sharon likes to rock
+climb and read, and has many software development side projects she works on.
+
+.. class:: no-breaks
+
+  **GitHub Account**
+
+https://github.com/sharoninator
+
+.. class:: no-breaks
+
+  **Nick on irc.libera.chat**
+
+sharon123
+
+.. raw:: html
+
+  <br/>
+
 `Antonia Gaete`_
 --------------------
 
@@ -277,40 +311,6 @@ https://github.com/ArtofBugs
   **Nick on irc.libera.chat**
 
 oweng
-
-.. raw:: html
-
-  <br/>
-
-`Sharon Bousso`_
-------------------
-
-.. image:: /images/sharon_bousso.png
-    :width: 110px
-    :align: right
-    :alt: Sharon Bousso 
-
-.. class:: no-breaks
-
-  **Student Systems Engineer**
-
-Sharon joined OSL in June of 2023. She had her first Linux machine in fourth grade, it was an ancient Thinkpad running
-Lubuntu, and that was just the beginning. Sharon got interested in Computer Science and Computer Security from a young
-age, and went on to work as a Security Engineer at a small company based in San Fransisco. She is very passionate
-about the open source movement and is thrilled to partake in the community. In her free time, Sharon likes to rock
-climb and read, and has many software development side projects she works on.
-
-.. class:: no-breaks
-
-  **GitHub Account**
-
-https://github.com/sharoninator
-
-.. class:: no-breaks
-
-  **Nick on irc.libera.chat**
-
-sharon123
 
 .. raw:: html
 
