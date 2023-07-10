@@ -100,6 +100,7 @@
 "PowerPC Notebook","Supports development and compiling efforts for Debian on PowerPC. The goal is to design an Open Hardware notebook motherboard based on the Power Architecture NXP T2080 CPU"
 "Presto","Supports efforts of a POWER8 ppc64le port of Presto, a distributed SQL query engine for running interactive analytic queries against big data sources"
 "Primerclip","Supports efficient trimming of primer sequences from next-generation sequencing reads sequenced from libraries which use PCR to amplify the target DNA"
+"Project Quay", "Builds, stores, and distributes Docker containers"
 "PVECLIB","A library of useful vector functions for POWER"
 "PyTorch","Python framework for tensors and deep neural networks. Uses POWER8 for continuous integration and functional testing"
 "RDKit","Open source toolkit for cheminformatics"
