@@ -290,7 +290,7 @@ awhittle2
 `Oria Weng`_
 ------------------
 
-.. image:: /images/o.jpg
+.. image:: /images/o.webp
     :width: 110px
     :align: right
     :alt:  Oria Weng
