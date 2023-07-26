@@ -128,7 +128,7 @@ sharon123
 .. image:: /images/antonia_gaete.jpg
     :width: 100px
     :align: right
-    :alt:
+    :alt: Antonia Gaete
 
 .. class:: no-breaks
 
