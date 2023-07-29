@@ -128,7 +128,7 @@ sharon123
 .. image:: /images/antonia_gaete.jpg
     :width: 100px
     :align: right
-    :alt:
+    :alt: Antonia Gaete
 
 .. class:: no-breaks
 
@@ -185,6 +185,43 @@ EMH333
 .. raw:: html
 
    <br/>
+
+`Ayden Murphy-Kirsch`_
+----------------------
+
+.. image:: /images/ayden_murphy-kirsch.webp
+    :width: 110px
+    :align: right
+    :alt: Ayden Murphy-Kirsch 
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Ayden joined the OSL in July of 2023 as a computer and electrical engineering 
+student. For multiple years, Ayden has been immersed in the open source ecosystem, 
+starting with the introduction to Linux in High school and a recent growing 
+familiarity with Open Source and the Foss Ecosystem--including many projects 
+spanning a variety of fields. Open Source hardware, such as RISK V, open personal 
+computing devices and numerous Virtual Reality projects are a current fascination. 
+Ayden enjoys Virtual Reality, tinkering on computers, 3D Design, server/network
+design, and DIY projects that never seem to go as planned.
+
+.. class:: no-breaks
+
+  **GitHub Account**
+
+https://github.com/starboundstitch
+
+.. class:: no-breaks
+
+  **Nick on irc.libera.chat**
+
+starboundstitch
+
+.. raw:: html
+
+  <br/>
 
 `Paul Simko`_
 ---------------
@@ -290,7 +327,7 @@ awhittle2
 `Oria Weng`_
 ------------------
 
-.. image:: /images/o.jpg
+.. image:: /images/o.webp
     :width: 110px
     :align: right
     :alt:  Oria Weng
@@ -316,3 +353,4 @@ oweng
 .. raw:: html
 
   <br/>
+
