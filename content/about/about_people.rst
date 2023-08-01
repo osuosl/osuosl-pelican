@@ -354,3 +354,32 @@ oweng
 
   <br/>
 
+`Grant O'Connor`_
+-----------------
+
+.. image:: /images/grant.jpeg
+    :width: 110px
+    :align: right
+    :alt: Grant O'Connor
+
+.. class:: no-breaks
+
+    **Student Systems Engineer**
+
+Grant joined the OSL in July 2023 as a Sophomore Computer Science major in order to grow his technical knowledge and gain experience. Grant was first introduced to programming in his Freshman year of high school where he learned the basics of game development in Unity. In his free time, Grant enjoys playing board games and video games as well as designing and developing video games.
+
+.. class:: no-breaks
+
+    **GitHub Account**
+
+https://github.com/GrantAOConnor
+
+.. class:: no-breaks
+
+    **Nick on irc.libera.chat**
+
+GrantOC
+
+.. raw:: html
+
+    <br/>
