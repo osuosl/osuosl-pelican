@@ -357,7 +357,7 @@ oweng
 `Grant O'Connor`_
 -----------------
 
-.. image:: /images/grant.jpeg
+.. image:: /images/grant.jpg
     :width: 110px
     :align: right
     :alt: Grant O'Connor
