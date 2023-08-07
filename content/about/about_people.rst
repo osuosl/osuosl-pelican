@@ -366,7 +366,10 @@ oweng
 
     **Student Systems Engineer**
 
-Grant joined the OSL in July 2023 as a Sophomore Computer Science major in order to grow his technical knowledge and gain experience. Grant was first introduced to programming in his Freshman year of high school where he learned the basics of game development in Unity. In his free time, Grant enjoys playing board games and video games as well as designing and developing video games.
+Grant joined the OSL in July 2023 as a Sophomore Computer Science major in order to grow his technical knowledge and 
+gain experience. Grant was first introduced to programming in his Freshman year of high school where he learned the 
+basics of game development in Unity. In his free time, Grant enjoys playing board games and video games as well as 
+designing and developing video games.
 
 .. class:: no-breaks
 
