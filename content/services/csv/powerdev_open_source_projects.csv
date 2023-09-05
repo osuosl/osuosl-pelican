@@ -10,6 +10,7 @@
 "Bazel","Build and test software of any size, quickly and reliably."
 "Blockchain","Continuous intergration for IBM Blockchain hyperledger fabric code for POWER"
 "BlueMika","An open source library that searches in files/web pages/documents/etc and give you the results"
+"cdxgen","An open source cli tool for calculating a software Bill-of-Materials built with plugins for extensibility on the POWER architecture."
 "checkpoint-restore","Implements checkpoint-restore functionality for Linux on POWER architecture; functionality can be used for wide range of use-cases, including live migration, ‘suspend’ and ‘resume’ operations on containers, reboot-less kernel upgrades"
 "Chimera Linux","Chimera is a general-purpose Linux system based on FreeBSD core userland utilities, the LLVM toolchain, musl libc and the apk package manager. The goal is to provide a system that is simple and clean yet fully-featured, and to improve the portability and quality of software across the Linux stack. It is currently available on aarch64, ppc64le, riscv64 and x86_64 architectures, with a big emphasis on portability."
 "Cinc Project","ppc64le builds for various Cinc Project packages (Cinc Client primarily)"
