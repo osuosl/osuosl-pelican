@@ -34,4 +34,3 @@ compatible with RHEL® and pre-CentOS-Stream CentOS™ (e.g. CentOS 8.3). Founde
 "tcpdump/libpcap","A packet analyzer for UNIX-like OSes"
 "The NetBSD Foundation","Improving building and optimizing AARCH64 support on NetBSD with Ampere hardware"
 "The Tor Project","To advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding."
-"heyoka", "C++ library for ODE integration via Taylor's method and LLVM"
