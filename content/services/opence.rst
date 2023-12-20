@@ -11,14 +11,14 @@ The Open Source Lab (OSUOSL) and Center for Quantitative Life Sciences (CQLS, pr
 
 .. _Current release:
 
-.. _Release 1.9.1:
+.. _Release 1.9.3:
 
-Open-CE Release 1.9.1
+Open-CE Release 1.9.3
 ---------------------
 
-*Release date: 08/07/2023*
+*Release date: 12/20/2023*
 
-This is bug fix release 1 of release 1.9. Version 1.8.0 was also released (01/12/2023), but no description/update was given.
+This is bug fix release 3 of release 1.9. No other additions have been made since 1.9.1.
 
 **What's new**
 
@@ -386,7 +386,6 @@ Individual frameworks (and any packages that depend on them) can be removed by r
 
 Important: This command removes the specified packages and any packages that depend on any of the specified packages. If you want to skip this dependency checking and remove just the requested packages, add the --force option. However, this may break your environment, so use this option with caution.
 
-
 Previous releases
 ^^^^^^^^^^^^^^^^^
 
@@ -396,6 +395,16 @@ We recommend that you install the most current release of Open-CE, however, if y
 
 Previous releases
 -----------------
+
+.. _Release 1.9.1:
+
+Open-CE Release 1.9.1
+---------------------
+
+*Release date: 08/07/2023*
+
+This is bug fix release 1 of release 1.9. Version 1.8.0 was also released (01/12/2023), but no description/update was given.
+
 
 .. _Release 1.7.2:
 
