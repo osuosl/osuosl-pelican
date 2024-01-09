@@ -4,7 +4,7 @@ Open-CE
 :author: Maximillian Schmidt, Ken Lett
 :menu: POWERLinux/OpenPOWER Development Hosting, Open-CE, 5
 
-The Open Source Lab (OSUOSL) and Center for Quantitative Life Sciences (CQLS, previously CGRB) partner with IBM and OpenPOWER in order to provide a download resources around Open-CE. Open-CE is a community driven software distribution for machine learning that runs on standard Linux platforms with NVIDIA GPU technologies.
+The Open Source Lab (OSUOSL) and Center for Quantitative Life Sciences (CQLS, previously CGRB) partner with IBM and OpenPOWER in order to provide a download resources around Open-CE. Open-CE is a community driven software distribution for machine learning that runs on standard Linux platforms with NVIDIA GPU technologies. Questions and general discussions involving OSU's builds can be directed to the Open-CE Slack channel: https://open-ce.slack.com/archives/C06DGE5GHND .
 
 - `Current release`_
 - `Previous releases`_
