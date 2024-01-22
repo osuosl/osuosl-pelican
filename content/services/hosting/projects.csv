@@ -236,6 +236,7 @@
 "SFTPGo","powerpc"
 "SHA-3","powerpc"
 "SharkLinux", "vm"
+"sire", "powerpc"
 "Skytable", "aarch64"
 "Slackware","vm, mirroring"
 "Snappy","powerpc"
