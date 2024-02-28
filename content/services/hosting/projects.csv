@@ -111,7 +111,7 @@
 "Jitesoft","aarch64"
 "Jupyter / Base-notebook","powerpc"
 "K-3D","vm"
-"Kali Linux","aarch64"
+"Kali Linux","aarch64, mirroring"
 "KDE","vm, mirroring"
 "Kodi","vm"
 "Kubeflow","ci-cd, powerpc"
