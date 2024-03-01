@@ -65,6 +65,7 @@
 "ELRepo","mirroring, aarch64"
 "Enlightenment","co-location"
 "Evolution Groupware Suite","mailing-list"
+"Falco", "powerpc"
 "F-Droid","ci-cd"
 "Fedora Copr","powerpc, vm"
 "Fedora Linux","co-location, mirroring"

@@ -36,6 +36,7 @@
 "Elastic Beats","Part of the Elastic stack (Elasticsearch, Kibana, Logstash, Beats). Manual testing and checking that the Beats are working on POWER platform"
 "ELENA LANG","ELENA is a general-purpose language with late binding. It is multi-paradigm, combining features of functional and object-oriented programming. Rich set of tools are provided to deal with message dispatching : multi-methods, message qualifying, generic message handlers, run-time interfaces"
 "Envoy","sidecar binary used by the most popular service mesh in the microservice space (istio)"
+"Falco", "Falco is a cloud-native security tool designed for Linux systems. It employs custom rules on kernel events, which are enriched with container and Kubernetes metadata, to provide real-time alerts. Falco helps you gain visibility into abnormal behavior, potential security threats, and compliance violations, contributing to comprehensive runtime security."
 "Fedora Copr","An easy-to-use automatic build system providing a package repository as its output"
 "Fedora","Provide a location for developers to port their Fedora projects to the POWER architecture"
 "FFmpeg","Supports optimization of software scaling in FFmpeg running on POWER systems"
