@@ -19,7 +19,6 @@ compatible with RHEL® and pre-CentOS-Stream CentOS™ (e.g. CentOS 8.3). Founde
 "Jitesoft", "Jitesoft strive to provide up-to-date, optimized and secure docker/oci images for multiple architectures, free of charge. All images and build-scripts are released under the MIT license and can be found on GitLab and GitHub. https://gitlab.com/jitesoft/dockerfiles"
 "Kali Linux", "Kali Linux is an open-source, multi-platform distribution, aimed at advanced Penetration Testing and Security Auditing. Kali Linux provides several hundred common tools and industry specific modifications, targeted towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics, Reverse Engineering, Vulnerability Management and Red Team Testing."
 "Minio","Testing minio object storage server on ARM architecture."
-"MSYS2","MSYS2 is a collection of tools and libraries providing you with an easy-to-use environment for building, installing and running native Windows software."
 "Node.js", "Node.js is a JavaScript runtime for servers. It runs on a variety of OS and architecture platforms (https://github.com/nodejs/node/blob/main/BUILDING.md#platform-list for the current list), including Linux on AARCH64 (arm64)."
 "OpenDev","OpenDev is a collaboratory for open source software development at scale. CI nodes supporting projects such as Openstack, Airship, Kata, pypa/pip, pyca/cryptography etc."
 "OpenFaaS","Making Serverless Functions Simple. Troubleshooting and development of ARM64 support for builds (to create artifacts) and function templates."
