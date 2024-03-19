@@ -7,7 +7,7 @@ Formerly Hosted Projects
 Below are a list of projects formerly hosted on the aarch64 infrastructure at
 the OSL.
 
-.. csv-table:: Former FOSS Projects (2 projects)
+.. csv-table:: Former FOSS Projects (3 projects)
    :class: aarch64-tbl
    :file: ./csv/aarch64_former_open_source_projects.csv
    :widths: 20,80
