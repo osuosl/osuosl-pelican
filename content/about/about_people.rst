@@ -59,11 +59,12 @@ Ramereth
 
   **Faculty Research Assistant - Computational Scientist**
 
-Max joined the OSL in early 2022, and is split half time between OSL and the `Center for Quantitative Life Sciences (CQLS)`_. He received his 
-degree in Computer Systems from OSU EECS in 2019, and spent two years at the `Clackamas Education Service District`_ assisting school 
-districts across Clackamas County with enterprise level computing and infrastructure, before returning to OSU. Max's hybrid position with the OSL and 
-CQLS primarily focuses on delivering the services of a new community platform: the OpenPower Hub. In his free time Max spends it with 
-family and friends, in his home lab tinkering on some sort of computer or electronics, backpacking, skiing, seeking the perfect IPA, or 
+Max joined the OSL in early 2022, and is split half time between OSL and the `Center for Quantitative Life Sciences
+(CQLS)`_. He received his degree in Computer Systems from OSU EECS in 2019, and spent two years at the `Clackamas
+Education Service District`_ assisting school districts across Clackamas County with enterprise level computing and
+infrastructure, before returning to OSU. Max's hybrid position with the OSL and CQLS primarily focuses on delivering
+the services of a new community platform: the OpenPower Hub. In his free time Max spends it with family and friends, in
+his home lab tinkering on some sort of computer or electronics, backpacking, skiing, seeking the perfect IPA, or
 playing video games of a complex fashion.
 
 Max can be reached at max-at-cqls-dot-oregonstate-dot-edu
@@ -134,7 +135,10 @@ sharon123
 
   **Student Systems Engineer**
 
-Antonia joined the OSL in June 2022. She was intersted in joining OSL as a learning opportunity for career skills, in hopes of finding her niche as a Computer Science major. Antonia is most interested in development and hopes to learn skills from OSL that are needed to pursue a career in such areas. In her free time, Antonia enjoys playing/watching soccer, playing instruments, reading, and listening to music.
+Antonia joined the OSL in June 2022. She was intersted in joining OSL as a learning opportunity for career skills, in
+hopes of finding her niche as a Computer Science major. Antonia is most interested in development and hopes to learn
+skills from OSL that are needed to pursue a career in such areas. In her free time, Antonia enjoys playing/watching
+soccer, playing instruments, reading, and listening to music.
 
 .. class:: no-breaks
 
@@ -152,60 +156,24 @@ antoniagaete
 
   <br/>
 
-`Ethan Hampton`_
-----------------
-
-.. image:: /images/hamptone.jpg
-    :width: 110px
-    :align: right
-    :alt: Ethan Hampton
-
-.. class:: no breaks
-
-   **Student Systems Engineer**
-
-Ethan joined the OSL in June of 2020 studying Computer Science. He is enthusiastic about all the opportunities
-available to him here and is grateful for this chance to learn more about the OSS ecosystem. Ethan's first introduction
-to OSS was when he installed Ubuntu on his desktop in middle school and has loved it ever since. His first programming
-experience was in FIRST LEGO League robotics and continues to love elegant solutions to complex problems. If he isn't
-working with technology, Ethan enjoys playing piano, reading, hiking and tinkering.
-
-.. class:: no-breaks
-
-   **GitHub Account**
-
-https://github.com/EMH333
-
-.. class:: no-breaks
-
-   **Nick on irc.libera.chat**
-
-EMH333
-
-.. raw:: html
-
-   <br/>
-
 `Ayden Murphy-Kirsch`_
 ----------------------
 
 .. image:: /images/ayden_murphy-kirsch.webp
     :width: 110px
     :align: right
-    :alt: Ayden Murphy-Kirsch 
+    :alt: Ayden Murphy-Kirsch
 
 .. class:: no-breaks
 
   **Student Systems Engineer**
 
-Ayden joined the OSL in July of 2023 as a computer and electrical engineering 
-student. For multiple years, Ayden has been immersed in the open source ecosystem, 
-starting with the introduction to Linux in High school and a recent growing 
-familiarity with Open Source and the Foss Ecosystem--including many projects 
-spanning a variety of fields. Open Source hardware, such as RISK V, open personal 
-computing devices and numerous Virtual Reality projects are a current fascination. 
-Ayden enjoys Virtual Reality, tinkering on computers, 3D Design, server/network
-design, and DIY projects that never seem to go as planned.
+Ayden joined the OSL in July of 2023 as a computer and electrical engineering student. For multiple years, Ayden has
+been immersed in the open source ecosystem, starting with the introduction to Linux in High school and a recent growing
+familiarity with Open Source and the Foss Ecosystem--including many projects spanning a variety of fields. Open Source
+hardware, such as RISK V, open personal computing devices and numerous Virtual Reality projects are a current
+fascination.  Ayden enjoys Virtual Reality, tinkering on computers, 3D Design, server/network design, and DIY projects
+that never seem to go as planned.
 
 .. class:: no-breaks
 
@@ -235,9 +203,9 @@ starboundstitch
 
     **Student Systems Engineer**
 
-Grant joined the OSL in July 2023 as a Sophomore Computer Science major in order to grow his technical knowledge and 
-gain experience. Grant was first introduced to programming in his Freshman year of high school where he learned the 
-basics of game development in Unity. In his free time, Grant enjoys playing board games and video games as well as 
+Grant joined the OSL in July 2023 as a Sophomore Computer Science major in order to grow his technical knowledge and
+gain experience. Grant was first introduced to programming in his Freshman year of high school where he learned the
+basics of game development in Unity. In his free time, Grant enjoys playing board games and video games as well as
 designing and developing video games.
 
 .. class:: no-breaks
@@ -268,14 +236,11 @@ GrantOC
 
   **Student Systems Engineer**
 
-Paul joined the OSL in May 2021. He's been using OSL mirrors since arriving on
-campus, and is glad for the opportunity to contribute to the FOSS ecosystem. He's
-been using Linux since high school, and enjoys optimizing his work environment and
-trying out new community projects.
-Paul is a computer science major and is interested in cybersecurity,
-infrastructure automation, and spending 3 hours writing scripts that save 1
-minute. He spends the time that these scripts save hunting mushrooms, reading,
-and rock climbing.
+Paul joined the OSL in May 2021. He's been using OSL mirrors since arriving on campus, and is glad for the opportunity
+to contribute to the FOSS ecosystem. He's been using Linux since high school, and enjoys optimizing his work
+environment and trying out new community projects.  Paul is a computer science major and is interested in
+cybersecurity, infrastructure automation, and spending 3 hours writing scripts that save 1 minute. He spends the time
+that these scripts save hunting mushrooms, reading, and rock climbing.
 
 .. class:: no-breaks
 
@@ -305,7 +270,13 @@ paul-osl
 
   **Student Systems Engineer**
 
-Starting in November of 2022, Zach was brought aboard during his Junior year of his college career as a Computer Science major. Zach's first introduction to programming dated back to the fifth grade, in 2013, where he did a presentation on "How to Create an Adder in Lua". His first experience with the Linux environment started in late-2019, when he used a Raspberry-Pi to set up a local file sharing server; and ever since then he's used some flavor of Linux as a daily driver for both personal and server use. Outside of the office and classroom, Zach enjoys modding games, with an added interest in level design. With now being employed at the Open Source Lab, he hopes to further understand the duties of a systems administrator while also providing assistance in service hosting for the FOSS community.
+Starting in November of 2022, Zach was brought aboard during his Junior year of his college career as a Computer
+Science major. Zach's first introduction to programming dated back to the fifth grade, in 2013, where he did a
+presentation on "How to Create an Adder in Lua". His first experience with the Linux environment started in late-2019,
+when he used a Raspberry-Pi to set up a local file sharing server; and ever since then he's used some flavor of Linux
+as a daily driver for both personal and server use. Outside of the office and classroom, Zach enjoys modding games,
+with an added interest in level design. With now being employed at the Open Source Lab, he hopes to further understand
+the duties of a systems administrator while also providing assistance in service hosting for the FOSS community.
 
 .. class:: no-breaks
 
@@ -336,10 +307,10 @@ zwall
   **Student Systems Engineer**
 
 Abi joined the OSL in November 2022. She first heard of OSL while looking through the OSU jobs website and was
-instantly drawn to the Open Source environment that OSL supports and encourages. While she does not have any
-previous experience in open source software, she hopes that OSL will prepare her for future open source projects 
-and jumpstart her career in computer science. In her free time, Abi likes to play video games (namely Overwatch 
-and Dead by Daylight), watch comedy TV shows, and expand her knowledge in computer science and cyber security.
+instantly drawn to the Open Source environment that OSL supports and encourages. While she does not have any previous
+experience in open source software, she hopes that OSL will prepare her for future open source projects and jumpstart
+her career in computer science. In her free time, Abi likes to play video games (namely Overwatch and Dead by
+Daylight), watch comedy TV shows, and expand her knowledge in computer science and cyber security.
  
 .. class:: no-breaks
 
@@ -369,7 +340,10 @@ awhittle2
 
   **Student Systems Engineer**
 
-Oria has been excited about open-source software from far too young an age, so no one should have told her there was an Open Source Lab right at OSU! In all seriousness, she started at the OSL in November 2022 as a way to further explore computer science and get involved in the open-source community. When not learning new ways to play on computers, she dabbles in digital drawing, board games, and animation.
+Oria has been excited about open-source software from far too young an age, so no one should have told her there was an
+Open Source Lab right at OSU! In all seriousness, she started at the OSL in November 2022 as a way to further explore
+computer science and get involved in the open-source community. When not learning new ways to play on computers, she
+dabbles in digital drawing, board games, and animation.
 
 .. class:: no-breaks
 
