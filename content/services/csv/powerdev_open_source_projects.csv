@@ -107,6 +107,7 @@
 "Project Quay", "Builds, stores, and distributes Docker containers"
 "PVECLIB","A library of useful vector functions for POWER"
 "PyTorch","Python framework for tensors and deep neural networks. Uses POWER8 for continuous integration and functional testing"
+"Red Hat CoreOS","The operating system used for Red Hat OpenShift."
 "RDKit","Open source toolkit for cheminformatics"
 "RocksDB","Building the fastest key/value database, PPC port for CI and testing"
 "Rocky Linux","A community-driven effort to bring you enterprise-grade, production-ready Linux."
