@@ -36,6 +36,16 @@ hosting and bandwidth, and covers the cost of "Smart Hands" support. Google is a
 movement, producing open code of their own, and sponsoring the Summer of Code program.  Each year Google puts millions
 of dollars toward open source research and development through this program.
 
+.. image:: /images/tag1_logo.png
+  :width: 200
+  :alt: Tag1 Logo
+  :target: https://tag1.com/
+
+Tag1 Consulting specializes in architecting, optimizing, securing, and delivering large-scale applications and
+infrastructures. We support many open source projects including Yjs, a framework for real-time collaboration, Goose the
+most scalable load testing framework, and are the #2 all-time contributor to Drupal, a CMS powering 1 out of every 30
+websites.
+
 .. image:: /images/tds_logo.jpg
   :width: 200
   :alt: TDS Logo
