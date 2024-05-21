@@ -148,6 +148,7 @@
 "MariaDB","mirroring"
 "Mesos","powerpc"
 "Midnight Commander","vm, mirroring"
+"Milvus", "powerpc"
 "Minio", "aarch64"
 "Monitoring-plugins","mirroring"
 "Monkey Server","vm"

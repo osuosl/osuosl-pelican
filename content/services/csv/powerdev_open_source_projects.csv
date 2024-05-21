@@ -74,6 +74,7 @@
 "Maple Tree","Oracle Linux kernel POWER architecture troubleshooting: remove mmap_sem"
 "Mesos","API’s for resource management and scheduling across entire datacenter and cloud environments. OSL hosts the CI infrastructure on POWER platform for this project"
 "microbench","Carefully measure the performance of the bandwidth between different system compenents on POWER systems to understand their influence on application development"
+"Milvus", "Vector database built for scalable, similarity search"
 "Moonjit","Builds and functionality testing"
 "Mozilla","Supports Mozilla projects in testing builds, running automated functionality tests, and debugging architecture-specific bugs."
 "Multiple LLVM/HHVM/*","Contributes towards FOSS software, optimizations for POWER arch; specifically contributes towards HHVM JIT, LLVM and other FOSS projects on POWER8"
