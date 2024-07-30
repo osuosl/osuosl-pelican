@@ -271,6 +271,7 @@
 "UEK Maple Tree","powerpc"
 "Vector Linux","mirroring"
 "VideoLAN","mirroring, powerpc, ci-cd"
+"vLLM", "powerpc"
 "WebDAV","vm"
 "X2go","powerpc"
 "Xenia","powerpc"

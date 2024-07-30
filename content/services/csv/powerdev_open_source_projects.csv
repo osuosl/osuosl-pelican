@@ -131,6 +131,7 @@
 "TripleO CI", "Continuous Integration and Delivery for RedHat OpenStack Platform"
 "trivy", "Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets"
 "VideoLan","Updates the Altivec code in x264 and x265 to VSX and makes sure it works correctly on POWER8le"
+"vLLM", "Fast and easy to use large language model inference and serving engine"
 "Wazuh","Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance."
 "WebM","Dedicated to developing a high-quality, open video format for the web that's freely available to everyone"
 "Whonix", "Anonymity, privacy, security online"
