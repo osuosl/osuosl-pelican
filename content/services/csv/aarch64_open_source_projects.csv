@@ -34,3 +34,4 @@ compatible with RHEL® and pre-CentOS-Stream CentOS™ (e.g. CentOS 8.3). Founde
 "tcpdump/libpcap","A packet analyzer for UNIX-like OSes"
 "The NetBSD Foundation","Improving building and optimizing AARCH64 support on NetBSD with Ampere hardware"
 "The Tor Project","To advance human rights and freedoms by creating and deploying free and open source anonymity and privacy technologies, supporting their unrestricted availability and use, and furthering their scientific and popular understanding."
+"Xen Project","The Xen Project's mission is to deliver a powerful, secure, and flexible virtualization platform that supports a wide range of applications. Among the architectures fully supported by Xen are AARCH64 and x86. We maintain a robust testing infrastructure based on GitLab CI, which executes a variety of builds using different compilers and distributions, and also test Xen execution using QEMU as an emulator."
