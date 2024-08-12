@@ -31,6 +31,7 @@
 "OpenFaaS","Making Serverless Functions Simple"
 "`Openlibm`_","Provided hosting to support the development on the POWER platform of a high quality, portable, standalone C mathematical library (libm), used by the `Julia project`_"
 "OpenShift Origin","Used POWER infrastructure to demo OpenShift Origin clusters at KubeCon 2017"
+"OpenWhisk","Supports building ppc64le Docker images for OpenWhisk, a programming service that provides event based execution of functions"
 "oVirt","Added support for POWER hosts for a virtual machine manager"
 "pgSphere","Provides ppc64le builds for pgSphere, a PostgreSQL extension for spherical geometry"
 "qiskit-sdk-py","Python tools for running quantum information experiments"
