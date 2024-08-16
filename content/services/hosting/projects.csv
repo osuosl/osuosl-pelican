@@ -173,7 +173,7 @@
 "NTPSEC","vm"
 "NumPy","powerpc"
 "Nvidia-docker","powerpc"
-"Ocaml","powerpc"
+"OCaml","powerpc,aarch64"
 "OCM","powerpc"
 "OFTC","vm"
 "Open Advice","webapp"
