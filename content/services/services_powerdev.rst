@@ -4,14 +4,11 @@ PowerLinux / OpenPOWER Development Hosting
 :title: POWER Development Hosting
 :menu: Services, POWERLinux/OpenPOWER Development Hosting, 3
 
-The Open Source Lab partners with `IBM`_ to host `POWER`_ based servers in order
-to provide an open platform for innovation to the open source community. Current
-projects embrace open software projects ranging from KVM to OpenStack and open
-collaboration with `OpenPOWER Foundation`_ partners, including `NVIDIA`_,
-`Mellanox`_, `Ubuntu`_ and `Google`_, and open source based ISV and distribution
-partners, such as `Chef`_, Red Hat, SUSE and Ubuntu, who support the latest
-POWER hardware via production and development (Fedora, CentOS, OpenSUSE, and
-Debian) distributions.
+The Open Source Lab partners with `IBM`_ to host `POWER`_ based servers in order to provide an open platform for
+innovation to the open source community. Current projects embrace open software projects ranging from KVM to OpenStack
+and open collaboration with `OpenPOWER Foundation`_ partners, including `NVIDIA`_, `Mellanox`_, `Ubuntu`_ and
+`Google`_, and open source based ISV and distribution partners, such as `Chef`_, Red Hat, SUSE and Ubuntu, who support
+the latest POWER hardware via production and development (Fedora, CentOS, OpenSUSE, and Debian) distributions.
 
 .. _IBM: http://www-03.ibm.com/linux/ltc/
 .. _POWER: http://en.wikipedia.org/wiki/IBM_POWER_microprocessors
@@ -22,10 +19,9 @@ Debian) distributions.
 .. _Google: https://opensource.google.com/
 .. _Chef: https://www.chef.io/chef/
 
-Members of the community can use these POWER servers to develop and test open
-source projects on the `Power Architecture`_ platform and in a `PowerLinux`_
-environment. Developers looking for assistance can go to the `Linux on IBM Power
-Systems Developer`_ portal or `IBM Portal for OpenPOWER`_.
+Members of the community can use these POWER servers to develop and test open source projects on the `Power
+Architecture`_ platform and in a `PowerLinux`_ environment. Developers looking for assistance can go to the `Linux on
+IBM Power Systems Developer`_ portal or `IBM Portal for OpenPOWER`_.
 
 .. _Power Architecture: http://en.wikipedia.org/wiki/Power_Architecture
 .. _PowerLinux: http://en.wikipedia.org/wiki/PowerLinux
@@ -45,10 +41,10 @@ Two clusters of POWER resources are hosted at the Open Source Lab:
 OpenStack
 ---------
 
-The first cluster is an OpenStack based cluster offering POWER8 & POWER9 LE instances running on KVM and providing
-access via OpenStack's API and GUI interface.  These shared systems are intended for functional development and
-continuous integration work, but are not ideal for performance testing.  We start projects out with a small quota, but
-can increase given resource availability and justification.
+The first cluster is an OpenStack based cluster offering POWER8, POWER9, & POWER10 LE instances running on KVM and
+providing access via OpenStack's API and GUI interface.  These shared systems are intended for functional development
+and continuous integration work, but are not ideal for performance testing.  We start projects out with a small quota,
+but can increase given resource availability and justification.
 
 To request access to an OpenStack POWER instance, use our `OpenPOWER OpenStack request form`_.
 
@@ -71,18 +67,11 @@ To request access to the POWER CI service, use our `POWER CI request form`_.
 GPU
 ---
 
-The second cluster is an OpenPOWER GPU based acceleration cluster offering POWER8+ "Minsky" servers with NVIDIA P100
-GPUs connected via NVLink and POWER9 AC922 "Newell" servers with NVIDIA V100 GPUs connected via NVLink. This cluster is
-hosted and provided by the `Center for Genome Research & Biocomputing (CGRB)`_ at OSU through a partnership with the
-OSU Open Source Lab.  This platform is powered using `Sun of Grid Engine (SGE)`_ instead of our OpenStack
-infrastructure. This platform has access to a variety of software and libraries and also includes access to GPU enabled
-Docker. For more information on how this infrastructure is setup, please read this `PDF`_.
-
-To request access to the OpenPOWER GPU cluster, use our `OpenPOWER GPU request form`_.
+The second cluster is an OpenPOWER GPU based acceleration cluster offering POWER9 AC922 servers with NVIDIA
+V100 GPUs connected via NVLink. This cluster is hosted by the OSUOSL via a collaborate with the `OpenPOWER Foundation
+HUB SIG`_.  To request access to the OpenPOWER GPU cluster, use the `OpenPOWER Foundation HUB SIG form`_.
 
 .. _OpenPOWER OpenStack request form: /services/powerdev/request_hosting
 .. _POWER CI request form: /services/powerdev/request_powerci
-.. _Center for Genome Research & Biocomputing (CGRB): http://cgrb.oregonstate.edu/
-.. _Sun of Grid Engine (SGE): https://arc.liv.ac.uk/trac/SGE
-.. _PDF: /downloads/OpenPOWER_Developement_GPU_Access.pdf
-.. _OpenPOWER GPU request form: /services/powerdev/request_gpu
+.. _OpenPOWER Foundation HUB SIG: https://openpower.foundation/hub/
+.. _OpenPOWER Foundation HUB SIG form: https://openpower.foundation/hub/oregonstateuniversity/

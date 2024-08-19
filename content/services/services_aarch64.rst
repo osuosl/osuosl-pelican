@@ -9,8 +9,8 @@ innovation to the open source community. Current projects embrace open software 
 and open collaboration with open source based ISV and distribution partners, such Red Hat, SUSE and Ubuntu, who support
 the latest AARCH64 hardware via production and development (Fedora, CentOS, OpenSUSE, and Debian) distributions.
 
-Members of the community can use these `Ampere Computing eMAG`_ AARCH64 servers to develop and test open source
-projects on the AARCH64 Architecture platform and in a AARCH64 environment.
+Members of the community can use these `Ampere Computing eMAG`_ or `Ampere Computing Mt. Collins`_ AARCH64 servers to
+develop and test open source projects on the AARCH64 Architecture platform and in a AARCH64 environment.
 
 * List of `Current Projects & Academic Partners`_
 * List of `Former Projects & Academic Partners`_
@@ -30,6 +30,7 @@ To request access to an OpenStack AARCH64 instance, use our `AARCH64 OpenStack r
 
 .. _Ampere Computing: http://amperecomputing.com/
 .. _AARCH64: https://en.wikipedia.org/wiki/ARM_architecture#AArch64
-.. _Ampere Computing eMAG: https://amperecomputing.com/wp-content/uploads/2019/04/Lenovo_ThinkSystem_HR350A_20190409.pdf
+.. _Ampere Computing eMAG: https://en.wikichip.org/wiki/ampere_computing/emag
+.. _Ampere Computing Mt. Collins: https://amperecomputing.com/systems/altra/2u-mt-collins-2s-sas-3.5
 .. _Current Projects & Academic Partners: /services/aarch64/current-projects
 .. _AARCH64 OpenStack request form: /services/aarch64/request_hosting

@@ -108,7 +108,8 @@
         <label for="edit-submitted-power-architecture">POWER Architecture <span class="form-required"
             title="This field is required.">*</span></label>
         <select id="edit-submitted-power-architecture" name="power_architecture" class="form-select required">
-          <option value="POWER9" selected="selected">POWER9</option>
+          <option value="POWER10" selected="selected">POWER10</option>
+          <option value="POWER9">POWER9</option>
           <option value="POWER8">POWER8</option>
         </select>
       </div>
@@ -137,16 +138,19 @@
             title="This field is required.">*</span></label>
         <select id="edit-submitted-distribution" name="distribution" class="form-select required">
           <option value="None selected" selected="selected">- Select -</option>
-          <option value="Fedora">Fedora</option>
-          <option value="CentOS">CentOS</option>
+          <option value="AlmaLinux">AlmaLinux</option>
+          <option value="CentOS Stream">CentOS Stream</option>
           <option value="Debian">Debian</option>
-          <option value="Ubuntu">Ubuntu</option>
+          <option value="Fedora">Fedora</option>
           <option value="OpenSUSE">OpenSUSE</option>
+          <option value="Rocky Linux">Rocky Linux</option>
+          <option value="Ubuntu">Ubuntu</option>
           <option value="Other">Other</option>
         </select>
         <div class="description">Which Linux distribution would you like to use for your machine? This would likely be
-        the latest stable version available for PPC. If you want a specific version, please state that in the comments
-        section on the last page.</div>
+        the latest stable version available for ppc64le. If you want a specific
+        version, please state that in the comments section on the last
+        page.</div>
       </div>
       <div class="form-item webform-component webform-component-select" id="webform-component-openstack-access">
         <label for="edit-submitted-openstack-access">OpenStack Access </label>
