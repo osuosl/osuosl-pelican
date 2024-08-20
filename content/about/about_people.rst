@@ -218,40 +218,6 @@ zwall
 
   <br/>
 
-`Abigail Whittle`_
-------------------
-
-.. image:: /images/abigail-whittle.jpg
-    :width: 110px
-    :align: right
-    :alt: Abigail Whittle
-
-.. class:: no-breaks
-
-  **Student Systems Engineer**
-
-Abi joined the OSL in November 2022. She first heard of OSL while looking through the OSU jobs website and was
-instantly drawn to the Open Source environment that OSL supports and encourages. While she does not have any previous
-experience in open source software, she hopes that OSL will prepare her for future open source projects and jumpstart
-her career in computer science. In her free time, Abi likes to play video games (namely Overwatch and Dead by
-Daylight), watch comedy TV shows, and expand her knowledge in computer science and cyber security.
- 
-.. class:: no-breaks
-
-  **GitHub Account**
-
-https://github.com/awhittle2
-
-.. class:: no-breaks
-
-  **Nick on irc.libera.chat**
-
-awhittle2
-
-.. raw:: html
-
-  <br/>
-
 `Oria Weng`_
 ------------------
 
