@@ -1,7 +1,7 @@
 Open-CE
 =======
 :slug: services/powerdev/opence
-:author: Maximillian Schmidt, Ken Lett
+:author: Maximillian Schmidt (>1.8.0), Ken Lett (<=1.8.0)
 :menu: POWERLinux/OpenPOWER Development Hosting, Open-CE, 5
 
 The Open Source Lab (OSUOSL) and Center for Quantitative Life Sciences (CQLS, previously CGRB) partner with IBM and OpenPOWER in order to provide download resources around Open-CE. Open-CE is a community driven software distribution for machine learning that runs on standard Linux platforms alongside NVIDIA GPU technologies. Questions and general discussions involving OSU's builds can be directed to the Open-CE Slack channel: https://open-ce.slack.com/archives/C06DGE5GHND .
@@ -11,104 +11,43 @@ The Open Source Lab (OSUOSL) and Center for Quantitative Life Sciences (CQLS, pr
 
 .. _Current release:
 
-.. _Release 1.11.0:
+.. _Release 1.11.2:
 
-Open-CE Release 1.11.0
+Open-CE Release 1.11.2
 ----------------------
 
-This is release 1.11.0 of Open Cognitive Environment (Open-CE)
+This is release 1.11.2 of Open Cognitive Environment (Open-CE)
 
 Build Status:
 
 ============ ========== ====== ====== ======== ========= ========= =============
 CPU Arch     Build Base Py3.10 Py3.11 CPU-only CUDA 11.8 CUDA 12.2 Date
 ============ ========== ====== ====== ======== ========= ========= =============
-ppc64le(P9)  UBI 8      DONE   DONE   DONE     Err       DONE      06/07/2024
-ppc64le(P10) UBI 9      DONE   DONE   DONE     N/A       N/A       06/11/2024
-x86_64       UBI 9      DONE   DONE   DONE     Err       DONE
+ppc64le(P9)  UBI 8      DONE   DONE   DONE     DONE      DONE      08/15/2024
+ppc64le(P10) UBI 9      DONE   DONE   DONE     N/A       N/A       08/20/2024
+x86_64       UBI 9      DONE   DONE   DONE     Err       Err
 ============ ========== ====== ====== ======== ========= ========= =============
-
-
 
 **What's new**
 
 - Updated packages
 
-  - absl-py 2.0.0
-  - apache-beam 2.53.0
-  - arrow-cpp[-proc] 15.0.1
-  - bazel 6.1.0
-  - black 23.10.0
-  - cmdstan 2.33.1
-  - cmdstanpy 1.2.0
-  - cudatoolkit[-dev] 12.2.0
-  - cudnn 8.9.6_12.2
-  - dali[-tf-plugin] 1.32.0
-  - datasets 2.16.1
-  - deepspeed 0.11.1
-  - fsspec 2023.10.0
-  - hatch-fancy-pypi-readme 23.1.0
-  - horovod 0.28.1
-  - huggingface_hub 0.20.0
-  - java-11-openjdk 11.0.6.10
-  - jax 0.4.23
-  - joblib 1.3.2
-  - jsonpatch 1.33
-  - keras 2.14.0
-  - langchain 0.1.6
-  - langchain-community 0.0.19
-  - langchain-core 0.1.22
-  - langsmith 0.0.87
-  - libnvjitlink 12.2.140
-  - lightgbm[-proc] 4.2.0
-  - lightning-app 2.1.3
-  - lightning-cloud 0.5.57
-  - lightning-fabric 2.1.3
-  - lightning-utilities 0.10.0
-  - mamba 1.5.6
-  - nasm 2.15.05
-  - nccl 2.19.3
-  - onnx 1.15.0
-  - onnxmltools 1.12.0
-  - onnxruntime 1.16.3
-  - openblas[-devel] 0.3.26
-  - [py-]opencv[-proc] 4.8.1
-  - packaging 23.2
-  - prophet 1.1.5
-  - pyarrow 15.0.1
-  - pyink 23.10.0
-  - pytorch[-base|-cpu] 2.1.2
-  - pytorch-lighting 2.1.3
-  - pytorch_geometric 2.4.0
-  - pytorch_scatter 2.1.2
-  - pytorch_sparse 0.6.18
-  - ray 2.9.2
-  - rust 1.77.0
-  - rust-std-\* 1.71.1
-  - scikit-learn 1.3.0
-  - sentencepiece 0.1.99
-  - skl2onnx 1.16.0
-  - sklearn-pandas 2.2.0
-  - stanio 0.3.0
-  - tensorboard 2.14.0
-  - tensorflow 2.14.1
-  - tensorflow-datasets 4.9.4
-  - tensorflow-estimator 2.14.0
-  - tensorflow-hub 0.15.0
-  - tensorflow-io[-gcs-filesystem] 0.35.0
-  - tensorflow-metadata 1.14.0
-  - tensorflow-probability 0.22.1
-  - tensorflow-text 2.14.0
-  - tf2onnx 1.15.1
-  - tiktoken 0.6.0
-  - tokenizers 0.15.2
-  - torchdata 0.7.1
-  - torchmetrics 1.2.1
-  - torchtext 0.16.2
-  - torchvision 0.16.2
-  - transformers 4.36.2
-  - uwsgi 2.0.25.1
-  - xgboost 2.0.3  
+  - langchain 0.1.13
+  - langchain-community 0.0.29
+  - langchain-core 0.1.35
+  - langchain-text-splitters 0.0.2
+  - langsmith 0.1.19
+  - libmamba 1.5.7
+  - libmambapy 1.5.7
+  - libopenblas 0.3.26
+  - libopenblas-static 0.3.26
+  - mamba 1.5.7
+  - onnx 1.16.0
+  - openblas[-devel] 0.3.27
+  - orjson 3.9.15
+  - safetensors 0.4.1
+  - transformers 4.38.0
+  - werkzeug 3.0.3
 
 - This release of Open-CE supports:
 
@@ -122,8 +61,6 @@ x86_64       UBI 9      DONE   DONE   DONE     Err       DONE
     - See: https://hub.docker.com/r/nvidia/cuda/tags?page=1&page_size=&ordering=&name=-devel-ubi
   - CV-CUDA is disabled in DALI for ppc64le
   - Jax and Jaxlib packages not available for ppc64le CUDA
-  - Python 3.9 is no longer supported
-  - OSU drops support of EL7
 
 **Learn more**
 
@@ -236,212 +173,211 @@ You can install the MLDL frameworks individually. The framework packages include
 
 **Table 1. Framework packages (Open-CE 1.11.0)**
 
-====================================== ========== ================================================================================== ======
-Package                                Version    Description                                                                        noarch
-====================================== ========== ================================================================================== ======
-_pytorch_select                        2.0        Package used to select the specific PyTorch build variant                         
-_tensorflow_select                     2.0        Package used to select the specific Tensorflow build variant                      
-absl-py                                2.0.0      This repository is a collection of Python library code for building...            
-aioredis                               2.0.1      asyncio (PEP 3156) Redis support                                                   X
-aiorwlock                              1.3.0      Read write lock for asyncio.                                                       X
-apache-beam                            2.53.0     Apache Beam: An advanced unified programming model                                
-array-record                           0.2.0      A new file format derived from Riegeli                                            
-arrow-cpp                              15.0.1     C++ libraries for Apache Arrow                                                    
-arrow-cpp-proc                         15.0.1     A meta-package to select Arrow build variant                                      
-arviz                                  0.14.0     Exploratory analysis of Bayesian models with Python                                X
-av                                     10.0.0     Pythonic bindings for FFmpeg.                                                     
-backoff                                2.2.1      Function decoration for backoff and retry                                          X
-bazel                                  6.1.0      build system originally authored by Google                                        
-bazel-toolchain                        0.1.5      Helper script to generate a crosscompile toolchain for Bazel with the...          
-black                                  23.10.0    The uncompromising code formatter.                                                
-blas                                   1.0        None                                                                              
-blessed                                1.19.1     Easy, practical library for making terminal apps, by providing an...               X
-boost_mp11                             1.76.0     C++11 metaprogramming library                                                     
-bsddb3                                 6.2.9      Python bindings for Oracle Berkeley DB                                            
-cfitsio                                3.470      A library for reading and writing FITS files                                      
-cli11                                  2.2.0      CLI11 is a command line parser for C++11 and beyond that provides a...            
-cmake                                  3.26.4     CMake is an extensible, open-source system that manages the build process         
-cmdstan                                2.33.1     CmdStan, the command line interface to Stan                                       
-cmdstanpy                              1.2.0      CmdStanPy is a lightweight interface to Stan for Python users which...             X
-coin-or-cbc                            2.10.7     COIN-OR branch and cut (Cbc)                                                      
-coin-or-cgl                            0.60.6     COIN-OR Cut Generation Library (Cgl)                                              
-coin-or-clp                            1.17.7     COIN-OR linear programming (Clp)                                                  
-coin-or-osi                            0.108.7    Coin OR Open Solver Interface (OSI)                                               
-coin-or-utils                          2.11.6     COIN-OR Utilities (CoinUtils)                                                     
-coincbc                                2.10.7     COIN-OR branch and cut (Cbc)                                                       X
-crcmod                                 1.7        CRC Generator                                                                     
-cudatoolkit                            12.2.0     CUDA Toolkit - Including CUDA runtime                                             
-cudatoolkit-dev                        12.2.0     Develop, Optimize and Deploy GPU-accelerated Apps                                 
-cudnn                                  8.9.6_12.2 The NVIDIA CUDA Deep Neural Network library. A GPU-accelerated library...         
-dali                                   1.32.0     A library containing both highly optimized building blocks and an...              
-dali-ffmpeg                            5.1.1      Cross-platform solution to record, convert and stream audio and video.            
-dali-tf-plugin                         1.32.0     A library containing both highly optimized building blocks and an...              
-datasets                               2.16.1     HuggingFace/Datasets is an open library of NLP datasets.                           X
-dateutils                              0.6.12     Various utilities for working with date and datetime objects                       X
-deepdiff                               5.8.1      Deep Difference and Search of any Python object/data.                              X
-deepspeed                              0.11.1     DeepSpeed Library: An easy-to-use deep learning optimization software suite.      
-dm-tree                                0.1.8      A library for working with nested data structures.                                
-eigen                                  3.4.0      C++ template library for linear algebra                                           
-etils                                  1.0.0      Collection of eclectic utils for python.                                           X
-fastapi                                0.92.0     FastAPI framework, high performance, easy to learn, fast to code, ready...         X
-ffmpeg                                 4.2.2      Cross-platform solution to record, convert and stream audio and video.            
-fire                                   0.4.0      Python Fire is a library for creating command line interfaces (CLIs)...            X
-flatbuffers                            23.1.21    Memory Efficient Serialization Library                                            
-fsspec                                 2023.10.0  A specification for pythonic filesystems                                           X
-gmock                                  1.13.0     Google&#39;s C++ test framework                                                   
-googledrivedownloader                  0.4        Minimal class to download shared files from Google Drive.                          X
-grpc-cpp                               1.54.3     gRPC - A high-performance, open-source universal RPC framework                    
-grpcio                                 1.54.3     HTTP/2-based RPC framework                                                        
-gtest                                  1.13.0     Google&#39;s C++ test framework                                                   
-hatch-fancy-pypi-readme                23.1.0     Fancy PyPI READMEs with Hatch                                                      X
-hjson-py                               3.1.0      Hjson, a user interface for JSON.                                                  X
-holidays                               0.27       Generate and work with holidays in Python                                          X
-horovod                                0.28.1     Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.  
-httplib2                               0.19.1     A comprehensive HTTP client library                                                X
-huggingface_hub                        0.20.0     Client library to download and publish models on the huggingface.co hub            X
-inquirer                               2.10.1     Collection of common interactive command line user interfaces, based on...         X
-java-11-openjdk-cos7-ppc64le           11.0.6.10  (CDT) OpenJDK Runtime Environment                                                  X
-java-11-openjdk-devel-cos7-ppc64le     11.0.6.10  (CDT) OpenJDK Development Toolkit                                                  X
-java-11-openjdk-headless-cos7-ppc64le  11.0.6.10  (CDT) The OpenJDK runtime environment without audio and video support              X
-jax                                    0.4.23     Differentiate, compile, and transform Numpy code                                  
-jaxlib                                 0.4.23     Composable transformations of Python+NumPy programs: differentiate,...            
-joblib                                 1.3.2      Lightweight pipelining: using Python functions as pipeline jobs.                   X
-jpeg-turbo                             2.1.4      IJG JPEG compliant runtime library with SIMD and other optimizations              
-jsonpatch                              1.33       Apply JSON-Patches (RFC 6902)                                                      X
-keras                                  2.14.0     Deep Learning for Python                                                          
-langchain                              0.1.6      Building applications with LLMs through composability                              X
-langchain-community                    0.0.19     Community contributed LangChain integrations.                                      X
-langchain-core                         0.1.22     Core APIs for LangChain, the LLM framework for buildilng applications...           X
-langsmith                              0.0.87     Client library to connect to the LangSmith language model tracing and...           X
-libabseil                              20230125.0 Abseil Common Libraries (C++)                                                     
-libdate                                3.0.1      A date and time library based on the C++11/14/17 &lt;chrono&gt; header            
-libflac                                1.3.3      Flac audio format                                                                 
-liblightgbm                            4.2.0      Light Gradient Boosting Machine that uses tree based learning algorithms          
-libmamba                               1.5.6      A fast drop-in alternative to conda, using libsolv for dependency resolution      
-libmambapy                             1.5.6      A fast drop-in alternative to conda, using libsolv for dependency resolution      
-libnvjitlink                           12.2.140   CUDA nvJitLink library                                                            
-libopenblas                            0.3.26     An Optimized BLAS library                                                         
-libopenblas-static                     0.3.26     OpenBLAS static libraries.                                                        
-libopencv                              4.8.1      Computer vision and machine learning software library.                            
-libortools                             9.6        Google Operations Research Tools (or-tools) python package                        
-libprotobuf                            3.21.12    Protocol Buffers - Google&#39;s data interchange format. C++ Libraries...         
-libprotobuf-static                     3.21.12    Protocol Buffers - Google&#39;s data interchange format. C++ Libraries...         
-libsndfile                             1.0.31     libsndfile - a C library for reading and writing files containing...              
-libtar                                 1.2.20     C library for manipulating tar files                                              
-libtensorflow                          2.14.1     TensorFlow is a machine learning library, base GPU package, tensorflow only.      
-libxgboost                             2.0.3      Scalable, Portable and Distributed Gradient Boosting Library                      
-lightgbm                               4.2.0      Light Gradient Boosting Machine that uses tree based learning algorithms          
-lightgbm-proc                          4.2.0      Light Gradient Boosting Machine that uses tree based learning algorithms          
-lightning-app                          2.1.3      Use Lightning Apps to build everything from production-ready,...                   X
-lightning-cloud                        0.5.57     Lightning Cloud.                                                                   X
-lightning-fabric                       2.1.3      Use Lightning Apps to build everything from production-ready,...                   X
-lightning-utilities                    0.10.0     Lightning Utilities.                                                               X
-llvm-openmp                            14.0.6     The OpenMP API supports multi-platform shared-memory parallel...                  
-magma                                  2.6.1      Dense linear algebra library similar to LAPACK but for...                         
-mamba                                  1.5.6      A fast drop-in alternative to conda, using libsolv for dependency resolution      
-maturin                                0.13.2     Build and publish crates with pyo3, rust-cpython and cffi bindings as...          
-nasm                                   2.15.05    Netwide Assembler: an assembler targetting the Intel X86 series of processors.    
-nccl                                   2.19.3     NVIDIA Collective Communications Library. Implements multi-GPU and...             
-nomkl                                  3.0        None                                                                              
-numactl                                2.0.16     Control NUMA policy for processes or shared memory                                
-objsize                                0.6.1      Traversal over Python&#39;s objects subtree and calculate the total...             X
-onnx                                   1.15.0     Open Neural Network Exchange library                                              
-onnxconverter-common                   1.14.0     Common utilities for ONNX converters                                               X
-onnxmltools                            1.12.0     ONNXMLTools enables conversion of models to ONNX                                   X
-onnxruntime                            1.16.3     cross-platform, high performance ML inferencing and training accelerator          
-openblas                               0.3.26     An optimized BLAS library                                                         
-openblas-devel                         0.3.26     OpenBLAS headers and libraries for developing software that used OpenBLAS.        
-opencensus                             0.7.13     OpenCensus - A stats collection and distributed tracing framework                  X
-opencv                                 4.8.1      Computer vision and machine learning software library.                            
-opencv-proc                            4.8.1      Computer vision and machine learning software library.                            
-openmpi                                4.1.5      An open source Message Passing Interface implementation.                          
-optional-lite                          3.4.0      A C++17-like optional, a nullable object for C++98, C++11 and later in...         
-orbit-ml                               1.1.4.2    Orbit is a package for bayesian time series modeling and inference.               
-orc                                    1.9.0      C++ libraries for Apache ORC                                                      
-ordered-set                            4.1.0      A MutableSet that remembers its order, so that every entry has an index.           X
-orjson                                 3.8.0      orjson is a fast, correct JSON library for Python.                                
-ortools-cpp                            9.6        Google Operations Research Tools (or-tools) python package                        
-ortools-python                         9.6        Google Operations Research Tools (or-tools) python package                        
-packaging                              23.2       Core utilities for Python packages                                                 X
-prophet                                1.1.5      Automatic Forecasting Procedure                                                   
-protobuf                               4.21.12    Protocol Buffers - Google&#39;s data interchange format.                          
-py-opencv                              4.8.1      Computer vision and machine learning software library.                            
-pyarrow                                15.0.1     Python libraries for Apache Arrow                                                 
-pybind11                               2.9.2      Seamless operability between C++11 and Python                                     
-pybind11-abi                           4          Seamless operability between C++11 and Python                                      X
-pybind11-global                        2.9.2      Seamless operability between C++11 and Python                                     
-pyink                                  23.10.0    Pyink is a python formatter, forked from Black with slightly different behavior.   X
-pyro-api                               0.1.2      Generic API for dispatch to Pyro backends.                                         X
-pyro-ppl                               1.8.4      A Python library for probabilistic modeling and inference                          X
-python-flatbuffers                     23.1.21    Python runtime library for use with the Flatbuffers serialization format.          X
-python-multipart                       0.0.5      A streaming multipart parser for Python.                                           X
-pytorch                                2.1.2      Meta-package to install GPU-enabled PyTorch variant                               
-pytorch-base                           2.1.2      PyTorch is an optimized tensor library for deep learning using GPUs and CPUs.     
-pytorch-cpu                            2.1.2      Meta-package to install CPU-only PyTorch variant                                  
-pytorch-lightning                      2.1.3      PyTorch Lightning is the lightweight PyTorch wrapper for ML...                     X
-pytorch-lightning-bolts                0.7.0      Pretrained SOTA Deep Learning models, callbacks and more for research...           X
-pytorch_geometric                      2.4.0      Geometric Deep Learning Extension Library for PyTorch                              X
-pytorch_scatter                        2.1.2      PyTorch Extension Library of Optimized Scatter Operations                         
-pytorch_sparse                         0.6.18     PyTorch Extension Library of Optimized Autograd Sparse Matrix Operations          
-ray-air                                2.9.2      Ray is a fast and simple framework for building and running distributed...        
-ray-all                                2.9.2      Ray is a fast and simple framework for building and running distributed...        
-ray-client                             2.9.2      Ray is a fast and simple framework for building and running distributed...        
-ray-core                               2.9.2      Ray is a fast and simple framework for building and running distributed...        
-ray-data                               2.9.2      Ray is a fast and simple framework for building and running distributed...        
-ray-default                            2.9.2      Ray is a fast and simple framework for building and running distributed...        
-ray-rllib                              2.9.2      Ray is a fast and simple framework for building and running distributed...        
-ray-serve                              2.9.2      Ray is a fast and simple framework for building and running distributed...        
-ray-train                              2.9.2      Ray is a fast and simple framework for building and running distributed...        
-ray-tune                               2.9.2      Ray is a fast and simple framework for building and running distributed...        
-rdflib                                 6.1.1      RDFLib is a Python library for working with RDF, a simple yet powerful...          X
-rust                                   1.77.0     Rust is a systems programming language that runs blazingly fast,...               
-rust-std-powerpc64le-unknown-linux-gnu 1.77.0     Rust is a systems programming language that runs blazingly fast,...                X
-rust_linux-ppc64le                     1.77.0     A safe systems programming language (conda activation scripts)                    
-safeint                                3.0.26     SafeInt is a class library for C++ that manages integer overflows.                
-scikit-learn                           1.3.0      A set of python modules for machine learning and data mining                      
-sentencepiece                          0.1.99     An unsupervised text tokenizer and detokenizer mainly for Neural...               
-setuptools-rust                        1.5.1      Setuptools rust extension plugin                                                   X
-skl2onnx                               1.16.0     Convert scikit-learn models and pipelines to ONNX                                  X
-sklearn-pandas                         2.2.0      Pandas integration with sklearn                                                    X
-stanio                                 0.3.0      Preparing inputs to and reading outputs from Stan.                                 X
-starlette                              0.25.0     The little ASGI framework that shines.                                             X
-starlette-full                         0.25.0     The little ASGI framework that shines.                                             X
-starsessions                           1.3.0      Pluggable session support for Starlette.                                           X
-tensorboard                            2.14.0     TensorFlow&#39;s Visualization Toolkit.                                            X
-tensorboard-data-server                0.7.0      Data server for TensorBoard                                                        X
-tensorflow                             2.14.1     Meta-package to install GPU-enabled TensorFlow variant                            
-tensorflow-base                        2.14.1     TensorFlow is a machine learning library, base GPU package, tensorflow only.      
-tensorflow-cpu                         2.14.1     Meta-package to install CPU-only TensorFlow variant                               
-tensorflow-datasets                    4.9.4      A collection of datasets ready to use with TensorFlow                              X
-tensorflow-estimator                   2.14.0     TensorFlow Estimator                                                               X
-tensorflow-hub                         0.15.0     A library for transfer learning by reusing parts of TensorFlow models.             X
-tensorflow-io                          0.35.0     Dataset, streaming, and file system extensions                                    
-tensorflow-io-gcs-filesystem           0.35.0     Dataset, streaming, and file system extensions                                    
-tensorflow-metadata                    1.14.0     Utilities for passing TensorFlow-related metadata between tools                    X
-tensorflow-model-optimization          0.7.5      A library that to optimize TensorFlow models for deployment and execution.        
-tensorflow-probability                 0.22.1     TensorFlow Probability is a library for probabilistic reasoning and...            
-tensorflow-serving                     2.14.1     TensorFlow Serving is an open-source library for serving machine learning models  
-tensorflow-serving-api                 2.14.1     TensorFlow Serving is an open-source library for serving machine learning models   X
-tensorflow-text                        2.14.0     TF.Text is a TensorFlow library of text related ops, modules, and subgraphs.      
-tf2onnx                                1.15.1     Tensorflow to ONNX converter                                                      
-tiktoken                               0.6.0      tiktoken is a fast BPE tokeniser for use with OpenAI&#39;s models                 
-tokenize-rt                            4.2.1      A wrapper around the stdlib `tokenize` which roundtrips.                           X
-tokenizers                             0.15.2     Fast State-of-the-Art Tokenizers optimized for Research and Production            
-torchdata                              0.7.1      Common modular data loading primitives for easily constructing flexible...        
-torchmetrics                           1.2.1      Machine learning metrics for distributed, scalable PyTorch applications.           X
-torchtext                              0.16.2     Meta-package to install torchtext variant for GPU-enabled pytorch                 
-torchtext-base                         0.16.2     Text utilities and datasets for PyTorch                                           
-torchtext-cpu                          0.16.2     Meta-package to install torchtext variant for CPU-only pytorch                    
-torchvision                            0.16.2     Meta-package to install GPU-enabled torchvision variant                           
-torchvision-base                       0.16.2     Image and video datasets and models for torch deep learning                       
-torchvision-cpu                        0.16.2     Meta-package to install CPU-only torchvision variant                              
-transformers                           4.36.2     State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch        X
-tzdata-java-cos7-ppc64le               2019c      (CDT) OpenJDK Runtime Environment                                                  X
-uvicorn                                0.16.0     The lightning-fast ASGI server.                                                   
-uwsgi                                  2.0.25.1   The uWSGI project aims at developing a full stack for building hosting...         
-xgboost                                2.0.3      Scalable, Portable and Distributed Gradient Boosting Library                      
-xgboost-proc                           2.0.3      Scalable, Portable and Distributed Gradient Boosting Library                      
-====================================== ========== ================================================================================== ======
+======================================== =========== ================================================================================== ========
+Package                                  Version     Summary                                                                            noarch
+======================================== =========== ================================================================================== ========
+_pytorch_select                          2.0         Package used to select the specific PyTorch build variant
+_tensorflow_select                       2.0         Package used to select the specific Tensorflow build variant
+absl-py                                  2.0.0       This repository is a collection of Python library code for building...
+aioredis                                 2.0.1       asyncio (PEP 3156) Redis support                                                   X
+aiorwlock                                1.3.0       Read write lock for asyncio.                                                       X
+apache-beam                              2.53.0      Apache Beam: An advanced unified programming model
+array-record                             0.2.0       A new file format derived from Riegeli
+arrow-cpp                                15.0.1      C++ libraries for Apache Arrow
+arrow-cpp-proc                           15.0.1      A meta-package to select Arrow build variant
+arviz                                    0.14.0      Exploratory analysis of Bayesian models with Python                                X
+av                                       10.0.0      Pythonic bindings for FFmpeg.
+backoff                                  2.2.1       Function decoration for backoff and retry                                          X
+bazel                                    6.1.0       build system originally authored by Google
+bazel-toolchain                          0.1.5       Helper script to generate a crosscompile toolchain for Bazel with the...
+black                                    23.10.0     The uncompromising code formatter.
+blas                                     1.0         None
+blessed                                  1.19.1      Easy, practical library for making terminal apps, by providing an...               X
+boost_mp11                               1.76.0      C++11 metaprogramming library
+bsddb3                                   6.2.9       Python bindings for Oracle Berkeley DB
+cfitsio                                  3.470       A library for reading and writing FITS files
+cli11                                    2.2.0       CLI11 is a command line parser for C++11 and beyond that provides a...
+cmake                                    3.26.4      CMake is an extensible, open-source system that manages the build process
+cmdstan                                  2.33.1      CmdStan, the command line interface to Stan
+cmdstanpy                                1.2.0       CmdStanPy is a lightweight interface to Stan for Python users which...             X
+coin-or-cbc                              2.10.7      COIN-OR branch and cut (Cbc)
+coin-or-cgl                              0.60.6      COIN-OR Cut Generation Library (Cgl)
+coin-or-clp                              1.17.7      COIN-OR linear programming (Clp)
+coin-or-osi                              0.108.7     Coin OR Open Solver Interface (OSI)
+coin-or-utils                            2.11.6      COIN-OR Utilities (CoinUtils)
+coincbc                                  2.10.7      COIN-OR branch and cut (Cbc)                                                       X
+crcmod                                   1.7         CRC Generator
+cudatoolkit                              12.2.0      CUDA Toolkit - Including CUDA runtime
+cudatoolkit-dev                          12.2.0      Develop, Optimize and Deploy GPU-accelerated Apps
+cudnn                                    8.9.6_12.2  The NVIDIA CUDA Deep Neural Network library. A GPU-accelerated library...
+dali                                     1.32.0      A library containing both highly optimized building blocks and an...
+dali-ffmpeg                              5.1.1       Cross-platform solution to record, convert and stream audio and video.
+dali-tf-plugin                           1.32.0      A library containing both highly optimized building blocks and an...
+datasets                                 2.16.1      HuggingFace/Datasets is an open library of NLP datasets.                           X
+dateutils                                0.6.12      Various utilities for working with date and datetime objects                       X
+deepdiff                                 5.8.1       Deep Difference and Search of any Python object/data.                              X
+deepspeed                                0.11.1      DeepSpeed Library: An easy-to-use deep learning optimization software suite.
+dm-tree                                  0.1.8       A library for working with nested data structures.
+eigen                                    3.4.0       C++ template library for linear algebra
+etils                                    1.0.0       Collection of eclectic utils for python.                                           X
+fastapi                                  0.92.0      FastAPI framework, high performance, easy to learn, fast to code, ready...         X
+ffmpeg                                   4.2.2       Cross-platform solution to record, convert and stream audio and video.
+fire                                     0.4.0       Python Fire is a library for creating command line interfaces (CLIs)...            X
+flatbuffers                              23.1.21     Memory Efficient Serialization Library
+fsspec                                   2023.10.0   A specification for pythonic filesystems                                           X
+gmock                                    1.13.0      Google's C++ test framework
+googledrivedownloader                    0.4         Minimal class to download shared files from Google Drive.                          X
+grpc-cpp                                 1.54.3      gRPC - A high-performance, open-source universal RPC framework
+grpcio                                   1.54.3      HTTP/2-based RPC framework
+gtest                                    1.13.0      Google's C++ test framework
+hatch-fancy-pypi-readme                  23.1.0      Fancy PyPI READMEs with Hatch                                                      X
+hjson-py                                 3.1.0       Hjson, a user interface for JSON.                                                  X
+holidays                                 0.27        Generate and work with holidays in Python                                          X
+horovod                                  0.28.1      Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+httplib2                                 0.19.1      A comprehensive HTTP client library                                                X
+huggingface_hub                          0.20.0      Client library to download and publish models on the huggingface.co hub            X
+inquirer                                 2.10.1      Collection of common interactive command line user interfaces, based on...         X
+java-11-openjdk-cos7-ppc64le             11.0.6.10   (CDT) OpenJDK Runtime Environment                                                  X
+java-11-openjdk-devel-cos7-ppc64le       11.0.6.10   (CDT) OpenJDK Development Toolkit                                                  X
+java-11-openjdk-headless-cos7-ppc64le    11.0.6.10   (CDT) The OpenJDK runtime environment without audio and video support              X
+jax                                      0.4.23      Differentiate, compile, and transform Numpy code
+jaxlib                                   0.4.23      Composable transformations of Python+NumPy programs: differentiate,...
+joblib                                   1.3.2       Lightweight pipelining: using Python functions as pipeline jobs.                   X
+jpeg-turbo                               2.1.4       IJG JPEG compliant runtime library with SIMD and other optimizations
+jsonpatch                                1.33        Apply JSON-Patches (RFC 6902)                                                      X
+keras                                    2.14.0      Deep Learning for Python
+langchain                                0.1.13      Building applications with LLMs through composability                              X
+langchain-community                      0.0.29      Community contributed LangChain integrations.                                      X
+langchain-core                           0.1.35      Core APIs for LangChain, the LLM framework for buildilng applications...           X
+langchain-text-splitters                 0.0.2       LangChain text splitting utilities                                                 X
+langsmith                                0.1.19      Client library to connect to the LangSmith language model tracing and...           X
+libabseil                                20230125.0  Abseil Common Libraries (C++)
+libdate                                  3.0.1       A date and time library based on the C++11/14/17 &lt;chrono&gt; header
+libflac                                  1.3.3       Flac audio format
+liblightgbm                              4.2.0       Light Gradient Boosting Machine that uses tree based learning algorithms
+libmamba                                 1.5.7       A fast drop-in alternative to conda, using libsolv for dependency resolution
+libmambapy                               1.5.7       A fast drop-in alternative to conda, using libsolv for dependency resolution
+libnvjitlink                             12.2.140    CUDA nvJitLink library
+libopenblas                              0.3.27      An Optimized BLAS library
+libopenblas-static                       0.3.27      OpenBLAS static libraries.
+libopencv                                4.8.1       Computer vision and machine learning software library.
+libortools                               9.6         Google Operations Research Tools (or-tools) python package
+libprotobuf                              3.21.12     Protocol Buffers - Google&#39;s data interchange format. C++ Libraries...
+libprotobuf-static                       3.21.12     Protocol Buffers - Google&#39;s data interchange format. C++ Libraries...
+libsndfile                               1.0.31      libsndfile - a C library for reading and writing files containing...
+libtar                                   1.2.20      C library for manipulating tar files
+libtensorflow                            2.14.1      TensorFlow is a machine learning library, base GPU package, tensorflow only.
+libxgboost                               2.0.3       Scalable, Portable and Distributed Gradient Boosting Library
+lightgbm                                 4.2.0       Light Gradient Boosting Machine that uses tree based learning algorithms
+lightgbm-proc                            4.2.0       Light Gradient Boosting Machine that uses tree based learning algorithms
+lightning-app                            2.1.3       Use Lightning Apps to build everything from production-ready,...                   X
+lightning-cloud                          0.5.57      Lightning Cloud.                                                                   X
+lightning-fabric                         2.1.3       Use Lightning Apps to build everything from production-ready,...                   X
+lightning-utilities                      0.10.0      Lightning Utilities.                                                               X
+llvm-openmp                              14.0.6      The OpenMP API supports multi-platform shared-memory parallel...
+magma                                    2.6.1       Dense linear algebra library similar to LAPACK but for...
+mamba                                    1.5.7       A fast drop-in alternative to conda, using libsolv for dependency resolution
+nasm                                     2.15.05     Netwide Assembler: an assembler targetting the Intel x86 series of processors.
+nccl                                     2.19.3      NVIDIA Collective Communications Library. Implements multi-GPU and...
+nomkl                                    3.0         None
+numactl                                  2.0.16      Control NUMA policy for processes or shared memory
+objsize                                  0.6.1       Traversal over Python&#39;s objects subtree and calculate the total...             X
+onnx                                     1.16.0      Open Neural Network Exchange library
+onnxconverter-common                     1.14.0      Common utilities for ONNX converters                                               X
+onnxmltools                              1.12.0      ONNXMLTools enables conversion of models to ONNX                                   X
+onnxruntime                              1.16.3      cross-platform, high performance ML inferencing and training accelerator
+openblas                                 0.3.27      An optimized BLAS library
+openblas-devel                           0.3.27      OpenBLAS headers and libraries for developing software that used OpenBLAS.
+opencensus                               0.7.13      OpenCensus - A stats collection and distributed tracing framework                  X
+opencv                                   4.8.1       Computer vision and machine learning software library.
+opencv-proc                              4.8.1       Computer vision and machine learning software library.
+openmpi                                  4.1.5       An open source Message Passing Interface implementation.
+optional-lite                            3.4.0       A C++17-like optional, a nullable object for C++98, C++11 and later in...
+orbit-ml                                 1.1.4.2     Orbit is a package for bayesian time series modeling and inference.
+orc                                      1.9.0       C++ libraries for Apache ORC
+ordered-set                              4.1.0       A MutableSet that remembers its order, so that every entry has an index.           X
+orjson                                   3.9.15      orjson is a fast, correct JSON library for Python.
+ortools-cpp                              9.6         Google Operations Research Tools (or-tools) python package
+ortools-python                           9.6         Google Operations Research Tools (or-tools) python package
+packaging                                23.2        Core utilities for Python packages                                                 X
+prophet                                  1.1.5       Automatic Forecasting Procedure
+protobuf                                 4.21.12     Protocol Buffers - Google&#39;s data interchange format.
+py-opencv                                4.8.1       Computer vision and machine learning software library.
+pyarrow                                  15.0.1      Python libraries for Apache Arrow
+pyink                                    23.10.0     Pyink is a python formatter, forked from Black with slightly different behavior.   X
+pyro-api                                 0.1.2       Generic API for dispatch to Pyro backends.                                         X
+pyro-ppl                                 1.8.4       A Python library for probabilistic modeling and inference                          X
+python-flatbuffers                       23.1.21     Python runtime library for use with the Flatbuffers serialization format.          X
+python-multipart                         0.0.5       A streaming multipart parser for Python.                                           X
+pytorch                                  2.1.2       Meta-package to install GPU-enabled PyTorch variant
+pytorch-base                             2.1.2       PyTorch is an optimized tensor library for deep learning using GPUs and CPUs.
+pytorch-cpu                              2.1.2       Meta-package to install CPU-only PyTorch variant
+pytorch-lightning                        2.1.3       PyTorch Lightning is the lightweight PyTorch wrapper for ML...                     X
+pytorch-lightning-bolts                  0.7.0       Pretrained SOTA Deep Learning models, callbacks and more for research...           X
+pytorch_geometric                        2.4.0       Geometric Deep Learning Extension Library for PyTorch                              X
+pytorch_scatter                          2.1.2       PyTorch Extension Library of Optimized Scatter Operations
+pytorch_sparse                           0.6.18      PyTorch Extension Library of Optimized Autograd Sparse Matrix Operations
+ray-air                                  2.9.2       Ray is a fast and simple framework for building and running distributed...
+ray-all                                  2.9.2       Ray is a fast and simple framework for building and running distributed...
+ray-client                               2.9.2       Ray is a fast and simple framework for building and running distributed...
+ray-core                                 2.9.2       Ray is a fast and simple framework for building and running distributed...
+ray-data                                 2.9.2       Ray is a fast and simple framework for building and running distributed...
+ray-default                              2.9.2       Ray is a fast and simple framework for building and running distributed...
+ray-rllib                                2.9.2       Ray is a fast and simple framework for building and running distributed...
+ray-serve                                2.9.2       Ray is a fast and simple framework for building and running distributed...
+ray-train                                2.9.2       Ray is a fast and simple framework for building and running distributed...
+ray-tune                                 2.9.2       Ray is a fast and simple framework for building and running distributed...
+rdflib                                   6.1.1       RDFLib is a Python library for working with RDF, a simple yet powerful...          X
+rust                                     1.77.0      Rust is a systems programming language that runs blazingly fast,...
+rust-std-powerpc64le-unknown-linux-gnu   1.77.0      Rust is a systems programming language that runs blazingly fast,...                X
+rust_linux-ppc64le                       1.77.0      A safe systems programming language (conda activation scripts)
+safeint                                  3.0.26      SafeInt is a class library for C++ that manages integer overflows.
+safetensors                              0.4.1       Fast and Safe Tensor serialization
+scikit-learn                             1.3.0       A set of python modules for machine learning and data mining
+sentencepiece                            0.1.99      An unsupervised text tokenizer and detokenizer mainly for Neural...
+setuptools-rust                          1.5.1       Setuptools rust extension plugin                                                   X
+skl2onnx                                 1.16.0      Convert scikit-learn models and pipelines to ONNX                                  X
+sklearn-pandas                           2.2.0       Pandas integration with sklearn                                                    X
+stanio                                   0.3.0       Preparing inputs to and reading outputs from Stan.                                 X
+starlette                                0.25.0      The little ASGI framework that shines.                                             X
+starlette-full                           0.25.0      The little ASGI framework that shines.                                             X
+starsessions                             1.3.0       Pluggable session support for Starlette.                                           X
+tensorboard                              2.14.0      TensorFlow&#39;s Visualization Toolkit.                                            X
+tensorboard-data-server                  0.7.0       Data server for TensorBoard                                                        X
+tensorflow                               2.14.1      Meta-package to install GPU-enabled TensorFlow variant
+tensorflow-base                          2.14.1      TensorFlow is a machine learning library, base GPU package, tensorflow only.
+tensorflow-cpu                           2.14.1      Meta-package to install CPU-only TensorFlow variant
+tensorflow-datasets                      4.9.4       A collection of datasets ready to use with TensorFlow                              X
+tensorflow-estimator                     2.14.0      TensorFlow Estimator                                                               X
+tensorflow-hub                           0.15.0      A library for transfer learning by reusing parts of TensorFlow models.             X
+tensorflow-io                            0.35.0      Dataset, streaming, and file system extensions
+tensorflow-io-gcs-filesystem             0.35.0      Dataset, streaming, and file system extensions
+tensorflow-metadata                      1.14.0      Utilities for passing TensorFlow-related metadata between tools                    X
+tensorflow-model-optimization            0.7.5       A library that to optimize TensorFlow models for deployment and execution.
+tensorflow-probability                   0.22.1      TensorFlow Probability is a library for probabilistic reasoning and...
+tensorflow-serving                       2.14.1      TensorFlow Serving is an open-source library for serving machine learning models
+tensorflow-serving-api                   2.14.1      TensorFlow Serving is an open-source library for serving machine learning models   X
+tensorflow-text                          2.14.0      TF.Text is a TensorFlow library of text related ops, modules, and subgraphs.
+tf2onnx                                  1.15.1      Tensorflow to ONNX converter
+tiktoken                                 0.6.0       tiktoken is a fast BPE tokeniser for use with OpenAI&#39;s models
+tokenize-rt                              4.2.1       A wrapper around the stdlib `tokenize` which roundtrips.                           X
+tokenizers                               0.15.2      Fast State-of-the-Art Tokenizers optimized for Research and Production
+torchdata                                0.7.1       Common modular data loading primitives for easily constructing flexible...
+torchmetrics                             1.2.1       Machine learning metrics for distributed, scalable PyTorch applications.           X
+torchtext                                0.16.2      Meta-package to install torchtext variant for GPU-enabled pytorch
+torchtext-base                           0.16.2      Text utilities and datasets for PyTorch
+torchtext-cpu                            0.16.2      Meta-package to install torchtext variant for CPU-only pytorch
+torchvision                              0.16.2      Meta-package to install GPU-enabled torchvision variant
+torchvision-base                         0.16.2      Image and video datasets and models for torch deep learning
+torchvision-cpu                          0.16.2      Meta-package to install CPU-only torchvision variant
+transformers                             4.38.0      State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch        X
+tzdata-java-cos7-ppc64le                 2019c       (CDT) OpenJDK Runtime Environment                                                  X
+uvicorn                                  0.16.0      The lightning-fast ASGI server.
+uwsgi                                    2.0.25.1    The uWSGI project aims at developing a full stack for building hosting...
+werkzeug                                 3.0.3       The comprehensive WSGI web application library.
+xgboost                                  2.0.3       Scalable, Portable and Distributed Gradient Boosting Library
+xgboost-proc                             2.0.3       Scalable, Portable and Distributed Gradient Boosting Library
+======================================== =========== ================================================================================== ========
 
 With the conda environment activated, run the following command:
 
@@ -481,6 +417,117 @@ We recommend that you install the latest release of Open-CE. However, if you hav
 
 Previous releases
 -----------------
+
+.. _Release 1.11.0:
+
+Open-CE Release 1.11.0
+----------------------
+
+This is release 1.11.0 of Open Cognitive Environment (Open-CE)
+
+============ ========== ====== ====== ======== ========= ========= =============
+CPU Arch     Build Base Py3.10 Py3.11 CPU-only CUDA 11.8 CUDA 12.2 Date
+============ ========== ====== ====== ======== ========= ========= =============
+ppc64le(P9)  UBI 8      DONE   DONE   DONE     Err       DONE      06/07/2024
+ppc64le(P10) UBI 9      DONE   DONE   DONE     N/A       N/A       06/11/2024
+x86_64       UBI 9      DONE   DONE   DONE     Err       DONE
+============ ========== ====== ====== ======== ========= ========= =============
+
+**What's new**
+
+- Updated packages
+
+  - absl-py 2.0.0
+  - apache-beam 2.53.0
+  - arrow-cpp[-proc] 15.0.1
+  - bazel 6.1.0
+  - black 23.10.0
+  - cmdstan 2.33.1
+  - cmdstanpy 1.2.0
+  - cudatoolkit[-dev] 12.2.0
+  - cudnn 8.9.6_12.2
+  - dali[-tf-plugin] 1.32.0
+  - datasets 2.16.1
+  - deepspeed 0.11.1
+  - fsspec 2023.10.0
+  - hatch-fancy-pypi-readme 23.1.0
+  - horovod 0.28.1
+  - huggingface_hub 0.20.0
+  - java-11-openjdk 11.0.6.10
+  - jax 0.4.23
+  - joblib 1.3.2
+  - jsonpatch 1.33
+  - keras 2.14.0
+  - langchain 0.1.6
+  - langchain-community 0.0.19
+  - langchain-core 0.1.22
+  - langsmith 0.0.87
+  - libnvjitlink 12.2.140
+  - lightgbm[-proc] 4.2.0
+  - lightning-app 2.1.3
+  - lightning-cloud 0.5.57
+  - lightning-fabric 2.1.3
+  - lightning-utilities 0.10.0
+  - mamba 1.5.6
+  - nasm 2.15.05
+  - nccl 2.19.3
+  - onnx 1.15.0
+  - onnxmltools 1.12.0
+  - onnxruntime 1.16.3
+  - openblas[-devel] 0.3.26
+  - [py-]opencv[-proc] 4.8.1
+  - packaging 23.2
+  - prophet 1.1.5
+  - pyarrow 15.0.1
+  - pyink 23.10.0
+  - pytorch[-base|-cpu] 2.1.2
+  - pytorch-lighting 2.1.3
+  - pytorch_geometric 2.4.0
+  - pytorch_scatter 2.1.2
+  - pytorch_sparse 0.6.18
+  - ray 2.9.2
+  - rust 1.77.0
+  - rust-std-\* 1.71.1
+  - scikit-learn 1.3.0
+  - sentencepiece 0.1.99
+  - skl2onnx 1.16.0
+  - sklearn-pandas 2.2.0
+  - stanio 0.3.0
+  - tensorboard 2.14.0
+  - tensorflow 2.14.1
+  - tensorflow-datasets 4.9.4
+  - tensorflow-estimator 2.14.0
+  - tensorflow-hub 0.15.0
+  - tensorflow-io[-gcs-filesystem] 0.35.0
+  - tensorflow-metadata 1.14.0
+  - tensorflow-probability 0.22.1
+  - tensorflow-text 2.14.0
+  - tf2onnx 1.15.1
+  - tiktoken 0.6.0
+  - tokenizers 0.15.2
+  - torchdata 0.7.1
+  - torchmetrics 1.2.1
+  - torchtext 0.16.2
+  - torchvision 0.16.2
+  - transformers 4.36.2
+  - uwsgi 2.0.25.1
+  - xgboost 2.0.3
+
+- This release of Open-CE supports:
+
+  - NVIDIA's CUDA version 11.8, 12.2
+  - Python 3.10, 3.11
+
+- Important Notes:
+
+  - ppc64le builds with CUDA are UBI 8 container image based, not UBI 9 (amd64,arm64 only)
+    - Nvidia will not provide ppc64le-based UBI 8(+) images with CUDA > 12.4.1
+    - See: https://hub.docker.com/r/nvidia/cuda/tags?page=1&page_size=&ordering=&name=-devel-ubi
+  - CV-CUDA is disabled in DALI for ppc64le
+  - Jax and Jaxlib packages not available for ppc64le CUDA
+  - Python 3.9 is no longer supported
+  - OSU drops support of EL7
+
 
 .. _Release 1.10.0:
 
