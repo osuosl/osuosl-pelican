@@ -25,7 +25,7 @@ CPU Arch     Build Base Py3.10 Py3.11 CPU-only CUDA 11.8 CUDA 12.2 Date
 ============ ========== ====== ====== ======== ========= ========= =============
 ppc64le(P9)  UBI 8      DONE   DONE   DONE     DONE      DONE      08/15/2024
 ppc64le(P10) UBI 9      DONE   DONE   DONE     N/A       N/A       08/20/2024
-x86_64       UBI 9      DONE   DONE   DONE     Err       Err
+x86_64       UBI 9      DONE   DONE   DONE     DONE      DONE      08/20/2024
 ============ ========== ====== ====== ======== ========= ========= =============
 
 **What's new**
