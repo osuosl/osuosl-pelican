@@ -17,6 +17,7 @@ compatible with RHEL® and pre-CentOS-Stream CentOS™ (e.g. CentOS 8.3). Founde
 "Heptapod", "A community driven effort to bring Mercurial SCM support to GitLab."
 "Heyoka", "C++ library for ODE integration via Taylor's method and LLVM"
 "Jitesoft", "Jitesoft strive to provide up-to-date, optimized and secure docker/oci images for multiple architectures, free of charge. All images and build-scripts are released under the MIT license and can be found on GitLab and GitHub. https://gitlab.com/jitesoft/dockerfiles"
+"K0S", "K0S is a fully conformant, CNCF-certified Kubernetes distribution that offers a zero-dependency, statically compiled, vanilla Kubernetes experience. Designed to run anywhere—from bare metal to cloud environments—K0S provides a minimal footprint with a low attack surface. It enforces a strong separation between controllers and workers, enhancing security and operational efficiency."
 "Kali Linux", "Kali Linux is an open-source, multi-platform distribution, aimed at advanced Penetration Testing and Security Auditing. Kali Linux provides several hundred common tools and industry specific modifications, targeted towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics, Reverse Engineering, Vulnerability Management and Red Team Testing."
 "Minio","Testing minio object storage server on ARM architecture."
 "Mumble", "Mumble is a free, open source, low latency, high quality voice chat application."
