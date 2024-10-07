@@ -111,6 +111,7 @@
 "Jenkins","co-location, vm, mailing-list, mirroring"
 "Jitesoft","aarch64"
 "Jupyter / Base-notebook","powerpc"
+"K0S", "aarch64"
 "K-3D","vm"
 "Kali Linux","aarch64, mirroring"
 "KDE","vm, mirroring"
