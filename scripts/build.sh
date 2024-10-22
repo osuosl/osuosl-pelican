@@ -1,4 +1,5 @@
 #! /bin/bash
+set -e
 
 # make sure theme submodule is initialized
 git submodule update --init --recursive
@@ -19,7 +20,7 @@ fi
 
 # Build the site
 # make rsync_copy first calls make publish, which builds using publishconf.py
-make rsync_copy
+make -e rsync_copy
 
 # if we don't exit here, this script exits with status 0, even if the build
 # had failures or warnings

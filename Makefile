@@ -121,6 +121,7 @@ lint:
 
 lint_changed:
 	@echo "Running doc8 on changed files RST from master branch"
+	@set -e; \
 	git diff origin/master --stat --name-only | grep rst$$ | xargs -r doc8
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
