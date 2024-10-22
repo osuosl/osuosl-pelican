@@ -6,6 +6,7 @@ blinker==1.8.2
 certifi==2024.8.30
 chardet==5.2.0
 charset-normalizer==3.3.2
+doc8==1.1.2
 colorama==0.4.6
 commonmark==0.9.1
 distlib==0.3.9
