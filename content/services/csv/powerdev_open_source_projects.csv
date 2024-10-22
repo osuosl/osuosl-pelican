@@ -42,6 +42,7 @@
 "FFmpeg","Supports optimization of software scaling in FFmpeg running on POWER systems"
 "Firefox","Ports Mozilla Firefox to POWER8"
 "Flathub","Provide support for ppc64le on all Flatpaks currently available on Flathub"
+"FreeBSD","Provide support for ppc64le on FreeBSD"
 "FRRouting","Free routing stack (BGP, OSPF, ISIS, RIP, EIGRP, PIM, etc)"
 "GCC Fortran", "Compiler optimizations and bug fixing for POWER port of GCC fortran compiler"
 "`Gentoo PowerPC Project`_","Part of Gentoo Linux and is responsible for porting Gentoo to PowerPC architecture of all flavors"
