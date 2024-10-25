@@ -183,6 +183,7 @@
 "OpenBLAS","powerpc"
 "OpenBMC", "powerpc"
 "OpenBSD","ci-cd"
+"Open-CE","powerpc"
 "OpenCV","powerpc"
 "OpenDev","aarch64"
 "OpenFAAS","aarch64"

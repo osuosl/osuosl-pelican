@@ -91,6 +91,7 @@
 "OCM","Observationally Cooperative Multithreading: provides a 'kinder gentler' form of concurrency, allowing programmers to imagine that a single thread runs on the machine at any one time; uses POWER8 hardware transactional memory to run multiple threads at the same time while appearing to be running only one at a time"
 "OpenBLAS","Optimizes BLAS 1/2 double precision for POWER8 VSX"
 "OpenBMC","Open source BMC firmware, which supports PowerPC hosts"
+"Open-CE","Open Cognitive Environment: Open-CE is a community driven software distribution for machine learning that runs on standard Linux platforms alongside NVIDIA GPU technologies."
 "OpenCV","Implements POWER8 and POWER9 VSX SIMD optimizations for OpenCV"
 "OpenJDK and OpenJFX Snaps","To create verifiable JDK and JavaFX builds for Linux from source in the form of Snap packages. The packages are built for the 'ppc64el' Debian architecture in addition to five other architectures."
 "OpenJDK","Supports project specific porting efforts of POWER8 ppc64/ppc64le; provides support for Java 7 and 8 which is being consumed by most major distributions"
