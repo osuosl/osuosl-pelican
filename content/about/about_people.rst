@@ -252,7 +252,7 @@ oweng
   <br/>
 
 `Johnathon Rohweder`_
-------------------
+----------------------
 
 .. image:: /images/johnathon.jpg
     :width: 110px
