@@ -250,3 +250,27 @@ oweng
 .. raw:: html
 
   <br/>
+
+`Johnathon Rohweder`_
+------------------
+
+.. image:: /images/johnathon.jpg
+    :width: 110px
+    :align: right
+    :alt:  Johnathon Rohweder
+
+.. class:: no-breaks
+
+  **Student Systems Engineer**
+
+Johnathon joined the OSL in October 2024. He's been programming and exploring the field of Computer Science since middle school, and enjoys learning about Cybersecurity, Web Development, and Linux. When he's not learning about Computer Science he enjoys hiking and astrophotography.
+
+.. class:: no-breaks
+
+  **GitHub Account**
+
+https://github.com/Thats-Neat
+
+.. raw:: html
+
+  <br/>
