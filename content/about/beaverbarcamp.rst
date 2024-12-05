@@ -1,6 +1,6 @@
 Beaver BarCamp
 ==============
-:slug: about/beaverbarcamp.rst
+:slug: about/beaverbarcamp
 :title: Beaver BarCamp
 :menu: Education, Beaver Barcamp, 1
 

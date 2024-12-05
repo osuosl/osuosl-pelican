@@ -4,7 +4,6 @@ Cody Holliday on the Department of Energy Cyber Defense Competition 2018
 :date: 2018-04-23
 :author: Cody Holliday
 :slug: cody-holiday-cyber-defense
-:tags: student-stories
 
 I took part in a Cyber Defense Competition hosted by the Department of Energy, and it was a fantastic experience! Our
 team worked hard to ensure that we had a fighting chance at the competition, and we had much needed help from our

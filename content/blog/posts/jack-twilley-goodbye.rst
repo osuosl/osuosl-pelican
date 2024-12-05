@@ -4,7 +4,6 @@ Jack Twilley on Leaving the OSL
 :date: 2018-02-05
 :author: Jack Twilley
 :slug: jack-twilley-goodbye
-:tags: student-stories
 
 | ``About a decade ago, I was becoming disenchanted with my time in the computer``
 | ``industry.  It wasn't *bad*, it just wasn't *me* anymore.  After some serious``

@@ -4,7 +4,6 @@ Amanda Kelner on Graduating
 :date: 2017-07-30
 :author: Amanda Kelner
 :slug: amanda-kelner-graduating
-:tags: student-stories
 
 As of September 8th, my time here at OSU will officially come to an end. As sad as I'll be to leave my life here in
 Corvallis and as nerve-racking it is to enter the real world, I realized recently I've spent the last seventeen years

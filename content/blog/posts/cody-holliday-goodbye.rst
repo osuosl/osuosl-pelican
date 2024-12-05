@@ -4,7 +4,6 @@ Goodbye Letter from Graduating Senior, Cody Holliday
 :date: 2018-06-14
 :author: Cody Holliday
 :slug: cody-holiday-goodbye
-:tags: student-stories
 
 The Open Source Lab has treated me well. I came here bright eyed and full of wonder, fascinated by the racks and racks
 of servers we had in the data center.  Fascinated at the treasure trove of artifacts held in the back room from

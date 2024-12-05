@@ -129,11 +129,6 @@ Foundation, the Linux Foundation, Drupal, and many others. For a full list, plea
 We have one full-time Director who oversees all lab activities, and we employ about seven to ten students at any
 given time.
 
-The OSUOSL Advisory Council, a group of experts from open source projects and industry, for suggestions and advice on
-opportunities and direction for the lab.  Learn more about our `Advisory Council members`_.
-
-.. _Advisory Council members: http://osuosl.org/advisors
-
 .. _What will happen if you don't meet your fund raising goal?:
 
 **What will happen if you don't meet your fund raising goal?**
